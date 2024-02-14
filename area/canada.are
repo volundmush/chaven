@@ -1,0 +1,1147 @@
+#AREADATA
+Name Canada~
+VNUMs 35000 35999
+Completed 0
+World 0
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#35000
+a street not too far from an isolated warehouse`x~
+~
+0 12 9
+G 1 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#35001
+an abandoned warehouse filled with occult items`x~
+~
+0 524 9
+G 1 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#35002
+A bedroom in a Casino suite`x~
+~
+0 44 9
+G 0 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#35003
+A Casino suite in Hull~
+~
+0 44 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#35004
+A Smoky Casino Suite in Hull~
+~
+0 44 2
+G 2 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#35005
+`rA Long, Dark `RT`ru`Rn`rnel`w~
+~
+0 12 2
+G 4 0 70 0 35
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35006
+`rAn Expansive Mar`Rk`re`Rt`rplace`w~
+~
+0 44 2
+G 4 0 70 0 35
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35007
+`rA Black P`Ra`rs`Rs`rage`w~
+~
+0 44 2
+G 4 0 70 0 35
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35008
+`rThe Dark Work`Rs`rh`Ro`rp of the Ar`Rt`ri`Rs`ran`w~
+~
+0 44 2
+G 4 0 70 0 35
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35009
+`rA Narrow Passage to M`Ra`rny B`Rl`ra`Rc`rk Cells`w~
+~
+0 12 2
+G 4 0 70 0 35
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35010
+`rThe Blo`Ro`rd B`Ra`rt`Rh`rs`w~
+~
+0 44 3
+G 4 0 70 0 35
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35011
+ViTech Corp- Entrance~
+~
+0 44 9
+G 0 0 60 15 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35012
+`yDirt Road`w~
+~
+0 36 1
+G 0 0 200 100 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35013
+ViTech Corp- Lobby~
+~
+0 44 8
+G 0 0 150 0 50
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35014
+ViTech Corp- Second Floor~
+~
+0 44 8
+G 0 0 150 0 50
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35015
+Vitech Corp- Basement Lab~
+~
+0 44 14
+G 0 0 60 20 20
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35016
+ViTech Corp- Hallway~
+~
+0 44 9
+G 0 0 60 15 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35017
+ViTech Corp- Conference Room: A~
+~
+0 44 9
+G 0 0 60 15 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35018
+ViTech Corp- Conference Room: A~
+~
+0 44 9
+G 0 0 60 15 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35019
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35020
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35021
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35022
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35023
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35024
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35025
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35026
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35027
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35028
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35029
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35030
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35031
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35032
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35033
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35034
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35035
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35036
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35037
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35038
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35039
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35040
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35041
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35042
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35043
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35044
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35045
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35046
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35047
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35048
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35049
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35050
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35051
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35052
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35053
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35054
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35055
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35056
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35057
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35058
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35059
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35060
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35061
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35062
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35063
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35064
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35065
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35066
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35067
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35068
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35069
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35070
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35071
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35072
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35073
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35074
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35075
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35076
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35077
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35078
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35079
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35080
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35081
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35082
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35083
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35084
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35085
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35086
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35087
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35088
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35089
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35090
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35091
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35092
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35093
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35094
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35095
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35096
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35097
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35098
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35099
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#35100
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

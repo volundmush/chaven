@@ -1,0 +1,14 @@
+#MARKET
+Human 0 0 ~
+Human 1 0 ~
+Human 2 0 ~
+Human 3 0 ~
+Human 4 0 ~
+Human 5 0 ~
+Human 6 0 ~
+Human 7 0 ~
+Human 8 0 ~
+Human 9 0 ~
+End
+
+#END

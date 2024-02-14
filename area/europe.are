@@ -1,0 +1,2562 @@
+#AREADATA
+Name Europe~
+VNUMs 37000 37999
+Completed 0
+World 0
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#37000
+`089the grand foyer of the `178Ambrosi `089mansion`w~
+~
+0 524 3
+G 4 -1 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 37001
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 37003
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+1 0 37002
+0 0 0 0 0 0 0 0 0
+M 6 H 0
+W (null)~
+Y (null)~
+S
+#37001
+`089the stately `178Ambrosi `089mansion`w~
+~
+0 33554980 3
+G 4 -1 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37000
+0 0 0 0 0 0 0 0 0
+M 6 H 0
+W (null)~
+Y (null)~
+S
+#37002
+`089beneath the `178Ambrosi `089mansion`w~
+~
+0 524301 3
+G 4 -1 50 0 35
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+1 0 37000
+0 0 0 0 0 0 0 0 0
+M 6 H 0
+W (null)~
+Y (null)~
+S
+#37003
+`089the landing atop the `178grand `089staircase`w~
+~
+0 524 3
+G 4 -1 50 0 35
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 37011
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 37000
+0 0 0 0 0 0 0 0 0
+M 6 H 0
+W (null)~
+Y (null)~
+S
+#37004
+Upon a Snow-Covered Hillside~
+~
+0 2052 1
+G 79 53 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37005
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#37005
+the Outskirts of an Abandoned House~
+~
+0 524 2
+G 79 53 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37007
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 37006
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37004
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#37006
+a Desolate Garden outside an Abandoned House~
+~
+0 516 10
+G 79 53 50 0 100
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37005
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#37007
+the Entryway of an Abandoned House~
+~
+0 524 2
+G 79 53 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 37005
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 37008
+0 0 0 0 0 0 0 0 0
+M -1 H 0
+W (null)~
+Y (null)~
+S
+#37008
+the Upstairs Corridor of an Abandoned House~
+~
+0 12 2
+G 79 53 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 37009
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 37007
+0 0 0 0 0 0 0 0 0
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#37009
+the Refurnished Bedroom~
+~
+0 12 2
+G 79 53 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 37010
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 37008
+0 0 0 0 0 0 0 0 0
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#37010
+a Small Uncovered Balcony~
+~
+0 516 13
+G 79 53 50 50 50
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37009
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37011
+`089a `178cloistered`089, feminine bedroom`w~
+~
+0 524 2
+G 4 -1 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 37003
+0 0 0 0 0 0 0 0 0
+M 6 H 0
+W (null)~
+Y (null)~
+S
+#37012
+`dthe `WRuins of `WIolkos`d in `WNorthern Greece`w~
+~
+0 36 26
+G 77 24 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37016
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37013
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 37014
+0 0 0 4 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37013
+`da `WMoon-Haunted Tholos Tomb`d in the `WRuins of Iolkos`w~
+~
+0 556 11
+G 77 24 50 0 30
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37012
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+1 0 37015
+0 0 0 0 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37014
+`da `WUnderground Chamber`d in the `WRuins of Iolkos`w~
+~
+0 556 11
+G 77 24 50 0 30
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 37012
+0 0 0 4 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37015
+`da `WUnderground Chamber`d in the `WRuins of Iolkos`w~
+~
+0 556 11
+G 77 24 50 0 30
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+1 0 37013
+0 0 0 0 0 0 0 0 0
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#37016
+`da `WPristine Beach`d beneath the `WRuins of Iolkos`w~
+~
+0 36 26
+G 77 24 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37012
+0 0 0 0 0 0 0 0 0
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#37017
+`#676ec1H`#7479cbo`#8183d4s`#8388cep`#858dc9i`#8792c3t`#909bcfa`#98a3dbl`#a2abda `#adb3d9R`#b7bbd8o`#c7c8e3o`#d6d5eem`q~
+~
+0 34603532 15
+G 76 83 50 10 20
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#37018
+A Bank in Moscow~
+~
+0 44 16
+G 76 83 50 15 15
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37019
+`#676ec1E`#6a71c3x`#6e73c6p`#7176c8a`#7479cbn`#777bcds`#7b7ecfi`#7e80d2v`#8183d4e`#8285d2 `#8387d0G`#8389cer`#848bcca`#858cc9v`#868ec7e`#8690c5y`#8792c3a`#8994c6r`#8b96c8d`#8d98cb `#8f9aceJ`#909bd0u`#929dd3s`#949fd6t`#96a1d8 `#98a3dbO`#9ca6dbu`#a0a9dat`#a4acdas`#a8afdai`#abb2d9d`#afb5d9e`#b3b8d8 `#b7bbd8O`#bbbedbf`#bfc2de `#c3c5e0M`#c7c8e3o`#cacbe6s`#cecfe9c`#d2d2ebo`#d6d5eew`q~
+~
+0 36 10
+G 76 83 50 0 100
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37020
+inside a small pub off of Covent Garden~
+~
+0 44 12
+G -1 2 50 0 40
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#37021
+A restaurant near the hotel~
+~
+0 556 5
+G 3 0 50 20 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37022
+First floor of the resort hotel~
+~
+0 44 5
+G 3 0 50 20 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37023
+Second floor of the resort hotel~
+~
+0 44 5
+G 3 0 50 20 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37024
+A quaint room in the resort hotel~
+~
+0 524 2
+G 3 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37025
+a bathroom~
+~
+0 524 2
+G 3 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37026
+the white sands of the beach at Mykonos, Greece~
+~
+0 36 26
+G 3 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37027
+a small forest in the valley~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 37032
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 37031
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37028
+a small forest in the valley~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37033
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37029
+a small forest in the valley~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37030
+a small forest in the valley~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37031
+a small forest in the valley~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 37027
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37032
+a small forest in the valley~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+0 0 37027
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37033
+a cabin in the forest~
+~
+0 556 2
+G 1 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37035
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 37028
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 37034
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37034
+a small bathroom~
+~
+0 556 2
+G 1 0 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 37033
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37035
+a cozy bedroom~
+~
+0 556 2
+G 1 0 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 37033
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37036
+The Forested Backyard of an Upscale Cabin~
+~
+0 516 23
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37038
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37037
+The Blue Skies of Europe~
+~
+0 36 18
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37038
+A Short Trail to Lake Malaren~
+~
+0 516 23
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37039
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37036
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37039
+The Shore of Lake Malaren~
+~
+0 36 26
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37040
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37038
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37040
+The Shallow Waters of Lake Malaren~
+~
+0 516 28
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37041
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37039
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37041
+The Waters of Lake Malaren~
+~
+0 36 20
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37042
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37040
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37042
+The Waters of Lake Malaren~
+~
+0 36 20
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37043
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37041
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37043
+The Waters of Lake Malaren~
+~
+0 36 20
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37044
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37042
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37044
+The Waters of Lake Malaren~
+~
+0 36 20
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37045
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37043
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37045
+The Waters of Lake Malaren~
+~
+0 36 20
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37044
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37046
+A Modest Hotel Room~
+~
+0 44 2
+G 5 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37047
+A Red Circle Workshop in Provence, France~
+~
+0 4 10
+G 28 43 50 0 100
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37048
+Tiffany's at Paris~
+~
+0 44 5
+G 6 2 50 20 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37049
+`RMoscow, Russia`w - `WRed Square`w~
+~
+0 36 1
+G 73 66 50 100 0
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37050
+`RMoscow, Russia`w - `WArena Mytishchi`w~
+~
+0 44 9
+G 75 78 50 15 0
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37051
+`RMoscow, Russia`w - `WMalyj Rzhevskij pereulok (Small Rzhevskiy Lane)`w~
+~
+0 36 1
+G 75 78 50 100 0
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37052
+`RMoscow, Russia`w - `W Staraya Square`w~
+~
+0 36 1
+G 73 66 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37053
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+1 0 37059
+0 0 0 0 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37053
+`RMoscow, Russia`w - `W Ul. Marosejka (Maroseyka Street)`w~
+~
+0 36 1
+G 73 66 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 37054
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37052
+0 0 0 0 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37054
+`RMoscow, Russia`w - `W A dim alley off Ul. Marosejka`w~
+~
+0 36 1
+G 73 66 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37053
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37055
+0 0 0 0 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37055
+`RMoscow, Russia`w - `WLobby of Otel' Matrjoshka`w~
+~
+0 44 9
+G 73 66 50 15 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37054
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 37056
+0 0 0 0 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37056
+`RMoscow, Russia`w - `W1st Floor Corridor of Otel' Matrjoshka`w~
+~
+0 44 2
+G 73 66 50 0 35
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 37055
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+1 0 37057
+0 0 0 0 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37057
+`RMoscow, Russia`w - `WRoom 5 of Otel' Matrjoshka`w~
+~
+0 12 2
+G 73 67 50 0 35
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+1 0 37056
+0 0 0 0 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37058
+`cA private beach along a mansion-lined avenue of `WMe`xdi`cte`Crr`can`xe`Wan`c sea`x~
+~
+0 36 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37059
+`RMoscow, Russia`w - `WDeshevye podlinnye Rossii produkty pitanija Restaurant`w~
+~
+0 44 4
+G 73 66 50 0 40
+C 1000 1000 1000
+T 3000
+D9
+~
+~
+1 0 37052
+0 0 0 0 0 0 0 0 0
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#37060
+The ruins of Knossos Palace, Crete~
+~
+0 36 10
+G 1 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#37061
+`ca tree-lined road approaching a resort`x`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 37062
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37062
+`ca parking lot leading to a walking bridge`x`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37061
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 37083
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37063
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37073
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37063
+`ca wooden walking bridge over a stream`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37062
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 37064
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37064
+`cthe entryway of a storybook chalet`x~
+~
+0 44 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37063
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 37067
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37065
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 37066
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37065
+`ca cozy cafe with a river view`x~
+~
+0 44 12
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37115
+0 0 0 1 0 0 0 0 0
+D1
+~
+~
+0 0 37064
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37114
+0 0 0 4 0 0 0 0 0
+D3
+~
+~
+0 0 37116
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37066
+`ca bustling tinker's workshop`x~
+~
+0 44 5
+G 0 0 50 20 0
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 37064
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37067
+`can enclosed porch behind a chalet`x~
+~
+0 44 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37064
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37068
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37068
+`ca forestal path through igloos and chalets`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37067
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 37069
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37070
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37069
+`ca clearing between snow igloos`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37102
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 37071
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37103
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37068
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37070
+`ca clearing between glass and Kelo wood igloos`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37106
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 37068
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 37107
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37072
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37071
+`ca meandering path threading through glass igloos`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37105
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 37104
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37069
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37072
+`ca cul-de-sac surrounded by chalet cabins`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37109
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 37070
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 37108
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37073
+`cthe western path out of a parking lot`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37062
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37075
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 37074
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37074
+`ca path leading toward kennels and stables`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37081
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 37080
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 37073
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37075
+`ca trail to a small bridge`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37073
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37076
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37076
+`ca low-slung wood slatted bridge`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37075
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37077
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37077
+`ca trail into a clearing by the river`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37076
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 37078
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37078
+`cAmidst gold-panning equipment in the shallows`x`x~
+~
+0 36 28
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37079
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 37077
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37079
+`cin a languidly rushing river`x~
+~
+0 36 20
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37078
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37080
+`cat husky kennels in the forest`x~
+~
+0 36 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D9
+~
+~
+0 0 37074
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37081
+`ca bend in the trail toward a stable`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37074
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37082
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37082
+`can elaborate and spacious corral`x~
+~
+0 36 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37081
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37083
+`cthe eastern path out of a parking lot`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37084
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 37085
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37062
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37084
+`cthe mountain bike and ATV rental staging area`x~
+~
+0 36 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 37083
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37085
+`ca pine-scented path through the forest`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37083
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 37086
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37086
+`ca bend in a path around a copse of trees`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+0 0 37087
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 37085
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37087
+`ca curve of a trail leading toward a river`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 37086
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 37088
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37088
+`ca small clearing in the forest`x~
+~
+0 36 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37089
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 37087
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 37091
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37089
+`ya secluded lakeshore fishing cove`x~
+~
+0 36 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37088
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37090
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37090
+`ca freshwater lagoon teeming with fish`x~
+~
+0 36 20
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37089
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37091
+`ya riverfront boat, canoe and kayak launch`x~
+~
+0 36 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37092
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 37088
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 37094
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37092
+`cthe shallows of a swift-moving river`x~
+~
+0 516 28
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37091
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37093
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37093
+`cshooting the river rapids`x~
+~
+0 36 20
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37092
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37094
+`cthe deck of a riverboat cruise`x~
+~
+0 36 28
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 37091
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 37095
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37095
+`cpassing behind a rushing waterfall`x~
+~
+0 516 28
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 37096
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 37094
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37096
+`ythe dock of Inari island`x~
+~
+0 36 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37095
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 37097
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 37101
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37098
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37097
+`cthe shallows around Inari island`x~
+~
+0 36 28
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37096
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37098
+`ca sparse forest on an island`x~
+~
+0 516 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37096
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37100
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 37099
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37099
+`cthe shallows around Inari island`x~
+~
+0 36 28
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37098
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37100
+`ca reindeer farm in a piney forest`x~
+~
+0 36 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37098
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y (null)~
+S
+#37101
+`cthe Sami museum of Siida`x`x~
+~
+0 40 5
+G 0 0 50 20 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37096
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37102
+`Wa traditional Arctic snow igloo`x~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 37069
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37103
+`Wa traditional Arctic snow igloo`x~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37069
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37104
+`Can igloo of faceted glass`x~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37071
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 37120
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 37111
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37105
+`Can igloo of faceted glass`x~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 37071
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 37110
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37106
+a `yKelo wood`x and `Cglass`x igloo~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 37070
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 37112
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37107
+a `yKelo wood`x and `Cglass`x igloo~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37070
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 37113
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37108
+a rustic `yKelo wood`x chalet~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 37072
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37109
+a rustic `yKelo wood`x chalet~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 37072
+0 0 0 0 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37110
+`Bthe sky above a `Cglass`B igloo`x~
+~
+0 32 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 37105
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37111
+`Bthe sky above a `Cglass`B igloo`x~
+~
+0 32 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 37104
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37112
+`Bthe sky above a `ywood`B and `Cglass`B igloo`x~
+~
+0 32 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 37106
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37113
+`Bthe sky above a `ywood`B and `Cglass`B igloo`x~
+~
+0 32 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 37107
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37114
+Overlooking a running river~
+~
+0 32 20
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37065
+0 0 0 4 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37115
+Overlooking a running river~
+~
+0 32 20
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 37065
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37116
+Overlooking a running river~
+~
+0 32 20
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37065
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37117
+`RSaint Petersburg, Russia`w - `WMoskovskiy District`w~
+~
+0 32 1
+G 77 69 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 37118
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#37118
+`RSaint Petersburg, Russia`w - `WMatvei's Home`w~
+~
+0 520 2
+G 77 69 50 0 35
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 37117
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#37119
+Downtown Paris~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#37120
+`CAn Extended Igloo Bath`w`x~
+~
+0 520 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 37104
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 37121
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37121
+The skies of Finland~
+~
+0 32 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 37120
+0 0 0 1 0 0 0 0 0
+M 7 H 0
+W (null)~
+Y ~
+S
+#37122
+`gthe arena`w~
+~
+0 2097188 26
+G 54 53 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#37123
+`Dthe depths of `WA`wr`Dc`ca`Cd`mi`Ma`w~
+~
+0 16785420 2
+G 54 53 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#37124
+`Dthe depths of `WA`wr`Dc`ca`Cd`mi`Ma`w~
+~
+0 16785420 2
+G 54 53 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#37125
+Salerno Cathedral~
+~
+0 32 10
+G 70 46 50 0 100
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 37126
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#37126
+Salerno Cathedral~
+~
+0 40 9
+G 70 46 50 15 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 37125
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#37127
+Salerno Cathedral~
+~
+0 44 9
+G 70 46 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#37128
+The Winding Highlander Way~
+~
+0 4 1
+G 47 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37129
+The Winding Highlander Way~
+~
+0 4 1
+G 47 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37130
+The Winding Highlander Way~
+~
+0 4 1
+G 47 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37131
+The Winding Highlander Way~
+~
+0 4 1
+G 47 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37132
+The Winding Highlander Way~
+~
+0 4 1
+G 47 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37133
+The Winding Highlander Way~
+~
+0 4 1
+G 47 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37134
+The Winding Highlander Way~
+~
+0 4 1
+G 47 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37135
+The Winding Highlander Way~
+~
+0 4 1
+G 47 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37136
+Before The Gate Of A Bluestone Manor~
+~
+0 4 2
+G 47 56 50 0 35
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37137
+A Sloping Lawn Alongside a Winding River~
+~
+0 4 2
+G 47 56 50 0 35
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#37138
+A Wide Veranda Before A Bluestone Manor~
+~
+0 12 2
+G 47 56 50 0 35
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y ~
+S
+#37139
+The Foyer Of A Bluestone Manor~
+~
+0 12 2
+G 47 56 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#37140
+A Sloping Lawn Alongside a Winding River~
+~
+0 44 2
+G 47 56 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#37141
+The base of the `WF`xr`Woz`xe`Wn`x `cS`Cel`Wjal`Ca`cn`Cd`Wsf`Cos`cs W`Cat`Werf`Cal`cl`x - Iceland`x~
+~
+0 516 10
+G 54 77 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+D 0 37000 2 1
+D 0 37000 5 1
+D 0 37001 0 1
+D 0 37002 4 1
+D 0 37003 3 2
+D 0 37005 0 1
+D 0 37007 2 1
+D 0 37008 1 1
+D 0 37009 2 1
+D 0 37009 3 1
+D 0 37010 0 1
+D 0 37011 1 2
+D 0 37013 5 2
+D 0 37015 4 1
+D 0 37028 0 1
+D 0 37033 0 1
+D 0 37033 2 1
+D 0 37033 3 1
+D 0 37034 1 1
+D 0 37035 2 1
+D 0 37052 6 1
+D 0 37056 9 1
+D 0 37057 6 1
+D 0 37059 9 1
+D 0 37063 2 1
+D 0 37064 0 1
+D 0 37064 2 1
+D 0 37067 0 1
+D 0 37070 0 2
+D 0 37070 2 2
+D 0 37071 0 2
+D 0 37071 2 2
+D 0 37072 0 2
+D 0 37072 2 2
+D 0 37096 2 1
+D 0 37101 0 1
+D 0 37104 0 1
+D 0 37105 2 1
+D 0 37106 2 1
+D 0 37107 0 1
+D 0 37108 0 1
+D 0 37109 2 1
+D 0 37117 1 2
+D 0 37118 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

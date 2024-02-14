@@ -1,0 +1,1006 @@
+==21996== Memcheck, a memory error detector
+==21996== Copyright (C) 2002-2009, and GNU GPL'd, by Julian Seward et al.
+==21996== Using Valgrind-3.5.0 and LibVEX; rerun with -h for copyright info
+==21996== Command: ../src/haven 3001
+==21996== Parent PID: 19897
+==21996== 
+--21996-- 
+--21996-- Valgrind options:
+--21996--    --tool=memcheck
+--21996--    --leak-check=yes
+--21996--    --show-reachable=yes
+--21996--    --log-file=vallog.txt
+--21996--    -v
+--21996-- Contents of /proc/version:
+--21996--   Linux version 2.6.18-348.6.1.el5 (mockbuild@builder17.centos.org) (gcc version 4.1.2 20080704 (Red Hat 4.1.2-54)) #1 SMP Tue May 21 15:34:22 EDT 2013
+--21996-- Arch and hwcaps: X86, x86-sse1-sse2
+--21996-- Page sizes: currently 4096, max supported 4096
+--21996-- Valgrind library directory: /usr/lib/valgrind
+--21996-- Reading syms from /lib/ld-2.5.so (0x46b000)
+--21996-- Reading syms from /home/mud/beaton/haven/src/haven (0x8048000)
+--21996-- Reading syms from /usr/lib/valgrind/memcheck-x86-linux (0x38000000)
+--21996--    object doesn't have a dynamic symbol table
+--21996-- Reading suppressions file: /usr/lib/valgrind/default.supp
+--21996-- REDIR: 0x480a40 (index) redirected to 0x3803e483 (vgPlain_x86_linux_REDIR_FOR_index)
+--21996-- Reading syms from /usr/lib/valgrind/vgpreload_core-x86-linux.so (0x4001000)
+--21996-- Reading syms from /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so (0x4003000)
+==21996== WARNING: new redirection conflicts with existing -- ignoring it
+--21996--     new: 0x00480a40 (index               ) R-> 0x040068c0 index
+--21996-- REDIR: 0x480be0 (strlen) redirected to 0x4006aa0 (strlen)
+--21996-- Reading syms from /lib/libdl-2.5.so (0x5e9000)
+--21996-- Reading syms from /lib/libcrypt-2.5.so (0x6b9000)
+--21996-- Reading syms from /usr/lib/libstdc++.so.6.0.8 (0x85a000)
+--21996--    object doesn't have a symbol table
+--21996-- Reading syms from /lib/libm-2.5.so (0x5f0000)
+--21996-- Reading syms from /lib/libgcc_s-4.1.2-20080825.so.1 (0x6ed000)
+--21996--    object doesn't have a symbol table
+--21996-- Reading syms from /lib/libc-2.5.so (0x48a000)
+--21996-- REDIR: 0x4fadd0 (rindex) redirected to 0x40067d0 (rindex)
+--21996-- REDIR: 0x4fbc70 (memset) redirected to 0x4006e00 (memset)
+--21996-- REDIR: 0x4faa30 (strlen) redirected to 0x4006a80 (strlen)
+--21996-- REDIR: 0x4f60a0 (calloc) redirected to 0x4004e0e (calloc)
+--21996-- REDIR: 0x4f63e0 (malloc) redirected to 0x4005afe (malloc)
+--21996-- REDIR: 0x4fc160 (memcpy) redirected to 0x40081b0 (memcpy)
+--21996-- REDIR: 0x4f7c00 (free) redirected to 0x4005718 (free)
+--21996-- REDIR: 0x4fa540 (strcpy) redirected to 0x4008440 (strcpy)
+--21996-- REDIR: 0x4fa4d0 (strcmp) redirected to 0x4006b50 (strcmp)
+--21996-- REDIR: 0x4faae0 (strnlen) redirected to 0x4006a50 (strnlen)
+--21996-- REDIR: 0x4fbcd0 (mempcpy) redirected to 0x4007a10 (mempcpy)
+--21996-- REDIR: 0x480fa0 (stpcpy) redirected to 0x4007bc0 (stpcpy)
+--21996-- REDIR: 0x4fac20 (strncmp) redirected to 0x4006ae0 (strncmp)
+--21996-- REDIR: 0x4fbe60 (stpcpy) redirected to 0x4007c90 (stpcpy)
+--21996-- REDIR: 0x90eb60 (operator new(unsigned int)) redirected to 0x40062c9 (operator new(unsigned int))
+--21996-- REDIR: 0x4fbc00 (memmove) redirected to 0x4006e60 (memmove)
+--21996-- REDIR: 0x90d5a0 (operator delete(void*)) redirected to 0x400542f (operator delete(void*))
+--21996-- REDIR: 0x90eca0 (operator new[](unsigned int)) redirected to 0x4005f21 (operator new[](unsigned int))
+--21996-- REDIR: 0x4fb770 (memchr) redirected to 0x4006c70 (memchr)
+--21996-- REDIR: 0x90d600 (operator delete[](void*)) redirected to 0x40050b1 (operator delete[](void*))
+==21996== 
+==21996== Process terminating with default action of signal 8 (SIGFPE): dumping core
+==21996==  Integer divide by zero at address 0x631E151E
+==21996==    at 0x815F2BA: sig_handler (comm.c:854)
+==21996==    by 0x4B2ED7: ??? (in /lib/libc-2.5.so)
+==21996==    by 0x81B4FC6: prop_from_room (houses.c:106)
+==21996==    by 0x81B503A: room_prop (houses.c:269)
+==21996==    by 0x81B505D: is_privatepp (houses.c:3336)
+==21996==    by 0x81B50BF: is_privatep (houses.c:3358)
+==21996==    by 0x82DDABC: is_decay_room (update.c:4883)
+==21996==    by 0x82DE132: obj_update (update.c:4940)
+==21996==    by 0x82EBF3E: update_handler (update.c:5079)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996==    by 0x8160871: main (comm.c:208)
+==21996== 
+==21996== HEAP SUMMARY:
+==21996==     in use at exit: 74,024,595 bytes in 81,987 blocks
+==21996==   total heap usage: 121,997 allocs, 40,010 frees, 78,611,033 bytes allocated
+==21996== 
+==21996== Searching for pointers to 81,987 not-freed blocks
+==21996== Checked 75,393,524 bytes
+==21996== 
+==21996== 4 bytes in 1 blocks are still reachable in loss record 1 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81230AB: __gnu_cxx::new_allocator<research_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81230CF: std::_Vector_base<research_type*, std::allocator<research_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x812363F: std::vector<research_type*, std::allocator<research_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<research_type**, std::vector<research_type*, std::allocator<research_type*> > >, research_type* const&) (vector.tcc:275)
+==21996==    by 0x81238B2: std::vector<research_type*, std::allocator<research_type*> >::push_back(research_type* const&) (stl_vector.h:610)
+==21996==    by 0x82B5D38: fread_research (stories.c:1339)
+==21996==    by 0x82B5F1B: load_research (stories.c:1397)
+==21996==    by 0x816EF73: boot_db (db.c:210)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 8 bytes in 1 blocks are still reachable in loss record 2 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x817B0AD: __gnu_cxx::new_allocator<event_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x817B0D1: std::_Vector_base<event_type*, std::allocator<event_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x817B211: std::vector<event_type*, std::allocator<event_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<event_type**, std::vector<event_type*, std::allocator<event_type*> > >, event_type* const&) (vector.tcc:275)
+==21996==    by 0x817B484: std::vector<event_type*, std::allocator<event_type*> >::push_back(event_type* const&) (stl_vector.h:610)
+==21996==    by 0x817A170: fread_event (events.c:158)
+==21996==    by 0x817A991: load_events (events.c:293)
+==21996==    by 0x816EFAE: boot_db (db.c:221)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 12 bytes in 1 blocks are still reachable in loss record 3 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813CB3B: __gnu_cxx::new_allocator<std::_List_node<ban_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x813CB5E: std::_List_base<ban_data*, std::allocator<ban_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x813CB73: std::list<ban_data*, std::allocator<ban_data*> >::_M_create_node(ban_data* const&) (stl_list.h:448)
+==21996==    by 0x813CBD3: std::list<ban_data*, std::allocator<ban_data*> >::_M_insert(std::_List_iterator<ban_data*>, ban_data* const&) (stl_list.h:1139)
+==21996==    by 0x813CC59: std::list<ban_data*, std::allocator<ban_data*> >::push_front(ban_data* const&) (stl_list.h:731)
+==21996==    by 0x813BD65: load_bans (ban.c:66)
+==21996==    by 0x816F55E: boot_db (db.c:372)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 12 bytes in 1 blocks are still reachable in loss record 4 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x816CA95: create_mobile (db.c:2055)
+==21996==    by 0x82DF00C: make_fish (update.c:941)
+==21996==    by 0x82DF7E5: spawn_animal (update.c:1034)
+==21996==    by 0x82E6FC3: time_update (update.c:1538)
+==21996==    by 0x82EBEA8: update_handler (update.c:5068)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996== 
+==21996== 12 bytes in 1 blocks are still reachable in loss record 5 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x816CA95: create_mobile (db.c:2055)
+==21996==    by 0x82DECD6: make_animal (update.c:1009)
+==21996==    by 0x82DF80D: spawn_animal (update.c:1041)
+==21996==    by 0x82E6FCD: time_update (update.c:1540)
+==21996==    by 0x82EBEA8: update_handler (update.c:5068)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996== 
+==21996== 12 bytes in 1 blocks are still reachable in loss record 6 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x816CA95: create_mobile (db.c:2055)
+==21996==    by 0x82DECD6: make_animal (update.c:1009)
+==21996==    by 0x82DF80D: spawn_animal (update.c:1041)
+==21996==    by 0x82E6FC3: time_update (update.c:1538)
+==21996==    by 0x82EBEA8: update_handler (update.c:5068)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996== 
+==21996== 12 bytes in 1 blocks are possibly lost in loss record 7 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81F8271: __gnu_cxx::new_allocator<std::_List_node<std::string> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81F8294: std::_List_base<std::string, std::allocator<std::string> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81F82A9: std::list<std::string, std::allocator<std::string> >::_M_create_node(std::string const&) (stl_list.h:448)
+==21996==    by 0x81F83C9: std::list<std::string, std::allocator<std::string> >::_M_insert(std::_List_iterator<std::string>, std::string const&) (stl_list.h:1139)
+==21996==    by 0x81F8417: std::list<std::string, std::allocator<std::string> >::push_back(std::string const&) (stl_list.h:761)
+==21996==    by 0x81F8433: std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >::operator=(std::string const&) (stl_iterator.h:411)
+==21996==    by 0x81F84C2: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9225: Note::readFrom(StaticInput&) (Note.cc:392)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996== 
+==21996== 12 bytes in 1 blocks are possibly lost in loss record 8 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x81A462F: char_to_room (handler.c:1800)
+==21996==    by 0x80F9E74: move_char (act_move.c:1832)
+==21996==    by 0x82EBB61: mobile_update (update.c:534)
+==21996==    by 0x82EBD9B: char_update (update.c:3489)
+==21996==    by 0x82EBF5F: update_handler (update.c:5082)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996== 
+==21996== 12 bytes in 1 blocks are possibly lost in loss record 9 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x81A462F: char_to_room (handler.c:1800)
+==21996==    by 0x82DF021: make_fish (update.c:942)
+==21996==    by 0x82DF7E5: spawn_animal (update.c:1034)
+==21996==    by 0x82E6FC3: time_update (update.c:1538)
+==21996==    by 0x82EBEA8: update_handler (update.c:5068)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996== 
+==21996== 12 bytes in 1 blocks are possibly lost in loss record 10 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x81A462F: char_to_room (handler.c:1800)
+==21996==    by 0x82DECEB: make_animal (update.c:1010)
+==21996==    by 0x82DF80D: spawn_animal (update.c:1041)
+==21996==    by 0x82E6FCD: time_update (update.c:1540)
+==21996==    by 0x82EBEA8: update_handler (update.c:5068)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996== 
+==21996== 12 bytes in 1 blocks are possibly lost in loss record 11 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x81A462F: char_to_room (handler.c:1800)
+==21996==    by 0x82DECEB: make_animal (update.c:1010)
+==21996==    by 0x82DF80D: spawn_animal (update.c:1041)
+==21996==    by 0x82E6FC3: time_update (update.c:1538)
+==21996==    by 0x82EBEA8: update_handler (update.c:5068)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996== 
+==21996== 16 bytes in 1 blocks are still reachable in loss record 12 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8151B59: __gnu_cxx::new_allocator<faction_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8151B7D: std::_Vector_base<faction_type*, std::allocator<faction_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x8151CBD: std::vector<faction_type*, std::allocator<faction_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<faction_type**, std::vector<faction_type*, std::allocator<faction_type*> > >, faction_type* const&) (vector.tcc:275)
+==21996==    by 0x8151F30: std::vector<faction_type*, std::allocator<faction_type*> >::push_back(faction_type* const&) (stl_vector.h:610)
+==21996==    by 0x8150386: fread_faction (clans.c:131)
+==21996==    by 0x8150795: load_clans (clans.c:226)
+==21996==    by 0x816EF3F: boot_db (db.c:196)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 16 bytes in 1 blocks are still reachable in loss record 13 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x808EC3F: __gnu_cxx::new_allocator<news_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x808EC63: std::_Vector_base<news_type*, std::allocator<news_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x808EDE1: std::vector<news_type*, std::allocator<news_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<news_type**, std::vector<news_type*, std::allocator<news_type*> > >, news_type* const&) (vector.tcc:275)
+==21996==    by 0x808F054: std::vector<news_type*, std::allocator<news_type*> >::push_back(news_type* const&) (stl_vector.h:610)
+==21996==    by 0x82B5998: fread_news (stories.c:1501)
+==21996==    by 0x82B5B43: load_news (stories.c:1556)
+==21996==    by 0x816EF6E: boot_db (db.c:209)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 19 bytes in 1 blocks are possibly lost in loss record 14 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EAF34: ??? (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB146: std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x816978D: loadNotes (db.c:3504)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 28 bytes in 1 blocks are still reachable in loss record 15 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81F838A: __gnu_cxx::new_allocator<std::_Rb_tree_node<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > > >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81F83AE: std::_Rb_tree<std::string, std::pair<std::string const, std::list<std::string, std::allocator<std::string> > >, std::_Select1st<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > >, std::less<std::string>, std::allocator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > > >::_M_get_node() (stl_tree.h:358)
+==21996==    by 0x81F8933: std::_Rb_tree<std::string, std::pair<std::string const, std::list<std::string, std::allocator<std::string> > >, std::_Select1st<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > >, std::less<std::string>, std::allocator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > > >::_M_create_node(std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > const&) (stl_tree.h:367)
+==21996==    by 0x82FD697: std::_Rb_tree<std::string, std::pair<std::string const, std::list<std::string, std::allocator<std::string> > >, std::_Select1st<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > >, std::less<std::string>, std::allocator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > > >::_M_insert(std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > const&) (stl_tree.h:819)
+==21996==    by 0x82FD7F7: std::_Rb_tree<std::string, std::pair<std::string const, std::list<std::string, std::allocator<std::string> > >, std::_Select1st<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > >, std::less<std::string>, std::allocator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > > >::insert_unique(std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > const&) (stl_tree.h:927)
+==21996==    by 0x82FD9B9: std::_Rb_tree<std::string, std::pair<std::string const, std::list<std::string, std::allocator<std::string> > >, std::_Select1st<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > >, std::less<std::string>, std::allocator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > > >::insert_unique(std::_Rb_tree_iterator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > >, std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > const&) (stl_tree.h:949)
+==21996==    by 0x82FDD3B: std::map<std::string, std::list<std::string, std::allocator<std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > > >::insert(std::_Rb_tree_iterator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > >, std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > const&) (stl_map.h:420)
+==21996==    by 0x82FDE4F: std::map<std::string, std::list<std::string, std::allocator<std::string> >, std::less<std::string>, std::allocator<std::pair<std::string const, std::list<std::string, std::allocator<std::string> > > > >::operator[](std::string const&) (stl_map.h:348)
+==21996==    by 0x82FB522: NoteBoard::addGroup(std::string, std::string) (Note.cc:177)
+==21996==    by 0x816979F: loadNotes (db.c:3504)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996== 
+==21996== 32 bytes in 1 blocks are still reachable in loss record 16 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x82BA513: __gnu_cxx::new_allocator<plot_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x82BA537: std::_Vector_base<plot_type*, std::allocator<plot_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x82BA677: std::vector<plot_type*, std::allocator<plot_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<plot_type**, std::vector<plot_type*, std::allocator<plot_type*> > >, plot_type* const&) (vector.tcc:275)
+==21996==    by 0x82BA8EA: std::vector<plot_type*, std::allocator<plot_type*> >::push_back(plot_type* const&) (stl_vector.h:610)
+==21996==    by 0x82B79E1: fread_plot (stories.c:622)
+==21996==    by 0x82B7E9F: load_plots (stories.c:708)
+==21996==    by 0x816EF64: boot_db (db.c:207)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 32 bytes in 1 blocks are still reachable in loss record 17 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x82BA103: __gnu_cxx::new_allocator<storyidea_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x82BA127: std::_Vector_base<storyidea_type*, std::allocator<storyidea_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x82BA267: std::vector<storyidea_type*, std::allocator<storyidea_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<storyidea_type**, std::vector<storyidea_type*, std::allocator<storyidea_type*> > >, storyidea_type* const&) (vector.tcc:275)
+==21996==    by 0x82BA4DA: std::vector<storyidea_type*, std::allocator<storyidea_type*> >::push_back(storyidea_type* const&) (stl_vector.h:610)
+==21996==    by 0x82B80FF: fread_storyidea (stories.c:361)
+==21996==    by 0x82B8471: load_storyideas (stories.c:424)
+==21996==    by 0x816EF69: boot_db (db.c:208)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 32 bytes in 1 blocks are still reachable in loss record 18 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x82FC56F: __gnu_cxx::new_allocator<NoteBoard*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x82FC593: std::_Vector_base<NoteBoard*, std::allocator<NoteBoard*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x82FE303: std::vector<NoteBoard*, std::allocator<NoteBoard*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<NoteBoard**, std::vector<NoteBoard*, std::allocator<NoteBoard*> > >, NoteBoard* const&) (vector.tcc:275)
+==21996==    by 0x82FE576: std::vector<NoteBoard*, std::allocator<NoteBoard*> >::push_back(NoteBoard* const&) (stl_vector.h:610)
+==21996==    by 0x82FB6D7: NoteBoard::addBoard(NoteBoard*) (Note.cc:154)
+==21996==    by 0x8169944: loadNotes (db.c:3524)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 43 bytes in 2 blocks are possibly lost in loss record 19 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F89AF: NoteBoard::readFrom(StaticInput&) (Note.cc:96)
+==21996==    by 0x8169901: loadNotes (db.c:3522)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 48 bytes in 4 blocks are still reachable in loss record 20 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81F8271: __gnu_cxx::new_allocator<std::_List_node<std::string> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81F8294: std::_List_base<std::string, std::allocator<std::string> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81F82A9: std::list<std::string, std::allocator<std::string> >::_M_create_node(std::string const&) (stl_list.h:448)
+==21996==    by 0x81F83C9: std::list<std::string, std::allocator<std::string> >::_M_insert(std::_List_iterator<std::string>, std::string const&) (stl_list.h:1139)
+==21996==    by 0x81F874C: void std::list<std::string, std::allocator<std::string> >::_M_insert_dispatch<std::_List_const_iterator<std::string> >(std::_List_iterator<std::string>, std::_List_const_iterator<std::string>, std::_List_const_iterator<std::string>, __false_type) (stl_list.h:1117)
+==21996==    by 0x81F879D: void std::list<std::string, std::allocator<std::string> >::insert<std::_List_const_iterator<std::string> >(std::_List_iterator<std::string>, std::_List_const_iterator<std::string>, std::_List_const_iterator<std::string>) (stl_list.h:830)
+==21996==    by 0x82FD175: std::list<std::string, std::allocator<std::string> >::operator=(std::list<std::string, std::allocator<std::string> > const&) (list.tcc:134)
+==21996==    by 0x82FB54F: NoteBoard::addGroup(std::string, std::string) (Note.cc:177)
+==21996==    by 0x816979F: loadNotes (db.c:3504)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 56 bytes in 1 blocks are possibly lost in loss record 21 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81699EA: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 64 bytes in 1 blocks are still reachable in loss record 22 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8151749: __gnu_cxx::new_allocator<cabal_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x815176D: std::_Vector_base<cabal_type*, std::allocator<cabal_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x81518AD: std::vector<cabal_type*, std::allocator<cabal_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<cabal_type**, std::vector<cabal_type*, std::allocator<cabal_type*> > >, cabal_type* const&) (vector.tcc:275)
+==21996==    by 0x8151B20: std::vector<cabal_type*, std::allocator<cabal_type*> >::push_back(cabal_type* const&) (stl_vector.h:610)
+==21996==    by 0x81431F1: fread_cabal (clans.c:5327)
+==21996==    by 0x814346D: load_cabals (clans.c:5399)
+==21996==    by 0x816EF44: boot_db (db.c:198)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 64 bytes in 1 blocks are still reachable in loss record 23 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81D368F: __gnu_cxx::new_allocator<house_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81D36B3: std::_Vector_base<house_type*, std::allocator<house_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x81D37F3: std::vector<house_type*, std::allocator<house_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<house_type**, std::vector<house_type*, std::allocator<house_type*> > >, house_type* const&) (vector.tcc:275)
+==21996==    by 0x81D3A66: std::vector<house_type*, std::allocator<house_type*> >::push_back(house_type* const&) (stl_vector.h:610)
+==21996==    by 0x81D128B: fread_house (houses.c:425)
+==21996==    by 0x81D1687: load_houses (houses.c:515)
+==21996==    by 0x816EF89: boot_db (db.c:214)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 74 bytes in 4 blocks are possibly lost in loss record 24 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB1A4: ??? (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB322: std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB38D: std::string::substr(unsigned int, unsigned int) const (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x81F84A3: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FB4E1: NoteBoard::addGroup(std::string, std::string) (Note.cc:176)
+==21996==    by 0x816979F: loadNotes (db.c:3504)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 96 bytes in 8 blocks are still reachable in loss record 25 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8170ED1: __gnu_cxx::new_allocator<std::_List_node<obj_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8170EF4: std::_List_base<obj_data*, std::allocator<obj_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x8170F09: std::list<obj_data*, std::allocator<obj_data*> >::_M_create_node(obj_data* const&) (stl_list.h:448)
+==21996==    by 0x8170F69: std::list<obj_data*, std::allocator<obj_data*> >::_M_insert(std::_List_iterator<obj_data*>, obj_data* const&) (stl_list.h:1139)
+==21996==    by 0x8170FB7: std::list<obj_data*, std::allocator<obj_data*> >::push_front(obj_data* const&) (stl_list.h:731)
+==21996==    by 0x8216A9A: free_obj (recycle.c:297)
+==21996==    by 0x81A4083: extract_obj (handler.c:2478)
+==21996==    by 0x82DE4A8: obj_update (update.c:5013)
+==21996==    by 0x82EBF3E: update_handler (update.c:5079)
+==21996==    by 0x816028C: game_loop_unix (comm.c:1085)
+==21996==    by 0x8160871: main (comm.c:208)
+==21996== 
+==21996== 113 bytes in 6 blocks are possibly lost in loss record 26 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F8A00: NoteBoard::readFrom(StaticInput&) (Note.cc:103)
+==21996==    by 0x8169901: loadNotes (db.c:3522)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 132 bytes in 11 blocks are indirectly lost in loss record 27 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81F8271: __gnu_cxx::new_allocator<std::_List_node<std::string> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81F8294: std::_List_base<std::string, std::allocator<std::string> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81F82A9: std::list<std::string, std::allocator<std::string> >::_M_create_node(std::string const&) (stl_list.h:448)
+==21996==    by 0x81F83C9: std::list<std::string, std::allocator<std::string> >::_M_insert(std::_List_iterator<std::string>, std::string const&) (stl_list.h:1139)
+==21996==    by 0x81F8417: std::list<std::string, std::allocator<std::string> >::push_back(std::string const&) (stl_list.h:761)
+==21996==    by 0x81F8433: std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >::operator=(std::string const&) (stl_iterator.h:411)
+==21996==    by 0x81F84C2: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9040: Note::readFrom(StaticInput&) (Note.cc:349)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996== 
+==21996== 153 bytes in 6 blocks are possibly lost in loss record 28 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F891E: NoteBoard::readFrom(StaticInput&) (Note.cc:82)
+==21996==    by 0x8169901: loadNotes (db.c:3522)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 156 bytes in 13 blocks are still reachable in loss record 29 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x81A462F: char_to_room (handler.c:1800)
+==21996==    by 0x816CEA6: reset_room (db.c:1612)
+==21996==    by 0x816D74F: reset_area (db.c:1841)
+==21996==    by 0x816D82E: area_update (db.c:1439)
+==21996==    by 0x816F52B: boot_db (db.c:363)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 208 bytes in 11 blocks are indirectly lost in loss record 30 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB1A4: ??? (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB322: std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB38D: std::string::substr(unsigned int, unsigned int) const (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x81F84A3: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9040: Note::readFrom(StaticInput&) (Note.cc:349)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 216 bytes in 18 blocks are still reachable in loss record 31 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81F8271: __gnu_cxx::new_allocator<std::_List_node<std::string> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81F8294: std::_List_base<std::string, std::allocator<std::string> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81F82A9: std::list<std::string, std::allocator<std::string> >::_M_create_node(std::string const&) (stl_list.h:448)
+==21996==    by 0x81F83C9: std::list<std::string, std::allocator<std::string> >::_M_insert(std::_List_iterator<std::string>, std::string const&) (stl_list.h:1139)
+==21996==    by 0x81F8417: std::list<std::string, std::allocator<std::string> >::push_back(std::string const&) (stl_list.h:761)
+==21996==    by 0x81F8433: std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >::operator=(std::string const&) (stl_iterator.h:411)
+==21996==    by 0x81F84C2: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F8F09: Note::readFrom(StaticInput&) (Note.cc:336)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996== 
+==21996== 240 bytes in 6 blocks are still reachable in loss record 32 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81698C1: loadNotes (db.c:3521)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 276 bytes in 23 blocks are still reachable in loss record 33 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8171119: __gnu_cxx::new_allocator<std::_List_node<area_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x817113C: std::_List_base<area_data*, std::allocator<area_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x8171151: std::list<area_data*, std::allocator<area_data*> >::_M_create_node(area_data* const&) (stl_list.h:448)
+==21996==    by 0x81711B1: std::list<area_data*, std::allocator<area_data*> >::_M_insert(std::_List_iterator<area_data*>, area_data* const&) (stl_list.h:1139)
+==21996==    by 0x81711FF: std::list<area_data*, std::allocator<area_data*> >::push_back(area_data* const&) (stl_list.h:761)
+==21996==    by 0x816EDDC: load_area (db.c:487)
+==21996==    by 0x816F0F4: boot_db (db.c:283)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 288 bytes in 24 blocks are still reachable in loss record 34 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8170ED1: __gnu_cxx::new_allocator<std::_List_node<obj_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8170EF4: std::_List_base<obj_data*, std::allocator<obj_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x8170F09: std::list<obj_data*, std::allocator<obj_data*> >::_M_create_node(obj_data* const&) (stl_list.h:448)
+==21996==    by 0x8170F69: std::list<obj_data*, std::allocator<obj_data*> >::_M_insert(std::_List_iterator<obj_data*>, obj_data* const&) (stl_list.h:1139)
+==21996==    by 0x8170FB7: std::list<obj_data*, std::allocator<obj_data*> >::push_front(obj_data* const&) (stl_list.h:731)
+==21996==    by 0x816C646: create_object (db.c:2222)
+==21996==    by 0x816D554: reset_room (db.c:1776)
+==21996==    by 0x816D74F: reset_area (db.c:1841)
+==21996==    by 0x816D82E: area_update (db.c:1439)
+==21996==    by 0x816F52B: boot_db (db.c:363)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 300 bytes in 25 blocks are still reachable in loss record 35 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8170ED1: __gnu_cxx::new_allocator<std::_List_node<obj_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8170EF4: std::_List_base<obj_data*, std::allocator<obj_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x8170F09: std::list<obj_data*, std::allocator<obj_data*> >::_M_create_node(obj_data* const&) (stl_list.h:448)
+==21996==    by 0x8170F69: std::list<obj_data*, std::allocator<obj_data*> >::_M_insert(std::_List_iterator<obj_data*>, obj_data* const&) (stl_list.h:1139)
+==21996==    by 0x8170FB7: std::list<obj_data*, std::allocator<obj_data*> >::push_front(obj_data* const&) (stl_list.h:731)
+==21996==    by 0x816C646: create_object (db.c:2222)
+==21996==    by 0x816D104: reset_room (db.c:1657)
+==21996==    by 0x816D74F: reset_area (db.c:1841)
+==21996==    by 0x816D82E: area_update (db.c:1439)
+==21996==    by 0x816F52B: boot_db (db.c:363)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 338 bytes in 18 blocks are possibly lost in loss record 36 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB1A4: ??? (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB322: std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB38D: std::string::substr(unsigned int, unsigned int) const (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x81F84A3: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F8F09: Note::readFrom(StaticInput&) (Note.cc:336)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 352 bytes in 1 blocks are still reachable in loss record 37 of 82
+==21996==    at 0x4005B83: malloc (vg_replace_malloc.c:195)
+==21996==    by 0x4E2C0E: __fopen_internal (in /lib/libc-2.5.so)
+==21996==    by 0x4E2CDB: fopen@@GLIBC_2.1 (in /lib/libc-2.5.so)
+==21996==    by 0x81EEA49: load_songs (music.c:285)
+==21996==    by 0x816F56F: boot_db (db.c:375)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 480 bytes in 1 blocks are still reachable in loss record 38 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x8171FC6: load_races (db2.c:791)
+==21996==    by 0x816EFA9: boot_db (db.c:220)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 512 bytes in 1 blocks are still reachable in loss record 39 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81E7EC9: __gnu_cxx::new_allocator<char*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81E7EED: std::_Vector_base<char*, std::allocator<char*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x81E802D: std::vector<char*, std::allocator<char*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<char**, std::vector<char*, std::allocator<char*> > >, char* const&) (vector.tcc:275)
+==21996==    by 0x81E82A0: std::vector<char*, std::allocator<char*> >::push_back(char* const&) (stl_vector.h:610)
+==21996==    by 0x81E75C7: load_names (lookup.c:66)
+==21996==    by 0x816EF4E: boot_db (db.c:202)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 512 bytes in 1 blocks are still reachable in loss record 40 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81E7EC9: __gnu_cxx::new_allocator<char*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81E7EED: std::_Vector_base<char*, std::allocator<char*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x81E802D: std::vector<char*, std::allocator<char*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<char**, std::vector<char*, std::allocator<char*> > >, char* const&) (vector.tcc:275)
+==21996==    by 0x81E82A0: std::vector<char*, std::allocator<char*> >::push_back(char* const&) (stl_vector.h:610)
+==21996==    by 0x81E767C: load_names (lookup.c:99)
+==21996==    by 0x816EF4E: boot_db (db.c:202)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 512 bytes in 1 blocks are still reachable in loss record 41 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x82F7C65: __gnu_cxx::new_allocator<location_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x82F7C89: std::_Vector_base<location_type*, std::allocator<location_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x82F7DC9: std::vector<location_type*, std::allocator<location_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<location_type**, std::vector<location_type*, std::allocator<location_type*> > >, location_type* const&) (vector.tcc:275)
+==21996==    by 0x82F803C: std::vector<location_type*, std::allocator<location_type*> >::push_back(location_type* const&) (stl_vector.h:610)
+==21996==    by 0x82F3970: fread_location (world.c:1724)
+==21996==    by 0x82F3BDB: load_locations (world.c:1783)
+==21996==    by 0x816EF78: boot_db (db.c:211)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 520 bytes in 1 blocks are still reachable in loss record 42 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x4B606D: __new_exitfn (in /lib/libc-2.5.so)
+==21996==    by 0x4B60AF: __cxa_atexit (in /lib/libc-2.5.so)
+==21996==    by 0x8168D4F: __static_initialization_and_destruction_0(int, int) (db.c:58)
+==21996==    by 0x8168EC0: global constructors keyed to help_first (db.c:3835)
+==21996==    by 0x82FFCAA: ??? (in /home/mud/beaton/haven/src/haven)
+==21996==    by 0x808A25C: ??? (in /home/mud/beaton/haven/src/haven)
+==21996==    by 0x82FFC38: __libc_csu_init (in /home/mud/beaton/haven/src/haven)
+==21996==    by 0x49FE60: (below main) (in /lib/libc-2.5.so)
+==21996== 
+==21996== 708 bytes in 59 blocks are still reachable in loss record 43 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81F8271: __gnu_cxx::new_allocator<std::_List_node<std::string> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81F8294: std::_List_base<std::string, std::allocator<std::string> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81F82A9: std::list<std::string, std::allocator<std::string> >::_M_create_node(std::string const&) (stl_list.h:448)
+==21996==    by 0x81F83C9: std::list<std::string, std::allocator<std::string> >::_M_insert(std::_List_iterator<std::string>, std::string const&) (stl_list.h:1139)
+==21996==    by 0x81F8417: std::list<std::string, std::allocator<std::string> >::push_back(std::string const&) (stl_list.h:761)
+==21996==    by 0x81F8433: std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >::operator=(std::string const&) (stl_iterator.h:411)
+==21996==    by 0x81F84C2: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9040: Note::readFrom(StaticInput&) (Note.cc:349)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996== 
+==21996== 1,024 bytes in 1 blocks are still reachable in loss record 44 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x812304F: __gnu_cxx::new_allocator<playerroom_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8123073: std::_Vector_base<playerroom_type*, std::allocator<playerroom_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x812324D: std::vector<playerroom_type*, std::allocator<playerroom_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<playerroom_type**, std::vector<playerroom_type*, std::allocator<playerroom_type*> > >, playerroom_type* const&) (vector.tcc:275)
+==21996==    by 0x81234C0: std::vector<playerroom_type*, std::allocator<playerroom_type*> >::push_back(playerroom_type* const&) (stl_vector.h:610)
+==21996==    by 0x82D2201: fread_playerroom (travel.c:3196)
+==21996==    by 0x82D232B: load_playerrooms (travel.c:3240)
+==21996==    by 0x816EF49: boot_db (db.c:200)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 1,024 bytes in 1 blocks are still reachable in loss record 45 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81D327F: __gnu_cxx::new_allocator<prop_type*>::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81D32A3: std::_Vector_base<prop_type*, std::allocator<prop_type*> >::_M_allocate(unsigned int) (stl_vector.h:127)
+==21996==    by 0x81D33E3: std::vector<prop_type*, std::allocator<prop_type*> >::_M_insert_aux(__gnu_cxx::__normal_iterator<prop_type**, std::vector<prop_type*, std::allocator<prop_type*> > >, prop_type* const&) (vector.tcc:275)
+==21996==    by 0x81D3656: std::vector<prop_type*, std::allocator<prop_type*> >::push_back(prop_type* const&) (stl_vector.h:610)
+==21996==    by 0x81D09C4: fread_property (houses.c:660)
+==21996==    by 0x81D0F55: load_properties (houses.c:767)
+==21996==    by 0x816EF8E: boot_db (db.c:215)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 1,103 bytes in 59 blocks are possibly lost in loss record 46 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB1A4: ??? (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB322: std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB38D: std::string::substr(unsigned int, unsigned int) const (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x81F84A3: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9040: Note::readFrom(StaticInput&) (Note.cc:349)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 1,644 bytes in 137 blocks are possibly lost in loss record 47 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x81A462F: char_to_room (handler.c:1800)
+==21996==    by 0x816CEA6: reset_room (db.c:1612)
+==21996==    by 0x816D74F: reset_area (db.c:1841)
+==21996==    by 0x816D82E: area_update (db.c:1439)
+==21996==    by 0x816F52B: boot_db (db.c:363)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 1,812 bytes in 151 blocks are still reachable in loss record 48 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x813887D: __gnu_cxx::new_allocator<std::_List_node<char_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81388A0: std::_List_base<char_data*, std::allocator<char_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81388B5: std::list<char_data*, std::allocator<char_data*> >::_M_create_node(char_data* const&) (stl_list.h:448)
+==21996==    by 0x8138915: std::list<char_data*, std::allocator<char_data*> >::_M_insert(std::_List_iterator<char_data*>, char_data* const&) (stl_list.h:1139)
+==21996==    by 0x8138963: std::list<char_data*, std::allocator<char_data*> >::push_front(char_data* const&) (stl_list.h:731)
+==21996==    by 0x816CA95: create_mobile (db.c:2055)
+==21996==    by 0x816CE91: reset_room (db.c:1602)
+==21996==    by 0x816D74F: reset_area (db.c:1841)
+==21996==    by 0x816D82E: area_update (db.c:1439)
+==21996==    by 0x816F52B: boot_db (db.c:363)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 2,472 bytes in 206 blocks are still reachable in loss record 49 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8170FF5: __gnu_cxx::new_allocator<std::_List_node<shop_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8171018: std::_List_base<shop_data*, std::allocator<shop_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x817102D: std::list<shop_data*, std::allocator<shop_data*> >::_M_create_node(shop_data* const&) (stl_list.h:448)
+==21996==    by 0x817108D: std::list<shop_data*, std::allocator<shop_data*> >::_M_insert(std::_List_iterator<shop_data*>, shop_data* const&) (stl_list.h:1139)
+==21996==    by 0x81710DB: std::list<shop_data*, std::allocator<shop_data*> >::push_back(shop_data* const&) (stl_list.h:761)
+==21996==    by 0x816B447: load_shops (db.c:1102)
+==21996==    by 0x816F2B1: boot_db (db.c:293)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 3,469 bytes in 187 blocks are indirectly lost in loss record 50 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F9107: Note::readFrom(StaticInput&) (Note.cc:370)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 3,684 bytes in 307 blocks are indirectly lost in loss record 51 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81F8271: __gnu_cxx::new_allocator<std::_List_node<std::string> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81F8294: std::_List_base<std::string, std::allocator<std::string> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81F82A9: std::list<std::string, std::allocator<std::string> >::_M_create_node(std::string const&) (stl_list.h:448)
+==21996==    by 0x81F83C9: std::list<std::string, std::allocator<std::string> >::_M_insert(std::_List_iterator<std::string>, std::string const&) (stl_list.h:1139)
+==21996==    by 0x81F8417: std::list<std::string, std::allocator<std::string> >::push_back(std::string const&) (stl_list.h:761)
+==21996==    by 0x81F8433: std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >::operator=(std::string const&) (stl_iterator.h:411)
+==21996==    by 0x81F84C2: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9225: Note::readFrom(StaticInput&) (Note.cc:392)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996== 
+==21996== 5,666 bytes in 307 blocks are indirectly lost in loss record 52 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB1A4: ??? (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB322: std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB38D: std::string::substr(unsigned int, unsigned int) const (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x81F84A3: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9225: Note::readFrom(StaticInput&) (Note.cc:392)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 6,383 bytes in 187 blocks are indirectly lost in loss record 53 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F9158: Note::readFrom(StaticInput&) (Note.cc:375)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 6,480 bytes in 1 blocks are still reachable in loss record 54 of 82
+==21996==    at 0x4005B83: malloc (vg_replace_malloc.c:195)
+==21996==    by 0x829C535: load_social_table (social-edit.c:59)
+==21996==    by 0x816F591: boot_db (db.c:381)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 10,312 bytes in 1,289 blocks are still reachable in loss record 55 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x816DA3D: load_rooms (db.c:851)
+==21996==    by 0x816F285: boot_db (db.c:292)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 12,708 bytes in 1,059 blocks are still reachable in loss record 56 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8170ED1: __gnu_cxx::new_allocator<std::_List_node<obj_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8170EF4: std::_List_base<obj_data*, std::allocator<obj_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x8170F09: std::list<obj_data*, std::allocator<obj_data*> >::_M_create_node(obj_data* const&) (stl_list.h:448)
+==21996==    by 0x8170F69: std::list<obj_data*, std::allocator<obj_data*> >::_M_insert(std::_List_iterator<obj_data*>, obj_data* const&) (stl_list.h:1139)
+==21996==    by 0x8170FB7: std::list<obj_data*, std::allocator<obj_data*> >::push_front(obj_data* const&) (stl_list.h:731)
+==21996==    by 0x816C646: create_object (db.c:2222)
+==21996==    by 0x816D462: reset_room (db.c:1759)
+==21996==    by 0x816D74F: reset_area (db.c:1841)
+==21996==    by 0x816D82E: area_update (db.c:1439)
+==21996==    by 0x816F52B: boot_db (db.c:363)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 25,524 bytes in 2,127 blocks are still reachable in loss record 57 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8170D7D: __gnu_cxx::new_allocator<std::_List_node<Note*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8170DA0: std::_List_base<Note*, std::allocator<Note*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x8170DB5: std::list<Note*, std::allocator<Note*> >::_M_create_node(Note* const&) (stl_list.h:448)
+==21996==    by 0x8170E15: std::list<Note*, std::allocator<Note*> >::_M_insert(std::_List_iterator<Note*>, Note* const&) (stl_list.h:1139)
+==21996==    by 0x8170E63: std::list<Note*, std::allocator<Note*> >::push_front(Note* const&) (stl_list.h:731)
+==21996==    by 0x8170E92: NoteBoard::add(Note*) (Note.h:242)
+==21996==    by 0x8169AE0: loadNotes (db.c:3555)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 36,252 bytes in 3,021 blocks are still reachable in loss record 58 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8170ED1: __gnu_cxx::new_allocator<std::_List_node<obj_data*> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x8170EF4: std::_List_base<obj_data*, std::allocator<obj_data*> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x8170F09: std::list<obj_data*, std::allocator<obj_data*> >::_M_create_node(obj_data* const&) (stl_list.h:448)
+==21996==    by 0x8170F69: std::list<obj_data*, std::allocator<obj_data*> >::_M_insert(std::_List_iterator<obj_data*>, obj_data* const&) (stl_list.h:1139)
+==21996==    by 0x8170FB7: std::list<obj_data*, std::allocator<obj_data*> >::push_front(obj_data* const&) (stl_list.h:731)
+==21996==    by 0x816C646: create_object (db.c:2222)
+==21996==    by 0x8219502: fread_gobj (save.c:3210)
+==21996==    by 0x821A395: load_ground_objects (save.c:3989)
+==21996==    by 0x816F504: boot_db (db.c:348)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 39,841 bytes in 2,128 blocks are possibly lost in loss record 59 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F9107: Note::readFrom(StaticInput&) (Note.cc:370)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 50,088 bytes in 4,174 blocks are still reachable in loss record 60 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81F8271: __gnu_cxx::new_allocator<std::_List_node<std::string> >::allocate(unsigned int, void const*) (new_allocator.h:88)
+==21996==    by 0x81F8294: std::_List_base<std::string, std::allocator<std::string> >::_M_get_node() (stl_list.h:316)
+==21996==    by 0x81F82A9: std::list<std::string, std::allocator<std::string> >::_M_create_node(std::string const&) (stl_list.h:448)
+==21996==    by 0x81F83C9: std::list<std::string, std::allocator<std::string> >::_M_insert(std::_List_iterator<std::string>, std::string const&) (stl_list.h:1139)
+==21996==    by 0x81F8417: std::list<std::string, std::allocator<std::string> >::push_back(std::string const&) (stl_list.h:761)
+==21996==    by 0x81F8433: std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >::operator=(std::string const&) (stl_iterator.h:411)
+==21996==    by 0x81F84C2: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9225: Note::readFrom(StaticInput&) (Note.cc:392)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996== 
+==21996== 77,740 bytes in 4,175 blocks are possibly lost in loss record 61 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB1A4: ??? (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB322: std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EB38D: std::string::substr(unsigned int, unsigned int) const (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x81F84A3: void split<std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > > >(std::string const&, std::string const&, std::back_insert_iterator<std::list<std::string, std::allocator<std::string> > >) (Util.h:39)
+==21996==    by 0x82FC7A0: NoteField::setValue(char*) (Note.h:82)
+==21996==    by 0x82F9225: Note::readFrom(StaticInput&) (Note.cc:392)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 79,641 bytes in 2,128 blocks are possibly lost in loss record 62 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F9158: Note::readFrom(StaticInput&) (Note.cc:375)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 103,268 bytes in 186 blocks are indirectly lost in loss record 63 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F91A5: Note::readFrom(StaticInput&) (Note.cc:382)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 119,112 bytes in 2,127 blocks are still reachable in loss record 64 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81699EA: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 131,072 bytes in 1 blocks are still reachable in loss record 65 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x82BE0B6: new_system_data (system.c:20)
+==21996==    by 0x82BE13C: load_system_config (system.c:39)
+==21996==    by 0x816EEFE: boot_db (db.c:186)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 131,072 bytes in 1 blocks are still reachable in loss record 66 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x81724E2: load_objects (db2.c:256)
+==21996==    by 0x816F22D: boot_db (db.c:290)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 131,072 bytes in 1 blocks are still reachable in loss record 67 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x8216C05: new_obj (recycle.c:250)
+==21996==    by 0x816C357: create_object (db.c:2116)
+==21996==    by 0x816D462: reset_room (db.c:1759)
+==21996==    by 0x816D74F: reset_area (db.c:1841)
+==21996==    by 0x816D82E: area_update (db.c:1439)
+==21996==    by 0x816F52B: boot_db (db.c:363)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 131,072 bytes in 1 blocks are still reachable in loss record 68 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x82BD25E: alloc_mem (sys.c:588)
+==21996==    by 0x816AD0F: str_dup (db.c:2907)
+==21996==    by 0x816B914: fread_string (db.c:2720)
+==21996==    by 0x829C464: load_social (social-edit.c:34)
+==21996==    by 0x829C569: load_social_table (social-edit.c:62)
+==21996==    by 0x816F591: boot_db (db.c:381)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 131,072 bytes in 1 blocks are possibly lost in loss record 69 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x81ED366: new_reset_data (mem.c:63)
+==21996==    by 0x816E3AD: load_resets (db.c:737)
+==21996==    by 0x816F259: boot_db (db.c:291)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 133,282 (10,472 direct, 122,810 indirect) bytes in 187 blocks are definitely lost in loss record 70 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x81699EA: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 262,144 bytes in 2 blocks are still reachable in loss record 71 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x8214516: new_prop (recycle.c:1444)
+==21996==    by 0x81D0746: fread_property (houses.c:615)
+==21996==    by 0x81D0F55: load_properties (houses.c:767)
+==21996==    by 0x816EF8E: boot_db (db.c:215)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 262,144 bytes in 2 blocks are still reachable in loss record 72 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x81730BC: load_mobiles (db2.c:73)
+==21996==    by 0x816F151: boot_db (db.c:285)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 262,144 bytes in 2 blocks are possibly lost in loss record 73 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x8215A16: new_extra_descr (recycle.c:122)
+==21996==    by 0x8219919: fread_gobj (save.c:3302)
+==21996==    by 0x821A395: load_ground_objects (save.c:3989)
+==21996==    by 0x816F504: boot_db (db.c:348)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 393,216 bytes in 3 blocks are still reachable in loss record 74 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x8216B8B: new_char (recycle.c:310)
+==21996==    by 0x816C890: create_mobile (db.c:1993)
+==21996==    by 0x816CE91: reset_room (db.c:1602)
+==21996==    by 0x816D74F: reset_area (db.c:1841)
+==21996==    by 0x816D82E: area_update (db.c:1439)
+==21996==    by 0x816F52B: boot_db (db.c:363)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 439,456 bytes in 54,932 blocks are possibly lost in loss record 75 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x816DA3D: load_rooms (db.c:851)
+==21996==    by 0x816F285: boot_db (db.c:292)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 524,288 bytes in 4 blocks are still reachable in loss record 76 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x816DD75: load_rooms (db.c:919)
+==21996==    by 0x816F285: boot_db (db.c:292)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 524,288 bytes in 4 blocks are still reachable in loss record 77 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x8216C05: new_obj (recycle.c:250)
+==21996==    by 0x816C357: create_object (db.c:2116)
+==21996==    by 0x8219502: fread_gobj (save.c:3210)
+==21996==    by 0x821A395: load_ground_objects (save.c:3989)
+==21996==    by 0x816F504: boot_db (db.c:348)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 1,675,496 bytes in 2,128 blocks are possibly lost in loss record 78 of 82
+==21996==    at 0x4006355: operator new(unsigned int) (vg_replace_malloc.c:214)
+==21996==    by 0x8EA13A: std::string::_Rep::_S_create(unsigned int, unsigned int, std::allocator<char> const&) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EBE67: std::string::_M_mutate(unsigned int, unsigned int, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC009: std::string::_M_replace_safe(unsigned int, unsigned int, char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC0A4: std::string::assign(char const*, unsigned int) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x8EC224: std::string::operator=(char const*) (in /usr/lib/libstdc++.so.6.0.8)
+==21996==    by 0x82F91A5: Note::readFrom(StaticInput&) (Note.cc:382)
+==21996==    by 0x82F9334: Note::Note(StaticInput&) (Note.cc:185)
+==21996==    by 0x8169A08: loadNotes (db.c:3544)
+==21996==    by 0x816F53C: boot_db (db.c:366)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 3,538,944 bytes in 27 blocks are still reachable in loss record 79 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x816D9FC: load_rooms (db.c:848)
+==21996==    by 0x816F285: boot_db (db.c:292)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 3,670,016 bytes in 1 blocks are still reachable in loss record 80 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BDE2E: strspace_alloc (sys.c:214)
+==21996==    by 0x816EED0: boot_db (db.c:178)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 25,427,968 bytes in 194 blocks are possibly lost in loss record 81 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x816D9FC: load_rooms (db.c:848)
+==21996==    by 0x816F285: boot_db (db.c:292)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== 35,782,656 bytes in 273 blocks are possibly lost in loss record 82 of 82
+==21996==    at 0x4004EC2: calloc (vg_replace_malloc.c:418)
+==21996==    by 0x82BD190: alloc_perm (sys.c:636)
+==21996==    by 0x816DD75: load_rooms (db.c:919)
+==21996==    by 0x816F285: boot_db (db.c:292)
+==21996==    by 0x8160816: main (comm.c:195)
+==21996== 
+==21996== LEAK SUMMARY:
+==21996==    definitely lost: 10,472 bytes in 187 blocks
+==21996==    indirectly lost: 122,810 bytes in 1,196 blocks
+==21996==      possibly lost: 63,919,617 bytes in 66,200 blocks
+==21996==    still reachable: 9,971,696 bytes in 14,404 blocks
+==21996==         suppressed: 0 bytes in 0 blocks
+==21996== 
+==21996== ERROR SUMMARY: 24 errors from 24 contexts (suppressed: 17 from 8)
+--21996-- 
+--21996-- used_suppression:     17 dl-hack3
+==21996== 
+==21996== ERROR SUMMARY: 24 errors from 24 contexts (suppressed: 17 from 8)

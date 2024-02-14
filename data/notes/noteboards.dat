@@ -1,0 +1,40 @@
+Name    announcements~
+Display `RAnnouncements`x~
+RLevel  0
+WLevel  105
+FailMsg Immortal~
+Enabled 1
+End
+
+Name    ic~
+Display `RIC`x~
+RLevel  0
+WLevel  0
+FailMsg ~
+Enabled 1
+End
+
+Name    ooc~
+Display `YOOC`x~
+RLevel  0
+WLevel  0
+FailMsg ~
+Enabled 1
+End
+
+Name    roster~
+Display `yRoster`x~
+RLevel  0
+WLevel  0
+FailMsg ~
+Enabled 1
+End
+
+Name    Immortal~
+Display `WIm`dm`Dor`dt`Wal`x~
+RLevel  102
+WLevel  102
+FailMsg Immortals~
+Enabled 1
+End
+

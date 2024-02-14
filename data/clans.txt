@@ -1,0 +1,985 @@
+#FACTION
+Vnum     6
+Type     1
+Name The Order~
+Eidilon ~
+EidilonType 0
+EidilonPlayers ~
+Description This group is made up of a blend of supernaturals and naturals who
+believe that supernatural abilities are a gift that should be used to help
+others.  While simple in theory in practice debates about the best way to
+help others plague the Order and can cause some to believe they have little
+direction or impact.  
+
+Members of the Order however are unified in their desire to help people and
+make the world a better place.  Many of them are true and selfless heroes,
+although it must be said that glory hounds are often found in their ranks
+too.  Most of the supernaturals in their number are either new to their
+power or possess incredible mental discipline to over the slide into
+corruption.  
+~
+Outcast 0
+Manifesto The Order simply wants to make the world a better and more equal place
+with less poverty, disease, death, misery, inequality and pain.  They try
+and prevent others from causing these problems by rehabilitation or finding
+ways to weaken or impair their ability to do so, detainment, Venetian oaths,
+weakening curses etc.  
+
+Order governments tend to operate out of houses, changing which one they use
+semi-regularly.  They are formed of a small council of elder who make their
+decisions.  Order governments are very strict with long law books formed for
+governing their areas.  Generally speaking if something is illegal in the
+mundane world, it's supernatural equivalent is illegal as well, using
+supernatural abilities to gamble, or get favourable deals and so on are even
+crimes, although relatively mild ones.  While the most officious of the
+factions, they're also often the most willing to be of aid if you have a
+good cause.  
+
+If someone is accused of breaking the law, they are given a full trial with
+an Order judge and a jury of random supernaturals.  Putting this trial
+together however can sometimes take months and it's not uncommon for people
+to be detained longer awaiting trial, than they would have if found guilty. 
+Their punishments are typically fines or time in specially designed prisons.
+~
+Missions Using Preastes rituals to protect innocents or other likely targets.  
+
+Argue morality with those who disagree with The Order's philosophy.  
+
+Argue morality with others inside the Order.  
+
+Seduce or befriend enemies in order to try and redeem them and bring them
+around to Order-like morality.  
+
+Take the place of would-be victims to save them.  
+
+Extract Venetian Oaths from villains to at least temporarily limit their
+ability to do evil.  
+
+Curse evil doers.  
+
+Use magic or drugs to try and rehabilitate evil doers.  
+
+Punish evil doers.  
+
+Promote love, equality and peace socially or supernaturally.  
+
+Bargain or charm evil doers away from their current evil ambitions.  
+~
+History After the Gods and Fae left earth behind, some of their former students
+and acolytes formed several supernatural councils.  A druidic council in the
+northwest of Europe was initially a small time player in the supernatural
+world but eventually grew into a powerful player called The Order who saw to
+the destruction of the Western Roman Empire.  
+
+Throughout the medieval period they controlled most of Central Europe.  The
+Industrial revolution led to the decline of the power of the supernatural
+and after World War Two the Order was left shattered, broken up into a dozen
+smaller fragments which rose and fell over the following decades.  One year
+after the supposed defeat of Et-Aral however several in the supernatural
+community started advocating for greater cohesion, the need to return to
+larger, more powerful groups to safeguard the world and The Order began to
+regather its strength.  
+~
+Roles Shieldbearers are the largest military group with The Order and are
+responsible for the protection of others.  
+
+The Shieldbearers are tasked with handling all the Order's defense and siege
+work.  Usually deploying in practical street wear, but with a signature coat
+or jacket to identify themselves(typically brown) they tend to use heavy
+armor and favor emplaced heavy weaponry.  They tend to prefer to pick areas
+of high value or impact and then set up defenses and emplaced weaponry in
+that area to ensure it stays with the Order.  They are vulnerable however to
+being caught while moving locations.  They often take round ballistic
+shields with them into battle, using them to cover each other when needed,
+or placing them along walls to help fortify an area against weapons fire,
+they are usually called 'girls' by the other factions.  
+
+Swordbearers are a smaller group with the Order, dedicated to proactive
+efforts to deal with threats before the shieldbearers may be needed.  
+
+The Swordbearers are the most mobile of the divisions, they tend to favor
+fairly light armor and weapons such as pistols and submachine guns.  Usually
+deploying in practical street wear, but with a signature coat or jacket to
+identify themselves(typically brown) they are also the most melee focused of
+the divisions and generally try to use their mobility to close and or flank
+the enemies before tearing into them in close quarters combat.  Swordbearers
+are often called 'dogs' by the other factions.  
+
+Librarians are the support and investigative arm of the Order, and those
+who're less focused on conflict than on research and finding ways to improve
+the world through the occult.  
+~
+Scenes Argue morality with Order members.  
+
+Corrupt Order members to work against their principles.  
+
+Punish Order members for interfering.  
+
+Manipulate Order members with threats against innocents.  
+~
+OOC ~
+AllianceNumber 6
+AllianceName ~
+SecretDays 2
+StasisTime 0
+StasisAccount ~
+PositionTime 1521366571
+RestrictTime 1521366592
+Cardinal 0
+Staff 0
+Subtype 0
+NoPart 0
+LastOperation 1703181600
+LastIntel 1645404019
+LastDeploy 1704859200
+OperationWins 283
+StealMult 0
+LifeEarned 2567
+WeeklyResources 857
+LastHighIntel 1704585312
+Axes 0 1 3 7 7 4 3 0 0 0
+Attr 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Restrictions 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+Crystals 0 0 0 0 0
+BattleHour 0
+BattleDay 0
+BattleTerritory 0
+BattleClimate 0
+BattleWins 0
+AntagSoloWins 0
+AntagGroupWins 0
+BattleOps 0
+CanAlt 0
+PrisonEmotes 0
+Stasis 0
+Closed 0
+Alchemy 0
+LastIncite 1683846001
+DayResources 0
+Parent 0
+College 0
+Resources 15904
+Research 0
+Support 0
+SoftRestrict 1
+Manpower 2
+Symbol a sword crossed with a scroll~
+Update 2
+SoldierDeploy 0
+SoldierName order Swordbearer~
+SoldierDesc This figure is dressed in practical street clothes and a heavy long brown
+suede coat which just barely fails to conceal the shiny metal of ringmail on
+their torso and the sword at their hip.  The crossguard of the sword
+features a symbol of a scroll crossed with a sword.  
+~
+SoldierReinforce 0
+Type 1
+Awards 0
+AwardProgress 1610
+Patrolling 0
+Guarding 0
+Rank 0 Initiate~ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 1 Penitent~ 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 2 Acolyte~ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 3 Sword~ 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 4 Shield~ 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 5 Scroll~ 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 6 M.Sword~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+Rank 7 M.Scroll~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+Rank 8 M.Shield~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+Rank 9 Warden~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+End
+
+#FACTION
+Vnum     5
+Type     1
+Name The Hand~
+Eidilon ~
+EidilonType 0
+EidilonPlayers ~
+Description This group is made up almost entirely of supernaturals, they believe that
+humankind has proven to be weak, unreliable, short sighted and stupid and
+that the world would be a better place if they ran it.  To this end the
+group has many political connections and is a powerful force behind the
+scenes, manipulating governments and companies using their supernatural
+gifts to their own ends.  They tend to see supernaturals as superior because
+of their gifts, and wiser because of their longer life spans and thus more
+suited to rule, while humans are considered a lesser class.  
+~
+Outcast 0
+Manifesto The Hand wishes to implement corporate like meritocracies in which the
+superior rule over the inferior, with the superior almost always being those
+who are supernatural and also card-carrying members of the Hand.  In such a
+society the use of supernatural abilities is never a crime, simply a natural
+expression of an individual's merits.  
+
+Hand governments tend to use corporate guises, with the leader being the CEO
+of some cover company and their advisors being the board of directors.  They
+are usually located within some unusually well guarded corporate building
+near the center of the city.  Hand governments are very relaxed in general
+and encourage their people to deal with their own problems.  They only
+intervene in the case of serious crimes, such as serious assaults and
+murders.  They typically don't police crimes against humans unless the crime
+could call attention to the supernatural world, or is otherwise bad for
+their interests.  A crime against a human who belongs to another super is
+considered a crime against that super however, but the government would only
+get involved if it was of the serious assault or murder level.  They are
+generally easy to get permission to do things from, but difficult to obtain
+help from.  
+
+If someone is accused of breaking the law, an investigation is carried out
+by an inquisitor with some mind control abilities.  If found guilty their
+punishments usually involve brainwashing the guilty into being some new,
+productive member of society.  You can be found innocent of any crime in a
+Hand court if you can successful argue that what you did was for the greater
+good.  In theory this is the greater good of the world, but in practice
+often blurs more into the greater good of the Hand.  
+~
+Missions Creating and cultivating human assets for The Hand.  
+
+Using Mind Control, drugs, addiction, financial or social pressure,
+coercion, blackmail or bribery to turn individuals into assets for The Hand
+willing to spy on their neighbours, provide intelligence, provide blood, or
+help to blackmail/coerce new assets, or provide assistance through their
+workplace, or through laundering resources or helping in social
+manipulation.  
+
+Manipulating conversations and social environments to promote Hand friendly
+positions, such as meritocratic over democratic ideals, individual freedoms
+and in supernaturally aware society, the inability of humans to self-govern
+and the natural right of supernaturals to use their abilities whenever they
+wish.  
+
+Spreading domination of the financial world by controlling business owners
+or other financially significant individuals, owning businesses and banks. 
+
+
+Spreading domination of the political world by controlling voters,
+government officials and politicians.  
+
+Spreading domination of the media by controlling bloggers, social media
+accounts, journalists and media companies.  
+
+Convincing enemies to defect to the Hand.  
+
+Using punishment/reward incentives to train humans or low esteem co-workers
+into being better, more obedient and more useful to The Hand.  
+
+Punishing those who try to stand up to The Hand or otherwise resist its
+inevitable world domination.  
+~
+History When the Gods left earth, the resulting power vacuum was filled by their
+former servants forming independent and competing councils.  One of the
+earliest and strongest of these was known as the Council of Rome.  This was
+where the first vampires developed as a way to extend the lives and power of
+the council members.  They waged war against the Israelites and then the
+Christians until Christianity was adopted by the Roman State, at which point
+the group became more covert and started to call themselves Manus, or The
+Hand.  
+
+Through most of the Medieval era The Hand controlled primarily Italy and
+England as well as some Eastern European states and warred with the Temple
+and The Order.  The industrial revolution began a decline in the power of
+supernaturals but the Hand was still able to exert significant control over
+much of the new world including Australia and many of the economic
+powerhouses of the US.  
+
+World War Two broke the power of the Hand, the increasing complexity and
+secrecy of global conflict with the rise of the Cold War was an anathema to
+the large organizations and they splintered apart into several smaller
+groups.  One year after the supposed defeat of Et-Aral however several in
+the supernatural community started advocating for greater cohesion, the need
+to return to larger, more powerful groups to safeguard the world and The
+Hand began to regather its strength.  
+~
+Roles The Peacekeepers are the Hand's soldiers, guards and police.  Called upon
+whenever martial might is required.  
+
+The Peacekeepers tend to deploy in modern black military gear and are
+usually well armored.  One of their favorite tactics is to use slightly
+curved, rectangular shields and deploy into what they call the phalanx. 
+This involves a squad of troops, the first line crouching and planting
+shields, the second line placing their shields on top and firearms and
+sometimes the occasional flamethrower being pushed through special slots in
+the shield to allow the peacekeepers to fire.  It presents a front that is
+effectively immune to small arms fire, but is somewhat slow to move or
+maneuver and can be vulnerable to flanking attacks.  The defense can also be
+penetrated by heavy weaponry, amongst other societies they are often called
+'turtles' for their use of this tactic.  
+
+The Shadows are the Hand's covert operatives, responsible for
+assassinations, espionage, spying, research, R&D and arcane support.  
+
+The Shadows tend to deploy in lightly armed and armored black military gear,
+or enemy/civilian outfits.  They are particularly fond of espionage and
+assassination in open conflict, but also fulfill much of the sniping,
+scouting or support roles for the Hand.  Due to their dark garb and the high
+number of vampires normally found in them, they are often called 'Bats' by
+other societies.  
+
+The Whisperers are the Hand's public face, they are it's diplomats, PR
+agents, advertising executives, and politicians.  Dedicated to influencing
+the world at large to serve the agenda of the Hand as well as handling
+relations with other groups.  Those groups might be supernaturals ones, or
+natural ones relating to the Hand through one of their many corporate
+fronts, the largest and well known of which is Coretech Industries.  
+~
+Scenes Discovering the identity of Hand assets.  
+
+Trying to free Hand assets from the control of the Hand.  
+
+Trying to convince Hand operatives to defect.  
+
+Arguing against the Hand's moral codes.  
+
+Offering yourself as a Hand asset for personal benefit or to save someone
+else.  
+
+Seducing or befriending a Hand operative to attempt to spy on them and
+discover useful intelligence.  
+~
+OOC ~
+AllianceNumber 5
+AllianceName ~
+SecretDays 2
+StasisTime 0
+StasisAccount ~
+PositionTime 1521365868
+RestrictTime 0
+Cardinal 0
+Staff 0
+Subtype 0
+NoPart 0
+LastOperation 1704585600
+LastIntel 1702165470
+LastDeploy 1704585600
+OperationWins 368
+StealMult 0
+LifeEarned 3491
+WeeklyResources 1440
+LastHighIntel 1705123863
+Axes 0 7 6 2 1 2 7 0 0 0
+Attr 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Restrictions 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Crystals 0 0 0 0 0
+BattleHour 0
+BattleDay 0
+BattleTerritory 0
+BattleClimate 0
+BattleWins 0
+AntagSoloWins 0
+AntagGroupWins 0
+BattleOps 0
+CanAlt 0
+PrisonEmotes 0
+Stasis 0
+Closed 0
+Alchemy 0
+LastIncite 1681257600
+DayResources 0
+Parent 0
+College 0
+Resources 15180
+Research 0
+Support 0
+SoftRestrict 0
+Manpower 8
+Symbol a clenched fist~
+Update 2
+SoldierDeploy 0
+SoldierName `242a Hand Peacekeeper in full tactical gear`x~
+SoldierDesc `240This Hand Peacekeeper is wearing a set of full tactical gear in a deep black color, a symbol of the `088clenched fist`240 displayed proudly on the front of their helmet, their face covered by a mask not dissimilar from what would be expected by a SWAT officer. Armed to the teeth with a rifle, melee weapons and the shields they are famous for using in phalanx formations, these soldiers are a force to be reckoned with, even if lacking so much as an ounce of individuality.`x
+~
+SoldierReinforce 9
+Type 1
+Awards 2
+AwardProgress 1903
+Patrolling 0
+Guarding 0
+Rank 0 Intake~ 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 1 Food~ 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 2 Intern~ 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 3 Keeper~ 1 1 1 0 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0
+Rank 4 Shadow~ 1 1 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0
+Rank 5 Whisper~ 1 1 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0
+Rank 6 CSO~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+Rank 7 CIO~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+Rank 8 CFO~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+Rank 9 CEO~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+End
+
+#FACTION
+Vnum     7
+Type     1
+Name The Temple~
+Eidilon ~
+EidilonType 0
+EidilonPlayers ~
+Description This group is made of mostly non supernaturals, they believe that magic
+and supernatural forces are inherently damaging and should be removed
+entirely from the world.  Most of their members are essentially supernatural
+hunters or soldiers, religiosity is also very common.  Some of their members
+are extremely prejudiced, going so far as to hate all supernaturals,
+believing they are evil abominations who must all be destroyed.  Some
+however are very compassionate, believing that being supernatural is not
+that person's fault, they deserve all the respect and kindness of anyone
+else, but still thinking that the world would be better served if
+supernaturals and their influence could be grandfathered out.
+~
+Outcast 0
+Manifesto The Temple works to minimize or eliminate supernatural power on Earth.
+They oppose anyone becoming supernatural or growing in supernatural strength
+and try to limit when and how people can use supernatural power,
+particularly when using it for ill-ends.  In the mainstream Temple killing
+of supernaturals is reserved only for those who do great harm and can't
+otherwise be stopped, but there are more radical subgroups.
+
+Temple governments operate out of bunkers that they build under some house
+or other building that they own, warehouses are popular choices.  They have
+a strict chain of command, with a Commanding Officer who makes the decisions
+and others after that.  Their laws with regards to supernaturals are
+reasonable lax, only getting involved in more serious offenses, such as
+serious theft, assault, murder and so on.  They are however significantly
+more diligent about crimes against humans by supernaturals, and almost any
+use of supernatural abilities against a human in a way that's negative for
+the human is likely an offense.  They sit somewhere between the other two
+with regards to how willing they are to give permission or help, usually
+operating from a ruthlessly pragmatic perspective.
+
+If someone is accused of breaking the law, they are subjected to a tribunal
+of three Temple officers to decide their case.  They usually prefer corporal
+punishment, whippings, sometimes the loss of a hand or executions in serious
+matters.
+~
+Missions Obtain and develop intelligence assets out of locals and members of other
+supernatural organizations.
+
+Train and arm local humans, forming militias and other combat capable units.
+
+Punish supernaturals for the open or flagrant use of their abilities.
+Interrogate supernaturals for actionable intelligence.
+
+Use neutralizers, Venetian oaths or other methods to temporarily deprive
+supernaturals of their supernatural abilities.
+
+Seduce or befriend supernaturals to obtain intelligence.
+
+Charm, bargain or coerce supernaturals into not using their abilities.
+
+Convince individuals to not become supernatural, or try to become
+supernatural.
+
+Convince supernaturals to not progress in their development of supernatural
+abilities.
+
+Convince supernaturals to take permanent neutralizers.
+
+Convince, bribe, coerce or blackmail supernaturals into not having children.
+
+Convince, coerce or blackmail supernaturals into becoming demolishers and
+fighting against other supernaturals.
+
+Investigate potential abusive use of supernatural abilities.  Li 4
+~
+History The Temple first formed out of Israelite warriors in Canaan around 1400
+BCE as a group dedicated to fighting against supernatural evils.  While
+constantly persecuted and often seemingly crushed throughout history they
+always managed to spring back and reform growing in strength as they started
+to join with the newly burgeoning religion of Christianity and finally
+pushing the Hand back when Christianity was adopted as the state religion of
+Rome.
+
+The Temple's influence grew slowly over time, being accelerated by
+technological and industrial developments but they were pulled into the
+great conflict of World War Two and were shattered into countless smaller
+groups in the aftermath.  One year after the supposed defeat of Et-Aral
+however several in the supernatural community started advocating for greater
+cohesion, the need to return to larger, more powerful groups to safeguard
+the world and The Temple began to regather its strength.
+~
+Roles The Strike Force is one of the most elite military groups in the world,
+and they have to be in order to contend with supernatural threats without
+supernatural powers of their own.
+
+The Strike force prefers ambushes and sniping to open conflict, they are
+almost always looking to take the high ground and hold their shots for the
+right opportunity to make the biggest impact, usually targeting officers
+first.  They most often deploy in modern military camouflage.  When sniping
+isn't a viable option they prefer to set ambushes with land mines or razor
+wire.  They are usually called 'mosquitos' by the other factions.
+
+Intelligence are the eyes, ears and brain of the Temple, consisting largely
+of ex-intelligence agents and military intelligence officers.
+
+Temple Intelligence tend to deploy in slightly modified civilian garb and
+provide support, scouting, and espionage during times of conflict.  They
+particularly like to sneak in to place remote detonated explosives on key
+enemy assets, and detonate them right when the enemy most wanted to use
+them.  They have a pronounced rivalry with the Hand's Shadows.  They are
+usually called 'geeks' by the other factions.
+
+Demolishers are known as the Temple's wrecking ball for when all subtly has
+gone out the window.  Consisting of most of the Temple's supernatural
+members as well as others wielding dangerous experimental weaponry.
+
+The Demolishers usually deploy with the heaviest weaponry and in stripped
+down military gear, with men often going topless.  They aren't usually that
+well armored and carry such heavy weaponry as to render their mobility
+limited.  In a direct firefire they rarely lose, but tend to perform poorly
+in confined areas.  Amongst other factions they are generally known as
+'freaks.  '
+~
+Scenes Tempt Temple members to take up or use their supernatural abilities.
+
+Corrupt or enslave Temple assets or militia members.
+
+Seduce or befriend Temple members to obtain intelligence.
+
+Tempt Temple members to develop their supernatural power further and grow
+stronger.
+~
+OOC ~
+AllianceNumber 7
+AllianceName ~
+SecretDays 8
+StasisTime 0
+StasisAccount ~
+PositionTime 1521367147
+RestrictTime 1521367303
+Cardinal 0
+Staff 0
+Subtype 0
+NoPart 0
+LastOperation 1702990800
+LastIntel 1672792666
+LastDeploy 1704639601
+OperationWins 112
+StealMult 0
+LifeEarned 1993
+WeeklyResources 265
+LastHighIntel 1705428863
+Axes 0 6 1 6 6 7 6 0 0 0
+Attr 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Restrictions 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Crystals 0 0 0 0 0
+BattleHour 0
+BattleDay 0
+BattleTerritory 0
+BattleClimate 0
+BattleWins 0
+AntagSoloWins 0
+AntagGroupWins 0
+BattleOps 0
+CanAlt 0
+PrisonEmotes 0
+Stasis 0
+Closed 0
+Alchemy 0
+LastIncite 1701547679
+DayResources 0
+Parent 0
+College 0
+Resources 15393
+Research 0
+Support 0
+SoftRestrict 1
+Manpower 15
+Symbol a stylized sun~
+Update 0
+SoldierDeploy 0
+SoldierName a kevlar-clad Templar operative~
+SoldierDesc Cloaked in a full black Kevlar suit that provides a formidable blend of protection and mobility, this Templar operative is armed and ready. The identity of the wearer remains mostly concealed, thanks to the protective gear and a concealed helmet that shields their face. Adorning their equipment is the distinct emblem of a stylized sun, a prominent symbol of their allegiance to the Temple's cause. At their disposal, this operative carries a highly customized variant of an AR-15, the sleek design of which hinting at cutting-edge technology. The rifle is finely tuned for precision and lethality, boasting features like a modular rail system and a holographic sight for quick target acquisition. Holstered at their side is a high-caliber Desert Eagle sidearm, a reliable and compact companion for close-quarter engagements against supernatural threats.  For melee encounters, the operative wields a retractable baton with a reinforced polymer construction. With a combination of advanced weaponry and stealthy armor, this Kevlar-clad Templar is a force to be reckoned with in the shadows of their operations, be they overt or covert.
+~
+SoldierReinforce 0
+Type 1
+Awards 2
+AwardProgress 1349
+Patrolling 0
+Guarding 0
+Rank 0 Recruit~ 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 1 Demolisher~ 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 2 Assistant~ 1 1 1 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0
+Rank 3 Private~ 1 1 1 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0
+Rank 4 Grenadier~ 1 1 1 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0
+Rank 5 Agent~ 1 1 1 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0
+Rank 6 Sergeant~ 1 1 1 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0
+Rank 7 Captain~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+Rank 8 Director~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+Rank 9 Commander~ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+End
+
+#FACTION
+Vnum     28
+Type     0
+Name The Sapphire Martyrs~
+Eidilon ~
+EidilonType 0
+EidilonPlayers ~
+Description The Sapphire Martyrs believe that nothing can be done to prevent the destruction
+of Earth but if the other worlds are still connected to it when its end comes,
+they too will perish. As such they are trying to achieve enough domination over
+the world to destroy it before its destined demise so as to sever those
+connections and save the other worlds.
+
+Their ranks are filled with individuals who have lost hope in salvation and are
+ready to embrace oblivion, believing in the purity of their cause. Their ideology
+is steeped in a profound sense of martyrdom, and they view their mission as a
+tragic but necessary act of love. Despite the horror of their objective, they
+carry themselves with a chilling serenity, seeing beauty in the sacrifice
+they are prepared to make.~
+Outcast 0
+Manifesto ~
+Missions ~
+History ~
+Roles ~
+Scenes ~
+OOC ~
+AllianceNumber 9
+AllianceName ~
+SecretDays 13311
+StasisTime 0
+StasisAccount ~
+PositionTime 0
+RestrictTime 0
+Cardinal 0
+Staff 0
+Subtype 0
+NoPart 0
+LastOperation 1704859200
+LastIntel 1608732000
+LastDeploy 0
+OperationWins 19
+StealMult 475
+LifeEarned -2400
+WeeklyResources 0
+LastHighIntel 0
+Axes 0 0 0 0 0 0 0 0 0 0
+Attr 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Restrictions 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Crystals 0 0 0 0 0
+BattleHour 0
+BattleDay 0
+BattleTerritory 0
+BattleClimate 0
+BattleWins 0
+AntagSoloWins 2
+AntagGroupWins 1
+BattleOps 0
+CanAlt 0
+PrisonEmotes 0
+Stasis 0
+Closed 0
+Alchemy 0
+LastIncite 1501149931
+DayResources 0
+Parent 0
+College 0
+Resources 10000
+Research 0
+Support 0
+SoftRestrict 0
+Manpower 15
+Symbol A fractured, tear-shaped blue sapphire~
+Update 6
+SoldierDeploy 0
+SoldierName a figure in urban combat gear with a dark blue beret~
+SoldierDesc ~
+SoldierReinforce 0
+Type 0
+Awards 0
+AwardProgress 0
+Patrolling 0
+Guarding 0
+Adversary 0
+Antagonist 1
+Rank 0 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 1 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 2 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 3 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 4 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 5 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 6 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 7 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 8 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 9 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#FACTION
+Vnum     26
+Type     0
+Name The Golden Shadow~
+Eidilon ~
+EidilonType 0
+EidilonPlayers ~
+Description The Golden Shadow is a mercenary group that has chosen to profit
+from the world's impending destruction rather than try to prevent it. They
+are opportunists, working with whoever offers the most gain, be it dark
+forces or desperate individuals. Their ideology is one of ruthless pragmatism;
+they believe that in a world destined for destruction, the only sensible
+course of action is to amass as much wealth and power as possible while they
+can. They are skilled fighters and negotiators, using their talents to
+exploit the fear and chaos that the approaching apocalypse has caused.~
+Outcast 0
+Manifesto ~
+Missions ~
+History ~
+Roles ~
+Scenes ~
+OOC ~
+AllianceNumber 9
+AllianceName ~
+SecretDays 13311
+StasisTime 0
+StasisAccount ~
+PositionTime 0
+RestrictTime 0
+Cardinal 0
+Staff 0
+Subtype 0
+NoPart 0
+LastOperation 1704639601
+LastIntel 1608732000
+LastDeploy 0
+OperationWins 96
+StealMult 475
+LifeEarned -2400
+WeeklyResources 0
+LastHighIntel 0
+Axes 0 0 0 0 0 0 0 0 0 0
+Attr 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Restrictions 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Crystals 0 0 0 0 0
+BattleHour 0
+BattleDay 0
+BattleTerritory 0
+BattleClimate 0
+BattleWins 0
+AntagSoloWins 1
+AntagGroupWins -2
+BattleOps 0
+CanAlt 0
+PrisonEmotes 0
+Stasis 0
+Closed 0
+Alchemy 0
+LastIncite 1501149584
+DayResources 0
+Parent 0
+College 0
+Resources 10000
+Research 0
+Support 0
+SoftRestrict 0
+Manpower 15
+Symbol A golden dagger plunged through a shadowy globe~
+Update 6
+SoldierDeploy 0
+SoldierName a figure in sleek, black tactical gear, with a golden emblem on their shoulder~
+SoldierDesc ~
+SoldierReinforce 0
+Type 0
+Awards 0
+AwardProgress 0
+Patrolling 0
+Guarding 0
+Adversary 0
+Antagonist 1
+Rank 0 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 1 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 2 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 3 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 4 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 5 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 6 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 7 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 8 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 9 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#FACTION
+Vnum     29
+Type     0
+Name The Destined Host~
+Eidilon ~
+EidilonType 0
+EidilonPlayers ~
+Description The Destined Host is a faction that believes in the power and supremacy
+of demons, viewing them as the world's only hope against impending doom. They have
+made pacts with these otherworldly entities, gaining power and influence in exchange
+for their loyalty and service. They work tirelessly to strengthen the demons' hold
+on the world, conducting dark rituals and seeking out ancient artifacts that could
+help to bring more of their benefactors into this realm. Despite their seemingly
+malevolent alliances, they see themselves as the world's protectors, believing that
+only by embracing the power of demons can the world be saved.~
+Outcast 0
+Manifesto ~
+Missions ~
+History ~
+Roles ~
+Scenes ~
+OOC ~
+AllianceNumber 9
+AllianceName ~
+SecretDays 13311
+StasisTime 0
+StasisAccount ~
+PositionTime 0
+RestrictTime 0
+Cardinal 0
+Staff 0
+Subtype 0
+NoPart 0
+LastOperation 1705327200
+LastIntel 1608732000
+LastDeploy 0
+OperationWins 22
+StealMult 475
+LifeEarned -2400
+WeeklyResources 0
+LastHighIntel 0
+Axes 0 0 0 0 0 0 0 0 0 0
+Attr 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Restrictions 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Crystals 0 0 0 0 0
+BattleHour 0
+BattleDay 0
+BattleTerritory 0
+BattleClimate 0
+BattleWins 0
+AntagSoloWins 2
+AntagGroupWins 0
+BattleOps 0
+CanAlt 0
+PrisonEmotes 0
+Stasis 0
+Closed 0
+Alchemy 0
+LastIncite 1501150006
+DayResources 0
+Parent 0
+College 0
+Resources 10000
+Research 0
+Support 0
+SoftRestrict 0
+Manpower 15
+Symbol A crimson hand holding a blackened, thorned crown~
+Update 6
+SoldierDeploy 0
+SoldierName a figure clad in red and black camo with demonic sigils etched into their weapons~
+SoldierDesc ~
+SoldierReinforce 0
+Type 0
+Awards 0
+AwardProgress 0
+Patrolling 0
+Guarding 0
+Adversary 0
+Antagonist 1
+Rank 0 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 1 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 2 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 3 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 4 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 5 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 6 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 7 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 8 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 9 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#FACTION
+Vnum     27
+Type     0
+Name The Black Flame~
+Eidilon ~
+EidilonType 0
+EidilonPlayers ~
+Description The Black Flame is a cult that worships the eldritch horrors of the
+void, seeing them not as bringing about a necessary end. They believe that the
+world's destruction is not only inevitable, but desirable, a cleansing fire
+that will pave the way for whatever comes next. Their members are drawn from
+all walks of life, united by a shared fascination with the unknown and a desire
+to prepare the world for its impending end. They conduct rituals designed to
+hasten the arrival of the eldritch horrors, and work to spread their beliefs,
+hoping to convert others to their cause. Despite their dark and seemingly
+nihilistic ideology, they see themselves as the world's saviors, guiding it
+towards its ultimate destiny.~
+Outcast 0
+Manifesto ~
+Missions ~
+History ~
+Roles ~
+Scenes ~
+OOC ~
+AllianceNumber 9
+AllianceName ~
+SecretDays 13311
+StasisTime 0
+StasisAccount ~
+PositionTime 0
+RestrictTime 0
+Cardinal 0
+Staff 0
+Subtype 0
+NoPart 0
+LastOperation 1705446001
+LastIntel 1608732000
+LastDeploy 0
+OperationWins 29
+StealMult 475
+LifeEarned -2400
+WeeklyResources 0
+LastHighIntel 0
+Axes 0 0 0 0 0 0 0 0 0 0
+Attr 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Restrictions 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Crystals 0 0 0 0 0
+BattleHour 0
+BattleDay 0
+BattleTerritory 0
+BattleClimate 0
+BattleWins 0
+AntagSoloWins 3
+AntagGroupWins 3
+BattleOps 1
+CanAlt 0
+PrisonEmotes 0
+Stasis 0
+Closed 0
+Alchemy 0
+LastIncite 1501149833
+DayResources 0
+Parent 0
+College 0
+Resources 10000
+Research 0
+Support 0
+SoftRestrict 0
+Manpower 15
+Symbol An obsidian flame-wreathed globe~
+Update 6
+SoldierDeploy 0
+SoldierName a figure in dark robes, with an impassive white mask~
+SoldierDesc ~
+SoldierReinforce 0
+Type 0
+Awards 0
+AwardProgress 0
+Patrolling 0
+Guarding 0
+Adversary 0
+Antagonist 1
+Rank 0 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 1 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 2 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 3 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 4 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 5 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 6 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 7 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 8 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rank 9 ~ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#END

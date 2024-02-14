@@ -1,0 +1,1147 @@
+#AREADATA
+Name South America~
+VNUMs 36000 36999
+Completed 0
+World 0
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#36000
+A secluded beachfront leading to a small town~
+~
+0 36 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#36001
+This is just a test room~
+~
+0 36 1
+G 10 16 50 100 0
+C 1000 1000 1000
+T 3000
+M 2 H 0
+W (null)~
+Y (null)~
+S
+#36002
+`Dthe grand, `Wi`Cc`We`w-`Wc`wo`Cl`Wd`D entrance h`wal`Dl`w~
+~
+0 524 2
+G 69 43 50 0 35
+C 1000 1000 1000
+T 3000
+M 2 H 0
+W (null)~
+Y (null)~
+S
+#36003
+`Da `wde`Dso`wl`Da`wt`De `gvi`Dn`ge`D-`gen`Dc`groa`Dc`ghed `Dhallway of c`wo`Wl`Dd s`wt`Done`w~
+~
+0 516 7
+G 69 43 50 50 0
+C 1000 1000 1000
+T 3000
+M 2 H 0
+W (null)~
+Y (null)~
+S
+#36004
+`Da `wde`Dso`wl`Da`wt`De `gvi`Dn`ge`D-`gen`Dc`groa`Dc`ghed `Dhallway of c`wo`Wl`Dd s`wt`Done`w~
+~
+0 516 7
+G 69 43 50 50 0
+C 1000 1000 1000
+T 3000
+M 2 H 0
+W (null)~
+Y (null)~
+S
+#36005
+`gthe J`Yu`gngl`Ge`gs of L`ya`Yu`gr`Gi`me`ra`w~
+~
+0 4 23
+G 58 57 50 40 40
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#36006
+`gthe J`Yu`gngl`Ge`gs of L`ya`Yu`gr`Gi`me`ra`w~
+~
+0 516 23
+G 58 57 50 40 40
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#36007
+`WTe`6atr`yo C`6ol`Won`6 - `CBuen`Wos Ai`Cres`6~
+~
+0 556 9
+G 46 30 50 15 0
+C 1000 1000 1000
+T 3000
+M 2 H 0
+W (null)~
+Y (null)~
+S
+#36008
+`Da `Wde`Dso`Wla`Dte `gvi`Dn`ge`D-`gen`Dc`groa`Dc`ghed `Dhallway of c`Wol`Dd s`wt`Done`w~
+~
+0 524 11
+G 69 43 50 0 30
+C 1000 1000 1000
+T 3000
+M 2 H 0
+W (null)~
+Y (null)~
+S
+#36009
+`Da `Wde`Dso`Wla`Dte `gvi`Dn`ge`D-`gen`Dc`groa`Dc`ghed `Dhallway of c`Wol`Dd s`wt`Done`w~
+~
+0 524 11
+G 69 43 50 0 30
+C 1000 1000 1000
+T 3000
+M 2 H 0
+W (null)~
+Y (null)~
+S
+#36010
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `WPathing Point`w~
+~
+0 556 8
+G 69 71 50 0 50
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36011
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `WSante-Anne Street Market`w~
+~
+0 548 1
+G 69 71 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36012
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `WSante-Anne Street Market`w~
+~
+0 548 1
+G 69 71 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36013
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `WAnse de Ste-Anne Public Beach`w~
+~
+0 548 26
+G 69 71 50 40 40
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36014
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `WRuelle Lagon Bleu`w~
+~
+0 548 7
+G 69 71 50 50 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36015
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `YLa Jolie Villa `CF`Ye`Rl`Ci`Wci`Ce`Rn`Yn`Ce`W, Lobby`w`x~
+~
+0 4194860 9
+G 69 71 50 15 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36016
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `YLa Jolie Villa `CF`Ye`Rl`Ci`Wci`Ce`Rn`Yn`Ce`W, Landing`w~
+~
+0 4194828 2
+G 69 71 50 0 35
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36017
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `YLa Jolie Villa `CF`Ye`Rl`Ci`Wci`Ce`Rn`Yn`Ce`W, Room One`w~
+~
+0 556 2
+G 69 71 50 0 35
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36018
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `YLa Jolie Villa `CF`Ye`Rl`Ci`Wci`Ce`Rn`Yn`Ce`W, Room Two`w~
+~
+0 524 2
+G 69 71 50 0 35
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36019
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `YLa Jolie Villa Felicienne`W, Room Three`w~
+~
+0 556 2
+G 69 71 50 0 35
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36020
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `YLa Jolie Villa `CF`Ye`Rl`Ci`Wci`Ce`Rn`Yn`Ce`W, Private `YB`ye`ca`Cc`Wh`w~
+~
+0 8740 26
+G 69 71 50 40 40
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36021
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `CCaribbean Sea`w~
+~
+0 548 20
+G 69 71 50 40 40
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36022
+`gG`Gu`ga`Rd`ge`Gl`go`Mu`Gp`ge`D, `yC`Ya`Cr`Mi`Rb`Gb`Ce`Ra`yn`D - `CAnse de Ste-Anne Bay`w~
+~
+0 548 20
+G 69 71 50 40 40
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#36023
+Before a Dark Cave`x~
+~
+0 516 26
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36024
+Cave`x~
+~
+0 524 11
+G 78 76 60 0 30
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36025
+Cave`x~
+~
+0 524 11
+G 78 76 60 0 30
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36026
+Behind a Waterfall`x~
+~
+0 516 26
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36027
+Within a Clear Lagoon`x~
+~
+0 516 26
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36028
+`yA Rooftop Dining Area`w`x~
+~
+0 4194820 10
+G 78 76 80 0 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36029
+A `yBar`w in `CB`ca`wr`Cb`ca`wd`Co`cs`w`x~
+~
+0 44 12
+G 78 76 80 0 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36030
+The Warm, `CT`cu`wr`Cq`cu`Co`wi`cs`Ce W`ca`Wt`we`cr`Cs`w of `CB`ca`wr`Cb`ca`wd`Co`cs`w`x~
+~
+0 36 20
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36031
+Warm, `CT`cu`wr`Cq`cu`Co`wi`cs`Ce W`ca`Wt`we`cr`Cs`w of `CB`ca`wr`Cb`ca`wd`Co`cs`w`x~
+~
+0 36 20
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36032
+The Warm, `CT`cu`wr`Cq`cu`Co`wi`cs`Ce W`ca`Wt`we`cr`Cs`w of `CB`ca`wr`Cb`ca`wd`Co`cs`w`x~
+~
+0 36 20
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36033
+The Warm, `CT`cu`wr`Cq`cu`Co`wi`cs`Ce W`ca`Wt`we`cr`Cs`w of `CB`ca`wr`Cb`ca`wd`Co`cs`w`x~
+~
+0 36 20
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36034
+The `WWh`wi`Wt`we `WS`wa`Wndy `cB`Ce`ca`wc`ch`Ce`cs`w of `CB`ca`wr`Cb`ca`wd`Co`cs`x~
+~
+0 516 26
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36035
+`yInside a Small Bamboo Hut`w`x~
+~
+0 524 2
+G 78 76 70 0 35
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36036
+The Warm, `CT`cu`wr`Cq`cu`Co`wi`cs`Ce W`ca`Wt`we`cr`Cs`w of `CB`ca`wr`Cb`ca`wd`Co`cs`w`x~
+~
+0 36 20
+G 78 76 200 40 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36037
+`yA Rooftop Dining Area`w`x~
+~
+0 4194340 10
+G 78 76 80 0 40
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36038
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36039
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36040
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36041
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36042
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36043
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36044
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36045
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36046
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36047
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36048
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36049
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36050
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36051
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36052
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36053
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36054
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36055
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36056
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36057
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36058
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36059
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36060
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36061
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36062
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36063
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36064
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36065
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36066
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36067
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36068
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36069
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36070
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36071
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36072
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36073
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36074
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36075
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36076
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36077
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36078
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36079
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36080
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36081
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36082
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36083
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36084
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36085
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36086
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36087
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36088
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36089
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36090
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36091
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36092
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36093
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36094
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36095
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36096
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36097
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36098
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36099
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#36100
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

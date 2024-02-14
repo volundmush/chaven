@@ -1,0 +1,1327 @@
+#AREADATA
+Name Asia~
+VNUMs 39000 39999
+Completed 0
+World 0
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#39000
+`255In t`019he `088S`019t`088r`019e`088e`019t`088s `019o`088f S`019e`255oul`x~
+~
+0 44 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#39001
+Somewhere in Japan~
+~
+0 548 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+1 0 39002
+0 0 0 0 0 0 0 0 0
+M 6 H 0
+W (null)~
+Y (null)~
+S
+#39002
+the Tunnels Underneath Kyoto~
+~
+0 12 11
+G 2 1 50 0 30
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+1 0 39001
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+1 0 39003
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#39003
+the Sublevels of Kyoto~
+~
+0 524 11
+G 2 1 50 0 30
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 39004
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+1 0 39002
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39004
+a Subterranean HQ, Kyoto Branch`x~
+~
+0 524 14
+G 2 1 50 20 20
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 39003
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 39005
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39005
+an overcrowded, isolated bunker~
+~
+0 12 14
+G 2 1 50 20 20
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 39004
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39006
+a busy city street along a coast~
+~
+0 548 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39007
+a busy city street along a coast~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39008
+a busy city street along a coast~
+~
+0 516 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 39010
+0 0 0 0 0 0 0 0 0
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#39009
+a busy city street along a coast~
+~
+0 516 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39010
+a path before an oriental style building~
+~
+0 524 2
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 39011
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 39008
+0 0 0 0 0 0 0 0 0
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39011
+in the foyer of an oriental style building~
+~
+0 524 2
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 39014
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+1 0 39012
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 39010
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 39013
+0 0 0 0 0 0 0 0 0
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39012
+a large bedroom~
+~
+0 524 2
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 39011
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39013
+a large bedroom~
+~
+0 524 2
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 39011
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39014
+a quaint little hotel restaurant`x~
+~
+0 524 2
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 39011
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39015
+Mu Ko Ang Thong~
+~
+0 36 26
+G 17 52 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39016
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Island Reception Area`w~
+~
+0 44 9
+G 50 16 50 15 0
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39017
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Main Pathway Outside Receiption`w~
+~
+0 36 10
+G 50 16 50 0 100
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39018
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Main Crossroads on the Island`w~
+~
+0 36 10
+G 50 16 50 0 100
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39019
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Quiet Pathway Towards The Cabanas`w~
+~
+0 36 10
+G 50 16 50 0 100
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39020
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Quiet Pathway Outside a Trio of Cabanas`w~
+~
+0 36 10
+G 50 16 50 0 100
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39021
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Cabana One`w~
+~
+0 12 2
+G 50 16 50 0 35
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39022
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Cabana Two`w~
+~
+0 12 2
+G 50 16 50 0 35
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39023
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Cabana Three`w~
+~
+0 12 2
+G 50 16 50 0 35
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39024
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Cabana One's Private Beach`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39025
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Cabana Two's Private Beach`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39026
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`C - Paddling In The Shallows Off A Private Beach`w~
+~
+0 4 28
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39027
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`C - Paddling In The Shallows Off A Private Beach`w~
+~
+0 4 28
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39028
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`D - Swimming Over The Drop-Off`w~
+~
+0 36 20
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39029
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`D - Swimming Over The Drop-Off`w~
+~
+0 36 20
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39030
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - A Private Open-Air Bathroom`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39031
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - A Private Open-Air Bathroom`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39032
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - A Private Open-Air Bathroom`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39033
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Main Pathway Towards `WUt`Ch`Wu`cr`Wu `WA`ct`Ch`Wi`cr`Wi`W (North Beach)`w`x~
+~
+0 36 10
+G 50 16 50 0 100
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39034
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - `WUt`Ch`Wu`cr`Wu `WA`ct`Ch`Wi`cr`Wi`W (North Beach)`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39035
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - `WUt`Ch`Wu`cr`Wu `WA`ct`Ch`Wi`cr`Wi`W (North Beach)`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39036
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Seaplane Port`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39037
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`C - Paddling In The Shallows Off `WUt`Ch`Wu`cr`Wu `WA`ct`Ch`Wi`cr`Wi`W`w~
+~
+0 4 28
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39038
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`D - Swimming Over The Drop-Off`w~
+~
+0 36 20
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39039
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`D - `cU`Dn`wd`cerwa`wt`De`cr`w~
+~
+0 36 21
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39040
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Serene Pathway Between the `mS`Mp`Ya`W and `gR`Ge`ms`Mt`ya`Yu`rr`Ra`cn`Ct`w~
+~
+0 36 10
+G 50 16 50 0 100
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39041
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - `gR`Ge`ms`Mt`ya`Yu`rr`Ra`cn`Ct `CN`ca`Ra`rs`Yp`ya`Mt`mh`Ge`ge`w~
+~
+0 44 4
+G 50 16 50 0 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39042
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - `mD`Mh`Wam`Mb`mu A`Mt`Whi`Mr`mi`W (Purple Beach)`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39043
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Island `cH`Ce`Gal`Ct`ch `WClub`w~
+~
+0 44 5
+G 50 16 50 20 0
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39044
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Island `mBe`Mau`Yty `mS`Mp`Ya`w~
+~
+0 44 5
+G 50 16 50 20 0
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39045
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Island `mBe`Mau`Yty `mS`Mp`Ya`w~
+~
+0 36 26
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39046
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - A Private Steam Room Full Of Mist`w~
+~
+0 12 2
+G 50 16 50 0 35
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39047
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - `cH`Ce`Gal`Ct`ch `cS`Cp`Ga`w~
+~
+0 44 9
+G 50 16 50 15 0
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39048
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Island `cH`Ce`Gal`Ct`ch `WClub `cS`Cwi`Wmm`Cin`cg P`Co`Wo`cl`w~
+~
+0 36 20
+G 50 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39049
+`WKu`Ydafo`yl`ch`Cu`cd`Ch`Wo`Co, `cM`Ca`Wl`Cd`civ`Bes`W - Island `cG`Cy`Gm`w~
+~
+0 44 9
+G 50 16 50 15 0
+C 1000 1000 1000
+T 3000
+M 10 H 0
+W (null)~
+Y (null)~
+S
+#39050
+the `RA`rrrival `RZ`rone `xof `WE`wa`Ds`rt`Rw`ro`Dr`wl`Wd`x island`x~
+~
+0 36 26
+G 6 5 50 40 40
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 39051
+0 0 0 0 0 0 0 0 0
+M 13 H 0
+W (null)~
+Y (null)~
+S
+#39051
+the `YC`yentral `YV`yillage `YS`yquare `r[`WE`wa`Ds`rt`Rw`ro`Dr`wl`Wd`r]`x~
+~
+0 36 10
+G 6 5 50 0 100
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 39055
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 39053
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 39057
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 39056
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 39052
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 39050
+0 0 0 0 0 0 0 0 0
+M 13 H 0
+W (null)~
+Y (null)~
+S
+#39052
+a `Dstreet`x walled by `gt`cr`yadition`ca`gl `Dw`yoode`Dn h`youse`Ds`x `r[`WE`wa`Ds`rt`Rw`ro`Dr`wl`Wd`r]`x~
+~
+0 548 1
+G 6 5 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 39054
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 39051
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39053
+`ya `Dc`yharmin`Dg`y, `Do`yl`Dd t`yow`Dn s`yhoppin`Dg d`yistric`Dt `r[`WE`wa`Ds`rt`Rw`ro`Dr`wl`Wd`r]`x~
+~
+0 44 5
+G 6 5 50 20 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 39051
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39054
+`ythe `WT`Ca`ci`gy`Co`Wu R`Gy`co`gk`Ga`Wn`y Inn and Onsen `r[`WE`wa`Ds`rt`Rw`ro`Dr`wl`Wd`r]`x`x~
+~
+0 44 9
+G 6 5 50 15 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 39052
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39055
+the `YT`yoho no `WH`Ro`rse`Rk`Wi `YR`yyotei`x `r[`WE`wa`Ds`rt`Rw`ro`Dr`wl`Wd`r]`x `x~
+~
+0 44 4
+G 6 5 50 0 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 39051
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39056
+`ga `Wp`Me`mt`Ma`Wl`g-`Wd`mu`Msted `Gp`gar`Gk `gof `Wp`mi`Mnk `Ws`ma`Mkura `Gt`gree`Gs`x `r[`WE`wa`Ds`rt`Rw`ro`Dr`wl`Wd`r]`x~
+~
+0 36 10
+G 6 5 50 0 100
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+0 0 39051
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39057
+`ga `Rsc`ra`yr`rl`Ret sh`ri`yn`rs`Rha`g in the `ymountains`x `r[`WE`wa`Ds`rt`Rw`ro`Dr`wl`Wd`r]`x`x~
+~
+0 516 10
+G 6 5 50 0 100
+C 1000 1000 1000
+T 3000
+D9
+~
+~
+0 0 39051
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39058
+`RThe Fire Temple of Yazd, Iran`X~
+~
+0 44 16
+G 2 0 50 15 15
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y (null)~
+S
+#39059
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39060
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39061
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39062
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39063
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39064
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39065
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39066
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39067
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39068
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39069
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39070
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39071
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39072
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39073
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39074
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39075
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39076
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39077
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39078
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39079
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39080
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39081
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39082
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39083
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39084
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39085
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39086
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39087
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39088
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39089
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39090
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39091
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39092
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39093
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39094
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39095
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39096
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39097
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39098
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39099
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#39100
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#0
+
+
+
+#RESETS
+D 0 39001 5 2
+D 0 39002 4 1
+D 0 39002 5 1
+D 0 39003 2 2
+D 0 39003 4 1
+D 0 39004 0 2
+D 0 39004 3 2
+D 0 39005 1 2
+D 0 39010 0 2
+D 0 39011 0 2
+D 0 39011 1 2
+D 0 39011 2 2
+D 0 39011 3 2
+D 0 39012 3 2
+D 0 39013 1 2
+D 0 39014 2 2
+D 0 39051 0 1
+D 0 39052 3 1
+D 0 39054 1 1
+D 0 39055 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,1 @@
+valgrind --tool=memcheck --leak-check=yes --show-reachable=yes --log-file=vallog.txt -v ../src/haven 3001

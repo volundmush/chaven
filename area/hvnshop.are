@@ -1,0 +1,128 @@
+#AREADATA
+Name Haven Shops~
+VNUMs 45000 46999
+Completed 0
+World 0
+Range 0 0 71 71
+End
+
+
+
+#MOBILES
+#45001
+cafeteria White Oak monk~
+whiteoak monk~
+A White Oak monk watches over the food bins
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand male 0
+~
+0 0 unknown
+
+#45015
+rough shifty looking man~
+rough, shifty looking man~
+A rough, shifty looking man
+~
+~
+normal~
+~
+65x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand male 0
+~
+0 0 unknown
+
+#45016
+whiteoak pharmacist~
+White Oak pharmacist~
+A White Oak pharmacist doling out prescriptions 
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#45017
+whiteoak bookstore attendant~
+bookstore attendant~
+A White Oak Bookstore attendant ringing up supplies
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#45000
+The World Storehouse~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D5
+~
+~
+0 0 5
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+45001 10 32 8 12 9 100 100 0 23 0 0
+45015 0 0 0 0 0 100 100 0 23 0 0
+45016 34 32 8 12 6 100 100 0 23 0 0
+45017 8 9 6 21 23 100 100 0 23 0 0
+0
+
+
+
+#$

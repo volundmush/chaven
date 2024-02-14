@@ -1,0 +1,940 @@
+#AREADATA
+Name Medical Center~
+Builders None~
+VNUMs 28000 28099
+Credits (null)~
+Security 1
+Completed 0
+Area Type 0
+Climate 0
+End
+
+
+
+#MOBILES
+#28000
+a severe-looking nurse seated admittance desk~
+a severe-looking nurse.~
+A severe-looking `cnurse`x seated at the admittance desk.
+~
+A blunt-cut bob frames a disagreeable-looking face, her pale skin and
+hooked nose contributing to this illusion.  Her uniform is crisp and white,
+with a bright red cross over the left breast pocket.  Sensible white nurse's
+shoes are visible beneath the wooden desk she sits at, the admittance forms
+arranged into a neat stack in front of her, along with a cup full of black
+ballpoint pens and an industrial-sized bottle of hand-sanitizer.  
+ 
+You can `cadmit`x yourself here to receive medical care.
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand female 0
+~
+0 0 unknown
+
+#28001
+medical shopkeeper~
+an assistant~
+A Medical Gift Shop assistant
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#28002
+group of highschool-aged candy stripers~
+a group of highschool-aged c`Ra`wn`Rd`wy `Rs`wt`Rr`wi`Rp`we`Rr`ws`x~
+A group of highschool-aged c`Ra`wn`Rd`wy `Rs`wt`Rr`wi`Rp`we`Rr`ws`x.
+~
+This group of teenage girls can be identified as hospital volunteers by
+the red and white striped dresses they wear.  Equipped with stationery,
+colored pens, and bright smiles, they go about their business spreading
+cheer and offering a helping hand around the medical center.  
+~
+normal~
+~
+65x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand female 0
+~
+0 0 unknown
+
+#28003
+pharmacist~
+a pharmacist~
+A pharmacist attends the repository
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+0
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#0
+
+
+
+#OBJECTS
+#28000
+brightly-colored plastic chair~
+a brightly-colored plastic chair~
+A set of brightly-colored plastic chairs.~
+~
+<Balls.>             ~
+furniture 0 0
+-1
+CE 0 EH 0 0 0
+100 0 350 350 100 0
+#28001
+A neonatal incubator behind the wall of glass~
+neonatal incubator behind the wall of glass~
+`WA neonatal `Din`xcu`wb`xat`Dor`W behind the wall of g`xl`Da`xs`Ws`x~
+~
+<balls>              ~
+container 0 0
+-1
+100 0 0 100 0
+100 5 250 0 100 0
+E
+all~
+This incubator is perfectly sized to hold a human infant, lined with a
+soft padding and hooked up to various monitoring machines.  A cheerful
+little mobile spins above the sterile plastic hood for infant entertainment.
+~
+#28002
+two operating tables~
+an operating table~
+Two operating tables sit here, waiting ominously.~
+~
+<on the ground>      ~
+furniture Y 0
+-1
+C 0 EH 0 0 0
+100 0 0 0 100 0
+#28005
+narrow hospital bed~
+a narrow hospital bed~
+A narrow hospital bed.~
+~
+<Balls.>             ~
+furniture 0 0
+-1
+B EHI EH 0 0 0
+100 0 100 150 100 0
+#28006
+soft, neatly made hospital bed~
+a soft, neatly made hospital bed~
+A soft, neatly made hospital bed.~
+~
+<balls.>             ~
+furniture 0 0
+-1
+B CEFGHI EH 0 0 0
+100 0 200 150 100 0
+#28007
+plush light blue suede armchair~
+a plush, light-blue suede armchair~
+A plush, light-blue suede armchair.~
+~
+<BALLZ.>             ~
+furniture 0 0
+-1
+A EHI EH 0 0 0
+100 0 200 250 100 0
+#28008
+get well card~
+A decorated card~
+A decorated 'Get Well Soon' card~
+paper~
+<held>               ~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 5 0 499 100 0
+#28009
+vibrant get well soon balloon~
+a purple balloon~
+A vibrant 'Get Well Soon' balloon~
+plastic~
+<held>               ~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 5 15 699 100 0
+#28010
+vibrant blue get well soon balloon~
+a blue balloon~
+A vibrant blue 'Its a Boy!' balloon~
+plastic~
+<held>               ~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 5 25 699 100 0
+#28011
+vibrant pink its a girl balloon~
+a pink balloon~
+A vibrant pink 'Its a Girl!' balloon~
+~
+<held>               ~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 5 15 699 100 0
+#28012
+peruvian lily spray rose bouquet~
+A lily and rose bouquet~
+A peruvian lily and spray rose bouquet~
+~
+<held>               ~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 5 15 1499 100 0
+#28013
+bouquet calla lilies french tulips~
+A bouquet~
+A calla lily and french tulip bouquet~
+~
+<held>               ~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 5 20 1499 100 0
+#28014
+silver sentimental charm bracelet~
+a charm bracelet~
+A silver sentimental charm bracelet~
+~
+<around wrist>       ~
+trash 0 ABG
+-1
+0 0 0 0 0 0
+100 0 5 4595 100 0
+#28015
+silver sentimental charm necklace~
+a charm necklace~
+A silver sentimental charm necklace~
+~
+<around neck>        ~
+jewelry 0 AB
+-1
+0 0 0 0 0 0
+100 4 5 4995 100 0
+#28016
+pink early-response home pregnancy test~
+a pink, home pregnancy test~
+A pink, early-response home pregnancy test~
+~
+<held>               ~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 5 5 999 100 0
+E
+all~
+Pink and white wraps the entire shape of this thin, rectangular box
+labeled as a First Response Early Result Home Pregnancy Test.  "Results as
+early as five days before your missed period!"  A capped plastic stick
+inside gives directions on holding it in the urine stream for five seconds
+with results in two minutes.  A few legal disclaimers on the fallibility of
+the test itself are inconspicuously written in fine print.  
+~
+#28083
+set of plain formica countertops~
+a set of plain formica countertops~
+A set of plain formica countertops~
+~
+<whatever>           ~
+container Y A
+-1
+100 E 0 25 0
+100 0 200 6000 100 0
+#28084
+formica kitchen island~
+a plain formica kitchen island~
+A plain formica kitchen island~
+~
+<whatever>           ~
+container Y A
+-1
+200 E 0 50 0
+100 0 300 10000 100 0
+#28085
+set of marble-topped counters~
+set of marble-topped counters~
+A set of marble-topped counters~
+~
+<whatever>           ~
+container Y A
+-1
+300 E 0 90 0
+100 0 400 12000 100 0
+#28086
+marble-topped kitchen island~
+marble-topped kitchen island~
+A marble-topped kitchen island~
+~
+<whatever>           ~
+container Y A
+-1
+500 E 0 300 0
+100 0 500 18500 100 0
+#28087
+ornate chrome and glass dining table~
+ornate chrome and glass dining table~
+Ornate chrome and glass dining table~
+~
+<whatever>           ~
+container Y A
+-1
+300 E 0 100 0
+100 0 400 22000 100 0
+#28088
+large wooden dining table~
+large wooden dining table~
+A large wooden dining table~
+~
+<whatever>           ~
+container Y A
+-1
+300 E 0 50 0
+100 0 400 9500 100 0
+#28089
+small chrome and glass coffee table~
+small chrome and glass coffee table~
+A small chrome and glass coffee table~
+~
+<whatever>           ~
+container Y A
+-1
+100 E 0 25 0
+100 0 300 6000 100 0
+#28090
+small wooden coffee table~
+small wooden coffee table~
+A small wooden coffee table~
+~
+<whatever>           ~
+container Y A
+-1
+100 E 0 25 0
+100 0 300 3500 100 0
+#28095
+a black leather sectional~
+a black leather sectional~
+A black leather sectional~
+~
+<whatever>           ~
+furniture Y A
+-1
+AC CFHJK BEH 0 0 0
+100 0 400 45000 100 0
+#28096
+black leather armchair~
+black leather armchair~
+A black leather armchair~
+~
+<whatever>           ~
+furniture Y A
+-1
+B CEFGHI BEH 0 0 0
+100 0 400 22000 100 0
+#28097
+overstuffed blue suede couch~
+overstuffed blue suede couch~
+An overstuffed blue suede couch~
+~
+<whatever>           ~
+furniture Y A
+-1
+AC CFHJK BEH 0 0 0
+100 0 400 12000 100 0
+#28098
+lumpy plaid loveseat~
+lumpy plaid loveseat~
+A lumpy plaid loveseat~
+~
+<whatever>           ~
+furniture Y A
+-1
+C DEFGIK BEH 0 0 0
+100 0 200 6500 100 0
+#28099
+diaphragm~
+a diaphragm~
+A diaphragm~
+~
+<as protection>      ~
+trash 0 AB
+-1
+0 0 0 0 0 0
+100 1 5 100 100 0
+#0
+
+
+
+#ROOMS
+#28000
+`RDowntown `WMedical `RWaiting Room`x~
+Rows of plastic chairs are bolted to the floor in this brightly-lit
+waiting room, tables covered in magazines and newspapers set at regular
+intervals among the seats.  Informative charts and graphs cover the walls,
+and pamphlet holders marked 'Take One' hold information on such topics as
+insurance and dietary health.  
+
+A desk near the double-doors to the east offer patients the opportunity to
+sign in for admittance, and to the north a small shop displays balloons and
+cards on rotating stands.  
+ 
+You can `cadmit`x yourself here to receive medical care.
+~
+0 40 9
+E
+!srtemporary~
+An ominous little hallway leads down to a door marked with black letters:
+`DMorgue`w.  
+~
+G 0 0 100 0 0
+T 3000
+D0
+~
+~
+1 0 28001
+0 0 0 0
+D1
+~
+~
+0 0 28002
+0 0 0 0
+D2
+~
+~
+0 0 28013
+0 0 0 0
+D3
+~
+~
+1 0 1083
+0 0 0 0
+D5
+~
+~
+1 0 28011
+0 0 0 0
+M 100 H 0
+W Fluorescent lights flicker on and off in this poorly lit waiting room,
+lined with rows of plastic chairs with an off-white stain.  Tables of
+magazines and newspapers are set at regular intervals among the seats, the
+letters of each reading material cryptic and fading.  Informative charts and
+graphs cover the walls, and pamphlet holders marked 'Take One' hold
+information on such topics such as insurance and dietary health.  Crimson
+mist spill like blood across the floor and the stench of rotting flesh
+pollutes the air.  
+
+A dusty desk is set near double-doors that loom to the east while a small
+shop to the north displays balloons that twirl to some unknown breeze and
+cards on rotating stands that move on their own.  
+~
+S
+#28001
+`RDowntown `WMedical `RGift Shop`x~
+Display stands here feature various cards and balloons, and a small
+counter sells candy and sudoku books as well.  The shop is quite small, and
+in the window is a sign that says `ROpen 24 Hours`x.  
+~
+0 40 5
+G 0 0 50 0 0
+T 3000
+D2
+~
+~
+1 0 28000
+0 0 0 0
+M 100 H 0
+W This shop is quite small, the room itself seeming to shrink the longer
+one is confined within it's walls.  Balloons appear to dance to some unknown
+breeze while the rotating stands move of their own accord.  Crimson mist
+spills like blood across the floor and the stench of rotting flesh pollutes
+the air.  A flickering sign by the window saying `ROpen 24 Hours `wcasts a
+haunting glow.
+~
+S
+#28002
+`RDowntown `WMedical `RWestern Hallway`x~
+The sharp smell of antiseptic permeates this hallway, the stark overhead
+lighting reflected on the white tile.  Doors to the north and south lead to
+patient rooms, and glass-fronted display cases line the walls filled with
+government certifications, medical degrees, and childish drawings donated to
+the medical center from ex-patients.  The hall continues to the east.  
+~
+0 40 9
+E
+!srtemporary~
+`RFar to the east is the newly re-opened neonatal ward.  `x 
+`w
+A detail of (`GHSD`w) deputies stands watch outside the northern doorway.`w
+~
+G 0 0 50 0 0
+T 3000
+D0
+~
+~
+1 0 28005
+0 0 0 0
+D1
+~
+~
+0 0 28003
+0 0 0 0
+D2
+~
+~
+1 0 28008
+0 0 0 0
+D3
+~
+~
+0 0 28000
+0 0 0 0
+M 100 H 0
+W The overwhelming smell of antiseptic and rotting flesh intoxicates this
+hallway, accompanied with the seizure-like blinking of the dying lights
+overhead.  Crimson mists hovers above the floor, drifting towards the doors
+to the north and south, seeming to draw the haze in with eerie invitation. 
+Glass display cases line the walls, filled with government certifications
+and medical degrees.  The letters of each document are scrambled
+enigmatically across the hall, while childish drawings alter into scenes of
+and decay.  
+~
+S
+#28003
+`RDowntown `WMedical `REastern Hallway`x~
+The sharp smell of antiseptic permeates this hallway, the stark overhead
+lighting reflected on the white tile.  Doors to the north and south lead to
+patient rooms, and glass-fronted display cases line the walls filled with
+government certifications, medical degrees, and childish drawings donated to
+the medical center from ex-patients.  The hall continues to the west, and
+branches off into doors at the far eastern end.  
+~
+0 40 9
+E
+!srtemporary~
+~
+G 0 0 50 0 0
+T 3000
+D0
+~
+~
+1 0 28006
+0 0 0 0
+D1
+~
+~
+1 0 28010
+0 0 0 0
+D2
+~
+~
+1 0 28007
+0 0 0 0
+D3
+~
+~
+0 0 28002
+0 0 0 0
+D6
+~
+~
+0 0 28004
+0 0 0 0
+D8
+~
+~
+0 0 28009
+0 0 0 0
+M 100 H 0
+W The overwhelming smell of antiseptic and rotting flesh intoxicates this
+hallway, accompanied with the seizure-like blinking of the dying lights
+overhead.  Crimson mists hovers above the floor, drifting towards the doors
+to the north and south, seeming to draw the haze in with eerie invitation. 
+Glass display cases line the walls, filled with government certifications
+and medical degrees.  The letters of each document are scrambled
+enigmatically across the hall, while childish drawings alter into scenes of
+and decay.  The hallway twists to the west and branches off into doors that
+tower to the far eastern end.  
+~
+S
+#28004
+`RDowntown `WMedical `RSurgery`x~
+State of the art equipment is set-up at the side of the operating table
+in the middle of this room.  Sterile hospital gowns and scrubs are hung in
+the far alcove, and a double sink has an antibacterial soap dispenser
+hanging over it.  A chrome tray displays myriad surgical steel instruments
+from scalpels to hypodermic needles, each readily at hand.  
+~
+0 40 15
+E
+!srtemporary~
+~
+G 0 0 100 0 0
+T 3000
+D9
+~
+~
+0 0 28003
+0 0 0 0
+M 100 H 0
+W A surgical table is bathed in ghostly light and mist while the rest of
+the room's equipment fades into darkness.  Hospital gowns and scrubs are
+hung in the far alcove, barely seen in the obscurity, along with a grimy
+double sink.  A chrome tray is left in the light, displaying a myriad of
+surgical steel instruments from scalpels to hypodermic needles, bringing a
+foreboding aura while the stench of death suffocates the room.  
+~
+S
+#28005
+`RDowntown `WMedical `RRoom One`x~
+This room is sparsely furnished, the sanitary white walls a perfect match
+to the linoleum floor and the thin hospital sheets on the gurney that serves
+as a bed.  A small television mounted in the upper corner of the room is set
+at a low volume, and a thin curtain bisects the room in an effort to afford
+privacy to the occupant on the other side.  
+~
+0 40 15
+E
+!srtemporary~
+~
+G 0 0 50 0 0
+T 3000
+D2
+~
+~
+1 0 28002
+0 0 0 0
+M 100 H 0
+W Eggshell-colored walls spur a sensation of claustrophobia as the room
+appears to enclose around it's visitors.  Thin hospital sheets are left
+messily across gurneys that serves as beds while a small television is
+mounted in the upper corner, permanently set to a static channel that pains
+the ears.  A thin curtain bisects the room in an effort to bring privacy to
+the occupants on the other side, yet silhouettes dance across the tattered
+material, outlining nonexistent figures.  
+~
+S
+#28006
+`RDowntown `WMedical `RRoom Three`x~
+This room is tastefully furnished, the walls a soft, eggshell white. 
+Pictures of sailing ships on calm seas adorn the walls, and the single bed
+is made up with fluffed pillows and soft sheets.  The white tile floor has a
+pale blue rug at the side of the bed that matches the pair of comfortable
+armchairs angled nearby.  A flat-screen television is set to a low volume on
+the wall across from the bed, this room clearly meant for a single occupant.
+~
+0 8388648 15
+E
+!srtemporary~
+~
+G 0 0 60 0 0
+T 3000
+D2
+~
+~
+1 0 28003
+0 0 0 0
+M 100 H 0
+W A single bed furnishes this room, the sheets untidy and blood-stained
+while the scent of death and decay continues to linger.  A pair of
+armchairs, together with the bed, are enshrouded with crimson mist that
+drowns the floor.  Eggshell walls adorned by pictures of sailing ships and
+calm seas are marred with crimson hand prints, wiped across their surface
+and a flat-screen television is mounted on the wall, the screen cracked and
+set to a static channel with a screech that tortures the ears.  
+~
+S
+#28007
+`RDowntown `WMedical `RRoom Four`x~
+This room is tastefully furnished, the walls a soft, eggshell white. 
+Pictures of sailing ships on calm seas adorn the walls, and the single bed
+is made up with fluffed pillows and soft sheets.  The white tile floor has a
+pale blue rug at the side of the bed that matches the pair of comfortable
+armchairs angled nearby.  A flat-screen television is set to a low volume on
+the wall across from the bed, this room clearly meant for a single occupant.
+~
+0 40 15
+G 0 0 60 0 0
+T 3000
+D0
+~
+~
+1 0 28003
+0 0 0 0
+M 100 H 0
+W A single bed furnishes this room, the sheets untidy and blood-stained
+while the scent of death and decay continues to linger.  A pair of
+armchairs, together with the bed, are enshrouded with crimson mist that
+drowns the floor.  Eggshell walls adorned by pictures of sailing ships and
+calm seas are marred with crimson hand prints, wiped across their surface
+and a flat-screen television is mounted on the wall, the screen cracked and
+set to a static channel with a screech that tortures the ears.  
+~
+S
+#28008
+`RDowntown `WMedical `RRoom Two`x~
+This room is sparsely furnished, the sanitary white walls a perfect match
+to the linoleum floor and the thin hospital sheets on the gurney that serves
+as a bed.  A small television mounted in the upper corner of the room is set
+at a low volume, and a thin curtain bisects the room in an effort to afford
+privacy to the occupant on the other side.  
+~
+0 40 15
+G 0 0 50 0 0
+T 3000
+D0
+~
+~
+1 0 28002
+0 0 0 0
+M 100 H 0
+W Eggshell-colored walls spur a sensation of claustrophobia as the room
+appears to enclose around it's visitors.  Thin hospital sheets are left
+messily across gurneys that serves as beds while a small television is
+mounted in the upper corner, permanently set to a static channel that pains
+the ears.  A thin curtain bisects the room in an effort to bring privacy to
+the occupants on the other side, yet silhouettes dance across the tattered
+material, outlining nonexistent figures.  
+~
+S
+#28009
+`RDowntown `WMedical `RBlood Bank`x~
+A long white table is partitioned off to offer some privacy to each
+individual donor as their blood is drawn at each station.  Stacks of
+pamphlets and '`YI Gave Blood`x' stickers are handed out to participants as well
+as littering the tables, and small plastic cups of orange juice are offered
+to donors after their blood is drawn.  A gurney near the western wall has a
+simple triage station set-up nearby in case of emergencies.  
+~
+0 40 16
+G 0 0 100 0 0
+T 3000
+D7
+~
+~
+0 0 28003
+0 0 0 0
+M 100 H 0
+W A crimson haze sweeps across the room, featuring long white tables
+partitioned off to offer some privacy to each station while blood is drawn
+from individual blood donors.  Stacks of pamphlets and stickers are handed
+out to participants and litter the tables, the letters scrambled to form
+unrecognizable words.  A gurney pushed to the western wall has a triage
+station set-up in case of emergencies while the scent of fresh blood
+dominates the area.  
+~
+S
+#28010
+`RDowntown `WMedical `RNeonatal Ward`x~
+`WA window of reinforced glass separates people in this antechamber from
+the room beyond, filled with incubators that have a single baby in each one,
+hooked up to quietly beeping monitors.  `x 
+
+In this room is a table covered in magazines, a set of forms for WIC signup,
+and pamphlets advertising various medical and dental insurance programs.  
+
+`BA security guard is posted here, checking hospital badges to keep people
+from passing into the actual neonatal ward.  `x 
+~
+0 8388648 15
+E
+infant~
+This tiny newborn is female, with olive skin, dark blue eyes, and glossy,
+short black hair.  Perfectly formed, she has ten fingers, ten toes, and
+cherubic cheeks that are delicately pink with health.  Her voice is soft,
+whether cooing or crying, though she rarely seems to do the latter.  
+~
+G 0 0 60 0 0
+T 3000
+D3
+~
+~
+1 0 28003
+0 0 0 0
+M 100 H 0
+W ~
+S
+#28011
+`RDowntown `WMedical `R- `WA Sterile Basement Morgue`w~
+Located in the bowels of the hospital, the desolate surroundings of this
+morgue lack warmth in its utilitarian structure.  Small squares of sterile
+white and grey tiles bespeckle the floor, sloped at angles towards
+strategically placed circular drains.  Two flat eggshell walls are dominated
+by individual stainless steel drawers, programmed to maintain a constant
+temperature and each numbered for organization.  The near nauseating smell
+of bleach and disinfectants weighs heavily upon the area.  
+~
+0 33554440 14
+G 0 0 100 0 0
+T 3000
+D1
+~
+~
+0 0 28012
+0 0 0 0
+D4
+~
+~
+1 0 28000
+0 0 0 0
+M 100 H 0
+W Located in the bowels of the hospital, the desolte surroundings of this
+morgue have a sickly green cast in their utilitarian structure.  Small
+squares of sterile white and grey tiles bespeckle the floor, an ominous dark
+red taint seeming to careen across the sloped surface to dissipate into
+circular drains.  Shadows darken the visible walls, seeping between the
+individual stainless steel drawers which hold the tagged bodies of the
+deceased.  The near nausesating smell of bleach and disinfectants weighs
+heavily upon the area.  
+~
+S
+#28012
+`RDowntown `WMedical `R- `WA Dimly-Lit Autopsy Room`w~
+The dingy white color of the walls does nothing to help the cramped space
+of this hospital autopsy room.  Dim flourescent lighting provides a fickle
+illumination, making the bleached small white tiles underfoot seem all the
+more drab.  Several long, stainless steel operating tables have been evenly
+laid out, with frosted glass cabinets holding instruments similar to what is
+found in surgical suites.  Large metal sinks are bolted along one side, with
+rolling metal trays and calibrated scales to assist with procedures.  
+~
+0 0 0
+G 0 0 100 0 0
+T 3000
+D3
+~
+~
+0 0 28011
+0 0 0 0
+M 100 H 0
+W The dingy white color of the walls does nothing to help the cramped space
+of this hospital autopsy room.  Jagged fissures seem to have altered the
+perimeter, permitting a decaying mist to cling to the air.  Dim flourescent
+lighting flickers in yellowed rectangles upon the ceiling.  Grimy lines of
+grout separate the small white tiles underfoot, interspersed with circular
+drains which appear clogged with an indeterminate reddish ooze.  Several
+long, stainless steel operating tables are laid out, with cabinets holding
+instruments similar to surgical suites.  Large metal sinks are bolted along
+one side, with unsterilized trays and scales to assist with procedures.  
+~
+S
+#28013
+`RDowntown `WMedical `RPharmacy`x`x~
+Off to the southern side of the medical center's entrance lies this
+relatively small counter.  Ceiling high glass cuts off further access to the
+many medicine filled shelves beyond, but a small opening near the counter's
+surface allows medication to be dealt out to consumers.  
+~
+0 0 0
+G 0 0 0 0 0
+T 3000
+D0
+~
+~
+0 0 28000
+0 0 0 0
+M 100 H 0
+W ~
+S
+#0
+
+
+
+#RESETS
+D 0 28000 3 1
+D 0 28000 5 2
+D 0 28002 0 1
+D 0 28002 2 1
+D 0 28003 0 1
+D 0 28003 2 1
+D 0 28005 2 1
+D 0 28006 2 1
+D 0 28007 0 1
+D 0 28008 0 1
+D 0 28011 4 2
+O 0 28000 0 28000
+M 0 28000 1 28000 1
+M 0 28002 1 28000 1
+M 0 28001 1 28001 1
+G 0 28008 0
+G 0 28009 0
+G 0 28010 0
+G 0 28011 0
+G 0 28012 0
+G 0 28013 0
+G 0 28014 0
+G 0 28015 0
+O 0 28005 0 28004
+O 0 28000 0 28005
+O 0 28005 0 28005
+O 0 28006 0 28006
+O 0 28007 0 28006
+O 0 28006 0 28007
+O 0 28007 0 28007
+O 0 28000 0 28008
+O 0 28005 0 28008
+O 0 28000 0 28009
+O 0 28007 0 28010
+O 0 28010 0 28010
+O 0 28011 0 28010
+O 0 28001 0 28010
+M 0 28003 1 28013 1
+G 0 28016 0
+S
+
+
+
+#SHOPS
+28001 25 8 6 21 0 100 100 0 23 0 0
+28003 8 32 12 10 9 100 100 0 23 0 0
+0
+
+
+
+#MOBPROGS
+#0
+
+#GROUPS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,191 @@
+#HOUSE
+Vnum	1
+Name      Apartment 101~
+Vnums	28918 28918
+Transfer 0
+LastOwner ~
+Address Apt 101, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	28918
+Faction 0
+Price	600
+Blackout 0
+CPrice 600
+ADate 24 2
+Owner ~
+End
+
+#HOUSE
+Vnum	2
+Name      Apartment 102~
+Vnums	28916 28916
+Transfer 0
+LastOwner ~
+Address Apt 102, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	28916
+Faction 0
+Price	600
+Blackout 0
+CPrice 600
+ADate 23 2
+Owner ~
+End
+
+#HOUSE
+Vnum	3
+Name      Apartment 103~
+Vnums	28911 28911
+Transfer 0
+LastOwner ~
+Address Apt 103, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	28911
+Faction 3
+Price	600
+Blackout 0
+CPrice 600
+ADate 22 2
+Owner ~
+End
+
+#HOUSE
+Vnum	4
+Name      Apartment 104~
+Vnums	28909 28909
+Transfer 0
+LastOwner ~
+Address Apt 104, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	28909
+Faction 0
+Price	600
+Blackout 0
+CPrice 600
+ADate 21 2
+Owner ~
+End
+
+#HOUSE
+Vnum	5
+Name      Apartment 201~
+Vnums	28948 28948
+Transfer 0
+LastOwner ~
+Address Apt 201, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	28948
+Faction 0
+Price	1200
+Blackout 0
+CPrice 1200
+ADate 20 2
+Owner ~
+End
+
+#HOUSE
+Vnum	6
+Name      Apartment 202~
+Vnums	28946 28946
+Transfer 0
+LastOwner ~
+Address Apt 202, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	28946
+Faction 0
+Price	1200
+Blackout 0
+CPrice 1200
+ADate 19 2
+Owner ~
+End
+
+#HOUSE
+Vnum	7
+Name      Apartment 203~
+Vnums	28941 28941
+Transfer 0
+LastOwner ~
+Address Apt 203, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	28941
+Faction 0
+Price	1200
+Blackout 0
+CPrice 1200
+ADate 18 2
+Owner ~
+End
+
+#HOUSE
+Vnum	8
+Name      Apartment 204~
+Vnums	28939 28939
+Transfer 0
+LastOwner ~
+Address Apt 204, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	28939
+Faction 3
+Price	1200
+Blackout 0
+CPrice 1200
+ADate 17 2
+Owner ~
+End
+
+#HOUSE
+Vnum	9
+Name      Apartment 400~
+Vnums	28990 29047
+Transfer 0
+LastOwner ~
+Address Apt 400, Rencroft Apartment Building, 84 Maple Street~
+Toughness 0
+Security 0
+Guards 0
+Door	29007
+Faction 0
+Price	3000
+Blackout 0
+CPrice 3000
+ADate 16 2
+Owner ~
+End
+
+#HOUSE
+Vnum	10
+Name      1  Ocean~
+Vnums	30620 30675
+Transfer 0
+LastOwner ~
+Address 1 Ocean Drive~
+Toughness 0
+Security 0
+Guards 0
+Door	30621
+Faction 3
+Price	5000
+Blackout 0
+CPrice 5000
+ADate 1 2
+Owner ~
+End
+
+#END

@@ -1,0 +1,190 @@
+[ 1701] Dallas: I quit with no wounds last night, woke up with a mild wound and 10 shield points gone this morning
+[ 2005] Ponnet: there should be a way to connect rooms so that you are not stepping outside all the time.
+[10102] Dallas: when my fatigue is -100, it displays in my score as -10
+[10100] Sidney: You can enter the warrens whiles resting (and you remain resting while you progress and fight mobs)
+[10100] Sidney: to all
+[10100] Sidney: Move <mob> (distance) does not work
+[ 1704] Sidney: emote doesn't seem to give experience every time when rping alone- it only seems to give Rp exp when you put a ' in the emote
+[ 1528] Catarina: me
+[28005] Colt: subject Critical Wounds
+[ 1016] Tine: makeobject doesn't work at all and on top of that make goes to make room.
+[28704] Sal: bottle
+[19107] Gaebriel: 14
+[   98] Carmen: Dead people can Fsay.
+[19107] Sam: 18
+[19119] Baptiestin: 16
+[19119] Zack: 19
+[19119] Taylor: 16
+[45459] Zack: 6 
+[19119] Zack: 16
+[24026] Itan: 3
+[ 1010] Moriarty: map
+[45138] Charles: 3
+[45138] Charles: 3
+[19119] Clairy: 1
+[24021] Clairy: y16
+[19119] Clairy: 17
+[19119] Clairy: 17
+[45620] Allen: Cannot edit drugs.
+[ 1315] Allen: Cannot customize drug types.
+[19119] Hugo: 16
+[ 1172] Leah: Licoln and Sidney isn't considered an intersection
+[28726] Leah: Color code at the end of bloodaura bleeds.
+[24021] Clairy: 13
+[16867] Leah: 'Febuary' in scoresheet
+[24034] Leah: activating sapphire amulet without blood. item is garnet cross pendant(kay jewelers), chipped sapphire. crashes game.
+[46020] Leah: showstatting a -1 stat reports it as a 0
+[ 1161] Leah: Cedar and Sidney isn't counted as an intersection
+[19119] Heather: 1
+[19119] Heather: 3
+[ 1018] Hael: Activating a level 5 emerald artifact - flight - does not give the powers of flight. Tested using 1 unit of virgin blood.
+[19119] Dante: 20
+[16839] Leah: Just saw Arli wake up, I'm deep in the forest and she's in a house in the city.
+[46284] Najid: I think social combat might be broken. Got punched near continuously for an hour and never went down, as well as punching others and not being able to knock them out despite having 5 str and 4 martial arts
+[18368] Clark: Troll axe throwers don't attack at range 1, and they don't try to retreat either. Making them squishy punching bags till they die.
+[19119] Alejandro: 20
+[   52] Marius: 18
+[19119] Alejandro: 1
+[16977] Core: For some reason or another, my disc are lower with no wounds, fatigue, or new moon with my werewolf. It seems for no reason at all my stats have dropped to 26 from 31 tooth and claw and 33 toughness
+[16976] Core: Also to add to the odd disc change, when I trained tooth and claw the stat increased to 27
+[19119] Dahlia: 10
+[ 1046] Mortimer: At an intersection, but cannot ride, because I am not at an intersection. Milston and Oakland.
+[   52] Trenton: 6
+[19119] Core: In the help demonborn guide. It refers to angelborns for passive. I think it is supposed to be demonborns.
+[46211] Gloria: While only wearing 2 nipple rings, 2 hoop earrings, and a stud earring and attempting to wear the second stud earring, I receive an error message, "You already wear twenty five items." I am only wearing five and attempting to add a sixth.
+[46888] Nia: 1
+[19119] Brick: 10
+[45977] Jago: My stat is at -1 and when I showstat it shows up as 0
+[24018] Shane: 3
+[24054] Keira: y5
+[24012] Teagan: 6
+[24057] Katarina: 14
+[46391] Teagan: 2
+[19119] Donald: 17
+[ 1257] Althea: Green and Washington isn't an intersection?
+[ 1420] Donovan: My house has vanished. My holdings says I own 20 bank street, which is where I'm at now, but there's no north exit here. If I do an appraisal, it says there is a free spot where my house should be also.
+[24051] Frederick: 14
+[46391] Katarina: 4
+[24049] Teagan: 5
+[19119] Lissandra: 1
+[45724] Grigori: list
+[45724] Grigori: O_O eerr. Ignore that previous thing.
+[19119] Inga: 20
+[24051] Michelle: 5
+[19119] Willard: 19
+[19119] Mickey: 20
+[   52] Harvey: 18
+[24024] Harvey: 5
+[24025] Teagan: 3
+[45286] Hallgrim: The room I'm standing in, "Cavernous bathchamber tiled in marble", is severely bugged and possessed by demons. Appended to the room's description is random parts from people's descriptions, that seem to change on occasion, and a wall of text that mostly consists of a lot of "all, all, all, all".
+[28735] Myron: milk
+[   52] Rae: When I customized the description of my jacket it also seemed to change the description of the shirt I bought afterwords.
+[19000] Kieran: If you end up disconnected while riding the trolley, when you log back in, you will start receiving trolley movement messages before inputting your password.
+[28635] Kieran: I've been unable to send investigate orders against anyone for the better part of the day due to having given an order too recently- but the only ones I've been sending out are against fellow faction members, which isn't supposed to have any cooldown.
+[19119] Leon: 16
+[   52] Melody: 8
+[45293] Kieran: I'm having an issue adding a bag item to my outfit. Both when using outfit create and outfit add, the bag simply won't become part of the outfit, even though the game echoes that the adding/creating went through fine.
+[47251] Sydney: 2
+[19119] Olivia: 9
+[28817] Lyle: So, I noticed what seemed like a bug, figured it was worth posting up. I don't currently have any (visible) penalties to my disciplines when outside during the day, when it's cloudy like it is. But, I do receive penalties when I'm in transit from the taxi. So, it seems like the weather code doesn't apply when you're Traveling, at least in a taxi.
+[19408] Kacey: have shirt and jeans in inventory (or carried).  wear shirt gets "Done."  Look at self, its still not worn, but in my inventory.  same with jeans and a dress I'm carrying.
+[27007] Kirin: there's a lack of a south exit back to the haven high school hallway from when you go north from that hallway to the gym
+[47590] Kacey: feedback doesn't seem to work as the help file indicates.  I tried feedback view <name>, feedback view, feedback <name> and just get a command not found
+[   50] Timothy: Reroll self gave me extra points somehow
+[   50] Timothy: Having issues with training in chargen. After spending around 10-11 points, can't train anything.
+[205508526] Timothy: I logged on and seem to have about 2 billion Karma. That seems a bit much.
+[105472485] Timothy: The time in the description of rooms says -5:15 instead of 7:15
+[205513519] Nikolai: Soldiering only cost one point to take it to level 2
+[205513519] Nikolai: Or level three for that matter.
+[205513519] Nikolai: Soldiering only takes one point to raise through at least rank 3 though I didn't try to go further. Negtraining gives you 2 points. Potential abuse.
+[405471482] Nikolai: Might have been something I just didn't realize I was doing, but out in the forest with Stone and at optimal range I was doing like less than a third of what I should have been. 25(30) is what my disc says and I was doing 8-12 12 at optimal range.
+[205445456] Nikolai: was trying to move. Typoed and entered an editor. When I hit done, it crashed.
+[205447458] Nikolai: After using overpower on carbines, attack with short blades does regular damage
+[404470482] Nikolai: Also ranged damage still does most of the damage when you use it against someone adjacent
+[405471526] Lyle: I had 6 influence earlier. After I went and sat and RPed in the Lodge for a bit, walked around a bit, checked my score, and I don't have any influence anymore. Not a huge deal obviously, but I figured it was worth reporting.
+[205446460] Nikolai: Don't know if it's intentional. But when a person shrouds or ushrouds, everyone following does the same.
+[205443458] Nikolai: every time you move in combat it makes you look. 
+[405493486] Darius: 12
+[205443454] Nikolai: emoting during forest combat puts it into emote combat
+[205442525] Jakob: Earlier attacked the brush I summoned with rapidgrowth from nature ability. Sent me into the deep shroud.
+[205443525] Jakob: summoned cover with nature. Went further in to fight, came back and somehow got into a battle out of shroud with the brush as the only thing on the map. Fled and got this: You prepare to flee./n/rYou move.
+[205444523] Jakob: WEnt 52 in east of Order. Came across a draugr and a skeleton. Skeleton just disappears.
+[205446529] Jakob: On nature skill. The quicksand ability... well it created a quicksand that moved out of the room. Weird.
+[   52] Eden: 2
+[   52] Blu: 4
+[405505494] Ryan: y4
+[404470482] Alister: Not able to see points left for disciplines and stats
+[105471485] Alister: Placed my kevlar and bow in my bag. Went to the forest and turns out it disappeared.
+[405493486] Skodnasnyja: 12
+[404470482] Veternus: Not sure if I am getting dissed or not, but every day my Progress has been resetting, along with appearance. It looks like a bug, but maybe people just hate me. Wanted to check to make sure
+[405493487] Allison: 4
+[205439524] Lyle: Just a quick bug. I used the Trick ability, and it was used twice after that, on two separate attacks, while in a hunting group with four people.
+[405493486] Lyle: 2
+[305472523] Hale: 2
+[405505494] Allison: y1
+[205524460] Fate: occassionally get different colors on the northwest room
+[   52] Isabella: 3
+[205443451] Austin: I've tried using PROMPT to toggle my ptompr on, and PROMPT STARTER, but while hunting, my prompt refuses to start up. I even relogged and made sure that color and mxp are on just in case they got turned off somehow.
+[205549446] Fate: I was in the forest when I got this echo: A family passes you on the street.
+[405510494] Jacen: Clone is causing Haven to crash, specifically when being used on the protein bars from the hunting shop.
+[405510494] Kaine: 1
+[405510494] Kaine: 1
+[305471487] Lorna: 8
+[   52] Anastasia: 4
+[405510494] Caedell: y6
+[   52] Jerry: 4
+[405505494] Lyle: It seems that there's something going around, in which numbers on my speeddial are getting replaced by other people's numbers.
+[405505494] Lyle: I've noticed that when someone dies, if they are your teacher, they retain the Teacher Status even after rerolling. I didn't think to check my stat costs, but if it's possible that the stat cost reductions stay in place, this seems like a bug.
+[105507492] Lyle: The Northeastern entrance in this room leads to the porch, but is not a climable exit like the rest of the Lodge exits
+[305476528] Lyle: I'm not sure if this is a bug or not. But, sometimes I log in to check things like notes from my phone, early in the morning. And I've noticed the past couple of days that it seems I might be gaining influence twice a day, with no real effort on my part, just from logging in.
+[105514471] Jace: All of the doors inside the hospital are locked, even though the room display says they should just be closed.
+[405493487] Margaret: 1
+[305476528] Lyle: I recently did an order on the value of a PCs blood. However, the order didn't cost regular or faction influence.
+[405492495] Lyle: I seem to have found a strange room, in which there is a down exit which leads to sky. I am going to go to the down exit. I hope I do not die.
+[305462483] Ethan: y5
+[305472541] Alexa: skirt stash
+[305472541] Alexa: skirt stash
+[41021] Chade: You heabutt Sherlock. (a return from the headbutt command.)
+[105470525] Carth: report Maya has been idle for 23224678 minutes 28 seconds.
+[305496484] Saige: 7
+[   52] Bruce: y2
+[41021] Napoleon: chade
+[305497483] Saige: 3
+[305462483] Aaron: 7
+[205513513] Jean: I'm experiencing the drunk bug on this character.
+[19013] Lyle: It seems like I'm able to currently move around with 0 lag, like a running shifter, even though I'm not shifted into a running form. Just a heads up, not really sure what's up with that.
+[   52] Larc: 5
+[   52] Larc: 14
+[   52] Larc: 4
+[105521518] Stephen: I am vomiting and passing out for no reason. 
+[405506493] Donald: maskintro is not working for me, I am completely covered and I still can't be masked.
+[   52] Dave: y 3
+[   52] Katsuo: 3
+[405510493] Saige: 3
+[305516476] Chase: 16
+[405493487] Lizzy: y7
+[   52] T.J.: socks bag
+[405505494] Sonya: 1
+[205443521] Daesoon: The timer for distract (combat illusions) to reduce damage doesn't seem to last long enough to be reliably usable in fast combat, fyi.  Not sure if it's intended to work that way, or whatever.
+[305513479] Sonya: 37
+[205490549] Shanie: 1 snnk
+[    5] Discordance: Test
+[405505494] Tony: 7
+[403470484] Rupert: list
+[305476487] Rosario: Layering and coverage for bag type objects seem out of wack. The bag won't display when worn even when there are no items that would appear to cover it.
+[   52] Dylan: 12
+[19010] Ozymandias: When climbing it transports your car.
+[105514478] Lyle: Not sure if it's a bug, but apparently something that abominations can do without making themselves visible through Memorycloak, is talking, and talking on Fsay as well. Just seems like something that should leave them visible even in public for a few moments at least, since they're bringing attention to themselves by speaking
+[305482541] Lydia: Lost $150 from back account on login, without any message as to why, without having bought/leased anything, no paycheck yet either. Checked on newbie first, and no one had any other ideas.
+[305485541] Lydia: Accidentally typed "decorate sparring circle" instead of "decorate place sparring circle" in a room. While it would be cool to have it be a sparring room, it was not actually fully my intention. But the bug part lies in that I only had $220 in my bank account, and the command still worked, despite that. So now I have -$280. Should probably not let people go into debt for that, I would think.
+[305513479] Amber: y43
+[305491517] Lyle: I have a phone that is named "a black Samsung Galaxy Tab 3 in a protective case bearing yellow writing", which costs 270 dollars. However, if I try to use chatroom commands with it, I'm told that I don't have an internet capable device on hand.
+[   52] Curt: 5
+[305496472] Morcant: Faction Develop Ghostproof should be a faction develop ghostproofing in the syntax as that is what works.  Just an FYI
+[105473520] Exias: Develop Buyland Shop East on Jefferson just north of Mariner causes a crash.
+[303496473] Morcant: While Excelsior is still getting charged their daily amount, they aren't currently receiving Hand assistance.  I'm not sure if this is due to the business adjustments (which they do sell clothing, and will be more fleshed out by this weekend) or if it is just a bug, so I'm bugging it to be safe.
+[302497473] Sophie: Property sold through the 'shop buy' command does not put any money in the seller's bank account.
+[305496473] Morcant: I was supernaturally drained back on tuesday or Wednesday, I know I've been playing a lot over the past few days but the decrease isn't going away. I'm just trying to find out if there is a pfile bug or not.
+[304498474] Morcant: Excelsior gained a 4 resources after winning the battle today.  When I checked both logs and faction info, it had reverted to 95% with nothing being withdrawn.
+[305471491] Antonia: 10
+[   52] Daed: 4

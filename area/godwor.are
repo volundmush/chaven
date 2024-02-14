@@ -1,0 +1,58 @@
+#AREADATA
+Name World Godrealm~
+VNUMs 402000 402999
+Completed 0
+World 3
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#402007
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#402008
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

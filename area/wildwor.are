@@ -1,0 +1,69 @@
+#AREADATA
+Name World Wilds~
+VNUMs 401000 401999
+Completed 0
+World 2
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#401003
+~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#401026
+The Forest~
+~
+0 4194308 23
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#401027
+The Forest~
+~
+0 4194308 23
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

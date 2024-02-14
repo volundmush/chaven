@@ -1,0 +1,1980 @@
+#LOCATION
+Name Montreal, Canada~
+Continent 1
+Lockout 1570445412
+Status 2
+Notes ~
+Hand 12
+Order 31
+Temple 21
+XCoord 422
+YCoord 389
+BattleClimate 0
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5275
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Toronto, Canada~
+Continent 1
+Lockout 1570445412
+Status 3
+Notes ~
+Hand 2
+Order 7
+Temple 37
+XCoord 394
+YCoord 402
+BattleClimate 4
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Vancouver, Canada~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 38
+Order 15
+Temple 9
+XCoord 200
+YCoord 363
+BattleClimate 5
+Timezone -3
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 11
+BaseType 0
+Phil 0 2 0 0 0 62 42 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name New York, New York~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 34
+Order 7
+Temple 12
+XCoord 427
+YCoord 416
+BattleClimate 4
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline Fri Nov 10 2023: Conspiracy theorist blogs are filled with scattered reports emerging from New York, indicating that unidentified, kevlar-clad operatives arriving in black vans are methodically apprehending and "black-bagging" individuals suspected of affiliations with the Vampire Court. Across the boroughs, there are accounts of individuals, ranging from local politicians to members of the homeless community, having been abducted by these assailants. With the uncertainty surrounding the Vampire Court's influence in the financial and political realms of the city, New York's supernatural community finds itself in a precarious atmosphere, with many acknowledging that the city has become a focal point of contention.
+Tue Nov 14 2023: Under the coercive influence of the Templars, bolstered by manipulated and potentially fabricated photographs depicting New York politicians in compromising situations, the state legislature has reluctantly approved the expansion of Bellevue Hospital's cancer wing. Regrettably, this seemingly benevolent initiative masks a more dubious agenda, as the new cancer ward has been repurposed by Templar operatives for the chipping and processing of local supernaturals, facilitating their tracking and control. This development poses a significant threat to the supernatural community in New York.
+Mon Nov 27 2023: The Temple confronts the remnants of the desperate Vampire Court of New York, disparate supernatural elements, and reinforcements from the formidable Vampire Empire. They strategically demolish the abandoned building that served as a coordination hub for these rebellious forces. Exploiting the ensuing chaos as a diversion, the Temple successfully establishes a strategic presence on Floor 56 of the Tyrell Corporation's skyscraper. Simultaneously, they eliminate the final stronghold of supernatural resistance. With these actions, the Temple asserts its control over the city, commanding the local government, its first responders, and influential figures on Wall Street.~
+StatusTimer 59
+BaseType 0
+Phil 0 0 100 0 0 100 1 0 0 0 0 0 0 0 0 0 0 0 0 60
+Basecore 7 Tyrell Corporation, Floor 52 "Skunkworks" - Floor 52, also known in Templar channels as the "Skunkworks", is a dedicated Templar command-and-control center in New York
+~
+End
+
+#LOCATION
+Name New York~
+Continent 0
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 0
+Order 0
+Temple 0
+XCoord 0
+YCoord 0
+BattleClimate 3
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 731
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Boston, Massachusetts~
+Continent 1
+Lockout 1655433805
+Status 1
+Notes ~
+Hand 18
+Order 13
+Temple 15
+XCoord 0
+YCoord 0
+BattleClimate 4
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline Sat Dec  2 2023: Negotiations unfolded within the walls of Haven's town hall as the Temple orchestrated a strategic agreement with the Witch Hunters. The exchange involved a nuanced barter encompassing critical information, clandestine trading routes of the black market, sources of aftermarket weapons smugglers, and various other clandestine transactions. In return for this trove of invaluable resources, a pact was forged between the Templars and the Witch Hunters. In the aftermath of this accord, the Templars pledged their support to the Witch Hunters in their relentless pursuit of a common adversary: the Coven. Executing a meticulously planned operation in the sprawling Sherrin Woods, a reported haven for the Coven's routine rituals, the Temple successfully absconded with a pivotal Coven grimoire. This artifact, held in high esteem by the Coven, was promptly delivered into the hands of the Witch Hunters. Having fulfilled the terms of the agreement, the Witch Hunters reciprocated by furnishing the Temple with valuable local contacts and an initial staging area within the region. However, an unintended consequence emerged from the zealous nature of the Witch Hunters. Their fervent pursuit of magic practitioners in Boston has cast a shadow of uncertainty in the city, leaving every arcanist in the region apprehensive about an impending visit from these fervently magic-averse enforcers. Consequently, supernatural tensions in the area have been heightened, further complicating the delicate balance of power.~
+StatusTimer 5
+BaseType 0
+Phil 0 0 0 1 0 45 6 27 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name London, England~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 47
+Order 19
+Temple 11
+XCoord 748
+YCoord 352
+BattleClimate 4
+Timezone 5
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1055
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Edinburgh, Scotland~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 25
+Order 21
+Temple 11
+XCoord 736
+YCoord 318
+BattleClimate 1
+Timezone 5
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1397
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Miami, Florida~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 20
+Order 33
+Temple 2
+XCoord 389
+YCoord 497
+BattleClimate 1
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 88
+BaseType 0
+Phil 0 0 0 0 0 18 1 34 0 0 0 20 0 0 0 0 0 0 0 60
+Basesect 166 `033High Anchor Outpost is a small community located on one of the smaller islands`x
+`038in the Florida Keys. Nobody is exactly sure how they got permission to settle`x
+`044there but it seems like they somehow have all the legal authority required. A`x
+`043fairly bohemian community made up of a large number of surfers, and local`x
+`036fisher people as well as several indigenous people who can trace their ancestry`x
+`031back to the Tequesta tribe.`x
+
+`032It is rumored that there is a cave network in the coral island beneath the`x
+`033Outpost and that at night strange people come and go discreetly from the island.`x
+~
+End
+
+#LOCATION
+Name Belfast, Ireland~
+Continent 3
+Lockout 1581170674
+Status 1
+Notes ~
+Hand 31
+Order 25
+Temple 11
+XCoord 723
+YCoord 328
+BattleClimate 1
+Timezone 5
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 492
+BaseType 0
+Phil 0 0 0 2 0 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name New Orleans, Louisiana~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 0
+Order 0
+Temple 0
+XCoord 347
+YCoord 478
+BattleClimate 0
+Timezone -1
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 434
+BaseType 0
+Phil 0 0 0 4 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Richmond, Virginia~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 14
+Order 24
+Temple 15
+XCoord 401
+YCoord 438
+BattleClimate 1
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 285
+BaseType 0
+Phil 0 0 9 0 0 46 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Yellowstone, Wyoming~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 16
+Order 35
+Temple 2
+XCoord 314
+YCoord 477
+BattleClimate 2
+Timezone -2
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 184
+BaseType 0
+Phil 0 0 0 0 0 0 39 0 0 0 0 0 0 0 0 0 0 0 0 0
+Other 11 The Heralds~
+End
+
+#LOCATION
+Name Austin, Texas~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 15
+Order 10
+Temple 57
+XCoord 237
+YCoord 439
+BattleClimate 2
+Timezone -2
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 477
+BaseType 0
+Phil 0 0 0 4 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Las Vegas, Nevada~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 20
+Order 10
+Temple 10
+XCoord 222
+YCoord 457
+BattleClimate 4
+Timezone -3
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 728
+BaseType 0
+Phil 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Los Angeles, California~
+Continent 1
+Lockout 1671670501
+Status 1
+Notes ~
+Hand 50
+Order 10
+Temple 5
+XCoord 303
+YCoord 526
+BattleClimate 2
+Timezone -3
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 458
+BaseType 0
+Phil 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Mexico City, Mexico~
+Continent 1
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 16
+Order 10
+Temple 38
+XCoord 352
+YCoord 523
+BattleClimate 0
+Timezone -1
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 650
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Bogota, Columbia~
+Continent 2
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 10
+Order 10
+Temple 9
+XCoord 419
+YCoord 600
+BattleClimate 0
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 997
+BaseType 0
+Phil 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Brasilia, Brazil~
+Continent 2
+Lockout 1583898038
+Status 1
+Notes ~
+Hand 15
+Order 11
+Temple 50
+XCoord 537
+YCoord 692
+BattleClimate 0
+Timezone 2
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1332
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Lima, Peru~
+Continent 2
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 10
+Order 16
+Temple 46
+XCoord 409
+YCoord 673
+BattleClimate 5
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 590
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Cordoba, Argentina~
+Continent 2
+Lockout 1570445412
+Status 5
+Notes ~
+Hand 10
+Order 10
+Temple 14
+XCoord 464
+YCoord 766
+BattleClimate 0
+Timezone 2
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5131
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Dublin, Ireland~
+Continent 3
+Lockout 1570445412
+Status 3
+Notes ~
+Hand 14
+Order 59
+Temple 10
+XCoord 720
+YCoord 343
+BattleClimate 1
+Timezone 5
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 12
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Paris, France~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 8
+Order 69
+Temple 10
+XCoord 758
+YCoord 376
+BattleClimate 4
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 808
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Madrid, Spain~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 9
+Order 12
+Temple 57
+XCoord 732
+YCoord 423
+BattleClimate 1
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 427
+BaseType 0
+Phil 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Paris, France~
+Continent 0
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 0
+Order 0
+Temple 0
+XCoord 0
+YCoord 0
+BattleClimate 3
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 751
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Berlin, Germany~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 9
+Order 50
+Temple 10
+XCoord 804
+YCoord 347
+BattleClimate 4
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 360
+BaseType 0
+Phil 0 0 0 0 0 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Milan, Italy~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 48
+Order 36
+Temple 8
+XCoord 790
+YCoord 391
+BattleClimate 1
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 251
+BaseType 0
+Phil 0 1 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Rome, Italy~
+Continent 3
+Lockout 1658714767
+Status 1
+Notes ~
+Hand 77
+Order 25
+Temple 9
+XCoord 801
+YCoord 413
+BattleClimate 4
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 348
+BaseType 0
+Phil 0 3 0 0 0 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Athens, Greece~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 28
+Order 23
+Temple 23
+XCoord 852
+YCoord 437
+BattleClimate 1
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1332
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Warsaw, Poland~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 19
+Order 71
+Temple 16
+XCoord 841
+YCoord 347
+BattleClimate 0
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 314
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Stockholm, Sweden~
+Continent 3
+Lockout 1679149100
+Status 1
+Notes ~
+Hand 13
+Order 37
+Temple 0
+XCoord 823
+YCoord 292
+BattleClimate 1
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1130
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Oslo, Norway~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 18
+Order 22
+Temple 7
+XCoord 794
+YCoord 286
+BattleClimate 1
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 561
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Helsinki, Finland~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 10
+Order 13
+Temple 14
+XCoord 862
+YCoord 283
+BattleClimate 1
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 758
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Bucharest, Romania~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 9
+Order 7
+Temple 4
+XCoord 862
+YCoord 395
+BattleClimate 5
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1220
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Kiev, Ukraine~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 23
+Order 40
+Temple 14
+XCoord 885
+YCoord 357
+BattleClimate 1
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 999
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Minsk, Belarus~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 34
+Order 34
+Temple 11
+XCoord 873
+YCoord 335
+BattleClimate 1
+Timezone 8
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline Thu Dec 21 2023: `189Minsk, once a battleground for the forces of instability (not a small, semiaquatic carnivore whose fur is often used to make fancy coats. There seems to have been some confusion among some. See: mink.), now stands as a testament to `229The Order's `189indomitable spirit and dedication. The recent string of victories has showcased their commitment, and with each autonomist cell they dismantled, they inched closer until finally freeing the capital after eradicating the last vestiges of the militias and their psychic hold over the city.`w  ~
+StatusTimer 62
+BaseType 0
+Phil 0 0 0 0 0 1 20 0 0 0 0 0 0 0 0 0 0 0 0 0
+Basecore 6 Nestled within a nondescript apartment building in the heart of Minsk, The Order has established a discreet haven. It is an apartment that conceals its supernatural secrets behind an unassuming facade. This clandestine dwelling serves as the perfect covert base and is a sanctuary of secrecy amid the bustling urban landscape. Blending in seamlessly with its neighbors, the unremarkable hideout is guarded by an inconspicuous door, and offers no indication of the mystical enclave concealed beyond. Inside, there is an armory that holds weaponry and protected relics, a meditation nook, and a library full of books and scrolls in an invaluable repository for knowledge.
+~
+End
+
+#LOCATION
+Name Moscow, Russia~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 59
+Order 22
+Temple 8
+XCoord 928
+YCoord 330
+BattleClimate 4
+Timezone 8
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 808
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Saint Petersburg, Russia~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 32
+Order 33
+Temple 10
+XCoord 883
+YCoord 289
+BattleClimate 4
+Timezone 8
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1393
+BaseType 0
+Phil 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Istanbul, Turkey~
+Continent 3
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 24
+Order 20
+Temple 17
+XCoord 881
+YCoord 420
+BattleClimate 4
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 249
+BaseType 0
+Phil 0 18 1 0 0 0 0 37 0 0 0 0 0 0 0 0 0 0 0 0
+Other 14 The Heralds~
+End
+
+#LOCATION
+Name Jerusalem, Israel~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 15
+Order 14
+Temple 56
+XCoord 903
+YCoord 476
+BattleClimate 2
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 905
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Damascus, Syria~
+Continent 4
+Lockout 1622933009
+Status 1
+Notes ~
+Hand 6
+Order 30
+Temple 36
+XCoord 914
+YCoord 458
+BattleClimate 2
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 22
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Baghdad, Iraq~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 16
+Order 11
+Temple 18
+XCoord 942
+YCoord 461
+BattleClimate 2
+Timezone 8
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 385
+BaseType 0
+Phil 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Astana, Kazakhstan~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 18
+Order 4
+Temple 3
+XCoord 1065
+YCoord 349
+BattleClimate 1
+Timezone 11
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 720
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Ulaanbaatar, Mongolia~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 8
+Order 3
+Temple 4
+XCoord 1232
+YCoord 375
+BattleClimate 5
+Timezone 13
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1105
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Novosibirsk, Russia~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 17
+Order 3
+Temple 4
+XCoord 1122
+YCoord 316
+BattleClimate 1
+Timezone 11
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1043
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Beijing, China~
+Continent 4
+Lockout 1615065225
+Status 1
+Notes ~
+Hand 8
+Order 3
+Temple 4
+XCoord 1265
+YCoord 427
+BattleClimate 4
+Timezone 13
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 104
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Shanghai, China~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 12
+Order 5
+Temple 4
+XCoord 1281
+YCoord 473
+BattleClimate 4
+Timezone 13
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1351
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Mumbai, India~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 24
+Order 9
+Temple 9
+XCoord 1075
+YCoord 536
+BattleClimate 4
+Timezone 10
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 201
+BaseType 0
+Phil 0 4 10 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Other 17 The Heralds~
+End
+
+#LOCATION
+Name Bangkok, Thailand~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 52
+Order 16
+Temple 16
+XCoord 1196
+YCoord 556
+BattleClimate 3
+Timezone 12
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1432
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Seoul, South Korea~
+Continent 4
+Lockout 1570445412
+Status 4
+Notes ~
+Hand 40
+Order 14
+Temple 15
+XCoord 1313
+YCoord 446
+BattleClimate 4
+Timezone 14
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 6
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Kyoto, Japan~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 59
+Order 23
+Temple 22
+XCoord 1352
+YCoord 453
+BattleClimate 5
+Timezone 14
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 654
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Tokyo, Japan~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 58
+Order 11
+Temple 13
+XCoord 1369
+YCoord 450
+BattleClimate 4
+Timezone 14
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 609
+BaseType 0
+Phil 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Jakarta, Indonesia~
+Continent 6
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 19
+Order 10
+Temple 48
+XCoord 1224
+YCoord 645
+BattleClimate 3
+Timezone 12
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 353
+BaseType 0
+Phil 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Sydney, Australia~
+Continent 6
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 10
+Order 17
+Temple 38
+XCoord 1418
+YCoord 777
+BattleClimate 4
+Timezone 15
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 139
+BaseType 0
+Phil 0 5 28 5 0 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Melbourne, Australia~
+Continent 6
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 19
+Order 18
+Temple 48
+XCoord 1391
+YCoord 797
+BattleClimate 1
+Timezone 15
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1002
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Perth, Australia~
+Continent 6
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 10
+Order 14
+Temple 49
+XCoord 1262
+YCoord 762
+BattleClimate 1
+Timezone 13
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1257
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Alice Springs, Australia~
+Continent 6
+Lockout 1570445412
+Status 5
+Notes ~
+Hand 11
+Order 11
+Temple 18
+XCoord 1341
+YCoord 723
+BattleClimate 2
+Timezone 14
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5188
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Auckland, New Zealand~
+Continent 6
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 12
+Order 19
+Temple 42
+XCoord 1525
+YCoord 796
+BattleClimate 0
+Timezone 18
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1069
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Christchurch, New Zealand~
+Continent 6
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 5
+Order 5
+Temple 70
+XCoord 1513
+YCoord 831
+BattleClimate 5
+Timezone 18
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 636
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Cairo, Egypt~
+Continent 5
+Lockout 1626648523
+Status 1
+Notes ~
+Hand 54
+Order 19
+Temple 18
+XCoord 882
+YCoord 482
+BattleClimate 2
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 648
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Marrakesh, Morocco~
+Continent 5
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 10
+Order 10
+Temple 39
+XCoord 714
+YCoord 471
+BattleClimate 2
+Timezone 5
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 128
+BaseType 0
+Phil 0 0 0 0 0 0 0 78 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Niamey, Niger~
+Continent 5
+Lockout 1570445412
+Status 5
+Notes ~
+Hand 10
+Order 6
+Temple 12
+XCoord 760
+YCoord 556
+BattleClimate 0
+Timezone 6
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5187
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Khartoum, Sudan~
+Continent 5
+Lockout 1570445412
+Status 5
+Notes ~
+Hand 11
+Order 9
+Temple 10
+XCoord 886
+YCoord 546
+BattleClimate 0
+Timezone 8
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5216
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Lusaka, Zambia~
+Continent 5
+Lockout 1570445412
+Status 5
+Notes ~
+Hand 11
+Order 10
+Temple 9
+XCoord 862
+YCoord 677
+BattleClimate 0
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5170
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Gaborone, Botswana~
+Continent 5
+Lockout 1570445412
+Status 5
+Notes ~
+Hand 11
+Order 11
+Temple 10
+XCoord 864
+YCoord 729
+BattleClimate 0
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5264
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Cape Town, South Africa~
+Continent 5
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 35
+Order 10
+Temple 14
+XCoord 832
+YCoord 776
+BattleClimate 1
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 900
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Dynasty, China~
+Continent 0
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 0
+Order 0
+Temple 0
+XCoord 1104
+YCoord 434
+BattleClimate 3
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 566
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Hand, Russia~
+Continent 0
+Lockout 1570445412
+Status 3
+Notes ~
+Hand 78
+Order 0
+Temple 0
+XCoord 998
+YCoord 238
+BattleClimate 3
+Timezone 0
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 12
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Yerevan, Armenia~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 41
+Order 33
+Temple 19
+XCoord 952
+YCoord 437
+BattleClimate 2
+Timezone 9
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 209
+BaseType 0
+Phil 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Merida, Mexico~
+Continent 1
+Lockout 1570445412
+Status 5
+Notes ~
+Hand 10
+Order 15
+Temple 22
+XCoord 242
+YCoord 402
+BattleClimate 0
+Timezone -1
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5196
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Westrend~
+Continent 7
+Lockout 1570445412
+Status 1
+Notes A large continent to the west of Navorost, mostly temperate in climate. 
+Filled with castles and mountains, Westrend people are very similar to the
+vikings of our world.  Their soldiers typically employ axes and shields,
+swords being used for honor duels or to signify great skill or rank. 
+Westrend horses tend to be very fast, smart and brave, but moody and hard to
+tame.  
+~
+Hand 0
+Order 4
+Temple 1
+XCoord 380
+YCoord 300
+BattleClimate 1
+Timezone 3
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 262
+BaseType 0
+Phil 0 0 0 0 0 35 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Navorost~
+Continent 7
+Lockout 1653579090
+Status 1
+Notes Slightly smaller than Westrend, Navorost has a temperate to tropical climate, and many fertile coastal regions, with rivers that travel deep inland. The Kingdom of Nar controls a great deal of the continent, and the People have settled here in many different nomadic tribes as well. There are rumors that the Illarin Empire plans to expand their borders into Navorost. 
+~
+Hand 3
+Order 0
+Temple 3
+XCoord 370
+YCoord 350
+BattleClimate 3
+Timezone 10
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 13
+BaseType 0
+Phil 0 11 99 13 0 52 53 0 0 0 0 60 0 0 0 0 0 0 0 100
+End
+
+#LOCATION
+Name Gharrek~
+Continent 7
+Lockout 1570445412
+Status 1
+Notes Known for it's wide open plains and tundra as well as rocky scrublands further to the east, Gharrek is a difficult place for the inexperienced to survive. The Kingdom of Nar's borders stretch to the southern parts of Gharrek, but are cut short by the expanse of the Empire, which rules the rest of the territory. The People have a few tribes here and there, but many of them are relocated to camps and other places, out of the Imperial Dynasty's sight and mind. 
+~
+Hand 4
+Order 1
+Temple 2
+XCoord 380
+YCoord 360
+BattleClimate 1
+Timezone 8
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 710
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Navvere~
+Continent 7
+Lockout 1570445412
+Status 5
+Notes A fairly small island-country about the size of Japan. It's generally ungoverned and a haven for criminals and pirates. The climate is tropical. The pirates of Navvere are generally hunted by the Imperial Fleet, though they have a lot of luck raiding Nar's ships. Some sailors tell of a continent further east, one with a kingdom that rivals the Illarin Empire in power; Imperial officials see this as propoganda and generally silence these rumors where-ever they can. 
+~
+Hand 1
+Order 1
+Temple 4
+XCoord 360
+YCoord 200
+BattleClimate 0
+Timezone 17
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 5210
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Northgard~
+Continent 9
+Lockout 1570445412
+Status 1
+Notes Located in the northern reaches of the godrealms, Northgard is a place of
+sweeping icy plains and massive sculptures and buildings of ice.  Some
+natives still manage to survive, mostly from hunting the giant game that
+roams the continent.  But the inhospitable nature of the land makes
+successful escape from the Gods who reside there difficult.  
+~
+Hand 0
+Order 3
+Temple 4
+XCoord 400
+YCoord 440
+BattleClimate 5
+Timezone 7
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 264
+BaseType 0
+Phil 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Anupharis~
+Continent 9
+Lockout 1570445412
+Status 1
+Notes Located far to the south Anupharis is largely a land of sweeping sands
+and deserts.  The rich ores beneath have been used by the gods to shape
+great monuments and cities amongst the sands and locals survive by visiting
+the land's many oasises.  Wild creatures and huge lizards roam the sands
+above and below, and an impressive mountain range to the west is full of
+caves and the homes of many undergods.  
+~
+Hand 2
+Order 1
+Temple 5
+XCoord 350
+YCoord 300
+BattleClimate 2
+Timezone -1
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 1377
+BaseType 0
+Phil 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Rhagost~
+Continent 9
+Lockout 1683293926
+Status 1
+Notes The largest of the continents in the godrealm and also the most temperate
+and hospitable.  Rhagost has many lush fields and dense forests as well as
+the largest population of humans living outside the godly houses.  
+~
+Hand 2
+Order 2
+Temple 3
+XCoord 400
+YCoord 400
+BattleClimate 1
+Timezone 4
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 13
+BaseType 0
+Phil 0 2 12 85 0 0 11 0 0 0 0 0 0 0 0 0 0 0 0 60
+End
+
+#LOCATION
+Name Lauriea~
+Continent 8
+Lockout 1679667329
+Status 1
+Notes Lauriea is the central-most land in the Other and the home of the golden
+city which sits almost perfectly in the center of it.  Primarily a land of
+dense forests the smooth paved roads from the golden city radiate out in all
+directions until they reach the coast.  
+~
+Hand 1
+Order 3
+Temple 1
+XCoord 400
+YCoord 400
+BattleClimate 0
+Timezone -3
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline Wed Dec 13 2023: `240After successfully capturing the watchtowers in the forests near the `yCrossroads`240, facing `202Th`208e `214Go`220ld`221en`228 C`229ity`240, `088The Hand`240 has installed `088Citris Starcreek`240, a cruel loanshark once driven out of these lands by the locals as their Supreme Commander, establishing a reign of terror on behalf of the clenched fist. Refugees are found in all directions, trying to escape the violence, some of which even making their way into Haven in their desperation to escape. Whispers speak of plans for the Hand to establish complete control over the region, something that would be a humanitarian disaster for the locals.`x
+Thu Dec 21 2023: `088The Hand`240 has successfully fought off a final, desperate attempt from the local Fae of `yThe Crossroads`240 to stop them from building their `238O`240b`242s`244i`247d`248i`249a`249n`248 `247T`244o`242w`240e`238r`240. Now it looms over the region, cementing `088Starkcreek`240's reign of terror and standing as a symbol of the coming age of oppression. Locals have been arrested left and right for even the smallest crimes, a crackdown of all enemies of the Hand and the tyrannical loanshark-gone-commander both. Whispers between collaborators suggest regret with the increasingly oppressive decrees - now, however, far too late.~
+StatusTimer 13
+BaseType 0
+Phil 0 6 91 12 0 76 1 1 0 0 0 96 0 0 0 0 0 0 0 60
+Basecore 5 `244Looming over `yThe Crossroads`244, the `238O`240b`242s`244i`247d`248i`249a`249n`248 `247T`244o`242w`240e`238r`244 stands tall in the forest overlooking the major arteries to the Courts, seeming to suck in all the light in a dark mockery of `202Th`208e `214Go`220ld`221en`228 C`229ity`244 of the Fae. Pillars of ferromagnetic iron, like spikes facing outwards around the Tower, serve to encourage the Fae to give a wide berth. An affront to the realms of mirth and games, a single glance is all it takes to remind one of the oppressive terror that comes with the regime of `088The Hand`244.
+~
+Plant `088Cytris Starcreek`240 was never quite a 'good' egg. A brutal loanshark guarded by notoriously sadistic goons, she would bail residents of the Crossroads out of debt at humongous rates of interest. When inevitably they would be unable to pay their weekly toll to her, an offer would be made. A single game of chance, a game of Cytris' choice, where victory would earn them a stay from their debt, whilst a loss would doom them to a life as her slave. Refusal meant physical violence until acceptance - or until they died from their wounds.`x
+ 
+`240Even for the Fae, her games were not within the realm of acceptance. Insidious and cruel, they often boiled down to torturing their own loved ones, the winner being whomever would cause them to pass out from shock, pain and stress. In some cases, there were hunts instead, the targets tied down and made to crawl like dogs through the forest, away from the cruel Fae. Hideously stacked in Cytris' favor, the locals tired of her cruelty, her extortion and the accruing debts of dubious consent (or, had it been earth, legality). She was chased out of the Crossroads, forced to hide on Earth. Here, she found an employer in `088the Hand`240, who used her ruthless demeanor to intimidate and extort hostile businesses and inconvenient academics.`x
+ 
+`240Now, she has returned, backed by muscles augmented and trained by Hand Peacekeepers, under the firm control of the shadowy organization. Declared `088Supreme Commander`240 of the local watch, her reign of terror and intimidation strikes fear into the hearts of the local Fae. It is said she will not cease until all are in her iron grasp, ever fearful of her choosing them next for her callous games, heart pounding at every knock on their doors, secret codes and knocks invented by some in a futile attempt to hide from her, pretend they're not home for any others. Each decree sent to her by the Hand, finds itself executed with sadistic glee.`x
+~
+Plant `062Undertown is a small community that lives in the caves deep below the forests of Lauriea. Lit by bioluminescent plants the community is home to all manner of individuals and creatures as well as frequently used by smugglers and those on the run from the Fae.`x
+~
+End
+
+#LOCATION
+Name Nissenia~
+Continent 8
+Lockout 1570445412
+Status 1
+Notes A large continent to the east of Lauriea, Nissenia is very varied both
+in terrain and inhabitants and the land with the most human residents not
+direct slaves of the Fae.  It is a place of deep forests, rolling hills and
+snowpeaked mountains, but one that is also plagued by the various monsters
+the Fae have created and then forgotten about.  
+~
+Hand 2
+Order 3
+Temple 3
+XCoord 300
+YCoord 400
+BattleClimate 0
+Timezone 4
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 568
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Celestriana~
+Continent 8
+Lockout 1570445412
+Status 1
+Notes A rocky, mountainous land to the west of Lauriea Celestriana is known for
+being difficult to survive in particularly at night when its worst predators
+emerge.  Only the hardiest of communities survive there, and it's a place
+sought by those looking for solitude.  
+~
+Hand 1
+Order 4
+Temple 6
+XCoord 500
+YCoord 430
+BattleClimate 0
+Timezone 9
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 175
+BaseType 0
+Phil 0 0 3 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Hong Kong, China~
+Continent 4
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 5
+Order 0
+Temple 0
+XCoord 0
+YCoord 0
+BattleClimate 4
+Timezone 13
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 586
+BaseType 0
+Phil 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name District 82~
+Continent 10
+Lockout 1632352300
+Status 1
+Notes District 82 is a long distance from the main urban districts from hell
+and from the eternal hell wars.  Only notable for the large black forest,
+most of the residents are minor demons who've deserted their armies, runaway
+humans and fleshforming mistakes.  
+~
+Hand 0
+Order 0
+Temple 0
+XCoord 300
+YCoord 300
+BattleClimate 0
+Timezone -9
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 13
+BaseType 0
+Phil 0 0 1 40 0 100 0 0 0 0 0 60 0 0 0 0 0 0 0 0
+End
+
+#LOCATION
+Name Haven~
+Continent 0
+Lockout 1570445412
+Status 1
+Notes ~
+Hand 0
+Order 0
+Temple 0
+XCoord 0
+YCoord 0
+BattleClimate 3
+Timezone 5
+Government ~
+Fixtures ~
+People ~
+Place ~
+Timeline ~
+StatusTimer 841
+BaseType 0
+Phil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#END

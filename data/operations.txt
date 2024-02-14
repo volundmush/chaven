@@ -1,0 +1,85 @@
+#OPERATION
+Author Tyr~
+Territory 74
+AdversaryType 1
+AdversaryName a figure in urban combat gear with a dark blue beret~
+Elitestring ~
+Storyrunners ~
+Atmosphere ~
+RoomName in a village near Lauriea~
+Description ~
+Preferred ~
+BagName ~
+Timeshift 0
+UploadName securing the area~
+Type 2
+InitDays 0
+Spam 0
+MaxPCs 5
+Speed 4
+Terrain 8
+Size 1000
+Hour 10
+Day 4
+Faction 28
+Bonus 0
+Storyline ~
+Timer 0
+Competition 0
+Timeline ~
+Challenge 2
+HomeSoldiers 0
+Goal 11
+Target ~
+Soldiers 0 0 0 0 0 0 0 0 0 0
+Enrolled 0 0 0 0 0 0 0 0 0 0
+FacTimers 0 0 0 0 0 0 0 0 0 0
+POIX 0 0 0 0 0 0 0 0 0 0
+POIY 0 0 0 0 0 0 0 0 0 0
+POIType 0 0 0 0 0 0 0 0 0 0
+POIFaction 0 0 0 0 0 0 0 0 0 0
+End
+
+#OPERATION
+Author Tyr~
+Territory 68
+AdversaryType 1
+AdversaryName a figure in sleek, black tactical gear, with a golden emblem on their shoulder~
+Elitestring ~
+Storyrunners ~
+Atmosphere ~
+RoomName in a field near Navorost~
+Description ~
+Preferred ~
+BagName ~
+Timeshift 0
+UploadName securing the area~
+Type 2
+InitDays 0
+Spam 0
+MaxPCs 3
+Speed 4
+Terrain 1
+Size 1000
+Hour 16
+Day 6
+Faction 26
+Bonus 0
+Storyline ~
+Timer 0
+Competition 0
+Timeline ~
+Challenge 2
+HomeSoldiers 0
+Goal 11
+Target ~
+Soldiers 0 0 0 0 0 0 0 0 0 0
+Enrolled 0 0 0 0 0 0 0 0 0 0
+FacTimers 0 0 0 0 0 0 0 0 0 0
+POIX 0 0 0 0 0 0 0 0 0 0
+POIY 0 0 0 0 0 0 0 0 0 0
+POIType 0 0 0 0 0 0 0 0 0 0
+POIFaction 0 0 0 0 0 0 0 0 0 0
+End
+
+#END

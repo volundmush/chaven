@@ -1,0 +1,8968 @@
+#AREADATA
+Name Dreamscape~
+VNUMs 390000 391999
+Completed 0
+World 5
+Range 0 0 0 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#390000
+the lobby of the Phantasos Hotel`x~
+~
+0 28 9
+G 0 0 50 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390001
+`c(`255The Canteen`c) Aboard`x~
+~
+0 44 4
+G 45 42 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390002
+`ca (`255Viewing Deck`c) Aboard`x~
+~
+0 44 9
+G 45 42 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390003
+`ca Massive Cryopod-Filled (`255Laboratory`c) Aboard`x~
+~
+0 44 9
+G 45 42 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390004
+`ca Twisting Labyrinth of (`255Corridors`c) Aboard`x~
+~
+0 44 9
+G 45 42 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390005
+`220`222T`221h`220e `222D`221r`220e`214amheart`x~
+~
+0 44 9
+G 5 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390006
+Art District~
+~
+0 67108900 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390007
+`c`226L`003air `226o`003f `226t`003he `226D`003ragon`x ~
+~
+0 44 24
+G 1 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390008
+The Great Arena~
+~
+0 36 1
+G 2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390009
+the vibrant green of Parliament Square~
+~
+0 36 1
+G 0 -4 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#390010
+a broad boulevard going south~
+~
+0 36 1
+G -1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#390011
+the grounds leading to the Lodge of the Undying~
+~
+0 548 1
+G -1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#390012
+an ornate foyer~
+~
+0 36 1
+G -1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#390013
+the Lodge Hall~
+~
+0 36 1
+G -1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#390014
+cobblestones passing Buckingham Palace~
+~
+0 36 1
+G 1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#390015
+the cultivated gardens of the Crystal Palace~
+~
+0 36 1
+G 1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390016
+dazzled by a crystalline fountain~
+~
+0 44 9
+G 1 1 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390017
+a gleaming glass and iron-wrought entryway~
+~
+0 44 9
+G 1 1 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390018
+a promenade in Hyde Park by a lush reservoir~
+~
+0 36 10
+G 1 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390019
+an airy gazebo of rare gardens~
+~
+0 36 10
+G 1 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390020
+`101The `095Sle`096epe`097r's `103Ri`109ft`x`x~
+~
+0 36 18
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390021
+`186T`185h`186e `185C`186o`185l`186i`185s`186e`185u`186m`x`x~
+~
+0 36 26
+G 47 48 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390022
+Yggdrasil~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390023
+`096an `059exp`060ans`061e of `067man`103y po`102cke`101t dr`108eam`109sca`110pes`x`x~
+~
+0 36 18
+G 3 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390024
+`159A`123n`087a`058va`064r`070e`076e`x`x~
+~
+0 36 23
+G -2 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390025
+`c`226M`003ount `226G`003old`x ~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y ~
+S
+#390026
+Amidst a trackless sea of dunes 1~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390027
+`cI`Bn`cs`Bi`cde `Wthe `rBus`x`x~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390028
+`gThe `yReception `gArea`x`x~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390029
+The Truancy Officer's Office~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390030
+A Hallway Between Reception and The Library~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390031
+`cFeatureless Bunks in the (`255Living Quarters`c) Aboard`x~
+~
+0 44 2
+G 55 40 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390032
+City Hall~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390033
+Downtown~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390034
+The University~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390035
+`cthe Grotesque Tableau of an (`255Operating Theater`c) Aboard`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390036
+`235`237I`239n`241t`243o `245t`247h`249e `251M`253i`255s`231t`x ~
+~
+0 36 18
+G 59 40 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390037
+A seedy, semi-dark alley out back of the saloon~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390038
+the Fighting Pit`x~
+~
+0 67108900 26
+G 1 -3 50 40 40
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y ~
+S
+#390039
+the tunnels beneath the Fighting Pit~
+~
+0 67108908 26
+G 1 -3 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390040
+the Drag~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390041
+a cell beneath the Fighting Pit~
+~
+0 44 24
+G 2 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390042
+`022a length of confusing corridors`w~
+~
+0 36 1
+G -2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390043
+`022a length of confusing corridors`w~
+~
+0 36 1
+G -2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390044
+Sector 1 - Tyrell Street~
+~
+0 36 1
+G 1 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M -1 H 0
+W (null)~
+Y ~
+S
+#390045
+The Promenade Market~
+~
+0 36 1
+G 2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390046
+`c`226T`003he `226C`003ourt`x ~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390047
+`c`Y`226T`y`003he `Y`226T`y`003own `Y`226S`y`003quare`x `x~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390048
+`c`226M`003erchant `226S`003talls`x ~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390049
+`c`226T`003he `226R`003oyal `226P`003alace`x ~
+~
+0 44 2
+G 1 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390050
+`c`226T`003he `226D`003ocks`x ~
+~
+0 36 7
+G 1 0 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390051
+`c`Y`226T`y`003he `Y`226M`y`003ines`x ~
+~
+0 36 7
+G 1 0 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390052
+`c`Y`226L`y`003umber `Y`226Y`y`003ard`x ~
+~
+0 36 7
+G 1 0 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390053
+`c`226F`003armland`x ~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390054
+`GT`ghe `GR`ge`Db`gels`G' `GH`gideout`x~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390055
+`GT`ghe `GF`go`059r`ge`Gs`gt`x ~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390056
+`dthe `yWest End`d of `yMain Street`w `x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 15 H 0
+W (null)~
+Y ~
+S
+#390057
+`da `yPerfect Street`d in an `yIdyllic Neighbohood`w `x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390058
+`dthe `yWrong Side`d of the `yTracks`w `x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390059
+`dthe `yOutskirts`d of a `yPerfect Middle-America Town`w `x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390060
+`dthe `yTown Green`w `x~
+~
+0 36 10
+G 1 -1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390061
+`dthe `yEast End`d of `yMain Street`w ~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390062
+`dthe `yGrounds`d of the `yStepford Sanitarium`w ~
+~
+0 36 10
+G 1 -1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390063
+`dthe `yMain Floor`d of the `yStepford Sanitarium`w ~
+~
+0 44 15
+G 1 -1 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390064
+`dthe `yBasement`d of the `yStepford Sanitarium`w ~
+~
+0 44 15
+G 1 -1 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390065
+`dthe `ySteam Tunnels`d under `yMain Street`w `x~
+~
+0 44 11
+G 1 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390066
+`dthe `yBasement`d of a `yPerfect Single-Family Home`w ~
+~
+0 44 14
+G 1 -1 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390067
+`da `yPerfect Single-Family Home`d in an `yIdyllic Neighborhood`d ~
+~
+0 44 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390068
+`cP1`C`051: `Y`226A`y`003shview `Y`226C`y`003halet`x `x~
+~
+0 36 10
+G 1 -1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390069
+`023P2`051: `Y`226K`y`003ismet`x ~
+~
+0 44 11
+G 1 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390070
+A Lush and Verdant Valley~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390071
+Halcyon City~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390072
+`Dthe `RGrand Foyer`w~
+~
+0 67108908 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390073
+`Dthe `RGrounds`w~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390074
+`Dthe `RDining Room`w~
+~
+0 67108908 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390075
+`Dthe `RSmoking Lounge`w~
+~
+0 67108908 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390076
+`129Amongst the roots of the `148World Tree`w~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390077
+`Dthe `RStables`w~
+~
+0 44 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390078
+`Dan `RUpstairs Hallway`w~
+~
+0 44 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390079
+`129Where the forest becomes impassable`w~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390080
+`129A rogue encampment`w~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390081
+`Da west-facing `RGuest Suite`w~
+~
+0 44 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390082
+`Da `RBasement Hallway`w~
+~
+0 44 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390083
+`Dthe `RDungeon`w~
+~
+0 44 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390084
+`Dthe `RServant Quarters`w~
+~
+0 44 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390085
+`Dan east-facing `RGuest Suite`w~
+~
+0 44 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390086
+`Da `RTerrifying Cell`w~
+~
+0 44 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390087
+`Dthe `RBloody Arena`w~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y ~
+S
+#390088
+`Dthe `RWild, Rolling Hills`w~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390089
+`da `RChamber`d of `RHorrifying Experiments`w~
+~
+0 44 15
+G 1 0 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390090
+`022a place with no end and no beginning`w~
+~
+0 36 23
+G -2 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390091
+Hotel Parker - Lobby`x~
+~
+0 44 1
+G 1 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390092
+Hotel Parker - 1st Floor Landing`x~
+~
+0 44 9
+G 1 -2 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390093
+Main Street~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390094
+`141At the `153entrance `141of `153Skyspire`w~
+~
+0 36 1
+G 30 16 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390095
+Hotel Parker - Room 1`x~
+~
+0 44 9
+G 1 -2 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390096
+Hotel Parker - Room 2`x~
+~
+0 44 9
+G 1 -2 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390097
+Sector 1 - Tyrell Street~
+~
+0 36 1
+G 1 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390098
+Sector 1 - Cramped Alley~
+~
+0 36 7
+G 1 -2 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390099
+`022beneath the brambles`w~
+~
+0 36 23
+G -1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390100
+`can Overgrown (`255Xenobiology Greenhouse`c) Aboard`x~
+~
+0 36 23
+G 47 41 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390101
+`186the loud and lively `WDocks`x~
+~
+0 36 26
+G 46 26 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390102
+`131within a British `WMilitary Compound`x ~
+~
+0 36 10
+G 46 26 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390103
+`022an expansive courtyard`w~
+~
+0 36 23
+G -2 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390104
+`022a length of confusing corridors`w~
+~
+0 36 23
+G -2 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390105
+`022a length of confusing corridors`w~
+~
+0 36 23
+G -2 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390106
+`WThe `CAdministrative `WH`Ca`Wllw`Ca`Wy`x`x~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390107
+`214A`220v`226a`227r`228i`214u`220`226s `227A`228s`214c`220e`226n`227t`w~
+~
+0 36 1
+G 26 42 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390108
+`196I`160r`124a`196'`160s `124I`196r`160o`124n`196y`w~
+~
+0 36 1
+G 41 18 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390109
+`088I`052n`009v`214i`088d`052i`009a`220'`088s`052 I`009n`226t`088e`052r`009n`227a`088l`052s`w~
+~
+0 36 1
+G 26 19 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390110
+`255S`254u`253p`252e`251r`252b`253i`254a `255S`254u`253i`252t`251e`255s`w~
+~
+0 36 1
+G 72 30 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390111
+`197L`161u`199x`163u`199r`161i`163a`197 L`161i`199v`161e`163s`w~
+~
+0 36 1
+G 71 56 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390112
+`229G`198u`229l`198a `229G`198u`229l`198a`229g`w~
+~
+0 36 1
+G 35 68 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390113
+`213A`105c`141e`147d`153i`118a `213A`105w`141a`147i`153t`118s`w~
+~
+0 36 1
+G 74 78 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390114
+`034Morty's Room`x~
+~
+0 44 2
+G 1 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390115
+`175The Smith Residence`x~
+~
+0 44 2
+G 1 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390116
+`061In `067th`060e `139Dr`140ea`141mh`147ea`153rt `231T`195e`153mp`147es`105t`x`x~
+~
+0 44 24
+G 4 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390117
+`cInside a Gargantuan (`255Hangar Deck`c) Full of Scrapped Ships Aboard`x~
+~
+0 36 1
+G 3 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390118
+`cInside the Mothballed (`255Freighter `c'`255Neomi`c') Aboard`x~
+~
+0 44 24
+G 3 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390119
+`141A busy `153market street `141lined with `153merchants`w~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390120
+`141Through a `153peaceful neighborhood `141leading to the `153tower`w~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390121
+`141At the base of the `153cloud-scraping tower`w~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 15 H 0
+W (null)~
+Y ~
+S
+#390122
+`141Within the `153throne room`w `141of `153Skyspire's tower`w~
+~
+0 44 2
+G 1 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390123
+`141The noble's `153sleeping quarters`w~
+~
+0 44 2
+G 1 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390124
+`141The `153very top `141of the `153tower`w~
+~
+0 36 13
+G 1 0 50 50 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390125
+`141A `092dark`141, narrow `153alley `141between `153buildings`w~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390126
+`141{ * `195Diamonds' Tavern `141* }`w~
+~
+0 44 4
+G 1 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390127
+`141Just outside `153Skyspire's`141 walls`w~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390128
+`129Much further down the path`w~
+~
+0 36 23
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390129
+`141A `153sequestered `141little `153shop`w~
+~
+0 44 5
+G 1 0 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390130
+The Library~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390131
+The Bookstore~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390132
+The Cafeteria~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390133
+`yThe `WCounselor's `yOffice`x`x~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390134
+The Disciplinarian's Office~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390135
+The Principal's Office~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390136
+The Vice Principal's Office~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390137
+The Nurse's Office~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390138
+The Head Coach's Office~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390139
+`WDetention Classroom `YA`x`x~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390140
+`137aboard the merchant sloop `WSalmigondis`x~
+~
+0 36 20
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390141
+`WDetention Classroom `BB`x`x~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390142
+In the ocean, overboard~
+~
+0 36 20
+G -1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390143
+The Gathering~
+~
+0 36 1
+G 2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390144
+`yThe Gates of Moonspire`w~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390145
+Detention Classroom C~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390146
+`213Summer's Room`x~
+~
+0 44 2
+G 1 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390147
+An Underground Padded Cell~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390148
+The Eastern Courtyard~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390149
+Before The Clock Tower~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390150
+Inside Of The Clock Tower~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390151
+The Secret Staircase Within The Clock Tower~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390152
+The Playground~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390153
+Underneath the Treehouse~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390154
+Inside Of The Treehouse~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390155
+The Southern Courtyard~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390156
+The Shallow End Of The Pool~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390157
+The Deep End Of The Pool~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390158
+Underwater In The Pool~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390159
+The Vegetable Garden~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390160
+The Western Courtyard~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390161
+The Northern Courtyard~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390162
+The Dormitory Common Room~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390163
+The Freshman Dormitory~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390164
+The Sophomore Dormitory~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390165
+The Junior Dormitory~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390166
+`#e4ba12Entr`#d8a616ance `#cd921ato Ca`#c27e1emp Hi`#b76a22ggins`q~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390167
+The Loading Docks~
+~
+0 36 1
+G 53 59 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390168
+Holodistrict~
+~
+0 36 1
+G 53 59 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390169
+`WTrantor District~
+~
+0 36 1
+G 1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390170
+The Senior Dormitory~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390171
+The Female Showers~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390172
+The Male Showers~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390173
+`DB`wa`Dckst`wa`Dg`we ~
+~
+0 44 8
+G -1 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390174
+The Changing Rooms~
+~
+0 44 8
+G -1 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390175
+Waiting in the Wings~
+~
+0 44 8
+G -1 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390176
+Catwalks Above The Stage~
+~
+0 44 8
+G -1 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390177
+The Projection Booth~
+~
+0 44 8
+G -1 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390178
+The Entry to the Lesson Halls~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390179
+Worthington Hall - Humanities~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390180
+Granson Hall - Sciences~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390181
+The Art Room~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390182
+`237`238H`239a`240l`241l `242o`243f `244M`245i`246r`247r`248o`249r`250s`x `x~
+~
+0 44 8
+G 0 1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390183
+`239`240C`059l`241o`242s`243e`244l`102y `245G`246u`247a`248r`145d`249e`250d `007M`251e`252m`253o`188r`254i`255e`231s`x `x~
+~
+0 44 8
+G 0 1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390184
+`237`238C`239o`240m`241p`242r`243o`244m`245i`246s`247e`248d `249M`250e`251m`252o`253r`254i`255e`231s`x `x~
+~
+0 44 3
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390185
+`DBl`wa`Dck `W& `DWh`wi`Dt`we `DM`wo`Dv`wie `DTh`wea`Dtr`we ~
+~
+0 44 8
+G 0 1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390186
+Concession Stands~
+~
+0 44 8
+G -1 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390187
+A Surrealist Stage Play~
+~
+0 44 8
+G -1 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390188
+`cP1`C`051: `238T`239h`240e `241S`242o`243o`244t`245h`246s`247a`248y`249e`250r`251'`252s `253T`254e`255n`231t`x `x~
+~
+0 36 26
+G -1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390189
+`WA Dense Fog Leading into a Neighboring Town`w~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390190
+`#e4ba12Ce`#d8a616nt`#cd921aer`#c27e1e o`#b76a22f C`#b76a22am`#c27e1ep `#cd921aHi`#d8a616gg`#e4ba12ins`q~
+~
+0 36 23
+G 40 52 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390191
+`#68ac06A `#5c9b0dPa`#518a14thw`#45791bay`#3a6823 to`q `#e4ba12th`#d8a616e `#cd921aCa`#c27e1ebi`#b76a22ns`q~
+~
+0 36 23
+G 25 54 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390192
+`#68ac06A`#5c9b0d `#518a14Fo`#45791br`#3a6823es`#3a6823t`#45791b `#518a14Tr`#5c9b0da`#68ac06il`q~
+~
+0 36 23
+G 65 57 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390193
+`#68ac06The`#5c9b0d End`#518a14les`#45791bs Fo`#3a6823rest`q~
+~
+0 36 23
+G 65 57 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390194
+`#68ac06A `#5c9b0dTr`#518a14ai`#45791bl `#3a6823to`q `#325a72Camp `#3d647fHiggi`#496e8cns Cr`#547899ystal`#6083a6 Lake`q~
+~
+0 36 23
+G 80 29 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390195
+`#325a72Camp `#3d647fHiggi`#496e8cns Cr`#547899ystal`#6083a6 Lake`q~
+~
+0 36 23
+G 43 26 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390196
+`227The Master Bedroom`x~
+~
+0 44 2
+G 1 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390197
+`034Rick's Room`x~
+~
+0 44 2
+G 1 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390198
+`011The Smith Dining Room`x~
+~
+0 44 2
+G 1 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390199
+The History Classroom~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390200
+The Music Room~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390201
+The English Classroom~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390202
+The Biology Lab~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390203
+The Technology Lab~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390204
+The Paranormal Studies Hallway~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390205
+The Mathematics Classroom~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390206
+The Mythology Classroom~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390207
+The Supernatural Biology Classroom~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390208
+The Sorceries Classroom~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390209
+The Paranormal Studies Classroom~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390210
+The Auditorium~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390211
+The Basketball Court~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390212
+The Volleyball Court~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390213
+The Bleachers~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390214
+Underneath the Bleachers~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390215
+The Athletics Field~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390216
+The Greenhouse~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390217
+The Janitors' Closet~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390218
+In The Tube Slide~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390219
+The Outside Bleachers~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390220
+Behind The Outside Bleachers~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390221
+`cP2`C`051: `236U`237p`238o`239n `240a `241M`242o`243n`244o`245c`246h`247r`248o`249m`250a`251t`252i`253c`254, `255M`231i`255s`254t`253e`253d `252O`250c`249e`248a`247n [`BDeep Water`x] `x~
+~
+0 36 23
+G 5 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390222
+In Between Times~
+~
+0 36 1
+G -2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390223
+The Apartment Foyer~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390224
+Apartment A1~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390225
+Apartment A2~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390226
+Apartment A3~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390227
+`cP3`C`051: `238A `239M`240e`241d`242i`243c`244a`245l `246L`247a`248b`249o`250r`251a`252t`253o`254r`255y`x `x~
+~
+0 44 8
+G 0 1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390228
+Apartment B1~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390229
+`cThe Godrealm`w~
+~
+0 36 1
+G 52 47 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390230
+`gThe Other`w~
+~
+0 36 1
+G 52 47 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390231
+`GThe Wilds`w~
+~
+0 36 1
+G 52 47 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390232
+`rHell`w~
+~
+0 36 1
+G 52 47 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390233
+North America~
+~
+0 36 1
+G 34 66 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390234
+Apartment B2~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390235
+Apartment B3~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390236
+The Rear Apartment Hall~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390237
+The Disciplinarian's Apartment~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390238
+The Principal's Apartment~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390239
+The Vice Principal's Apartment~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390240
+The Counselor's Apartment~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390241
+The Head Coach's Apartment~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390242
+The Nurse's Apartment~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390243
+The Fire Pit~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390244
+Amidst a trackless sea of dunes 2~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390245
+Amidst a trackless sea of dunes 3~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390246
+Amidst a trackless sea of dunes 4~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390247
+Amidst a trackless sea of dunes 5~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390248
+Amidst a trackless sea of dunes 6~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390249
+Amidst a trackless sea of dunes 7~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390250
+Amidst a trackless sea of dunes 8~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390251
+Amidst a trackless sea of dunes 9~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390252
+Amidst a trackless sea of dunes 10~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390253
+Amidst a trackless sea of dunes 11~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390254
+Amidst a trackless sea of dunes 12~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390255
+Amidst a trackless sea of dunes 13~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390256
+Amidst a trackless sea of dunes 14~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390257
+Amidst a trackless sea of dunes 15~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390258
+Amidst a trackless sea of dunes 16~
+~
+0 36 10
+G 1 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390259
+`cIn The `dAntlers Motel`w~
+~
+0 44 2
+G 0 -2 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390260
+`cIn Antlers Bedroom 1`w~
+~
+0 44 2
+G 0 -2 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390261
+`cIn Antlers Bedroom 2`w~
+~
+0 44 2
+G 0 -2 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390262
+`dWhite Oak Reception Lobby`w~
+~
+0 44 2
+G 0 -2 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390263
+`dIn The Haven Cemetery`w~
+~
+0 36 10
+G 0 -2 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390264
+United States of America~
+~
+0 36 1
+G 32 65 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390265
+Europe~
+~
+0 36 1
+G 58 40 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390266
+Scandinavia~
+~
+0 36 1
+G 58 40 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390267
+Australasia~
+~
+0 36 1
+G 67 29 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390268
+`101the bright and bustling `WTown Square`x~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390269
+the cool night air outside a performer's room at the House of Masks~
+~
+0 36 18
+G 0 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390270
+`#30ce1et`#2fd11fh`#2dd420e`#2cd721 `#2adb22c`#29de23e`#27e124n`#33e42dt`#3ee836r`#4aeb3fa`#56ee49l`#61f252 `#6df55bp`#71f661o`#74f667i`#78f76en`#7bf874t`#7ff87a `#82f980o`#8cf984f`#95f988 `#9ff98ct`#a8f88fh`#b2f893e`#bbf897 `#bff99fi`#c4faa8s`#c8fbb0l`#ccfdb8a`#d1fec1n`#d5ffc9d`x, `#fbfadfo`#f9f8e3u`#f7f7e7t`#f6f5eas`#f4f4eei`#f2f2f2d`#f2efeae`#f3ece2 `#f3e9d9o`#f4e6d1f`#f4e3c9 `#f3e6cet`#f2e9d2h`#f2ecd7e`#f1efdb `#f0f2e0I`#f2f4e0v`#f4f5e0o`#f7f7dfr`#f9f8dfy`#fbfadf `#f9f8e3T`#f7f7e7o`#f6f5eaw`#f4f4eee`#f2f2f2r`x`q~
+~
+0 36 10
+G 44 46 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390271
+`#ff0000T`#d5072bh`#aa0e55e`#801580 `#551baaI`#2b22d5m`#0029ffa`#3354ccg`#667f99i`#99a966 `#ccd433A`#ffff00m`#e3d716p`#c6b02ch`#aa8842i`#8d6057t`#71396dh`#541183e`#732895a`#923fa8t`#b257bae`#d16ecdr`#f085df`x`q~
+~
+0 44 3
+G 18 84 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390272
+`#ce00ffa`#c314fd `#b828fbw`#ad3cf9e`#a250f7l`#9764f5l`#8c78f3-`#818cf1a`#76a0efp`#6bb4edp`#60c8ebo`#55dce9i`#66e0d2n`#77e3bat`#88e7a3e`#99ea8cd`#aaee74 `#bbf15dr`#ccf546e`#ddf82fc`#eefc17o`#ffff00r`#fdf00cd`#fbe119i`#f9d325n`#f7c431g`#f5b53e `#f3a64as`#f19757t`#ef8863u`#ed7a6fd`#eb6b7ci`#e95c88o`x`q~
+~
+0 44 3
+G 81 16 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390273
+`#cb0404t`#c20303h`#b80303e`#af0202 `#a50202M`#9c0101o`#980101s`#940101h`#900101 `#8b0000P`#870000i`#830000t`#880000 `#8d0000a`#920101n`#970101d`#9c0101 `#a50202S`#af0202t`#b80303a`#c20303g`#cb0404e`x`q~
+~
+0 44 8
+G 19 28 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390274
+the Concert Hall~
+~
+0 44 3
+G 73 70 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390275
+the Prancing Pony Inn~
+~
+0 44 3
+G 44 65 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390276
+the Colour Palette~
+~
+0 44 3
+G 40 27 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390277
+the Printing Press~
+~
+0 44 3
+G 18 42 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390278
+the Dance Hall~
+~
+0 44 3
+G 71 53 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390279
+the Winter Wastes~
+~
+0 36 23
+G 45 65 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390280
+the Spring Shallows~
+~
+0 36 28
+G 70 49 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390281
+the Summer Shores~
+~
+0 36 26
+G 49 28 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390282
+the Autumn Arboretum~
+~
+0 36 25
+G 23 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390283
+`dthe `202flora-infested city of Tokyo`w~
+~
+0 36 1
+G 3 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390284
+`dthe `rCrimson Fox Tavern`w~
+~
+0 44 4
+G 3 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390285
+The Visitor's Quarter~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390286
+`#b76a22Cent`#c27e1eer o`#cd921af Cam`#d8a616p Hi`#e4ba12ggins`q~
+~
+0 36 23
+G 46 32 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390287
+`#3a6823A `#45791bPa`#518a14thw`#5c9b0day`#68ac06 to`q `#b76a22th`#c27e1ee `#cd921aCa`#d8a616bi`#e4ba12ns`q~
+~
+0 36 23
+G 16 43 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390288
+`#3a6823A `#45791bFor`#518a14est`#5c9b0d Tr`#68ac06ail`q~
+~
+0 36 23
+G 75 53 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390289
+`#3a6823The`#45791b End`#518a14les`#5c9b0ds Fo`#68ac06rest`q~
+~
+0 36 23
+G 75 53 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390290
+`#6083a6A`q `#3a6823T`#45791br`#518a14a`#5c9b0di`#68ac06l`q`#547899 to Cam`#496e8cp Higgi`#3d647fns Crys`#325a72tal Lake`q~
+~
+0 36 20
+G 81 22 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390291
+`#6083a6Camp `#547899Higgi`#496e8cns Cr`#3d647fystal`#325a72 Lake`q~
+~
+0 36 20
+G 81 22 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390292
+`WA Dense Fog Leading into a Neighboring Town`w~
+~
+0 36 20
+G 60 70 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390293
+`da `037path shrouded in forest`w~
+~
+0 36 23
+G 0 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390294
+`dan `031abandoned underground subway station`w~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390295
+The vibrant green of Parliament Square~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390296
+the Forest far below the House of Masks~
+~
+0 36 23
+G 0 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390297
+a chandelier above the common-room of the House of Masks~
+~
+0 44 3
+G 2 2 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390298
+the parlor of a brothel in Chinatown`x~
+~
+0 44 8
+G 2 -1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390299
+the upstairs hallway of a brothel in Chinatown`x~
+~
+0 44 8
+G 2 -1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390300
+rooms above a brothel in Chinatown`x~
+~
+0 44 8
+G 2 -1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390301
+a disreputable alley in San Francisco's Chinatown~
+~
+0 36 7
+G 2 -1 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390302
+the long back hallway of the House of Masks~
+~
+0 44 3
+G 2 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390303
+A Humble Tent~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390304
+A Larger Tent~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390305
+Moon's Tent~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390306
+The Lycos Quarter~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390307
+A Large Tent~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390308
+The Moon Gates~
+~
+0 36 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390309
+Inside the Moon Portal~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390310
+The Sleep Chamber~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390311
+`153The Smith Living Room`x~
+~
+0 44 2
+G 1 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390312
+`243Township of Haven`w: `022M`028a`034i`040n `046St`040r`034e`028e`022t`x~
+~
+0 36 1
+G 1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390313
+`243Mariner's Highway`w: `243Off-Ramp`x`x~
+~
+0 36 1
+G 1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390314
+`243Township of Haven`w: `021T`027h`033e B`027a`021y`x~
+~
+0 36 26
+G 2 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390315
+`243Township of Haven`w: `022W`028e`034s`040t`046h`040a`034v`028e`022n`x~
+~
+0 36 23
+G 2 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390316
+Test~
+~
+0 36 1
+G 1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390317
+`243Township of Haven`w: `243Oldtown`x~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390318
+`022M`028a`034i`040n `046St`040r`034e`028e`022t`w: `022T`028h`034e `040Lo`034d`028g`022e`x~
+~
+0 44 4
+G 2 1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390319
+`022M`028a`034i`040n `046St`040r`034e`028e`022t`w: `052R`088o`124s`160i`196e's D`160i`124n`088e`052r`x~
+~
+0 44 4
+G 2 1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390320
+`021T`027h`033e B`027a`021y`w: `021T`027h`033e `039B`045o`051ar`045d`039w`033a`027l`021k`x~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390321
+`021T`027h`033e B`027a`021y`w: `021T`027h`033e `039L`045i`051ght`045h`039o`033u`027s`021e`x~
+~
+0 36 13
+G 2 1 50 50 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390322
+`021T`027h`033e B`027a`021y`w: `184T`185h`186e `187Be`186a`185c`184h`x~
+~
+0 36 26
+G 2 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390323
+`022W`028e`034s`040t`046h`040a`034v`028e`022n`w: `028T`034r`028a`028i`034l`040e`046r `040P`034a`028r`022k`x~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390324
+`022W`028e`034s`040t`046h`040a`034v`028e`022n`w: `052D`088e`124v`160i`196l`160w`124o`088o`052d `088D`124r`160i`196v`160e`124-`088i`052n`x~
+~
+0 36 10
+G 2 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390325
+`022W`028e`034s`040t`046h`040a`034v`028e`022n`w: `022M`028o`034o`040r`046e W`040o`034o`028d`022s`x~
+~
+0 36 23
+G 2 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390326
+`243Oldtown`w: `022H`028a`034v`040e`046n `040H`034i`028g`022h`x~
+~
+0 44 12
+G 2 1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390327
+`243Oldtown`w: `243Arkwright Cemetery`x~
+~
+0 36 10
+G 2 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390328
+`243Oldtown`w: `243Arkwright Asylum`x~
+~
+0 44 2
+G 2 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390329
+Pony Express Yard~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390330
+Desert Outside of Town~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390331
+Saloon~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390332
+Pony Express Bunkhouse~
+~
+0 44 2
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390333
+Pony Express Station~
+~
+0 44 5
+G 0 1 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390334
+Bordello~
+~
+0 44 5
+G 0 1 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390335
+General Store~
+~
+0 44 5
+G 0 1 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390336
+Gold Mine~
+~
+0 44 5
+G 0 1 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390337
+Outlaw Camp~
+~
+0 36 23
+G 0 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390338
+Bank~
+~
+0 44 5
+G 0 1 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390339
+`DChamber One`x~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390340
+`DChamber Two`x~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390341
+`DChamber Three`x~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390342
+`DThe `yAmphitheater`x~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390343
+`yOffice One`x~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390344
+`yOffice Two`x~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390345
+`yOffice Three`x~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390346
+`yA Walled Courtyard `W(`rN`Re`rw `RSp`rar`Rta`W)`w~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390347
+`yA Massive Gymnasium `W(`rN`Re`rw `RSp`rar`Rta`W)`w~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390348
+`cWharfside`w - `DInside Mickey's Pub`w~
+~
+0 44 3
+G 0 -2 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390349
+`RDavey Jones' Locker`w~
+~
+0 36 20
+G 73 31 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390350
+central square~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390351
+Civil War Battle~
+~
+0 36 23
+G 30 52 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390352
+Reception Lobby~
+~
+0 44 5
+G 2 0 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390353
+The Porch of `WF`yo`Du`mr `WD`yo`Do`mr`ws~
+~
+0 44 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390354
+`gApproaching a `yCo`wt`yt`wa`yge`g in the W`Go`yo`Gd`gs`w~
+~
+0 36 1
+G 1 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390355
+`Don the filth ridden streets of `xLondon`D'`xs `rEast Side`x~
+~
+0 36 1
+G 48 48 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390356
+North Street~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390357
+`gA Crossroads Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390358
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390359
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390360
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390361
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390362
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390363
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390364
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390365
+`gAt the M`yo`cc`Dk `gT`yu`cr`Dt`gl`ye`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390366
+`gAt `WHandsome Jack`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390367
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390368
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390369
+`Dthe filthy streets of the `wWhitechapel`r District`x~
+~
+0 4 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390370
+`gAt the `rS`Ru`Yn`Wd`Yi`Ra`rl`w Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390371
+Armadillo Territory~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390372
+Long Hallway~
+~
+0 44 2
+G 58 45 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390373
+South Bedroom~
+~
+0 44 2
+G 58 45 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390374
+North Bedroom~
+~
+0 44 2
+G 58 45 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390375
+Hotel Bar~
+~
+0 44 5
+G 58 45 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390376
+Hotel Dining Room~
+~
+0 44 5
+G 58 45 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390377
+Hotel Lounge~
+~
+0 44 5
+G 58 45 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390378
+Rolling Lawns~
+~
+0 36 23
+G 2 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390379
+A Private Beach~
+~
+0 36 26
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390380
+The `gGoblin Market`6's Library~
+~
+0 44 14
+G 52 48 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390381
+`WAt `DWo`Wr`Dld`W's`w End: `CMi`Ws`Cty`D Cove`w~
+~
+0 44 24
+G 1 -2 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390382
+`CHigh Seas`W: Southeastern `CWaters`w~
+~
+0 44 24
+G 77 17 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390383
+`CHigh Seas`W: Eastern `CWaters`w~
+~
+0 44 24
+G 73 59 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390384
+`CHigh Seas`W: Northeastern `CWaters`w~
+~
+0 44 24
+G 79 65 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390385
+`CHigh Seas`W: Northern `CWaters`w~
+~
+0 44 24
+G 42 78 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390386
+`CHigh Seas`W: Central `CWaters`w~
+~
+0 44 24
+G 52 49 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390387
+`CHigh Seas`W: Southern`C Waters`w~
+~
+0 44 24
+G 56 21 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390388
+`CHigh Seas`W: Southwestern `CWaters`w~
+~
+0 44 24
+G 24 20 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390389
+`CHigh Seas`W: Western`C Waters`w~
+~
+0 44 24
+G 29 48 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390390
+`CHigh Seas`W: Northwestern `CWaters`w~
+~
+0 44 24
+G 25 70 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390391
+`DNassau`W Harbor`w~
+~
+0 44 24
+G 30 46 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390392
+`WHarbor `YDel Sol`w~
+~
+0 44 24
+G 47 16 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390393
+`CKing's Town`W Harbor`w~
+~
+0 44 24
+G 46 81 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390394
+`DSkull Rock `gL`ya`gg`yoo`gn`w~
+~
+0 44 24
+G 55 43 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390395
+`RCy`rc`Rlo`rp`Rs`W Island`W: The Shore`w~
+~
+0 44 24
+G 74 75 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390396
+`DTrader's `WBizaar`w~
+~
+0 44 24
+G 24 54 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390397
+A small `yfootpath`w~
+~
+0 44 24
+G 15 83 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390398
+`DNassau`c Well`w~
+~
+0 44 24
+G 24 53 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390399
+`yNorthern Sprawl`w~
+~
+0 44 24
+G 57 74 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390400
+`DThe `GPo`gi`Gso`gn`Ged Fr`go`Gg`w~
+~
+0 44 24
+G 57 74 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390401
+West City~
+~
+0 36 10
+G 1 -1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390402
+Haven's Bus Depot~
+~
+0 36 1
+G 52 48 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390403
+`gAt the `DBlack Knight`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 1 -1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390404
+The Abandoned Mariner's Highway~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390405
+The Corrupted Tranquility Farm~
+~
+0 36 25
+G 0 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390406
+The Campsite~
+~
+0 36 23
+G 0 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390407
+Inside the Beacon of Lost Souls~
+~
+0 44 14
+G 0 -1 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390408
+`DSmoky Back `RRoom`w~
+~
+0 44 24
+G 56 78 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390409
+`DAt The Bottom of the `WRabbit `DHole`w~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390410
+The `DH`Wa`Dl`Wl`w of `cLo`Cok`Wing Gla`Css`ces`w`x~
+~
+0 36 10
+G 3 2 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390411
+In Front of a Set of `DGiant Gothic Gates`w`x~
+~
+0 36 10
+G 3 2 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390412
+`cthe `WS`Ca`Wl`Ct`Wy `YSandy `WOyster `gB`Ga`gr `yBeach`w~
+~
+0 36 26
+G 3 2 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390413
+`yWit`gh`Gi`yn the A`gn`Gc`yient Oak T`gr`Ge`ye of the `MC`mh`Me`ms`Mh`mi`Mr`me `MC`ma`Mt`w~
+~
+0 36 25
+G 3 2 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390414
+The `rT`Rh`Mr`ro`Rn`Me `rR`Ro`Mo`rm`w of `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w~
+~
+0 44 2
+G 4 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390415
+Outside a `gMaze`w of `gL`Gu`gsh H`Ge`gdg`Ge`gs`w~
+~
+0 36 10
+G 4 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390416
+`gA Tree-Lined Approach to `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w~
+~
+0 36 10
+G 4 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390417
+`RC`Wh`Re`Ws`Rs`Wb`Ro`Wa`Rr`Wd `RC`Wo`Ru`Wr`Rt`w~
+~
+0 36 10
+G 4 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390418
+`ythe Sh`Ya`yll`co`Cw`cs of `MH`re`Ra`Mr`rt `RB`Ma`ry`w~
+~
+0 36 26
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390419
+`cthe `CE`Wn`Cd`Wl`Ce`Ws`Cs `CSea`c beyond the `yR`Do`wc`Wk`yy `DH`we`Wa`yd`Dl`wa`Wn`yd`Ds`w~
+~
+0 36 26
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390420
+`mT`Bh`ge`w `mFu`Bng`gal`m Fo`Bre`gst`w~
+~
+0 36 23
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390421
+Outside `YT`Che `YM`Cushroom `YC`Club`w~
+~
+0 36 23
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390422
+`gT`Dh`Ge `gT`Dh`Go`yu`Gs`ga`Dn`gd `yA`gc`Gr`De `gW`Do`Go`gd`w~
+~
+0 36 23
+G 68 25 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390423
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390424
+`mWelcome to March Manor`w~
+~
+0 36 23
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390425
+`gA Small Cottage `GGarden `gFull of `RF`Cl`Yo`Mw`We`Cr`Rs`w`x~
+~
+0 36 23
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390426
+`RT`Yh`Ce `yTea `MP`Ga`Yr`Ct`Ry`w~
+~
+0 36 23
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390427
+`yWelcome to Hatter House`w~
+~
+0 44 2
+G 4 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390428
+`gThe `cP`Co`co`Cl `co`Cf `cT`Ce`ca`Cr`cs`g Out Behind `yCottontail Cottage`w`x~
+~
+0 36 23
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390429
+`Dthe `gD`yi`Ds`gm`ya`gl `gM`Di`yr`ge`w~
+~
+0 36 25
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390430
+`yThe Great Hall of the `wDuchess' `yManor`w ~
+~
+0 36 25
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390431
+`rThe Pepper-Filled Kitchen of the `wDuchess' `rManor`w~
+~
+0 44 2
+G 4 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390432
+A Small `rAnteroom`w off the `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w Throne Room~
+~
+0 36 10
+G 4 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390433
+The `DShady `MPaths`w of `gT`ru`cl`mg`ye`gy W`Go`yo`Gd`gs`w~
+~
+0 36 23
+G 4 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390434
+`yV`wi`Dl`gl`Wa`yg`we `Wo`yf `Dt`gh`we `yA`Wn`wi`gm`Da`wl`Ds`w~
+~
+0 36 1
+G 4 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390435
+`DThe Burnt Out Remains of a Building`w~
+~
+0 44 2
+G 4 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390436
+Senate Hallway `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390437
+Senate Hallway `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390438
+Senate Hallway `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390439
+Senate Hallway `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390440
+Senate Hallway `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390441
+Senate Hallway `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390442
+Senate Hallway `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390443
+Central Hub~
+~
+0 36 10
+G 58 44 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390444
+New Hope Prisons `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390445
+New Hope Science Labs `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390446
+Senator-General's Office `W(`wNew Hope`W)`w~
+~
+0 36 19
+G -1 -2 50 0 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390447
+Main Street `W(`wNew Hope`W)`w~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390448
+The Hermitage Main Grounds `W(`wNew Hope`W)`w~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390449
+The Hermitage Mansion Grand Foyer `W(`wNew Hope`W)`w~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390450
+The Hermitage Master Bedroom `W(`wNew Hope`W)`w~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390451
+Senatorial Offices `W(`wNew Hope`W)`w~
+~
+0 36 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390452
+The Hall of Mirrors~
+~
+0 44 14
+G 0 -1 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390453
+`DUnder the `CW`ca`Cv`ce`Cs `Dof the `CE`Wn`Cd`Wl`Ce`Ws`Cs `CSea`w~
+~
+0 36 20
+G 3 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390454
+Senator Kaythlin's Home Main Room `W(`wNew Hope`W)`w~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390455
+Senator Kaythlin's Home Private Room `W(`wNew Hope`W)`w~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390456
+At the Base of the `RL`Wi`Rg`Wh`Rt`Wh`Ro`Wu`Rs`We`w`x~
+~
+0 36 26
+G -1 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390457
+The `DP`we`Wb`wb`Dl`we`W-`wS`Dt`wr`We`ww`Dn `wS`Wh`wo`Dr`we`Wl`wi`Dn`we at the foot of a `yR`Do`wc`Wk`yy `DC`wl`Wi`yf`Df`w below the `RL`Wi`Rg`Wh`Rt`Wh`Ro`Wu`Rs`We`w`x~
+~
+0 36 26
+G -1 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390458
+The Office of Senator Ella `w(`WNew Hope`w)~
+~
+0 36 1
+G -1 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390459
+The Office of Senator Kaythlin `w(`WNew Hope`w)~
+~
+0 36 1
+G -1 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390460
+`MBianca's Brothel`w~
+~
+0 44 24
+G 56 78 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390461
+A small private room~
+~
+0 44 24
+G 56 78 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390462
+A second private room~
+~
+0 44 24
+G 56 78 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390463
+A third private room~
+~
+0 44 24
+G 56 78 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390464
+Max's Home `W(`wNew Hope`W)`w~
+~
+0 36 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390465
+`CSky Above `gNew Orleans`x~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390466
+`cStreets of `gNew Orleans`x~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390467
+`WPresidential Manor`x~
+~
+0 36 1
+G 2 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390468
+Inside `YT`Che `YM`Cushroom `YC`Club`w~
+~
+0 36 1
+G 5 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390469
+`gThe Depressing and Boggy Gardens of the `wDuchess' `gManor`w~
+~
+0 36 25
+G 5 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390470
+`GThe Immaculate `gCroquet Lawn`G and '`yZoo`G'`~
+~
+0 36 10
+G 5 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390471
+`gThe Splendid Royal Botanical Gardens`w~
+~
+0 36 10
+G 5 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390472
+`yA Lean-To Gardener's Shack`w~
+~
+0 44 8
+G 5 1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390473
+`DA narrow `Gj`yu`gng`yl`Ge`y passage`w~
+~
+0 44 24
+G 55 30 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390474
+`gAt the `WTw`Ce`Wed`Cl`We T`Cw`Wins`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390475
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390476
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390477
+`WA Winter...Wonderland???`w`x~
+~
+0 36 23
+G 82 28 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390478
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390479
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390480
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390481
+`WA Snow-Filled `yW`goo`yd`w~
+~
+0 36 23
+G 20 27 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390482
+A Lion's Den~
+~
+0 44 24
+G 18 29 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390483
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390484
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390485
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390486
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390487
+Butterfly Territory~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390488
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390489
+The Central Hub~
+~
+0 36 10
+G 59 58 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390490
+Narwhal Territory~
+~
+0 36 1
+G -1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390491
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390492
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390493
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390494
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390495
+`gThe `YConstellations`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390496
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390497
+`gAt the `cD`Do`cd`Wo`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390498
+the Bar in the ^Lodge^~
+~
+0 44 12
+G 60 45 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390499
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390500
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390501
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390502
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390503
+`gAt the `cG`yry`Yp`yho`cn`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390504
+`gA Dead End Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390505
+`gAt the `rJ`Da`Rb`rb`De`Rr`rwo`Rc`rk`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390506
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390507
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390508
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390509
+`gAt the `DMemorial `gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390510
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390511
+Grasshopper Territory~
+~
+0 36 1
+G -2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390512
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390513
+`gAt `yJack's Tarts`g Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390514
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390515
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390516
+Hart Avenue beside the ^Lodge^~
+~
+0 36 1
+G 60 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390517
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390518
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390519
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390520
+`gThe Exit of the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390521
+Fox Territory~
+~
+0 36 1
+G -2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390522
+`gA Trap Within the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 6 1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390523
+Peacock Territory~
+~
+0 36 1
+G -2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390524
+Pickaxe Territory~
+~
+0 36 1
+G -2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390525
+Age of Babylon - Before 1400 BC~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390526
+Age of Babylon - Mesopotamia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390527
+Age of Babylon - Sirinia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390528
+Age of Babylon - Anupharis~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390529
+Age of Babylon - Nissenia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390530
+`gA Rounded P`Con`gd`g in T`ru`cl`mg`ye`gy W`Go`yo`Gd`gs`w`x~
+~
+0 36 23
+G 0 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390531
+`gA `GG`grassy `GG`glade in T`ru`cl`mg`ye`gy W`Go`yo`Gd`gs`w`w`x~
+~
+0 36 23
+G 0 1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390532
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390533
+`gA `GG`grassy `GG`glade Full of `RM`Yo`Cm`Me `GR`Wa`Ct`Yh`Rs`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390534
+`WInside `yCottontail Cottage`w`x~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390535
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390536
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390537
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390538
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390539
+The White Oak Technical Institute~
+~
+0 44 15
+G 57 42 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390540
+The Castle Courtyard~
+~
+0 36 10
+G 0 -1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390541
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390542
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390543
+Venice~
+~
+0 36 1
+G 80 60 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390544
+On the Eerily Still Tranquil Lane Winding through Moore Woods~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390545
+a forgotten `Gj`gu`yn`Gg`yl`ge`w pathway~
+~
+0 36 23
+G 72 28 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390546
+`yBefore the `cMonastery`w~
+~
+0 36 23
+G 72 19 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390547
+`DThe Catacombs`w~
+~
+0 36 23
+G 59 46 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390548
+`RRitual`D Chamber`w~
+~
+0 44 24
+G 59 46 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390549
+`WManor `MBedroom`w~
+~
+0 44 24
+G 47 15 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390550
+`WManor `GKitchen`w~
+~
+0 44 24
+G 31 26 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390551
+`WCobblestone Avenue`w~
+~
+0 44 24
+G 60 83 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390552
+`CKing's Town`W Courtyard`w~
+~
+0 44 24
+G 60 83 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390553
+`WPapal Street`w~
+~
+0 44 24
+G 60 83 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390554
+`WManor Avenue`w~
+~
+0 44 24
+G 60 83 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390555
+`wDiscreet `DCobblestone `WAvenue`w~
+~
+0 44 24
+G 33 80 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390556
+`WChurch of `RCroix`w~
+~
+0 44 24
+G 69 67 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390557
+`WPapal Office`w~
+~
+0 44 24
+G 73 72 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390558
+`RConfession Booth`w~
+~
+0 44 24
+G 73 72 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390559
+`wA `Gj`yu`gng`yl`Ge`y passage`w~
+~
+0 44 24
+G 60 21 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390560
+A `gSide Path`w~
+~
+0 44 24
+G 17 55 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390561
+`DSmuggler's `RD`re`Rn`w~
+~
+0 44 24
+G 30 45 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390562
+`DThe Gazeebo`w~
+~
+0 44 24
+G 45 31 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390563
+`YGypsy`W Camp`w~
+~
+0 44 24
+G 19 20 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390564
+`cKraken's Lair`w: `CWa`ct`Cer`cy`D depths`w~
+~
+0 44 24
+G 50 56 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390565
+The `RButcher's Block`w~
+~
+0 44 24
+G 21 81 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390566
+A `YSunny`W Throughfare`w~
+~
+0 36 1
+G 59 35 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390567
+`DSquare `ydel`Y Sol`w~
+~
+0 44 24
+G 59 35 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390568
+A `Dshady`w alley`w~
+~
+0 44 24
+G 75 31 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390569
+`RThe Bordello`w~
+~
+0 44 24
+G 70 19 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390570
+A small private chamber~
+~
+0 44 24
+G 75 19 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390571
+A second private chamber~
+~
+0 44 24
+G 85 26 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390572
+A third private chamber~
+~
+0 44 24
+G 71 27 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390573
+`YBell`W Tower`w~
+~
+0 44 24
+G 0 1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390574
+A broad paved street~
+~
+0 44 24
+G 44 18 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390575
+A broadly paved street~
+~
+0 44 24
+G 44 18 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390576
+`YSpanish`W Manor House`w~
+~
+0 44 24
+G 44 18 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390577
+`CKing's Town`W Mansion`w~
+~
+0 44 24
+G 56 69 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390578
+`CMansion`M Bedroom`w~
+~
+0 44 24
+G 56 69 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390579
+`CMansion`R Study`w~
+~
+0 44 24
+G 48 77 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390580
+`WThe Whispering`M Eye`w~
+~
+0 44 24
+G 23 69 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390581
+The Plains Outside of West City~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390582
+The Mountains~
+~
+0 36 23
+G 0 -2 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390583
+The World Martial Arts Tournament~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390584
+`cThe `DCity Gates`w~
+~
+0 36 1
+G 0 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390585
+`cThe `DWard of Sorrows`w~
+~
+0 36 1
+G 22 59 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390586
+`cThe peaks of `DHreng-Al-Shamir`w~
+~
+0 36 10
+G 50 25 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390587
+`cThe `DForsaken Plaza`w~
+~
+0 44 8
+G 46 52 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390588
+`cThe `DMarket`w~
+~
+0 44 5
+G 46 52 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390589
+`cThe shores of `DLake Hali`w~
+~
+0 36 10
+G 0 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390590
+`cStreet of the `DAncient Mysteries`w~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390591
+`DThe `yYellow Spire`w~
+~
+0 44 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390592
+`cThe Street of `DKings`w~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390593
+`cLibrary of `DKings`w~
+~
+0 44 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390594
+`DThe `cBlue Spire`w~
+~
+0 44 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390595
+The Inside of `mMarch Manor`w & `yHatter House`w~
+~
+0 44 2
+G 85 48 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390596
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 73 32 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390597
+`gThe `MAmnesial`g F`Go`yr`Ge`ys`Gt`gs of `MBoro Grove`w~
+~
+0 36 23
+G 73 32 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390598
+`DThe Entrance to a Dark and Gloomy `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w~
+~
+0 36 23
+G 26 73 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390599
+`DThe `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w`x~
+~
+0 36 21
+G 27 73 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390600
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 19 47 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390601
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 32 60 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390602
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 25 54 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390603
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 15 49 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390604
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 16 46 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390605
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 31 57 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390606
+`gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 34 47 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390607
+`DThe `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w`x~
+~
+0 36 21
+G 25 77 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390608
+`DThe `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w`x~
+~
+0 36 21
+G 18 67 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390609
+`DThe `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w`x~
+~
+0 36 21
+G 28 79 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390610
+`DThe `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w`x~
+~
+0 36 21
+G 20 69 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390611
+`DA `wRocky Platform`D Within The `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w`x~
+~
+0 44 24
+G 34 77 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390612
+Coffee Shop~
+~
+0 44 12
+G 60 41 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390613
+`DThe `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w`x~
+~
+0 36 21
+G 15 65 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390614
+`DThe `cU`Cn`cd`Ce`cr`Cw`ca`Ct`ce`Cr`D Cave System`w`x~
+~
+0 36 21
+G 19 68 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390615
+`gThe Entrance to The Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`w~
+~
+0 36 10
+G 22 50 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390616
+`gA `yPath `garound the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w~
+~
+0 36 10
+G 19 60 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390617
+`gThe `YConstellations `gWithin the Maze at `rC`Ra`Ms`rt`Rl`Me `rH`Re`Ma`rr`Rt`Ms`w`x~
+~
+0 36 10
+G 28 67 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390618
+Back Alley~
+~
+0 36 7
+G 47 51 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390619
+Hotel Antlers - Room 101~
+~
+0 44 2
+G 44 50 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390620
+Age of Babylon - Navvere~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390621
+St. Ignatius~
+~
+0 44 8
+G -1 -2 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390622
+Ville Cochon~
+~
+0 36 1
+G -1 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390623
+`bThe Ocean`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390624
+`rD`Dr`rag`Do`rns`Dt`ro`Dn`re`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390625
+`WBeyond the Wall`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390626
+`DCastle Black`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390627
+`DThe Wall`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390628
+`WWinterfell`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390629
+`WThe North`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390630
+`BRiverrun`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390631
+`BThe Riverlands`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390632
+`CThe Eyrie`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390633
+`CThe Vale`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390634
+`rT`Dh`re C`Dr`ro`Dw`rnl`Da`rn`Dd`rs`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390635
+`rT`Dh`re D`Dr`rag`Do`rn G`Dat`re`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390636
+`rT`Dh`re R`De`rd K`Dee`rp`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390637
+`rThe Throne Room`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390638
+`WThe White Sword Tower`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390639
+`rT`Dh`re D`Du`rngeo`Dn`rs`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390640
+`rM`Da`reg`Do`rr`D'`rs H`Dol`rdf`Das`rt`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390641
+`RThe Rock`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390642
+`RCasterly Rock`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390643
+`YThe Stormlands`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390644
+`YStorm's End`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390645
+`yDorne`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390646
+`rSunspear`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390647
+`GThe Reach`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390648
+`GHighgarden`x~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390649
+`cThe Bridge`x~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390650
+`cMess Hall`x~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390651
+`cOfficers Quarters`x~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390652
+`cCrew Quarters`x~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390653
+`cEngine Room`x~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390654
+`cFighter Bay`x~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390655
+`cShooting Range`x~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390656
+`cDojo`x~
+~
+0 44 11
+G 0 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390657
+In the Foyer of Haven Public Library~
+~
+0 44 5
+G 41 45 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390658
+In the Front Lobby at Town Hall~
+~
+0 44 5
+G 41 45 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390659
+a private back room~
+~
+0 44 24
+G 23 69 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390660
+Passing through the Breach~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390661
+Guild Square (`gMalifaux`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390662
+Quarantine Zone (`gMalifaux`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390663
+Ancient Sewers (`gMalifaux`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390664
+The Hanging Tree (`gMalifaux`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390665
+Slums (`gMalifaux`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390666
+The Last Light Tavern (`gMalifaux`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390667
+Aboard the Train (`gTrain`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390668
+Town Square (`gMining Town 42`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390669
+Soulstone Mine (`gMining Town 42`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390670
+Swampy bog (`gBayou`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390671
+An old growth forest (`gForest`w)~
+~
+0 44 12
+G 1 -1 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390672
+`gOff-Ship`x~
+~
+0 36 23
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390673
+Age of Babylon - Other~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390674
+Hotel Antlers - Room 102~
+~
+0 44 2
+G 44 50 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390675
+Hotel Antlers - Room 103~
+~
+0 44 2
+G 44 50 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390676
+`WSpringwater Cabins`w~
+~
+0 36 10
+G 53 54 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390677
+`cThe L`w`Ca`w`cke`w~
+~
+0 36 20
+G 43 74 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390678
+`rThe A`w`Rrc`w`rhe`w`Rr`w`ry R`w`Ra`w`rnge`w~
+~
+0 36 10
+G 24 50 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390679
+`yThe R`w`Yes`w`ytr`w`Yo`w`yoms`w~
+~
+0 44 8
+G 24 50 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390680
+The Toolshed~
+~
+0 44 8
+G 24 50 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390681
+`yCunningham Road`w~
+~
+0 36 1
+G 24 50 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390682
+`cThe L`w`Ca`w`cke`w~
+~
+0 36 20
+G 24 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390683
+`gThe F`w`yo`w`gre`w`ys`w`gt`w~
+~
+0 36 23
+G 24 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390684
+`gThe F`w`yo`w`gre`w`ys`w`gt`w~
+~
+0 36 23
+G 24 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390685
+`gThe F`w`yo`w`gre`w`ys`w`gt`w~
+~
+0 36 23
+G 24 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390686
+`gThe Ea`w`ys`w`gte`w`yr`w`gn F`w`yo`w`gre`w`ys`w`gt`w~
+~
+0 36 23
+G 66 48 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390687
+an apartments complex~
+~
+0 44 2
+G 42 52 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390688
+Room of Mist~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390689
+A Mountain Meadow~
+~
+0 36 1
+G 0 -3 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390690
+an airplane~
+~
+0 36 18
+G 43 47 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390691
+An Airplane~
+~
+0 36 18
+G -2 -4 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390692
+A Victorian-era Room~
+~
+0 44 2
+G -1 -4 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390693
+A Victorian-era Room~
+~
+0 44 2
+G -1 -4 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390694
+A Victorian-era Room~
+~
+0 44 2
+G -2 -5 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390695
+A Victorian-era Room~
+~
+0 44 2
+G -2 -5 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390696
+Forgotten Graveyard~
+~
+0 44 2
+G -2 -5 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390697
+Welcome to Souls Hollow~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390698
+A Sinking Feeling~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390699
+Souls Hollow - Town Center~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390700
+Souls Hollow - General Store~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390701
+Souls Hollow Inn - Room 2~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390702
+Souls Hollow Inn - Room 1~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390703
+Souls Hollow - Fate Street~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390704
+Souls Hollow - 12 Fate Street - Six's House~
+~
+0 36 1
+G 2 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390705
+a second back room~
+~
+0 44 24
+G 23 69 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390706
+a third back room~
+~
+0 44 24
+G 23 69 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390707
+`YSeam of Storms`W:`D Dire Straits`w~
+~
+0 44 24
+G 30 18 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390708
+The Throne Room~
+~
+0 36 10
+G 0 -1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390709
+The Upper Hallways of the Castle Underground~
+~
+0 36 10
+G 0 -1 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390710
+The Moonlight Forest~
+~
+0 36 23
+G 0 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390711
+The Teeth of Grundar~
+~
+0 36 13
+G 0 -1 50 50 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390712
+Ontop the Bastion of Light~
+~
+0 36 13
+G 0 -1 50 50 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390713
+Ontop the Beacon of Lost Souls~
+~
+0 36 13
+G 0 -1 50 50 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390714
+A Ruined `WChurch Square`w within a `DDecaying Queendom`w~
+~
+0 36 1
+G 51 41 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390715
+Within a `DCrumbling Cathedral`w~
+~
+0 36 1
+G 51 41 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390716
+The Sewers under the `WChurch Square`w of a `DDecaying Queendom`w~
+~
+0 44 11
+G 51 41 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390717
+Inside a half-burnt `DBakery`w~
+~
+0 44 5
+G 51 41 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390718
+A fortified base within a `DBakery`w~
+~
+0 44 5
+G 51 41 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390719
+A Decaying Street within the city of Taen~
+~
+0 36 1
+G 51 41 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390720
+The Halls of the Forgotten Dead~
+~
+0 44 14
+G 2 0 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390721
+`yMain Deck`w of `WThe `CS`Wcimita`Cr`w~
+~
+0 36 1
+G 33 50 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390722
+`CS`Wcimita`Cr`w:`R Captain's Cabin`w~
+~
+0 44 2
+G 33 50 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390723
+`CS`Wcimita`Cr`w: `DCrow's Nest`w~
+~
+0 36 18
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390724
+`yMain Deck`w of the `DNaglfar`w~
+~
+0 36 20
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390725
+`DNaglfar`w: `RCaptain's Cabin`w~
+~
+0 36 20
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390726
+`DNaglfar`w:`D Crow's Nest`w~
+~
+0 36 20
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390727
+`yMain Deck`w of The `cSea's Mercy`w~
+~
+0 36 20
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390728
+`cSea's Mercy`w: `RCaptain's Cabin`w~
+~
+0 36 20
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390729
+`cSea's Mercy`w: `DCrow's Nest`w~
+~
+0 36 20
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390730
+`yMain Deck`w of the `YHMS Majestic`w~
+~
+0 36 20
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390731
+`YHMS Majestic`w: `RCaptain's Cabin`w~
+~
+0 36 20
+G 33 50 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390732
+`YHMS Majestic`w: `DCrow's Nest`w~
+~
+0 36 20
+G 46 68 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390733
+St. Charles Cemetery~
+~
+0 36 1
+G -1 -2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390734
+Haven's northern `gForest`6~
+~
+0 36 23
+G 55 65 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390735
+The Other~
+~
+0 36 23
+G 55 65 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390736
+The Godrealm~
+~
+0 36 23
+G 55 65 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390737
+Hell~
+~
+0 36 23
+G 55 65 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390738
+The Wilds~
+~
+0 36 23
+G 55 65 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390739
+The Swamps~
+~
+0 36 25
+G -1 -2 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390740
+Age of Empires - 1400 BC - 1094 AD~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390741
+Age of Empires - Greece~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390742
+Age of Empires - Egypt~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390743
+Age of Empires - Rome~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390744
+Age of Empires - Inca~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390745
+Age of Empires - Scandinavia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390746
+Age of Empires - Canaan~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390747
+Age of Empires - Other~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390748
+Age of Swords - 1095-1491~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390749
+Age of Swords - Britannia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390750
+Age of Swords - France~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390751
+Age of Swords - Scandinavia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390752
+Age of Swords - Rome~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390753
+Age of Swords - Islam~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390754
+Age of Sails - Other~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390755
+Age of Swords - Other~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390756
+Age of Sails - 1492 - 1774~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390757
+Age of Sails - England~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390758
+Age of Sails - France~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390759
+Age of Sails - Spain~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390760
+Age of Sails - The Carribean~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390761
+Age of Sails - The New World~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390762
+Age of Gunpowder - 1775 - 1860~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390763
+Age of Gunpowder - England~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390764
+Age of Gunpowder - France~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390765
+Age of Gunpowder - United States~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390766
+Age of Gunpowder - Japan~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390767
+Age of Gunpowder - Other~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390768
+Age of Bullets - 1861 - 1913~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390769
+Age of Bullets - North America~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390770
+Age of Bullets - Asia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390771
+Age of Bullets - Europe~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390772
+Age of Bullets - Other~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390773
+Age of Industry - 1914 - 1945~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390774
+Age of Industry - North America~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390775
+Age of Industry - Asia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390776
+Age of Industry - Europe~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390777
+Age of Industry - Other~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390778
+Age of Science - 1946 - Present~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390779
+Age of Science - North America~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390780
+Age of Science - South America~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390781
+Age of Science - Asia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390782
+Age of Science - Africa~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390783
+Age of Science - The Middle East~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390784
+Age of Science - Europe~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390785
+Age of Science - Australia~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390786
+The Hippocampus~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390787
+`cThe Streets of `WHaven`c'`Ws `YU`Drb`Ya`Dn`W District`x~
+~
+0 36 1
+G 47 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390788
+the entrance to Haven High~
+~
+0 44 9
+G 42 71 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390789
+In the Hallway outside the Main Office~
+~
+0 44 9
+G 42 71 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390790
+In the Main Office of Haven High~
+~
+0 44 9
+G 33 79 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390791
+In the Entrance Hallway of Haven High~
+~
+0 44 9
+G 54 67 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390792
+In Between Wings~
+~
+0 44 9
+G 51 79 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390793
+In the History Wing~
+~
+0 44 9
+G 19 72 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390794
+In the Science Wing~
+~
+0 44 9
+G 19 72 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390795
+At the Stairs~
+~
+0 44 9
+G 49 53 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390796
+On the Second Floor~
+~
+0 44 9
+G 49 53 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390797
+In the Math Wing~
+~
+0 44 9
+G 22 51 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390798
+In the Electoral Wing~
+~
+0 44 9
+G 84 45 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390799
+In the South Wing~
+~
+0 44 9
+G 49 18 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390800
+Before the Locker Rooms~
+~
+0 44 9
+G 30 22 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390801
+In the Girl's Locker Room~
+~
+0 44 9
+G 30 22 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390802
+Haven Gatekeeper Station~
+~
+0 36 1
+G -1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390803
+`cThe Streets of `WHaven`c'`Ws `RR`Ye`Rd L`Yi`Rght`W District`x~
+~
+0 36 1
+G 47 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390804
+`cThe Streets of `WHaven`c'`Ws `cT`Cour`Yi`yst`W District`x~
+~
+0 36 1
+G 47 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390805
+`c`yOld `rF`yr`Wa`wn`Wk`wl`yi`rn B`yr`Wi`wd`yg`re`c Rising above the Bay`x~
+~
+0 36 1
+G 47 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390806
+`cThe Streets of `WHaven`c'`Ws `yHistoric`W District`x~
+~
+0 36 1
+G 47 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390807
+`cThe Overgrown Malaise of `YW`Re`Ds`Wt`Ch`Wa`Dv`Re`Yn`c Trailer Park`x~
+~
+0 36 1
+G 47 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390808
+`ca Lonely Stretch of `WMariner's Highway`c Cutting through Moore Woods`x~
+~
+0 36 1
+G 47 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390809
+`cThe Union Building of the `DBl`Ya`Dckf`Yie`Dld T`Ye`Dchn`Yo`Dl`Yo`Dg`Yi`Dc`Ya`Dl `YI`Dnst`Yi`Dt`Yu`Dt`Ye`x~
+~
+0 67108908 15
+G 47 45 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390810
+`cThe Shadowy Depths of `DWarden`c'`Ds `GW`yoods`c alongside Elm Street`x~
+~
+0 36 23
+G 47 45 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#390811
+`cInside `WThe Finch Tavern`c on Paine Avenue`x~
+~
+0 44 4
+G 42 48 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

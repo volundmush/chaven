@@ -1,0 +1,9281 @@
+#COMMAND
+Name      '~
+Code      do_say
+Position  5
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ,~
+Code      do_emote
+Position  5
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      .~
+Code      do_immtalk
+Position  4
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      1~
+Code      do_1
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      2~
+Code      do_2
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      3~
+Code      do_3
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      911~
+Code      do_911
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      :~
+Code      do_immtalk
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      at~
+Code      do_at
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      areas~
+Code      do_areas
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      alia~
+Code      do_alia
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      alias~
+Code      do_alias
+Position  0
+Level     110
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      afk~
+Code      do_afk
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      advance~
+Code      do_advance
+Position  0
+Level     111
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      avator~
+Code      do_avator
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      allow~
+Code      do_allow
+Position  0
+Level     109
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      asave~
+Code      do_asave
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      alist~
+Code      do_alist
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      aedit~
+Code      do_aedit
+Position  0
+Level     105
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      attack~
+Code      do_attack
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      abort~
+Code      do_abort
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      answer~
+Code      do_pickup
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      attempt~
+Code      do_attempt
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      ageless~
+Code      do_ageless
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      art~
+Code      do_art
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ally~
+Code      do_ally
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      aid~
+Code      do_aid
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      agree~
+Code      do_agree
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      award~
+Code      do_award
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      adopt~
+Code      do_adopt
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      adddesc~
+Code      do_adddesc
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      artificeweapon~
+Code      do_artificeweapon
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      artificeamulet~
+Code      do_artificeamulet
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      artificecharm~
+Code      do_artificecharm
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      admit~
+Code      do_admit
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      abduct~
+Code      do_abduct
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      arrange~
+Code      do_arrange
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      activate~
+Code      do_activate
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ambush~
+Code      do_ambush
+Position  0
+Level     100
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      alcohol~
+Code      do_alcohol
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      autoskip~
+Code      do_autoskip
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      associate~
+Code      do_associate
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      autofire~
+Code      do_autofire
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ability~
+Code      do_ability
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      accountview~
+Code      do_accountview
+Position  0
+Level     108
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      atemote~
+Code      do_atemote
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      augment~
+Code      do_augment
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      abomcure~
+Code      do_abomcure
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      announce~
+Code      do_announce
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      adversarytype~
+Code      do_adversarytype
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      adversaryname~
+Code      do_adversaryname
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      areaname~
+Code      do_areaname
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ammochange~
+Code      do_ammochange
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      airbubble~
+Code      do_airbubble
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      arrangehit~
+Code      do_arrangehit
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      addhidden~
+Code      do_addhidden
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      asay~
+Code      do_fsay
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      availability~
+Code      do_availability
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      awipe~
+Code      do_awipe
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      astralproject~
+Code      do_astralproject
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      abilities~
+Code      do_ability
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      aboutme~
+Code      do_aboutme
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      attractedto~
+Code      do_attractedto
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      b~
+Code      do_backward
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bl~
+Code      do_backwardleft
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      br~
+Code      do_backwardright
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      balance~
+Code      do_balance
+Position  4
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      ban~
+Code      do_ban
+Position  0
+Level     109
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      bug~
+Code      do_bug
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      brief~
+Code      do_brief
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      build~
+Code      do_building
+Position  0
+Level     100
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      bury~
+Code      do_sacrifice
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bystanders~
+Code      do_bystanders
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bystandersdelayed~
+Code      do_bystandersdelayed
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bites~
+Code      do_bites
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bind~
+Code      do_bind
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      bike~
+Code      do_bike
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      buy~
+Code      do_buy
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      bless~
+Code      do_bless
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      board~
+Code      do_board
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bloodaura~
+Code      do_bloodaura
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      breakin~
+Code      do_breakin
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      blindfold~
+Code      do_blindfold
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      buzz~
+Code      do_buzz
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      broadcast~
+Code      do_broadcast
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      banish~
+Code      do_banish
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      b1~
+Code      do_basement
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      b2~
+Code      do_basementtwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bust~
+Code      do_bust
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      battle~
+Code      do_battle
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      building~
+Code      do_building
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      basement~
+Code      do_basement
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      burn~
+Code      do_burn
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      blackout~
+Code      do_blackout
+Position  0
+Level     100
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bmp~
+Code      do_bmp
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      backward~
+Code      do_backward
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      backwardleft~
+Code      do_backwardleft
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      backwardright~
+Code      do_backwardright
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      behead~
+Code      do_behead
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      blackeyes~
+Code      do_blackeyes
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      brainwash~
+Code      do_brainwash
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      banktransfer~
+Code      do_banktransfer
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      begin~
+Code      do_begin
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bugsweep~
+Code      do_bugsweep
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      brand~
+Code      do_brand
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      butcher~
+Code      do_butcher
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      become~
+Code      do_become
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      book~
+Code      do_book
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      bloodstorm~
+Code      do_bloodstorm
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      boon~
+Code      do_boon
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bloodbath~
+Code      do_bloodbath
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bodycompel~
+Code      do_bodycompel
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      bloodtest~
+Code      do_bloodtest
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      channels~
+Code      do_channels
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      color~
+Code      do_color
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      cedit~
+Code      do_cedit
+Position  4
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      commands~
+Code      do_commands
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      combine~
+Code      do_combine
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      compact~
+Code      do_compact
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      close~
+Code      do_close
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      copyover~
+Code      do_copyover
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      clone~
+Code      do_clone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      clear~
+Code      do_clear
+Position  0
+Level     105
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      chat~
+Code      do_ooc
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      chug~
+Code      do_chug
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      customize~
+Code      do_customize
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      car~
+Code      do_car
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      cost~
+Code      do_cost
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      cover~
+Code      do_cover
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      call~
+Code      do_call
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      charlist~
+Code      do_charlist
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      chatroom~
+Code      do_chatroom
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      chat~
+Code      do_chat
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      charge~
+Code      do_charge
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      change~
+Code      do_change
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      clean~
+Code      do_clean
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      compete~
+Code      do_compete
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      cure~
+Code      do_cure
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      curse~
+Code      do_curse
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      calendar~
+Code      do_calendar
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      carry~
+Code      do_carry
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      consent~
+Code      do_consent
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      crisis~
+Code      do_crisis
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      checkout~
+Code      do_checkout
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      credits~
+Code      do_credits
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      csay~
+Code      do_csay
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      cannibalize~
+Code      do_cannibalize
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      coordvnum~
+Code      do_coordvnum
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      cardinal~
+Code      do_cardinal
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      caff~
+Code      do_caff
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      contribute~
+Code      do_contribute
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      control~
+Code      do_control
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      confiscate~
+Code      do_confiscate
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      comment~
+Code      do_comment
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      cloud~
+Code      do_cloud
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      curseobject~
+Code      do_curseobject
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      capture~
+Code      do_capture
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      competition~
+Code      do_competition
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      challenge~
+Code      do_challenge
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      contact~
+Code      do_contact
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      carefor~
+Code      do_carefor
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      curtains~
+Code      do_curtains
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      climb~
+Code      do_climb
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      create~
+Code      do_create
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      college~
+Code      do_college
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      clinic~
+Code      do_clinic
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      cauterize~
+Code      do_cauterize
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      colortest~
+Code      do_colortest
+Position  0
+Level     105
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      conclusion~
+Code      do_conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      cleanupprops~
+Code      do_cleanupprops
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      cult~
+Code      do_cult
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      chase~
+Code      do_villainchase
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      coinflip~
+Code      do_coinflip
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      chance~
+Code      do_chance
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      content~
+Code      do_content
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      down~
+Code      do_down
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      deposit~
+Code      do_deposit
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      dlook~
+Code      do_dlook
+Position  5
+Level     105
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      display~
+Code      do_display
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      description~
+Code      do_descedit
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      delet~
+Code      do_delet
+Position  0
+Level     0
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      delete~
+Code      do_delete
+Position  0
+Level     0
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      deaf~
+Code      do_deaf
+Position  0
+Level     105
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      drink~
+Code      do_drink
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      drop~
+Code      do_drop
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      dump~
+Code      do_dump
+Position  0
+Level     115
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      deny~
+Code      do_deny
+Position  0
+Level     110
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      disc~
+Code      do_disciplines
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      disconnect~
+Code      do_disconnect
+Position  0
+Level     108
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      direct~
+Code      do_direct
+Position  5
+Level     106
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      devour~
+Code      do_devour
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      decayproof~
+Code      do_decayproof
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      disciplines~
+Code      do_disciplines
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      describe~
+Code      do_focused
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      done~
+Code      do_done
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      discipline2~
+Code      do_discipline2
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      discipline3~
+Code      do_discipline3
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      drinks~
+Code      do_drinks
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      deleteroom~
+Code      do_deleteroom
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      difficulty~
+Code      do_difficulty
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      desclist~
+Code      do_desclist
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      directory~
+Code      do_directory
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      disagree~
+Code      do_disagree
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      diss~
+Code      do_diss
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      drive~
+Code      do_drive
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      disembark~
+Code      do_disembark
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      drag~
+Code      do_drag
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      decorate~
+Code      do_decorate
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      desclock~
+Code      do_desclock
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      deadify~
+Code      do_deadify
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      deputize~
+Code      do_deputize
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      donatechar~
+Code      do_donatechar
+Position  0
+Level     108
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      deathtouch~
+Code      do_deathtouch
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      detail~
+Code      do_detail
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      dream~
+Code      do_dream
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      drain~
+Code      do_drain
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      develop~
+Code      do_develop
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      desire~
+Code      do_desire
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      dayactivate~
+Code      do_dayactivate
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      diminish~
+Code      do_diminish
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      detain~
+Code      do_detain
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      disperse~
+Code      do_disperse
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      discipline4~
+Code      do_discipline4
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      discipline5~
+Code      do_discipline5
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      dreamworld~
+Code      do_dreamworld
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      deluded~
+Code      do_deluded
+Position  0
+Level     101
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      destiny~
+Code      do_destiny
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      disturbing~
+Code      do_disturbing
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      domain~
+Code      do_domain
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      decree~
+Code      do_decree
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      dread~
+Code      do_dread
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      east~
+Code      do_east
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      email~
+Code      do_email
+Position  0
+Level     110
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      equipment~
+Code      do_equipment
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      examine~
+Code      do_examine
+Position  5
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      emote~
+Code      do_emote
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      eat~
+Code      do_eat
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      echo~
+Code      do_recho
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      edit~
+Code      do_olc
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      extradesc~
+Code      do_extradesc
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      execute~
+Code      do_execute
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      exits~
+Code      do_exits
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      enrage~
+Code      do_enrage
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      escalator~
+Code      do_escalator
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      event~
+Code      do_event
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ebay~
+Code      do_ebay
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      effect~
+Code      do_effect
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      expose~
+Code      do_expose
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      escape~
+Code      do_escape
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      enthrall~
+Code      do_enthrall
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      enrapture~
+Code      do_enrapture
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      encounter~
+Code      do_encounter
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      exsanguinate~
+Code      do_exsanguinate
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      exorcise~
+Code      do_exorcise
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      exterminate~
+Code      do_exterminate
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      enter~
+Code      do_enter
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      emit~
+Code      do_emit
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      exclude~
+Code      do_exclude
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      encroachment~
+Code      do_encroachment
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      eidilon~
+Code      do_eidilon
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      eidolon~
+Code      do_eidilon
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      f~
+Code      do_forward
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fl~
+Code      do_forwardleft
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fr~
+Code      do_forwardright
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      for~
+Code      do_for
+Position  0
+Level     107
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      finger~
+Code      do_finger
+Position  4
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      fingerset~
+Code      do_fingerset
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      follow~
+Code      do_follow
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      flag~
+Code      do_flag
+Position  0
+Level     107
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      freevnum~
+Code      do_freevnum
+Position  0
+Level     108
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      force~
+Code      do_force
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      focused~
+Code      do_focused
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      faction~
+Code      do_faction
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      fsay~
+Code      do_fsay
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      fly~
+Code      do_fly
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      feed~
+Code      do_feed
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      flee~
+Code      do_flee
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fame~
+Code      do_fame
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      feel~
+Code      do_feel
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      fourth~
+Code      do_fourth
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fight~
+Code      do_fight
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      facesteal~
+Code      do_facesteal
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      forward~
+Code      do_forward
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      forwardleft~
+Code      do_forwardleft
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      forwardright~
+Code      do_forwardright
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      forumregister~
+Code      do_forumregister
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fbanish~
+Code      do_fbanish
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fwhere~
+Code      do_faction_where
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fleshform~
+Code      do_fleshform
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      form~
+Code      do_form
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      firstname~
+Code      do_firstname
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      forestbuild~
+Code      do_forestbuild
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fetchroom~
+Code      do_fetchroom
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      friend~
+Code      do_friend
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      findsecrets~
+Code      do_findsecrets
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      financialruin~
+Code      do_financialruin
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fears~
+Code      do_fears
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      freepower~
+Code      do_freepower
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      factionkick~
+Code      do_factionkick
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      fish~
+Code      do_fish
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      frisk~
+Code      do_frisk
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      family~
+Code      do_family
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      get~
+Code      do_get
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      goto~
+Code      do_goto
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      group~
+Code      do_group
+Position  1
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      give~
+Code      do_give
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      gecho~
+Code      do_echo
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      giveblood~
+Code      do_giveblood
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      groinkick~
+Code      do_groinkick
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      guest~
+Code      do_guest
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      giverespect~
+Code      do_giverespect
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      guards~
+Code      do_guards
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      ghostwalk~
+Code      do_ghostwalk
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ghosttouch~
+Code      do_ghosttouch
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      glance~
+Code      do_glance
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      garage~
+Code      do_garage
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      gag~
+Code      do_gag
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      gallery~
+Code      do_gallery
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      glide~
+Code      do_glide
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      goals~
+Code      do_goals
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      gtg~
+Code      do_gtg
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      guardmind~
+Code      do_guardmind
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      gift~
+Code      do_gift
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      grouptext~
+Code      do_grouptext
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      grab~
+Code      do_grab
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      help~
+Code      do_help
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      history~
+Code      do_history
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      home~
+Code      do_home
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      homeset~
+Code      do_homeset
+Position  0
+Level     102
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      hold~
+Code      do_wear
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      holylight~
+Code      do_holylight
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      hedit~
+Code      do_hedit
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      hp~
+Code      do_hp
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      house~
+Code      do_house
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      hypnotise~
+Code      do_hypnotise
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      hypnotize~
+Code      do_hypnotise
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      hide~
+Code      do_hide
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      hangup~
+Code      do_hangup
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      helptext~
+Code      do_helptext
+Position  0
+Level     110
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      helpseealso~
+Code      do_helpseealso
+Position  0
+Level     110
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      hurt~
+Code      do_hurt
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      headbutt~
+Code      do_headbutt
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      height~
+Code      do_height
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      haunt~
+Code      do_haunt
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      habit~
+Code      do_habit
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      holdings~
+Code      do_holdings
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      howl~
+Code      do_howl
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      housesim~
+Code      do_housesim
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      hostile~
+Code      do_hostile
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      hotspot~
+Code      do_hotspot
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      hire~
+Code      do_hire
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      harvest~
+Code      do_harvest
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      healthtimer~
+Code      do_healthtimer
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      hour~
+Code      do_hour
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      handoff~
+Code      do_handoff
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      helpless~
+Code      do_helpless
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      helpsearch~
+Code      do_helpsearch
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      handle~
+Code      do_handle
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      inventory~
+Code      do_inventory
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      implock~
+Code      do_implock
+Position  0
+Level     111
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      invis~
+Code      do_invis
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      immtalk~
+Code      do_immtalk
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      imotd~
+Code      do_imotd
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      intro~
+Code      do_intro
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      immdisable~
+Code      do_immdisable
+Position  0
+Level     108
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      immshow~
+Code      do_immshow
+Position  0
+Level     108
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      immfreeze~
+Code      do_immfreeze
+Position  0
+Level     106
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      injure~
+Code      do_injure
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      inflict~
+Code      do_inflict
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      imprint~
+Code      do_imprint
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ijusthadsex~
+Code      do_ijusthadsex
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      iwhere~
+Code      do_where
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      influence~
+Code      do_influence
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      ignore~
+Code      do_ignore
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      idlecheck~
+Code      do_idlecheck
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      illusion~
+Code      do_illusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      idig~
+Code      do_idig
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      idemolish~
+Code      do_idemolish
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      itemname~
+Code      do_itemname
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      internal~
+Code      do_internal
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      include~
+Code      do_include
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      implantdream~
+Code      do_implantdream
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      icheckout~
+Code      do_icheckout
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      imbue~
+Code      do_imbue
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      introduction~
+Code      do_intro
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      intel~
+Code      do_intel
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      jetlag~
+Code      do_jetlag
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      jump~
+Code      do_jump
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      join~
+Code      do_join
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      job~
+Code      do_job
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      joke~
+Code      do_joke
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      knockout~
+Code      do_knockout
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      karma~
+Code      do_karma
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      knockoutpunch~
+Code      do_knockoutpunch
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      keywords~
+Code      do_keywords
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      knowledge~
+Code      do_knowledge
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      kiss~
+Code      do_kiss
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      look~
+Code      do_look
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      le~
+Code      do_left
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      load~
+Code      do_load
+Position  0
+Level     103
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      log~
+Code      do_log
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      lreset~
+Code      do_locate_reset
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lookup~
+Code      do_lookup
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      long~
+Code      do_long
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      location~
+Code      do_location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      length~
+Code      do_length
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      language~
+Code      do_language
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lift~
+Code      do_lift
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      list~
+Code      do_list
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      lightswitch~
+Code      do_lightswitch
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      layer~
+Code      do_layer
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lsay~
+Code      do_lsay
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      libate~
+Code      do_libate
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      legends~
+Code      do_legends
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lightup~
+Code      do_lightup
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lease~
+Code      do_lease
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      left~
+Code      do_left
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lookfor~
+Code      do_lookfor
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      linkuproom~
+Code      do_linkuproom
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lag~
+Code      do_lag
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lock~
+Code      do_lock
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      lure~
+Code      do_lure
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      locate~
+Code      do_locate
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      luck~
+Code      do_luck
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lore~
+Code      do_lore
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      lifeforce~
+Code      do_lifeforce
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      myattacks~
+Code      do_custom
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      motd~
+Code      do_motd
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      memory~
+Code      do_memory
+Position  0
+Level     106
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      mwhere~
+Code      do_mwhere
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      medit~
+Code      do_medit
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      mpedit~
+Code      do_mpedit
+Position  0
+Level     103
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      mudstat~
+Code      do_mudstat
+Position  0
+Level     110
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      mentor~
+Code      do_mentor
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      mtalk~
+Code      do_mtalk
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      makeroom~
+Code      do_makeroom
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      myrooms~
+Code      do_myrooms
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      move~
+Code      do_move
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      makeobject~
+Code      do_makeobject
+Position  0
+Level     110
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      myself~
+Code      do_myself
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      myselfdelayed~
+Code      do_myselfdelayed
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      monster~
+Code      do_monster
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      messages~
+Code      do_messages
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      map~
+Code      do_map
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      motorcycle~
+Code      do_bike
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      minion~
+Code      do_minion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      mark~
+Code      do_mark
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      movein~
+Code      do_movein
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      makecrystal~
+Code      do_makecrystal
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      manifest~
+Code      do_manifest
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      makeup~
+Code      do_makeup
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      memorycloak~
+Code      do_memorycloak
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      maskintro~
+Code      do_maskintro
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      mimic~
+Code      do_mimic
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      mistpull~
+Code      do_mistpull
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      makepotion~
+Code      do_makepotion
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      maximumcharacters~
+Code      do_maximumcharacters
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      makeedges~
+Code      do_makeedges
+Position  0
+Level     110
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      makeproperty~
+Code      do_makeproperty
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      movealong~
+Code      do_movealong
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      maim~
+Code      do_maim
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      mindhack~
+Code      do_mindhack
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      makeprivate~
+Code      do_makeprivate
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      murder~
+Code      do_murder
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      myhaven~
+Code      do_myhaven
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      mastermind~
+Code      do_mastermind
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      n~
+Code      do_north
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      no~
+Code      do_no
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      north~
+Code      do_north
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      northeast~
+Code      do_northeast
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      northwest~
+Code      do_northwest
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ne~
+Code      do_northeast
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      nw~
+Code      do_northwest
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      newbie~
+Code      do_newbie
+Position  4
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      note~
+Code      do_note
+Position  4
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      ntoe~
+Code      do_note
+Position  4
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      newlock~
+Code      do_newlock
+Position  0
+Level     110
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      nochannels~
+Code      do_nochannels
+Position  0
+Level     102
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      noemote~
+Code      do_noemote
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      noyell~
+Code      do_noyell
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      notell~
+Code      do_notell
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      nonote~
+Code      do_nonote
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      nointro~
+Code      do_nointro
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      negtrain~
+Code      do_negtrain
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      names~
+Code      do_names
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      next~
+Code      do_next
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      news~
+Code      do_news
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      nightmare~
+Code      do_shroud
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      nofollow~
+Code      do_nofollow
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      naturalize~
+Code      do_naturalize
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      neutralize~
+Code      do_neutralize
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      nosr~
+Code      do_nosr
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      nofeedback~
+Code      do_nofeedback
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      nopray~
+Code      do_nopray
+Position  0
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      nofeel~
+Code      do_nofeel
+Position  0
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      nukez~
+Code      do_nukez
+Position  0
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      narrative~
+Code      do_narrative
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      nokill~
+Code      do_nokill
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      newalliance~
+Code      do_newalliance
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      newdesc~
+Code      do_newdesc
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      npcs~
+Code      do_npcs
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ooc~
+Code      do_ooc
+Position  4
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      open~
+Code      do_open
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      owhere~
+Code      do_owhere
+Position  0
+Level     106
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      oedit~
+Code      do_oedit
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      opedit~
+Code      do_opedit
+Position  0
+Level     103
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      out~
+Code      do_out
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      outfit~
+Code      do_outfit
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      outfitproof~
+Code      do_outfitproof
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      order~
+Code      do_order
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      oldscore~
+Code      do_oldscore
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      offworld~
+Code      do_offworld
+Position  0
+Level     110
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      operation~
+Code      do_operation
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      operative~
+Code      do_operative
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      pray~
+Code      do_pray
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      password~
+Code      do_password
+Position  0
+Level     0
+Log       2
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      prompt~
+Code      do_prompt
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      pour~
+Code      do_pour
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      put~
+Code      do_put
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      permban~
+Code      do_permban
+Position  0
+Level     110
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      pecho~
+Code      do_pecho
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      pload~
+Code      do_pload
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      punload~
+Code      do_punload
+Position  0
+Level     109
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      purge~
+Code      do_purge
+Position  0
+Level     102
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      poofin~
+Code      do_bamfin
+Position  0
+Level     103
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      poofout~
+Code      do_bamfout
+Position  0
+Level     103
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      prefi~
+Code      do_prefi
+Position  0
+Level     102
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      prefix~
+Code      do_prefix
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      private~
+Code      do_private
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      pickup~
+Code      do_pickup
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      probe~
+Code      do_probe
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      public~
+Code      do_ooc
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      protect~
+Code      do_protect
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      participant~
+Code      do_participant
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      phone~
+Code      do_phone
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      praise~
+Code      do_praise
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      pin~
+Code      do_pin
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      punch~
+Code      do_punch
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      ptell~
+Code      do_ptell
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      picklock~
+Code      do_picklock
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      plot~
+Code      do_plot
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      possess~
+Code      do_possess
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      procedure~
+Code      do_procedure
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      powers~
+Code      do_powers
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      pay~
+Code      do_pay
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      passthrough~
+Code      do_pass
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      park~
+Code      do_park
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      path~
+Code      do_path
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      paths~
+Code      do_path
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      petition~
+Code      do_petition
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      plantcamera~
+Code      do_plantcamera
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      priority~
+Code      do_priority
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      persuade~
+Code      do_persuade
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      patrol~
+Code      do_patrol
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      premise~
+Code      do_premise
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      photo~
+Code      do_photo
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      photoattract~
+Code      do_photoattract
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      privatesecurity~
+Code      do_privatesecurity
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      quiet~
+Code      do_quiet
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      qui~
+Code      do_qui
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      quit~
+Code      do_quit
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      quadrant~
+Code      do_quadrant
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      quote~
+Code      do_quote
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      r~
+Code      do_right
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      rest~
+Code      do_rest
+Position  4
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      rules~
+Code      do_rules
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      remove~
+Code      do_remove
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      remember~
+Code      do_remember
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      roomtitle~
+Code      do_title
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      reply~
+Code      do_reply
+Position  4
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      replay~
+Code      do_replay
+Position  4
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      reboot~
+Code      do_reboot
+Position  0
+Level     108
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      restore~
+Code      do_restore
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      return~
+Code      do_return
+Position  0
+Level     106
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      resets~
+Code      do_resets
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      redit~
+Code      do_redit
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      rpedit~
+Code      do_rpedit
+Position  0
+Level     103
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      roomlist~
+Code      do_roomlist
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      rplist~
+Code      do_rplist
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      report~
+Code      do_report
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      research~
+Code      do_research
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      reroll~
+Code      do_reroll
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      retreat~
+Code      do_retreat
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ride~
+Code      do_ride
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      release~
+Code      do_release
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      repair~
+Code      do_repair
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      recycleproperty~
+Code      do_recycleproperty
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      rent~
+Code      do_rent
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      rank~
+Code      do_rank
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      ritual~
+Code      do_ritual
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      rumor~
+Code      do_rumor
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      roll~
+Code      do_roll
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      relationship~
+Code      do_relationship
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      right~
+Code      do_right
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      resurrect~
+Code      do_resurrect
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      runinto~
+Code      do_runinto
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      recommend~
+Code      do_recommend
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      resupply~
+Code      do_resupply
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      recall~
+Code      do_recall
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      roster~
+Code      do_roster
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      reclaimarea~
+Code      do_reclaimarea
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      reclaimroom~
+Code      do_reclaimroom
+Position  0
+Level     110
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      roomie~
+Code      do_roomie
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      rcm~
+Code      do_rcm
+Position  0
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      roleonename~
+Code      do_roleonename
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      roletwoname~
+Code      do_roletwoname
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      roleonearchetypes~
+Code      do_roleonearchetype
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      roletwoarchetypes~
+Code      do_roletwoarchetype
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      roleonerestrictions~
+Code      do_roleonerestrictions
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      roletworestrictions~
+Code      do_roletworestrictions
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      removenightmare~
+Code      do_removenightmare
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      recollect~
+Code      do_recollect
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      s~
+Code      do_south
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      se~
+Code      do_southeast
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sect~
+Code      do_sect
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      south~
+Code      do_south
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      ssay~
+Code      do_ssay
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      society~
+Code      do_faction
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      southeast~
+Code      do_southeast
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      southwest~
+Code      do_southwest
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      se~
+Code      do_southeast
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sw~
+Code      do_southwest
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sa~
+Code      do_say
+Position  4
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      show~
+Code      do_show
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      sit~
+Code      do_sit
+Position  4
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      sockets~
+Code      do_sockets
+Position  0
+Level     106
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      stand~
+Code      do_stand
+Position  4
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      score~
+Code      do_score
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      socials~
+Code      do_socials
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      scroll~
+Code      do_scroll
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      say~
+Code      do_say
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      sell~
+Code      do_sell
+Position  5
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      save~
+Code      do_save
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      squish~
+Code      do_squish
+Position  0
+Level     102
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      set~
+Code      do_set
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      settime~
+Code      do_settime
+Position  0
+Level     110
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      shutdown~
+Code      do_shutdown
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      secset~
+Code      do_secset
+Position  0
+Level     108
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      snoop~
+Code      do_snoop
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      stat~
+Code      do_stat
+Position  0
+Level     103
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      string~
+Code      do_string
+Position  0
+Level     102
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      switch~
+Code      do_switch
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      sedit~
+Code      do_sedit
+Position  0
+Level     105
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      savedata~
+Code      do_savedata
+Position  0
+Level     107
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      savehelps~
+Code      do_savehelps
+Position  0
+Level     88
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      stash~
+Code      do_stash
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      spy~
+Code      do_spy
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      stats~
+Code      do_skills
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      showstat~
+Code      do_showskill
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      speed~
+Code      do_speed
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      shadow~
+Code      do_shadow
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      size~
+Code      do_size
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      short~
+Code      do_short
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      status~
+Code      do_status
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      speeddial~
+Code      do_speeddial
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      special~
+Code      do_special
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      story~
+Code      do_story
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      storyrunner~
+Code      do_storyrunner
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      stell~
+Code      do_stell
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      showfight~
+Code      do_showfight
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      share~
+Code      do_share
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      shift~
+Code      do_shift
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      showto~
+Code      do_showto
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      section~
+Code      do_quadrant
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      stalk~
+Code      do_stalk
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      stall~
+Code      do_stall
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      subtle~
+Code      do_subtle
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      summon~
+Code      do_summon
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      shroud~
+Code      do_shroud
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      storm~
+Code      do_storm
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sin~
+Code      do_sin
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sing~
+Code      do_sing
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sradddesc~
+Code      do_sradddesc
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      swalk~
+Code      do_swalk
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      second~
+Code      do_second
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scheme~
+Code      do_event
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      shop~
+Code      do_shop
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      scent~
+Code      do_scent
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      stopfight~
+Code      do_stopfight
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      subdue~
+Code      do_subdue
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      scout~
+Code      do_scout
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      staff~
+Code      do_staff
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      spyshield~
+Code      do_spyshield
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sex~
+Code      do_sex
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      sexupkeep~
+Code      do_sexupkeep
+Position  0
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      storyidea~
+Code      do_storyidea
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      stake~
+Code      do_stake
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      scry~
+Code      do_scry
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      showability~
+Code      do_showability
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      seek~
+Code      do_seek
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scan~
+Code      do_scan
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      suffer~
+Code      do_suffer
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      send~
+Code      do_send
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      surname~
+Code      do_surname
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      stab~
+Code      do_stab
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      shadowcloak~
+Code      do_shadowcloak
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      superpay~
+Code      do_superpay
+Position  0
+Level     110
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      skyfix~
+Code      do_skyfix
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scream~
+Code      do_scream
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      spar~
+Code      do_spar
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      satiate~
+Code      do_satiate
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      speak~
+Code      do_speak
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      setroomtitle~
+Code      do_setroomtitle
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      shipment~
+Code      do_shipment
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scar~
+Code      do_scar
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      sprint~
+Code      do_sprint
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      search~
+Code      do_search
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      suicide~
+Code      do_suicide
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      storyline~
+Code      do_storyline
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sraddhidden~
+Code      do_sraddhidden
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      squirm~
+Code      do_squirm
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      secrets~
+Code      do_secrets
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      smell~
+Code      do_smell
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sleep~
+Code      do_dream
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      statement~
+Code      do_statement
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      stasis~
+Code      do_stasis
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      storyrunners~
+Code      do_storyrunner
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      sexual~
+Code      do_sexual
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      smoke~
+Code      do_use
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      scene01desc~
+Code      do_scene01desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene01location~
+Code      do_scene01location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene01conclusion~
+Code      do_scene01conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene01specialroleone~
+Code      do_scene01specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene01specialroletwo~
+Code      do_scene01specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene02desc~
+Code      do_scene02desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene02location~
+Code      do_scene02location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene02specialroleone~
+Code      do_scene02specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene02specialroletwo~
+Code      do_scene02specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene02conclusion~
+Code      do_scene02conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene03desc~
+Code      do_scene03desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene03location~
+Code      do_scene03location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene03specialroleone~
+Code      do_scene03specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene03specialroletwo~
+Code      do_scene03specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene03conclusion~
+Code      do_scene03conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene04desc~
+Code      do_scene04desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene04location~
+Code      do_scene04location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene04specialroleone~
+Code      do_scene04specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene04specialroletwo~
+Code      do_scene04specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene04conclusion~
+Code      do_scene04conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene05desc~
+Code      do_scene05desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene05location~
+Code      do_scene05location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene05specialroleone~
+Code      do_scene05specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene05specialroletwo~
+Code      do_scene05specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene05conclusion~
+Code      do_scene05conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene06desc~
+Code      do_scene06desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene06location~
+Code      do_scene06location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene06specialroleone~
+Code      do_scene06specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene06specialroletwo~
+Code      do_scene06specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene06conclusion~
+Code      do_scene06conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene07desc~
+Code      do_scene07desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene07location~
+Code      do_scene07location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene07specialroleone~
+Code      do_scene07specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene07specialroletwo~
+Code      do_scene07specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene07conclusion~
+Code      do_scene07conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene08desc~
+Code      do_scene08desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene08location~
+Code      do_scene08location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene08specialroleone~
+Code      do_scene08specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene08specialroletwo~
+Code      do_scene08specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene08conclusion~
+Code      do_scene08conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene09desc~
+Code      do_scene09desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene09location~
+Code      do_scene09location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene09specialroleone~
+Code      do_scene09specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene09specialroletwo~
+Code      do_scene09specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene09conclusion~
+Code      do_scene09conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene10desc~
+Code      do_scene10desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene10location~
+Code      do_scene10location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene10specialroleone~
+Code      do_scene10specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene10specialroletwo~
+Code      do_scene10specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene10conclusion~
+Code      do_scene10conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene11desc~
+Code      do_scene11desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene11location~
+Code      do_scene11location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene11specialroleone~
+Code      do_scene11specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene11specialroletwo~
+Code      do_scene11specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene11conclusion~
+Code      do_scene11conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene12desc~
+Code      do_scene12desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene12location~
+Code      do_scene12location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene12specialroleone~
+Code      do_scene12specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene12specialroletwo~
+Code      do_scene12specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene12conclusion~
+Code      do_scene12conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene13desc~
+Code      do_scene13desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene13location~
+Code      do_scene13location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene13specialroleone~
+Code      do_scene13specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene13specialroletwo~
+Code      do_scene13specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene13conclusion~
+Code      do_scene13conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene14desc~
+Code      do_scene14desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene14location~
+Code      do_scene14location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene14specialroleone~
+Code      do_scene14specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene14specialroletwo~
+Code      do_scene14specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene14conclusion~
+Code      do_scene14conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene15desc~
+Code      do_scene15desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene15location~
+Code      do_scene15location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene15specialroleone~
+Code      do_scene15specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene15specialroletwo~
+Code      do_scene15specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene15conclusion~
+Code      do_scene15conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene16desc~
+Code      do_scene16desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene16location~
+Code      do_scene16location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene16specialroleone~
+Code      do_scene16specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene16specialroletwo~
+Code      do_scene16specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene16conclusion~
+Code      do_scene16conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene17desc~
+Code      do_scene17desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene17location~
+Code      do_scene17location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene17specialroleone~
+Code      do_scene17specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene17specialroletwo~
+Code      do_scene17specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene17conclusion~
+Code      do_scene17conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene18desc~
+Code      do_scene18desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene18location~
+Code      do_scene18location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene18specialroleone~
+Code      do_scene18specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene18specialroletwo~
+Code      do_scene18specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene18conclusion~
+Code      do_scene18conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene19desc~
+Code      do_scene18desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene19location~
+Code      do_scene19location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene19specialroleone~
+Code      do_scene19specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene19specialroletwo~
+Code      do_scene19specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene19conclusion~
+Code      do_scene19conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene20desc~
+Code      do_scene18desc
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene20location~
+Code      do_scene20location
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene20specialroleone~
+Code      do_scene20specialroleone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene20specialroletwo~
+Code      do_scene20specialroletwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      scene20conclusion~
+Code      do_scene20conclusion
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      senddream~
+Code      do_senddream
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      shifterstash~
+Code      do_shifterstash
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      saycolor~
+Code      do_saycolor
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      shh~
+Code      do_shh
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      setdoom~
+Code      do_setdoom
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      shadowwalk~
+Code      do_shadowwalk
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      subfactionone~
+Code      do_subfactionone
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      subfactiontwo~
+Code      do_subfactiontwo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      swat~
+Code      do_swat
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      shadowban~
+Code      do_shadowban
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      summary~
+Code      do_summary
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      telepath~
+Code      do_telepath
+Position  4
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      tell~
+Code      do_tell
+Position  4
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      territory~
+Code      do_territory
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      time~
+Code      do_time
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      typo~
+Code      do_typo
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      title~
+Code      do_whotitle
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      take~
+Code      do_get
+Position  5
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      trust~
+Code      do_trust
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      trash~
+Code      do_sacrifice
+Position  2
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      trim~
+Code      do_trim
+Position  0
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      travel~
+Code      do_travel
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      train~
+Code      do_train
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      talk~
+Code      do_talk
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      type~
+Code      do_type
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      taste~
+Code      do_taste
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      text~
+Code      do_text
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      target~
+Code      do_target
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      targetdelayed~
+Code      do_targetdelayed
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      transfer~
+Code      do_transfer
+Position  0
+Level     100
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      timeswept~
+Code      do_timeswept
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      taxi~
+Code      do_taxi
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      tailor~
+Code      do_customize
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      tackle~
+Code      do_tackle
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      think~
+Code      do_think
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      taint~
+Code      do_taint
+Position  0
+Level     100
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      tuckin~
+Code      do_tuckin
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      telempath~
+Code      do_telempath
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      third~
+Code      do_third
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      teletext~
+Code      do_teletext
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      telesay~
+Code      do_telesay
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      telessay~
+Code      do_telefsay
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      telecsay~
+Code      do_telecsay
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      tyrissexy~
+Code      do_tyrissexy
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      trace~
+Code      do_trace
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      treat~
+Code      do_treat
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      to~
+Code      do_to
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      terrain~
+Code      do_terrain
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      trasharea~
+Code      do_trasharea
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      trance~
+Code      do_trance
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      toxin~
+Code      do_toxin
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      turn~
+Code      do_turn
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      timeline~
+Code      do_timeline
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      testercommand~
+Code      do_testercommand
+Position  0
+Level     110
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      trollreport~
+Code      do_trollreport
+Position  0
+Level     1
+Log       1
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      teaser~
+Code      do_teaser
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      tempcommand~
+Code      do_tempcommand
+Position  0
+Level     111
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      up~
+Code      do_up
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      unalias~
+Code      do_unalias
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      unhide~
+Code      do_unhide
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      untie~
+Code      do_untie
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      use~
+Code      do_use
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      unbanish~
+Code      do_unbanish
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      uses~
+Code      do_uses
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      unexpose~
+Code      do_unexpose
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      understanding~
+Code      do_understanding
+Position  0
+Level     100
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      undo~
+Code      do_undo
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      unroster~
+Code      do_unroster
+Position  0
+Level     105
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      unzip~
+Code      do_zip
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      visible~
+Code      do_visible
+Position  4
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      violate~
+Code      do_violate
+Position  0
+Level     109
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      vnum~
+Code      do_vnum
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      vote~
+Code      do_vote
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      victimdescribe~
+Code      do_victimdescribe
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      vomit~
+Code      do_vomit
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      victimize~
+Code      do_victimize
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      violent~
+Code      do_violent
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      west~
+Code      do_west
+Position  0
+Level     0
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      who~
+Code      do_who
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      whisper~
+Code      do_whisper
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      withdraw~
+Code      do_withdraw
+Position  5
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      wizhelp~
+Code      do_wizhelp
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      worth~
+Code      do_worth
+Position  0
+Level     110
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      weather~
+Code      do_weather
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      wear~
+Code      do_wear
+Position  0
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      wake~
+Code      do_wake
+Position  4
+Level     0
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      wizlock~
+Code      do_wizlock
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      wizinvis~
+Code      do_invis
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      wiznet~
+Code      do_wiznet
+Position  0
+Level     102
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      waterproof~
+Code      do_waterproof
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      whoinvis~
+Code      do_whoinvis
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      weatherset~
+Code      do_weatherset
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      where~
+Code      do_where
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      whereinvis~
+Code      do_whereinvis
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      width~
+Code      do_width
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      wail~
+Code      do_wail
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      wonderland~
+Code      do_wonderland
+Position  0
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      wound~
+Code      do_wound
+Position  0
+Level     1
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      walk~
+Code      do_walk
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      wherevis~
+Code      do_whereinvis
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      wanderhome~
+Code      do_wanderhome
+Position  0
+Level     100
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      warp~
+Code      do_warp
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      wilds~
+Code      do_wilds
+Position  0
+Level     106
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      wildsapprove~
+Code      do_wildsapprove
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      world~
+Code      do_wilds
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      year~
+Code      do_year
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      yes~
+Code      do_yes
+Position  0
+Level     1
+Log       0
+Show      0
+Flags     0 
+End
+
+#COMMAND
+Name      zecho~
+Code      do_zecho
+Position  0
+Level     106
+Log       1
+Show      1
+Flags     0 
+End
+
+#COMMAND
+Name      zip~
+Code      do_zip
+Position  0
+Level     1
+Log       0
+Show      1
+Flags     0 
+End
+
+#END

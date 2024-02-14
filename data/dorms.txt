@@ -1,0 +1,44 @@
+#DORMS
+DormRoom 0 ~
+DormRoom 1 ~
+DormRoom 2 ~
+DormRoom 3 ~
+DormRoom 4 ~
+DormRoom 5 ~
+DormRoom 6 ~
+DormRoom 7 ~
+DormRoom 8 ~
+DormRoom 9 ~
+DormRoom 10 ~
+DormRoom 11 ~
+DormRoom 12 ~
+DormRoom 13 ~
+DormRoom 14 ~
+DormRoom 15 ~
+DormRoom 16 ~
+DormRoom 17 ~
+DormRoom 18 ~
+DormRoom 19 ~
+DormRoom 20 ~
+DormRoom 21 ~
+DormRoom 22 ~
+DormRoom 23 ~
+DormRoom 24 ~
+DormRoom 25 ~
+DormRoom 26 ~
+DormRoom 27 ~
+DormRoom 28 ~
+DormRoom 29 ~
+DormRoom 30 ~
+DormRoom 31 ~
+DormRoom 32 ~
+DormRoom 33 ~
+DormRoom 34 ~
+DormRoom 35 ~
+DormRoom 36 ~
+DormRoom 37 ~
+DormRoom 38 ~
+DormRoom 39 ~
+End
+
+#END

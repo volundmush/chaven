@@ -1,0 +1,2198 @@
+#AREADATA
+Name Boston~
+VNUMs 32000 32999
+Completed 0
+World 0
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#32000
+`ddingy warehouse retrofitted into a rave`w~
+~
+0 131596 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32005
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32001
+`Wa Longliner Fishing Boat named "`yFilthy Oar`W"`x`x~
+~
+0 131628 2
+G 9 14 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32006
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 32007
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32008
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 32002
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32002
+`024choppy waters`x`x~
+~
+0 131620 20
+G 9 14 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 32001
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32003
+`#4a9955P`#559e57u`#61a359b`#6ca85bl`#78ac5ci`#83b15ec`#8eb660 `#9abb62G`#a5c064a`#b1c566r`#bcca68d`#c7cf6ae`#d3d36bn`#ded86d `#eadd6fa`#f5e271n`#f1e377d`#eee47e `#eae584B`#e7e68bo`#e3e791s`#e0e898t`#dce99eo`#d9eaa5n`#d5ebab `#d2ecb2C`#ceedb8o`#cbeebfm`#c7efc5m`#c4f0cco`#c0f1d2n`q`w`x~
+~
+0 131076 10
+G 2 -1 50 0 100
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32009
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32004
+Mandarin Oriental Hotel, Boston - Residential Suite~
+~
+0 131596 8
+G 0 3 50 0 50
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32005
+`101Industrial Streets of Boston`w~
+~
+0 131108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+F 137555992 0
+Èáy·ð~
+(null)~
+~
+D0
+~
+~
+1 0 32000
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32006
+`024choppy waters`x`x~
+~
+0 4325924 20
+G 9 14 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 32001
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32007
+`024choppy waters`x`x~
+~
+0 548 20
+G 9 14 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 32001
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32008
+`024choppy waters`x`x~
+~
+0 548 20
+G 9 14 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32001
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32009
+`da `rStudio Apartment`d in the `rBoston's North End`d~
+~
+0 131628 2
+G 2 -1 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32003
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32010
+`240the `252Main Bar`240 area of a `yShady Dive`w~
+~
+0 524 12
+G 13 6 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32011
+`240a `rBackstage Area`240 of a Dive behind `238Dark Curtains`w~
+~
+0 524 14
+G 13 6 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32012
+`240a `238Dim-Lit Corridor`240 leading to the `252Bathrooms`w~
+~
+0 524 12
+G 13 6 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32013
+a service entrance of the Cosmopolitan Hotel in Downtown Boston~
+~
+0 524 9
+G 0 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32014
+an `254Expansive Stretch`w of `230Sandy Beach`w along `159Boston Coast`w~
+~
+0 4 26
+G 76 25 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32017
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+1 0 32016
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32015
+`rThirsty Mind Coffee and Wine Bar`w~
+~
+0 2097709 12
+G 16 52 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32016
+the `254cozy interior`w of `230Boston Beach 'n BBQ`w~
+~
+0 12 4
+G 76 25 50 0 40
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+1 0 32014
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32017
+a bit of `084Sparse Forest`w running alongside `230Boston Beach`w~
+~
+0 516 23
+G 76 25 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 32014
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32018
+`WIn The Lobby Of Boston Medical`w~
+~
+0 556 15
+G 2 0 50 10 20
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 32052
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32019
+Boston Auto Repair~
+~
+0 67109420 5
+G 43 60 50 20 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32020
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32020
+Boston Auto Repair - Office~
+~
+0 33563148 5
+G 43 60 50 20 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32021
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 32019
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32021
+An appartment in Boston~
+~
+0 524 2
+G 43 60 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32020
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32022
+somewhere deep inside the maze of `rshipping containers`w`x~
+~
+0 516 7
+G 67 70 50 50 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32026
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+1 0 32025
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32023
+a `Ddeserted building`w in dire need of maintenance`x~
+~
+0 12 8
+G 67 70 50 0 50
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32024
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32024
+an ill-lit set of `yrepurposed rooms`w`x~
+~
+0 12 8
+G 67 70 50 0 50
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32023
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32025
+a dilapidated, half-furnished`W caravan`w`x~
+~
+0 12 2
+G 67 70 50 0 35
+C 1000 1000 1000
+T 3000
+D9
+~
+~
+1 0 32022
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32026
+an `Demptied-out warehouse`w in southside `WBoston Harbour`w`x~
+~
+0 12 8
+G 67 70 50 0 50
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32022
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32027
+a Hall of Cells ~
+~
+0 524 2
+G 69 70 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32028
+a Room Designed for Courses and Lectures~
+~
+0 524 15
+G 69 70 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32029
+an Outside Recreational Area~
+~
+0 4 15
+G 69 70 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32030
+`WFriedman Hall's`w of `DBrown `wUniversity~
+~
+0 12 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32031
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 32032
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32031
+a long corridor in `WFriedman Hall`w~
+~
+0 12 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32037
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32030
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+1 0 32033
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32032
+the upper hallways of `WFriedman Hall`w~
+~
+0 2060 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 32036
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 32034
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 32030
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+1 0 32035
+0 0 0 0 0 0 0 0 0
+M 0 H 750
+W (null)~
+Y (null)~
+S
+#32033
+the custodian's corner in `WFriedman Hall`w~
+~
+0 12 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D9
+~
+~
+1 0 32031
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32034
+the vice-chancellor's office of `WFriedman Hall`w~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 32032
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32035
+a Senior Professor's office in `WFriedman Hall`w~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+1 0 32032
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32036
+the staff lounge of `WFriedman Hall`w~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 32032
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32037
+a long corridor in `WFriedman Hall`w~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32038
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32031
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32038
+`WFriedman Hall`w's outdoor sport facilities~
+~
+0 516 10
+G 26 52 50 0 100
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 32039
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 32037
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 32040
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32039
+the entrance of `WFriedman's`C Fieldhouse`w~
+~
+0 12 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32041
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 32043
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 32042
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 32038
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32040
+the `Gfootball fields`w outside of `WFriedman Hall`w~
+~
+0 516 10
+G 26 52 50 0 100
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+0 0 32038
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32041
+the `cmen's`w changing rooms~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32039
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32042
+the `Cwomen's`w changing rooms~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32039
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32043
+the indoor sport facilities of `WFriedman Fieldhouse`w~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 32039
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 32044
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+1 0 32046
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 32045
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32044
+an indoor `cswimming pool`w inside of`W Friedman Fieldhouse`w~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D9
+~
+~
+0 0 32043
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32045
+a `Dwork-out gym `wfull of equipment~
+~
+0 12 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 32043
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32046
+a `Ddark storage closet `wfor sport equipment~
+~
+0 524 2
+G 26 52 50 0 35
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+1 0 32043
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32047
+the small unisex bathroom at the end of the hall`x~
+~
+0 12 5
+G 43 27 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32048
+Outside of a Quaint Taxidermist's Shop~
+~
+0 36 1
+G 0 2 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 32049
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32049
+Inside of a Quaint Taxidermist's Shop ~
+~
+0 4194348 5
+G 0 2 50 20 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32050
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+1 0 32048
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32050
+The Back of a Quaint Taxidermist's Shop ~
+~
+0 556 14
+G 0 2 50 20 20
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32049
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32051
+Inside a Smoky Bar in Boston~
+~
+0 44 3
+G 17 30 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32052
+`WA Room In Boston Medical`w~
+~
+0 556 15
+G 2 0 50 10 20
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 32018
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#32053
+Test room 1~
+~
+0 556 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32054
+Test Room2~
+~
+0 44 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32055
+`ya Sufficient, Shared Bathroom in a Cabin `gin th`ye`g W`Gi`glde`Wr`gy`w~
+~
+0 524 2
+G 4 3 50 0 35
+C -9999 -9997 -9999
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32056
+`ya Sufficient, Shared Bathroom in a Cabin `gin th`ye`g W`Gi`glde`Wr`gy`w~
+~
+0 524 2
+G 4 3 50 0 35
+C -9999 -9995 -9999
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32057
+`MTh`me `MZ`me`Mn Sp`ma`w~
+~
+0 556 9
+G 1 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32058
+the ruins of a house~
+~
+0 4 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32059
+~
+~
+0 556 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32060
+A Room~
+~
+0 556 2
+G 0 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32061
+~
+~
+0 556 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32062
+`WPorrazzo Skating Rink, Boston`w - `CEntrance`w~
+~
+0 556 9
+G 46 25 50 15 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32077
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 32078
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 32079
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32063
+`rThe Underground `D- The Antechamber`w~
+~
+0 524 3
+G 2 2 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32064
+North Square, Boston~
+~
+0 548 1
+G 3 6 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32070
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32065
+a wood-paneled finished basement~
+~
+0 2060 2
+G 84 78 50 0 35
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+1 0 32076
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32066
+nondescript street in Boston~
+~
+0 548 1
+G 20 40 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32067
+Some Street in Boston~
+~
+0 2097701 1
+G 1 -1 50 100 0
+C -10001 -9999 -10000
+T 3000
+D0
+~
+~
+1 0 32068
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32068
+A Weathered Home~
+~
+0 2097709 2
+G 1 -1 50 0 35
+C -10001 -9998 -10000
+T 3000
+D1
+~
+~
+0 0 32069
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 32067
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32069
+A Weathered Home~
+~
+0 524845 2
+G 1 0 50 0 35
+C -10000 -9998 -10000
+T 3000
+D3
+~
+~
+0 0 32068
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32070
+Mamma Maria, Italian Restaurant~
+~
+0 556 5
+G 3 6 50 20 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32064
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32071
+Rockin' Pub~
+~
+0 36 1
+G 2 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32072
+A back road through the swamps north of Boston~
+~
+0 36 1
+G 84 78 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32073
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32073
+a driveway leading up to a modest family home~
+~
+0 2097157 2
+G 84 78 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32076
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32072
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32074
+Pet Smart~
+~
+0 4194348 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#32075
+`DBoylston Street, `gBo`Gs`gt`Wo`Gn`D, `DMA`6~
+~
+0 524837 1
+G 67 33 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32076
+a comfortable open area living and dining room~
+~
+0 2097677 2
+G 84 78 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32073
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+1 0 32065
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#32077
+`WPorrazzo Skating Rink, Boston`w - `CIce Rink`w~
+~
+0 2097709 9
+G 46 25 50 15 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32062
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32078
+`WPorrazzo Skating Rink, Boston`w - `CPro Skate Shop`w~
+~
+0 2097709 5
+G 46 25 50 20 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 32062
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32079
+`WPorrazzo Skating Rink, Boston`w - `CCafe`w~
+~
+0 556 12
+G 46 25 50 0 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 32062
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32080
+`WPorrazzo Skating Rink, Boston`w - `yThe Beach`w~
+~
+0 1049124 26
+G 46 25 50 40 40
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 32081
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32081
+`WPorrazzo Skating Rink, Boston`w - `BIn The Water Beside The Beach`w~
+~
+0 36 28
+G 46 25 50 40 40
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+0 0 32080
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32082
+The SalteBox Cafe~
+~
+0 524 4
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32083
+ksoa`x~
+~
+0 548 1
+G 20 40 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32084
+A Remote Sea Cave`x~
+~
+0 524 24
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32085
+Hotel and Elevator~
+~
+0 44 2
+G 4 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 32087
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+1 0 32086
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32086
+Elevator and Hotel~
+~
+0 548 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 32085
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32087
+Elevator and Hotel~
+~
+0 548 1
+G 59 47 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 32085
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 32088
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32088
+Elevator~
+~
+0 44 2
+G 59 47 50 0 35
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 32087
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32089
+a nondescript street in Boston~
+~
+0 548 1
+G 20 40 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32090
+a nondescript street in Boston~
+~
+0 548 1
+G 20 40 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32091
+a nondescript street in Boston~
+~
+0 36 1
+G 20 40 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32092
+a nondescript street in Boston~
+~
+0 36 1
+G 20 40 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32093
+a stretch of road between Boston and Haven~
+~
+0 36 1
+G 1 40 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 32094
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32094
+a stretch of road between Boston and Haven~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32106
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 32093
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 32095
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32095
+a stretch of road between Boston and Haven~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 32094
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 32096
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32096
+a stretch of road between Boston and Haven~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 32095
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 32097
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32097
+a stretch of road between Boston and Haven~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 32096
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 32098
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32098
+a stretch of road between Boston and Haven~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 32097
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 32099
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32099
+approaching an exit to Boston~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 32100
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 32098
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32100
+nearing an exit to Boston~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 32101
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 32099
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#32101
+the exit to Boston~
+~
+0 32 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32104
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32102
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 32100
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32102
+a rough stretch of highway~
+~
+0 32 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32101
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32103
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32103
+a rough stretch of highway~
+~
+0 32 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32102
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32104
+a rough stretch of highway~
+~
+0 32 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32105
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32101
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32105
+a rough stretch of highway~
+~
+0 32 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 32104
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32106
+a lonely drive leading to a small hotel~
+~
+0 32 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32107
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32094
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32107
+the entrance to 'The `WSi`wl`Wver S`wt`War`x' hotel`x~
+~
+0 32 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+gate~
+1 0 32108
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 32106
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32108
+the courtyard of 'The `WSi`wl`Wver S`wt`War`x' hotel~
+~
+0 32 10
+G 1 -1 50 0 100
+C 1000 1000 1000
+T 3000
+D2
+~
+gate~
+1 0 32107
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32109
+an exit~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32110
+an exit~
+~
+0 36 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32111
+an exit~
+~
+0 548 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32112
+an area under construction~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32113
+an area under construction~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32114
+an area under construction~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 32115
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32115
+an area under construction~
+~
+0 44 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 32114
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 32116
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32116
+an area under construction~
+~
+0 44 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 32115
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y ~
+S
+#32117
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32118
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32119
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32120
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32121
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32122
+area under development~
+~
+0 12 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32123
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32124
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32125
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32126
+area under development~
+~
+0 44 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32127
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32128
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32129
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32130
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32131
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32132
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 1 H 0
+W (null)~
+Y ~
+S
+#32133
+area under development~
+~
+0 44 5
+G 1 -1 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#32134
+area under development~
+~
+0 524 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+D 0 32000 2 1
+D 0 32003 0 2
+D 0 32005 0 1
+D 0 32009 2 1
+D 0 32014 7 1
+D 0 32016 8 1
+D 0 32019 0 2
+D 0 32020 0 2
+D 0 32020 2 2
+D 0 32021 2 2
+D 0 32022 2 1
+D 0 32022 6 1
+D 0 32023 0 1
+D 0 32024 2 1
+D 0 32025 9 1
+D 0 32026 0 1
+D 0 32031 6 1
+D 0 32032 1 1
+D 0 32032 3 1
+D 0 32032 9 1
+D 0 32033 9 1
+D 0 32034 1 1
+D 0 32035 6 1
+D 0 32036 3 1
+D 0 32037 0 1
+D 0 32038 1 1
+D 0 32038 2 1
+D 0 32039 0 1
+D 0 32039 2 1
+D 0 32039 3 1
+D 0 32041 2 1
+D 0 32042 0 1
+D 0 32043 7 1
+D 0 32046 8 1
+D 0 32048 3 1
+D 0 32049 0 1
+D 0 32049 1 1
+D 0 32050 2 1
+D 0 32062 0 1
+D 0 32064 0 1
+D 0 32067 0 2
+D 0 32068 2 1
+D 0 32070 2 1
+D 0 32073 0 2
+D 0 32076 2 2
+D 0 32076 5 2
+D 0 32077 2 1
+D 0 32085 0 1
+D 0 32085 1 1
+D 0 32086 3 1
+D 0 32087 2 1
+D 0 32107 0 1
+D 0 32108 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

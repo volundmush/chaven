@@ -1,0 +1,2138 @@
+<?xml version '1.0' ?>
+<Skill>
+  <Name>reserved</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>10</Type>
+</Skill>
+
+<Skill>
+  <Name>subdue</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>10</Type>
+</Skill>
+
+<Skill>
+  <Name>bash</Name>
+  <Level channeler='5' rogue='2' warrior='1' wisdom='3' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>8</Type>
+</Skill>
+
+<Skill>
+  <Name>lore</Name>
+  <Level channeler='0' rogue='20' warrior='20' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>3</Type>
+</Skill>
+
+<Skill>
+  <Name>repair</Name>
+  <Level channeler='50' rogue='50' warrior='50' wisdom='50' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>9</Type>
+</Skill>
+
+<Skill>
+  <Name>sharpen</Name>
+  <Level channeler='60' rogue='60' warrior='60' wisdom='60' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>9</Type>
+  <Requirement type='0' percent='100' >repair</Requirement>
+</Skill>
+
+<Skill>
+  <Name>meditation</Name>
+  <Level channeler='1' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+</Skill>
+
+<Skill>
+  <Name>hunger resistance</Name>
+  <Level channeler='30' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='75' >meditation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>weather resistance</Name>
+  <Level channeler='45' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='90' >meditation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>concentration</Name>
+  <Level channeler='70' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='100' >meditation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>detect channeling</Name>
+  <Level channeler='1' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+</Skill>
+
+<Skill>
+  <Name>flow sight</Name>
+  <Level channeler='15' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='75' >detect channeling</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sense ability</Name>
+  <Level channeler='10' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='50' >detect channeling</Requirement>
+</Skill>
+
+<Skill>
+  <Name>weave sight</Name>
+  <Level channeler='30' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='75' >flow sight</Requirement>
+  <Requirement type='0' percent='80' >sense ability</Requirement>
+</Skill>
+
+<Skill>
+  <Name>invert detection</Name>
+  <Level channeler='55' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='75' >weave sight</Requirement>
+</Skill>
+
+<Skill>
+  <Name>opposition</Name>
+  <Level channeler='90' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='100' >invert detection</Requirement>
+</Skill>
+
+<Skill>
+  <Name>tie</Name>
+  <Level channeler='1' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+</Skill>
+
+<Skill>
+  <Name>block weaves</Name>
+  <Level channeler='40' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+</Skill>
+
+<Skill>
+  <Name>cut</Name>
+  <Level channeler='80' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+</Skill>
+
+<Skill>
+  <Name>untie</Name>
+  <Level channeler='60' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+</Skill>
+
+<Skill>
+  <Name>grasp</Name>
+  <Level channeler='1' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+</Skill>
+
+<Skill>
+  <Name>weave handling</Name>
+  <Level channeler='1' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+</Skill>
+
+<Skill>
+  <Name>advanced handling</Name>
+  <Level channeler='30' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='80' >weave handling</Requirement>
+</Skill>
+
+<Skill>
+  <Name>focus</Name>
+  <Level channeler='65' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='80' >advanced handling</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master handling</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='90' Cleric='90' Illusionist='90' Delver='90' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='100' >focus</Requirement>
+</Skill>
+
+<Skill>
+  <Name>split weave</Name>
+  <Level channeler='100' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>1</Type>
+  <Requirement type='0' percent='75' >focus</Requirement>
+</Skill>
+
+<Skill>
+  <Name>triple weave</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='100' Cleric='100' Illusionist='100' Delver='100' Ranger='0' Striker='0' />
+  <Type>19</Type>
+  <Requirement type='0' percent='100' >master handling</Requirement>
+  <Requirement type='0' percent='90' >split weave</Requirement>
+</Skill>
+
+<Skill>
+  <Name>armor usage</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+</Skill>
+
+<Skill>
+  <Name>torso reinforcement</Name>
+  <Level channeler='0' rogue='10' warrior='10' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='50' >armor usage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>head reinforcement</Name>
+  <Level channeler='0' rogue='0' warrior='15' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='75' >armor usage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>arm reinforcement</Name>
+  <Level channeler='0' rogue='33' warrior='28' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='80' >armor usage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>leg reinforcement</Name>
+  <Level channeler='0' rogue='65' warrior='60' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='80' >armor usage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>neck reinforcement</Name>
+  <Level channeler='0' rogue='0' warrior='90' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='90' >armor usage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>blocking patterns</Name>
+  <Level channeler='0' rogue='0' warrior='1' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+</Skill>
+
+<Skill>
+  <Name>block slash</Name>
+  <Level channeler='0' rogue='0' warrior='20' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='75' >blocking patterns</Requirement>
+</Skill>
+
+<Skill>
+  <Name>block pierce</Name>
+  <Level channeler='0' rogue='0' warrior='20' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='75' >blocking patterns</Requirement>
+</Skill>
+
+<Skill>
+  <Name>block bash</Name>
+  <Level channeler='0' rogue='0' warrior='20' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='75' >blocking patterns</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert block</Name>
+  <Level channeler='0' rogue='0' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='100' >block bash</Requirement>
+  <Requirement type='0' percent='100' >block pierce</Requirement>
+  <Requirement type='0' percent='100' >block slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>evasion</Name>
+  <Level channeler='3' rogue='1' warrior='1' wisdom='2' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+</Skill>
+
+<Skill>
+  <Name>advanced evasion</Name>
+  <Level channeler='43' rogue='32' warrior='34' wisdom='40' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='85' >evasion</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert evasion</Name>
+  <Level channeler='0' rogue='65' warrior='65' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='75' >advanced evasion</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sidestep</Name>
+  <Level channeler='0' rogue='85' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='75' >expert evasion</Requirement>
+</Skill>
+
+<Skill>
+  <Name>rescue</Name>
+  <Level channeler='35' rogue='22' warrior='21' wisdom='35' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+</Skill>
+
+<Skill>
+  <Name>reinforced rescue</Name>
+  <Level channeler='0' rogue='55' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='100' >rescue</Requirement>
+</Skill>
+
+<Skill>
+  <Name>shield usage</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+</Skill>
+
+<Skill>
+  <Name>shield bash</Name>
+  <Level channeler='0' rogue='6' warrior='3' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='75' >shield usage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>shield block</Name>
+  <Level channeler='0' rogue='6' warrior='3' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='80' >shield usage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>animal handling</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>9</Type>
+</Skill>
+
+<Skill>
+  <Name>horse riding</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>9</Type>
+  <Requirement type='0' percent='1' >animal handling</Requirement>
+</Skill>
+
+<Skill>
+  <Name>combat riding</Name>
+  <Level channeler='99' rogue='0' warrior='55' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>9</Type>
+  <Requirement type='0' percent='80' >horse riding</Requirement>
+</Skill>
+
+<Skill>
+  <Name>charge</Name>
+  <Level channeler='0' rogue='0' warrior='65' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>9</Type>
+  <Requirement type='0' percent='75' >combat riding</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master riding</Name>
+  <Level channeler='0' rogue='0' warrior='70' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>9</Type>
+  <Requirement type='0' percent='100' >charge</Requirement>
+</Skill>
+
+<Skill>
+  <Name>combat strike</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+</Skill>
+
+<Skill>
+  <Name>advanced strike</Name>
+  <Level channeler='65' rogue='50' warrior='49' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='90' >combat strike</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert strike</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='40' Apothecary='40' Gleeman='40' Weaponsmaster='30' Duellist='30' Soldier='30' Sorcerer='50' Cleric='50' Illusionist='50' Delver='50' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='90' >advanced strike</Requirement>
+  <Requirement type='0' percent='100' >combat strike</Requirement>
+</Skill>
+
+<Skill>
+  <Name>dual wield</Name>
+  <Level channeler='5' rogue='1' warrior='1' wisdom='5' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+</Skill>
+
+<Skill>
+  <Name>dual slash</Name>
+  <Level channeler='0' rogue='10' warrior='7' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='75' >dual wield</Requirement>
+</Skill>
+
+<Skill>
+  <Name>dual blunt</Name>
+  <Level channeler='0' rogue='7' warrior='11' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='75' >dual wield</Requirement>
+</Skill>
+
+<Skill>
+  <Name>dual exotic</Name>
+  <Level channeler='40' rogue='20' warrior='25' wisdom='35' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='80' >dual wield</Requirement>
+</Skill>
+
+<Skill>
+  <Name>dual mix</Name>
+  <Level channeler='0' rogue='75' warrior='55' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='80' >dual blunt</Requirement>
+  <Requirement type='0' percent='75' >dual exotic</Requirement>
+  <Requirement type='0' percent='80' >dual slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>enhanced attack</Name>
+  <Level channeler='3' rogue='1' warrior='1' wisdom='3' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+</Skill>
+
+<Skill>
+  <Name>sharp damage</Name>
+  <Level channeler='0' rogue='0' warrior='42' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='80' >enhanced attack</Requirement>
+</Skill>
+
+<Skill>
+  <Name>enhanced damage</Name>
+  <Level channeler='50' rogue='45' warrior='35' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='100' >enhanced attack</Requirement>
+</Skill>
+
+<Skill>
+  <Name>reinforced damage</Name>
+  <Level channeler='0' rogue='0' warrior='60' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='80' >enhanced damage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>enhanced dual wield</Name>
+  <Level channeler='0' rogue='65' warrior='48' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='90' >dual wield</Requirement>
+  <Requirement type='0' percent='80' >enhanced damage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>enhanced shield bash</Name>
+  <Level channeler='0' rogue='0' warrior='56' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>2</Type>
+  <Requirement type='0' percent='80' >enhanced damage</Requirement>
+  <Requirement type='0' percent='97' >shield bash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>enhanced speed</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+</Skill>
+
+<Skill>
+  <Name>multiple attacks</Name>
+  <Level channeler='0' rogue='0' warrior='28' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='100' >enhanced speed</Requirement>
+</Skill>
+
+<Skill>
+  <Name>enhanced multiple attack</Name>
+  <Level channeler='0' rogue='0' warrior='55' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='80' >multiple attacks</Requirement>
+</Skill>
+
+<Skill>
+  <Name>quicksteps</Name>
+  <Level channeler='0' rogue='28' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='80' >enhanced speed</Requirement>
+</Skill>
+
+<Skill>
+  <Name>quicksilver</Name>
+  <Level channeler='0' rogue='56' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>4</Type>
+  <Requirement type='0' percent='80' >quicksteps</Requirement>
+</Skill>
+
+<Skill>
+  <Name>axe</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+</Skill>
+
+<Skill>
+  <Name>axe parry</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='75' >axe</Requirement>
+</Skill>
+
+<Skill>
+  <Name>woodsman hand</Name>
+  <Level channeler='30' rogue='15' warrior='20' wisdom='30' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='30' >axe</Requirement>
+</Skill>
+
+<Skill>
+  <Name>combat axe</Name>
+  <Level channeler='30' rogue='25' warrior='20' wisdom='30' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='75' >axe</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced axe</Name>
+  <Level channeler='55' rogue='45' warrior='40' wisdom='55' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >combat axe</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert axe</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='50' Duellist='50' Soldier='50' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced axe</Requirement>
+  <Requirement type='0' percent='100' >woodsman hand</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master axe</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='85' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert axe</Requirement>
+</Skill>
+
+<Skill>
+  <Name>moonlight axe</Name>
+  <Level channeler='50' rogue='50' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='95' >combat axe</Requirement>
+</Skill>
+
+<Skill>
+  <Name>silver doom</Name>
+  <Level channeler='75' rogue='75' warrior='75' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='90' >moonlight axe</Requirement>
+</Skill>
+
+<Skill>
+  <Name>dagger</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+</Skill>
+
+<Skill>
+  <Name>dagger parry</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='75' >dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>dagger slash</Name>
+  <Level channeler='40' rogue='20' warrior='35' wisdom='25' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='50' >dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>dagger pierce</Name>
+  <Level channeler='40' rogue='20' warrior='35' wisdom='25' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='50' >dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>carving</Name>
+  <Level channeler='0' rogue='25' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='1' percent='75' >dagger pierce</Requirement>
+  <Requirement type='1' percent='75' >dagger slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced dagger</Name>
+  <Level channeler='50' rogue='40' warrior='45' wisdom='38' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >dagger pierce</Requirement>
+  <Requirement type='0' percent='100' >dagger slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert dagger</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='45' Apothecary='45' Gleeman='45' Weaponsmaster='50' Duellist='50' Soldier='50' Sorcerer='55' Cleric='55' Illusionist='55' Delver='55' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master dagger</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='85' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>neck thrust</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='60' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='75' >expert dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sliding steel</Name>
+  <Level channeler='50' rogue='50' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>living blade</Name>
+  <Level channeler='75' rogue='75' warrior='75' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>flail</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+</Skill>
+
+<Skill>
+  <Name>flail twirl</Name>
+  <Level channeler='40' rogue='30' warrior='10' wisdom='45' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='70' >flail</Requirement>
+</Skill>
+
+<Skill>
+  <Name>flail smash</Name>
+  <Level channeler='40' rogue='30' warrior='15' wisdom='45' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='70' >flail</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced flail</Name>
+  <Level channeler='50' rogue='40' warrior='30' wisdom='50' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >flail smash</Requirement>
+  <Requirement type='0' percent='100' >flail twirl</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert flail</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced flail</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master flail</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='85' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert flail</Requirement>
+</Skill>
+
+<Skill>
+  <Name>spiked fury</Name>
+  <Level channeler='50' rogue='50' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >flail</Requirement>
+</Skill>
+
+<Skill>
+  <Name>chain storm</Name>
+  <Level channeler='75' rogue='75' warrior='75' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >spiked fury</Requirement>
+</Skill>
+
+<Skill>
+  <Name>mace</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+</Skill>
+
+<Skill>
+  <Name>mace parry</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='75' >mace</Requirement>
+</Skill>
+
+<Skill>
+  <Name>mace thrust</Name>
+  <Level channeler='30' rogue='25' warrior='20' wisdom='30' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='80' >mace</Requirement>
+</Skill>
+
+<Skill>
+  <Name>mace bash</Name>
+  <Level channeler='30' rogue='25' warrior='20' wisdom='30' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='80' >mace</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced mace</Name>
+  <Level channeler='50' rogue='35' warrior='38' wisdom='50' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >mace bash</Requirement>
+  <Requirement type='0' percent='100' >mace thrust</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert mace</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='40' Apothecary='55' Gleeman='55' Weaponsmaster='50' Duellist='50' Soldier='50' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced mace</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master mace</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='85' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert mace</Requirement>
+</Skill>
+
+<Skill>
+  <Name>smashing blow</Name>
+  <Level channeler='50' rogue='50' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >mace bash</Requirement>
+  <Requirement type='0' percent='100' >mace thrust</Requirement>
+</Skill>
+
+<Skill>
+  <Name>bone smasher</Name>
+  <Level channeler='75' rogue='75' warrior='75' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >mace bash</Requirement>
+  <Requirement type='0' percent='100' >mace thrust</Requirement>
+</Skill>
+
+<Skill>
+  <Name>quarterstaff</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+</Skill>
+
+<Skill>
+  <Name>staff parry</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='75' >quarterstaff</Requirement>
+</Skill>
+
+<Skill>
+  <Name>quarterstaff thrust</Name>
+  <Level channeler='20' rogue='20' warrior='20' wisdom='20' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='75' >quarterstaff</Requirement>
+</Skill>
+
+<Skill>
+  <Name>quarterstaff bash</Name>
+  <Level channeler='35' rogue='35' warrior='35' wisdom='35' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='80' >quarterstaff</Requirement>
+</Skill>
+
+<Skill>
+  <Name>double edged staff</Name>
+  <Level channeler='0' rogue='60' warrior='60' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='60' >quarterstaff bash</Requirement>
+  <Requirement type='0' percent='60' >quarterstaff thrust</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced quarterstaff</Name>
+  <Level channeler='40' rogue='40' warrior='40' wisdom='40' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >quarterstaff bash</Requirement>
+  <Requirement type='0' percent='100' >quarterstaff thrust</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert quarterstaff</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='70' Stalker='70' Apothecary='70' Gleeman='70' Weaponsmaster='70' Duellist='70' Soldier='70' Sorcerer='70' Cleric='70' Illusionist='70' Delver='70' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced quarterstaff</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master quarterstaff</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='85' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert quarterstaff</Requirement>
+</Skill>
+
+<Skill>
+  <Name>quickstrike</Name>
+  <Level channeler='50' rogue='50' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >quarterstaff bash</Requirement>
+  <Requirement type='0' percent='100' >quarterstaff thrust</Requirement>
+</Skill>
+
+<Skill>
+  <Name>twirling fate</Name>
+  <Level channeler='75' rogue='75' warrior='75' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >quarterstaff bash</Requirement>
+  <Requirement type='0' percent='100' >quarterstaff thrust</Requirement>
+</Skill>
+
+<Skill>
+  <Name>spear</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+</Skill>
+
+<Skill>
+  <Name>spear parry</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='75' >spear</Requirement>
+</Skill>
+
+<Skill>
+  <Name>spear thrust</Name>
+  <Level channeler='30' rogue='20' warrior='15' wisdom='40' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='85' >spear</Requirement>
+</Skill>
+
+<Skill>
+  <Name>spear bash</Name>
+  <Level channeler='30' rogue='20' warrior='15' wisdom='40' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='95' >spear</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced spear</Name>
+  <Level channeler='45' rogue='35' warrior='40' wisdom='50' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >spear bash</Requirement>
+  <Requirement type='0' percent='100' >spear thrust</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert spear</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='60' Duellist='60' Soldier='60' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced spear</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master spear</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='85' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert spear</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sword</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+</Skill>
+
+<Skill>
+  <Name>sword parry</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='75' >sword</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sword slash</Name>
+  <Level channeler='20' rogue='15' warrior='10' wisdom='20' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='50' >sword</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sword jab</Name>
+  <Level channeler='25' rogue='20' warrior='15' wisdom='25' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='70' >sword</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced sword</Name>
+  <Level channeler='35' rogue='30' warrior='25' wisdom='35' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >sword</Requirement>
+  <Requirement type='0' percent='80' >sword jab</Requirement>
+  <Requirement type='0' percent='80' >sword slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert sword</Name>
+  <Level channeler='0' rogue='0' warrior='60' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >advanced sword</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master sword</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='85' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert sword</Requirement>
+</Skill>
+
+<Skill>
+  <Name>three step slash</Name>
+  <Level channeler='50' rogue='50' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >sword jab</Requirement>
+  <Requirement type='0' percent='100' >sword slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>eruption blade</Name>
+  <Level channeler='75' rogue='75' warrior='75' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >sword jab</Requirement>
+  <Requirement type='0' percent='100' >sword slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>whip</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+</Skill>
+
+<Skill>
+  <Name>lassoing</Name>
+  <Level channeler='50' rogue='40' warrior='55' wisdom='60' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >whip</Requirement>
+</Skill>
+
+<Skill>
+  <Name>whip slash</Name>
+  <Level channeler='30' rogue='20' warrior='25' wisdom='30' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='80' >whip</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced whip</Name>
+  <Level channeler='40' rogue='40' warrior='40' wisdom='40' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >whip slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert whip</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='50' Apothecary='50' Gleeman='50' Weaponsmaster='50' Duellist='50' Soldier='50' Sorcerer='50' Cleric='50' Illusionist='50' Delver='50' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >advanced whip</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master whip</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='85' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert whip</Requirement>
+</Skill>
+
+<Skill>
+  <Name>whiplash</Name>
+  <Level channeler='50' rogue='50' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='100' >whip slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sonic slash</Name>
+  <Level channeler='75' rogue='75' warrior='75' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>0</Type>
+  <Requirement type='0' percent='90' >whip slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>hide</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+</Skill>
+
+<Skill>
+  <Name>advanced hide</Name>
+  <Level channeler='60' rogue='10' warrior='30' wisdom='40' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='80' >hide</Requirement>
+</Skill>
+
+<Skill>
+  <Name>conceal</Name>
+  <Level channeler='0' rogue='30' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='90' >advanced hide</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master hide</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='60' Apothecary='60' Gleeman='60' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='90' >advanced hide</Requirement>
+</Skill>
+
+<Skill>
+  <Name>mug</Name>
+  <Level channeler='0' rogue='1' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+</Skill>
+
+<Skill>
+  <Name>steal</Name>
+  <Level channeler='0' rogue='40' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='100' >mug</Requirement>
+</Skill>
+
+<Skill>
+  <Name>theft</Name>
+  <Level channeler='0' rogue='80' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='100' >steal</Requirement>
+</Skill>
+
+<Skill>
+  <Name>nimble</Name>
+  <Level channeler='0' rogue='1' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+</Skill>
+
+<Skill>
+  <Name>pick lock</Name>
+  <Level channeler='0' rogue='52' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='90' >nimble</Requirement>
+</Skill>
+
+<Skill>
+  <Name>animal trap</Name>
+  <Level channeler='6' rogue='1' warrior='3' wisdom='4' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+</Skill>
+
+<Skill>
+  <Name>pitfall</Name>
+  <Level channeler='0' rogue='13' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='80' >animal trap</Requirement>
+</Skill>
+
+<Skill>
+  <Name>loose stone</Name>
+  <Level channeler='0' rogue='40' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='90' >animal trap</Requirement>
+</Skill>
+
+<Skill>
+  <Name>rope trap</Name>
+  <Level channeler='0' rogue='50' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='100' >animal trap</Requirement>
+</Skill>
+
+<Skill>
+  <Name>hangman</Name>
+  <Level channeler='0' rogue='80' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='80' >loose stone</Requirement>
+  <Requirement type='0' percent='80' >pitfall</Requirement>
+  <Requirement type='0' percent='80' >rope trap</Requirement>
+</Skill>
+
+<Skill>
+  <Name>disarm trap</Name>
+  <Level channeler='0' rogue='52' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+</Skill>
+
+<Skill>
+  <Name>sneak</Name>
+  <Level channeler='33' rogue='2' warrior='47' wisdom='22' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='75' >hide</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced sneak</Name>
+  <Level channeler='0' rogue='30' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='100' >sneak</Requirement>
+</Skill>
+
+<Skill>
+  <Name>stealth</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='30' Apothecary='30' Gleeman='30' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='80' >advanced hide</Requirement>
+  <Requirement type='0' percent='80' >advanced sneak</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master sneak</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='70' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='100' >stealth</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sap</Name>
+  <Level channeler='0' rogue='30' warrior='70' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='1' percent='100' >mace</Requirement>
+  <Requirement type='1' percent='100' >quarterstaff</Requirement>
+  <Requirement type='0' percent='80' >sneak</Requirement>
+  <Requirement type='1' percent='100' >spear</Requirement>
+</Skill>
+
+<Skill>
+  <Name>backstab</Name>
+  <Level channeler='0' rogue='1' warrior='20' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+</Skill>
+
+<Skill>
+  <Name>advanced backstab</Name>
+  <Level channeler='0' rogue='45' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='90' >backstab</Requirement>
+</Skill>
+
+<Skill>
+  <Name>circle</Name>
+  <Level channeler='0' rogue='56' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>5</Type>
+  <Requirement type='0' percent='75' >advanced backstab</Requirement>
+</Skill>
+
+<Skill>
+  <Name>awareness</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+</Skill>
+
+<Skill>
+  <Name>advanced awareness</Name>
+  <Level channeler='30' rogue='5' warrior='25' wisdom='17' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='80' >awareness</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert awareness</Name>
+  <Level channeler='90' rogue='36' warrior='65' wisdom='42' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='80' >advanced awareness</Requirement>
+</Skill>
+
+<Skill>
+  <Name>foresight</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='61' Apothecary='61' Gleeman='61' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='40' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='90' >expert awareness</Requirement>
+</Skill>
+
+<Skill>
+  <Name>collect wood</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='75' >food forage</Requirement>
+  <Requirement type='0' percent='75' >water forage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>campfire</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+</Skill>
+
+<Skill>
+  <Name>bury fire</Name>
+  <Level channeler='30' rogue='12' warrior='12' wisdom='18' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='75' >campfire</Requirement>
+</Skill>
+
+<Skill>
+  <Name>block wind</Name>
+  <Level channeler='50' rogue='23' warrior='25' wisdom='31' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='75' >campfire</Requirement>
+</Skill>
+
+<Skill>
+  <Name>endurance</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+</Skill>
+
+<Skill>
+  <Name>enhanced endurance</Name>
+  <Level channeler='80' rogue='75' warrior='65' wisdom='80' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='10' Apothecary='10' Gleeman='10' Weaponsmaster='40' Duellist='40' Soldier='40' Sorcerer='50' Cleric='50' Illusionist='50' Delver='50' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='95' >endurance</Requirement>
+</Skill>
+
+<Skill>
+  <Name>food forage</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+</Skill>
+
+<Skill>
+  <Name>water forage</Name>
+  <Level channeler='1' rogue='1' warrior='1' wisdom='1' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+</Skill>
+
+<Skill>
+  <Name>create well</Name>
+  <Level channeler='30' rogue='30' warrior='30' wisdom='30' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='100' >water forage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>search</Name>
+  <Level channeler='30' rogue='30' warrior='30' wisdom='30' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='100' >awareness</Requirement>
+</Skill>
+
+<Skill>
+  <Name>tracking</Name>
+  <Level channeler='10' rogue='5' warrior='7' wisdom='10' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+</Skill>
+
+<Skill>
+  <Name>advanced tracking</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='75' >tracking</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert tracking</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='80' >advanced tracking</Requirement>
+  <Requirement type='0' percent='100' >tracking</Requirement>
+</Skill>
+
+<Skill>
+  <Name>cover tracks</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='100' >tracking</Requirement>
+</Skill>
+
+<Skill>
+  <Name>mask path</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='100' >cover tracks</Requirement>
+</Skill>
+
+<Skill>
+  <Name>fake trail</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>6</Type>
+  <Requirement type='0' percent='90' >mask path</Requirement>
+</Skill>
+
+<Skill>
+  <Name>swordsmanship</Name>
+  <Level channeler='0' rogue='0' warrior='40' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='100' >advanced sword</Requirement>
+  <Requirement type='0' percent='100' >combat strike</Requirement>
+  <Requirement type='0' percent='100' >enhanced damage</Requirement>
+  <Requirement type='0' percent='100' >enhanced speed</Requirement>
+</Skill>
+
+<Skill>
+  <Name>free hand</Name>
+  <Level channeler='0' rogue='0' warrior='50' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='1' >swordsmanship</Requirement>
+</Skill>
+
+<Skill>
+  <Name>deep breath</Name>
+  <Level channeler='0' rogue='0' warrior='65' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='1' >swordsmanship</Requirement>
+</Skill>
+
+<Skill>
+  <Name>flickering steel</Name>
+  <Level channeler='0' rogue='0' warrior='70' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='75' >free hand</Requirement>
+  <Requirement type='0' percent='75' >three step slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>calm</Name>
+  <Level channeler='0' rogue='0' warrior='45' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+</Skill>
+
+<Skill>
+  <Name>shadow strike</Name>
+  <Level channeler='0' rogue='0' warrior='60' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='100' >advanced spear</Requirement>
+</Skill>
+
+<Skill>
+  <Name>bladeweave</Name>
+  <Level channeler='0' rogue='0' warrior='72' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='85' >dual slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>silent eye</Name>
+  <Level channeler='0' rogue='0' warrior='92' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='75' >shadow strike</Requirement>
+</Skill>
+
+<Skill>
+  <Name>tactical formation</Name>
+  <Level channeler='0' rogue='0' warrior='42' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+</Skill>
+
+<Skill>
+  <Name>know the enemy</Name>
+  <Level channeler='0' rogue='0' warrior='42' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='91' >tactical formation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>lesser nourishment</Name>
+  <Level channeler='0' rogue='0' warrior='45' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='85' >endurance</Requirement>
+</Skill>
+
+<Skill>
+  <Name>soldier sleep</Name>
+  <Level channeler='0' rogue='0' warrior='65' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='100' >lesser nourishment</Requirement>
+</Skill>
+
+<Skill>
+  <Name>physical fitness</Name>
+  <Level channeler='0' rogue='0' warrior='1' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='100' >soldier sleep</Requirement>
+</Skill>
+
+<Skill>
+  <Name>double proficiency</Name>
+  <Level channeler='0' rogue='45' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='100' >dagger</Requirement>
+  <Requirement type='0' percent='100' >quickstep</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sync</Name>
+  <Level channeler='0' rogue='52' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='80' >double proficiency</Requirement>
+</Skill>
+
+<Skill>
+  <Name>eavesdrop</Name>
+  <Level channeler='0' rogue='46' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='100' >advanced awareness</Requirement>
+</Skill>
+
+<Skill>
+  <Name>loot corpse</Name>
+  <Level channeler='0' rogue='65' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='100' >mug</Requirement>
+</Skill>
+
+<Skill>
+  <Name>blind luck</Name>
+  <Level channeler='0' rogue='95' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>7</Type>
+  <Requirement type='0' percent='100' >loot corpse</Requirement>
+</Skill>
+
+<Skill>
+  <Name>light sleeper</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='10' Apothecary='10' Gleeman='10' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>parting blow</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='60' Apothecary='60' Gleeman='60' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='1' percent='75' >expert evasion</Requirement>
+  <Requirement type='1' percent='75' >stealth</Requirement>
+</Skill>
+
+<Skill>
+  <Name>coin toss</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='100' Apothecary='100' Gleeman='100' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>crippling blow</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='40' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='80' >sweeping slash</Requirement>
+</Skill>
+
+<Skill>
+  <Name>cross throat slash</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='80' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='80' >crippling blow</Requirement>
+</Skill>
+
+<Skill>
+  <Name>dagger storm</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='55' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert dagger</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sweeping slash</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='2' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>deathstrike</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='90' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >backstab</Requirement>
+  <Requirement type='0' percent='100' >dagger storm</Requirement>
+</Skill>
+
+<Skill>
+  <Name>quarter the soul</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='110' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>black widow</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='90' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='98' >greek fire</Requirement>
+</Skill>
+
+<Skill>
+  <Name>blinding stars</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='1' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>crippling roots</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='72' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='80' >paralyzing poison</Requirement>
+</Skill>
+
+<Skill>
+  <Name>greek fire</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='17' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>paralyzing poison</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='7' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>sleeper stab</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='45' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>strength sapper</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='25' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>chant of battle</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='20' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>dagger hurricane</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='92' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='80' >juggle</Requirement>
+</Skill>
+
+<Skill>
+  <Name>juggle</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='80' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>hunt for the horn</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='40' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>song of the march</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='5' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>tattered cloak</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='1' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>dagger throw</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='25' Apothecary='25' Gleeman='25' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>armor pierce</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='30' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced awareness</Requirement>
+</Skill>
+
+<Skill>
+  <Name>burst</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='35' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >lunge</Requirement>
+</Skill>
+
+<Skill>
+  <Name>deep wounds</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='60' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >armor pierce</Requirement>
+</Skill>
+
+<Skill>
+  <Name>feint</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='70' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>fool stance</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='85' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >feint</Requirement>
+  <Requirement type='0' percent='100' >ox stance</Requirement>
+</Skill>
+
+<Skill>
+  <Name>grappling</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='90' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >enhanced multiple attack</Requirement>
+</Skill>
+
+<Skill>
+  <Name>lunge</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='25' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >plough</Requirement>
+  <Requirement type='0' percent='100' >tranquil fury</Requirement>
+</Skill>
+
+<Skill>
+  <Name>plough stance</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='20' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>ox stance</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='50' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >plough stance</Requirement>
+</Skill>
+
+<Skill>
+  <Name>tranquil fury</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='15' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>advanced tactical formation</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='5' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >tactical formation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>deploy</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='70' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced tactical formation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>expert tactical formation</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='85' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced tactical formation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>first strike</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='102' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert tactical formation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master tactical formation</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='112' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='80' >expert tactical formation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>rear guard placement</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='15' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced tactical formation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>tactical strike</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='45' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced tactical formation</Requirement>
+</Skill>
+
+<Skill>
+  <Name>composure</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='10' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>weapon crush</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='95' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='90' >parry strike</Requirement>
+</Skill>
+
+<Skill>
+  <Name>damage enhancement</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='56' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >enhanced damage</Requirement>
+</Skill>
+
+<Skill>
+  <Name>disarm</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='40' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='1' percent='100' >double grip</Requirement>
+  <Requirement type='1' percent='100' >firm grip</Requirement>
+</Skill>
+
+<Skill>
+  <Name>double grip</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='25' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='90' >composure</Requirement>
+</Skill>
+
+<Skill>
+  <Name>firm grip</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='25' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='90' >composure</Requirement>
+</Skill>
+
+<Skill>
+  <Name>parry strike</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='60' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >weapon handling</Requirement>
+</Skill>
+
+<Skill>
+  <Name>silver strike</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='120' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >parry strike</Requirement>
+  <Requirement type='0' percent='100' >wristsnap</Requirement>
+</Skill>
+
+<Skill>
+  <Name>weapon handling</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='20' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>wristsnap</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='70' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='0' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >weapon handling</Requirement>
+</Skill>
+
+<Skill>
+  <Name>advanced archery</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='35' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >bow handling</Requirement>
+  <Requirement type='0' percent='100' >quickdraw</Requirement>
+</Skill>
+
+<Skill>
+  <Name>archery</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='1' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>blunt arrow</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='35' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >quickdraw</Requirement>
+</Skill>
+
+<Skill>
+  <Name>bow handling</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='1' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>expert archery</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='55' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced archery</Requirement>
+</Skill>
+
+<Skill>
+  <Name>strength of birgitte</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='95' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >mental release</Requirement>
+</Skill>
+
+<Skill>
+  <Name>flamming arrow</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='60' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >serrated arrow</Requirement>
+</Skill>
+
+<Skill>
+  <Name>master archery</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='105' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert archery</Requirement>
+</Skill>
+
+<Skill>
+  <Name>mental release</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='75' Striker='0' />
+  <Type>18</Type>
+</Skill>
+
+<Skill>
+  <Name>quickdraw</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='15' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >archery</Requirement>
+</Skill>
+
+<Skill>
+  <Name>piercing arrow</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='60' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >sharp arrow</Requirement>
+</Skill>
+
+<Skill>
+  <Name>serrated arrow</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='50' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >advanced archery</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sight of birgitte</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='110' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >expert awareness</Requirement>
+</Skill>
+
+<Skill>
+  <Name>sharp arrow</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='20' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >quickdraw</Requirement>
+</Skill>
+
+<Skill>
+  <Name>speed of birgitte</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='120' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >quicksilver</Requirement>
+</Skill>
+
+<Skill>
+  <Name>taught string</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='5' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='85' >bow handling</Requirement>
+</Skill>
+
+<Skill>
+  <Name>snapshot</Name>
+  <Level channeler='0' rogue='0' warrior='0' wisdom='0' wolfbrother='0' />
+  <RemortLevel Reserved='0' Stalker='0' Apothecary='0' Gleeman='0' Weaponsmaster='0' Duellist='0' Soldier='0' Sorcerer='0' Cleric='0' Illusionist='0' Delver='0' Ranger='50' Striker='0' />
+  <Type>18</Type>
+  <Requirement type='0' percent='100' >taught string</Requirement>
+</Skill>
+

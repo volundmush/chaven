@@ -1,0 +1,208 @@
+#47
+## Race Table Data File
+## Written Mon Mar  4 15:32:23 2002
+## Contains 8 Races.
+
+Name civilian~
+WhoName `wCivilian`x~
+PC 0
+
+Name local~
+WhoName `wLocal`x~
+PC 1
+
+Name visitor~
+WhoName `wVisitor`x~
+PC 1
+
+Name student~
+WhoName `wStudent`x~
+PC 1
+
+Name soldier~
+WhoName `cSoldier`x~
+PC 1
+
+Name timeswept~
+WhoName `cTimeswept`x~
+PC 1
+
+Name wildling~
+WhoName `cWildling`x~
+PC 1
+
+Name brown~
+WhoName `cBrown Student`x~
+PC 1
+
+Name important~
+WhoName `cImportant Local`x~
+PC 1
+
+Name deputy~
+WhoName `cSpecial Deputy`x~
+PC 1
+
+Name newvampire~
+WhoName `DVampire`x~
+PC 1
+
+Name newwerewolf~
+WhoName `yWerewolf`x~
+PC 1
+
+Name newfaeborn~
+WhoName `gFaeborn`x~
+PC 1
+
+Name newangelborn~
+WhoName `WAngelborn`x~
+PC 1
+
+Name newdemonborn~
+WhoName `rDemonborn`x~
+PC 1
+
+Name newdemigod~
+WhoName `CDemigod`x~
+PC 1
+
+Name gifted~
+WhoName `YGifted`x~
+PC 1
+
+Name specialforces~
+WhoName `cSpecial Forces`x~
+PC 1
+
+Name celebrity~
+WhoName `cLocal Celebrity`x~
+PC 1
+
+Name pillar~
+WhoName `cPillar of the Community`x~
+PC 1
+
+Name veteranvampire~
+WhoName `DVeteran Vampire`x~
+PC 1
+
+Name veteranwerewolf~
+WhoName `yVeteran Werewolf`x~
+PC 1
+
+Name veteranfaeborn~
+WhoName `gFaeborn Veteran`x~
+PC 1
+
+Name veteranangelborn~
+WhoName `WAngelborn Veteran`x~
+PC 1
+
+Name veterandemonborn~
+WhoName `rDemonborn Veteran`x~
+PC 1
+
+Name veterandemigod~
+WhoName `CDemigod Veteran`x~
+PC 1
+
+Name veterangifted~
+WhoName `YGifted Veteran`x~
+PC 1
+
+Name oldvampire~
+WhoName `DAged Vampire`x~
+PC 1
+
+Name oldwerewolf~
+WhoName `yAgeless Werewolf`x~
+PC 1
+
+Name oldfaeborn~
+WhoName `gAgeless Faeborn`x~
+PC 1
+
+Name oldangelborn~
+WhoName `WAgeless Angelborn`x~
+PC 1
+
+Name olddemonborn~
+WhoName `rAgeless Demonborn`x~
+PC 1
+
+Name olddemigod~
+WhoName `CAgeless Demigod`x~
+PC 1
+
+Name ancientvampire~
+WhoName `DAncient Vampire`x~
+PC 1
+
+Name ancientwerewolf~
+WhoName `yAncient Werewolf`x~
+PC 1
+
+Name demidemon~
+WhoName `RDemiDemon`x~
+PC 1
+
+Name freeangel~
+WhoName `WFreed Angel`x~
+PC 1
+
+Name godchild~
+WhoName `CGod Child`x~
+PC 1
+
+Name faechild~
+WhoName `GFae Child`x~
+PC 1
+
+Name demon~
+WhoName demon~
+PC 0
+
+Name faculty~
+WhoName `DFaculty`x~
+PC 1
+
+Name animal~
+WhoName Animal~
+PC 0
+
+Name wight~
+WhoName `DWight`x~
+PC 0
+
+Name dabbler~
+WhoName `YDabbler`x~
+PC 1
+
+Name reptile~
+WhoName Reptile~
+PC 0
+
+Name insect~
+WhoName Insect~
+PC 0
+
+Name vegetation~
+WhoName Vegetation~
+PC 0
+
+Name landmonster~
+WhoName `gLand Monster`x~
+PC 1
+
+Name seamonster~
+WhoName `BSea Monster`x~
+PC 1
+
+Name normal~
+WhoName Normal~
+PC 0
+
+
+
+End

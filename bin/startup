@@ -1,0 +1,42 @@
+#!/bin/sh -f
+
+# Enable core dumps
+ulimit -c unlimited
+
+# Set the port number
+port=3000
+
+# Change to area directory
+cd ../area
+
+if [ -r shutdown.txt ]; then
+  rm -f shutdown.txt
+fi
+
+while true; do
+  index=1000
+  while true; do
+    logfile=../log/$index.log
+    if [ -r "$logfile" ]; then
+      index=$((index+1))
+    else
+      break
+    fi
+  done
+
+  # Enable core dumps and run the game
+  ulimit -c unlimited
+  ../src/haven "$port" >"$logfile" 2>&1
+
+  # Check for the core file and move it if it exists
+  if [ -r ../area/core* ]; then
+    mv ../area/core* ../log/core.$(date +%s)
+  fi
+
+  if [ -r shutdown.txt ]; then
+    rm -f shutdown.txt
+    exit 0
+  fi
+
+  sleep 15
+done

@@ -1,0 +1,86 @@
+#!/bin/sh
+#
+# The Patterns End Backup Script 
+#
+
+#
+# Set the backup dir. The Path you want the backup files to reside
+#
+BDIR=~/Backup
+
+#
+# Set the dir that the mud resides in.
+#
+CDIR=~/patterns
+
+#
+# These are the tar flags. Man tar for info on the flags,
+# Default shows verbose output of whats happinin, take v out
+# if you dont like this
+#
+TFLAGS=cvf
+
+#
+# The gzip lvl, or level of compression
+# -1 is lowest and fastest, -9 is best and slowest
+#
+GZL='-9'
+
+#
+# Edit this only if tar, mv, or gzip is somewhere wierd :)
+#
+PATH=/bin:/usr/bin
+
+##################################################################
+# End of user spec's.                                            #
+# Do not edit below this line unless you know what you are doing #
+##################################################################
+
+
+DATE=`date +%m%d%Y`
+cd $CDIR
+
+case "$1" in
+   all)
+	tar $TFLAGS $BDIR/Area.$DATE.tar area city vmaps
+	gzip $GZL $BDIR/Area.$DATE.tar
+	echo Done with $BDIR/Area.$DATE.tar.gz
+
+        tar $TFLAGS $BDIR/Data.$DATE.tar data
+        gzip $GZL $BDIR/Data.$DATE.tar
+        echo Done with $BDIR/Data.$DATE.tar.gz
+
+	tar $TFLAGS $BDIR/Player.$DATE.tar gods player
+	gzip $GZL $BDIR/Player.$DATE.tar
+	echo Done with $BDIR/Player.$DATE.tar.gz
+
+        tar $TFLAGS $BDIR/Src.$DATE.tar src/*.c src/*.h src/Makefile bin
+	gzip $GZL $BDIR/Src.$DATE.tar
+	echo Done with $BDIR/Src.$DATE.tar.gz
+	;;
+   area)
+        tar $TFLAGS $BDIR/Area.$DATE.tar area city vmaps
+        gzip $GZL $BDIR/Area.$DATE.tar
+        echo Done with $BDIR/Area.$DATE.tar.gz
+	;;
+   data)
+        tar $TFLAGS $BDIR/Data.$DATE.tar data
+        gzip $GZL $BDIR/Data.$DATE.tar
+        echo Done with $BDIR/Data.$DATE.tar.gz
+	;;
+   player)
+	tar $TFLAGS $BDIR/Player.$DATE.tar gods player
+	gzip $GZL $BDIR/Player.$DATE.tar
+	echo Done with $BDIR/Player.$DATE.tar.gz
+	;;
+   src)
+        tar $TFLAGS $BDIR/Src.$DATE.tar src/*.c src/*.h src/Makefile bin
+        gzip $GZL $BDIR/Src.$DATE.tar
+        echo Done with $BDIR/Src.$DATE.tar.gz
+	;;
+   *)
+	echo "Usage: ./backup {all|area|data|player|src}"
+	exit 1
+esac
+
+exit 0

@@ -1,0 +1,3466 @@
+#PROPERTY
+Vnum   1
+Name      53 Lynch Avenue~
+Type 1
+Industry 0
+Electric 107
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 53 Lynch Avenue~
+SalePrice 467
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  985
+ADate 16 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 49 19 1 51 21 2
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 4
+FirstRoom 18279
+RoadRoom 14841
+Included 15113 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   1
+Name      `247T`248h`249e`250 `251H`252a`253v`254e`255n`231 `231H`231is`231t`255o`254r`253y`252 `251M`250u`249s`248e`247um`w~
+Type 2
+Industry 12
+Electric 19168
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 16 Court Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 14817
+MarketDir 2
+Faction 0
+Price  770
+ADate 28 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 56 13 -3 58 15 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 14811
+RoadRoom 14829
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   2
+Name      `d23 Main Street`x~
+Type 1
+Industry 0
+Electric 24
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 1
+Renovate 0
+Address 23 Main Street~
+SalePrice 757
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1595
+ADate 12 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 45 19 1 47 21 2
+TimeWeather 0 0 0 65 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 4
+FirstRoom 18312
+RoadRoom 14844
+Included 14881 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   2
+Name      `#35d8d5`#3fcad4O`#4abcd3h`#54aed2,`#5fa1d1`#6a93d0 `#7485cfF`#7f78ceo`#896acdr`#945ccc`#9f4fcb `#a941caH`#b433c9e`#bf26c9`#bf26c9a`#b433c9v`#a941cae`#9f4fcbn`#945ccc`#896acd'`#7f78ces`#7485cf `#6a93d0C`#5fa1d1`#54aed2a`#4abcd3k`#3fcad4e`#35d8d5!`q`w`x~
+Type 2
+Industry 21
+Electric 11490
+Profit 900
+CreditProfit 54784
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 20 Court Street~
+SalePrice 267
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 14808
+MarketDir 0
+Faction 0
+Price  535
+ADate 28 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 56 16 -3 58 18 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 14807
+RoadRoom 14832
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1822 1856 1955 1993 1995 2010 2012 2017 2020 2023 2024 2027 2028 2029 2117 2121 2153 2154 2155 2156 2157 2158 2159 2160 2161 2162 2163 2164 2165 2168 2169 2170 2171 1105 2608 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   3
+Name      `#facdfcY`#f7d0fco`#f3d4fcu`#f0d7fb `#ecdafbW`#e9ddfbi`#e5e1fbs`#e2e4fah`#dfe7fa `#dbebfaB`#d8eefae`#d4f1faa`#d1f4f9u`#cdf8f9t`#cafbf9y`q`x~
+Type 2
+Industry 5
+Electric 6318
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 53 Lynch Avenue~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 15116
+MarketDir 2
+Faction 0
+Price  370
+ADate 26 0
+Advertisement `#c2f7f5Celebrate a Beautiful New Year with Sparkle & St`#c6ecf3yle! Say hello to 2024 with a touch of glamour `#cbe1f2and a dash of charm! Our New Year Special at You`#cfd7f1 Wish Beauty is here to make you shine brighter `#d4ccf0than ever. Treat yourself to a fabulous makeover`#d8c2ef! Our skilled stylists are ready to create a hai`#ddb7eerstyle that screams confidence and radiance. And `#e2acecmost importantly, you can't forget the nails; wh`#e6a2ebether it's subtle sophistication or bold brillia`#eb97eance, our nail artists have you covered.
+ 
+Limited`#ef8de9 Availability: Book your appointment now to secu`#f482e8re a spot in our dazzling New Year celebration. `#f978e7Let's make this year your most beautiful one yet!`q
+~
+PropState 0
+Autoclear 0
+NoChange 1
+Utilities 0
+Range 49 19 0 51 21 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 3
+FirstRoom 15121
+RoadRoom 14841
+Included 0 0 0 0 0
+Excluded 15113 0 0 0 0
+Objects 2522 2551 2523 2552 2553 2555 2556 2461 2462 2469 2470 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   3
+Name      21 Main Street~
+Type 1
+Industry 0
+Electric 24
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 21 Main Street~
+SalePrice 771
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1542
+ADate 5 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 45 16 1 47 18 2
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 4
+FirstRoom 18344
+RoadRoom 14845
+Included 14896 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   4
+Name      20 Main Street~
+Type 1
+Industry 0
+Electric 12054
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 20 Main Street~
+SalePrice 682
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1437
+ADate 27 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 49 16 1 51 18 2
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 4
+FirstRoom 18239
+RoadRoom 14845
+Included 3564 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   4
+Name      `235L`238i`241t`244t`247l`250e `052N`088i`196s`166h`208i`214k`220i`w~
+Type 2
+Industry 21
+Electric 12445
+Profit 0
+CreditProfit 36412
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 21 Main Street~
+SalePrice 205
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 2982
+MarketDir 7
+Faction 0
+Price  410
+ADate 22 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 45 16 0 47 18 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 3
+FirstRoom 2983
+RoadRoom 14845
+Included 0 0 0 0 0
+Excluded 14896 0 0 0 0
+Objects 1225 1999 2003 2620 2467 2204 2286 2352 2353 2372 2385 2390 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   5
+Name      `#610099`#740093L`#83008d'`#900086A`#9c0080n`#a60079g`#af0072e`#b6006cl`#bd0066o`#c20060 `#c20060`#bd0066n`#b6006ce`#af0072l`#a60079 `#9c0080M`#900086a`#83008dr`#740093m`#610099o`q~
+Type 2
+Industry 21
+Electric 16
+Profit 4194
+CreditProfit 20664
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 16 Main Street~
+SalePrice 207
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 15104
+MarketDir 2
+Faction 0
+Price  415
+ADate 5 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 49 13 0 51 15 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 3
+FirstRoom 15103
+RoadRoom 14848
+Included 0 0 0 0 0
+Excluded 15100 0 0 0 0
+Objects 1024 1026 1176 1229 1237 1239 1277 1008 1079 1081 1082 1223 1289 1296 1308 1464 1467 1470 1554 1556 1587 1636 1643 1652 1723 1728 1736 1737 1743 1744 1781 1787 1791 1801 1804 1820 1210 1257 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   5
+Name      17 Main Street~
+Type 1
+Industry 0
+Electric 18376
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 17 Main Street~
+SalePrice 787
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1658
+ADate 24 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 45 13 1 47 15 2
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 4
+FirstRoom 18375
+RoadRoom 14848
+Included 2987 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   6
+Name      `RRosie's Diner`w~
+Type 2
+Industry 21
+Electric 20418
+Profit 10762
+CreditProfit 65732
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 42 Hart Avenue~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 14930
+MarketDir 3
+Faction 0
+Price  525
+ADate 24 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 39 8 -3 41 10 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 14931
+RoadRoom 2633
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1916 1923 1924 1925 1926 1927 2022 2034 2099 2100 2102 2122 2140 2101 2176 2177 2178 2129 2184 2185 2187 2188 2181 2193 2194 2422 2424 2427 2191 2464 2139 2465 2466 1334 1466 1651 1262 1287 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   6
+Name      a downtown apartment~
+Type 1
+Industry 0
+Electric 2034
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 15 Main Street~
+SalePrice 1396
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 2
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  2941
+ADate 14 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 45 10 1 47 12 2
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 4
+FirstRoom 18412
+RoadRoom 14851
+Included 14912 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   7
+Name      `192Fe`186r`180t`174i`168le Va`174ll`180ey F`186lo`192rists`x~
+Type 2
+Industry 12
+Electric 48
+Profit 4011
+CreditProfit 22603
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 40 Hart Avenue~
+SalePrice 305
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 18119
+MarketDir 5
+Faction 0
+Price  610
+ADate 6 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 36 8 -3 38 10 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 18124
+RoadRoom 2639
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1032 1189 1197 1198 1285 1202 1366 1447 1433 1574 1585 1586 2676 2675 2727 2731 1912 1676 2474 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   7
+Name      31 Magnolia Row~
+Type 1
+Industry 0
+Electric 9228
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 31 Magnolia Row~
+SalePrice 517
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1090
+ADate 9 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 27 2 -3 29 4 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 9
+FirstRoom 14298
+RoadRoom 14313
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   8
+Name      Nick's Nook~
+Type 1
+Industry 0
+Electric 9065
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 1
+Renovate 0
+Address 27 Magnolia Row~
+SalePrice 408
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  860
+ADate 26 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 23 2 -3 25 4 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 9
+FirstRoom 14332
+RoadRoom 14316
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   8
+Name      `025`026F`027a`025l`032a`039f`032e`039l`074`074 `039&`074 `074C`074h`039i`117l`074`117l`080 `117M`117e`080d`117i`074t`117`039e`074r`074r`074a`039n`074e`074a`039`032n`039 `032G`025r`027i`026l`025l`w~
+Type 2
+Industry 22
+Electric 42874
+Profit 6292
+CreditProfit 4275
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 39 Hart Avenue~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 14975
+MarketDir 2
+Faction 0
+Price  570
+ADate 20 0
+Advertisement `117Fa`080la`117fe`074l &`117 C`039hi`074ll`074 Me`074di`039te`074rra`074ne`039an`032 G`039ril`032l `025- `027Ta`026keo`025ut`117 M`080edi`117te`074rr`117an`039ean`074 C`074ui`074si`039ne `074in`074 t`039he `032He`039ar`032t `025of `027Ha`026ve`025n! `w
+ 
+`117Immerse yourself in the rich flavors of our mouthwatering falafel, gyro, and shawarma wraps, meticulously crafted to perfection. Served`117 in decadent buttery garlic naan bread, each bite is a symphony of taste that transports you straight to the heart of the Mediterranean.`w
+ 
+`117Dive into the vibrant colors and freshness of our Lebanese-inspired tabbouleh bowls. Packed with cr`117isp greens and fragrant parsley, these bowls are customizable with your choice of delectable meats.`w
+ 
+`117Complement your main course with our tantalizing array of side dishes and appetizers. From crispy f`117alafel bites to savory surprises, each dish is a testament to our commitment to quality and flavor.`w
+ 
+`117Indulge your sweet tooth with our creamy varieties of malabi, a delightfu`117l treat that marks the perfect end to your culinary adventure here at F&C!`w
+ 
+`117Our takeout service ensures that you can savor the flavors of the Mediterranean in the co`117mfort of your own space. Enjoy the convenience of bringing the magic of F&C to your table.`w
+ 
+`117Embark on a journey of culinary delights with Falafel & Chill, a veteran-owned and operated establish`117ment. Order now and experience the true taste of the Mediterranean brought right to your dinner table!`w
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 35 4 -3 37 6 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 2
+FirstRoom 14977
+RoadRoom 2641
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1415 1402 1416 1417 1418 1473 1545 1350 1474 1019 1020 1446 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   9
+Name      `#f0f6b9T`#e8eeb4h`#e0e5afe`#d8ddaa `#d0d4a6T`#c8cca1r`#c0c39co`#b8bb97v`#b0b392e`#a7aa8d `#9fa288B`#979983a`#8f917fr`#87887ac`#7f8075a`#777770d`#6f6f6be`x~
+Type 2
+Industry 16
+Electric 22712
+Profit 2021
+CreditProfit 3107
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 8 Prospect Street~
+SalePrice 285
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 9588
+MarketDir 3
+Faction 0
+Price  570
+ADate 26 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 1
+Utilities 0
+Range 32 4 -3 34 6 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 3243
+RoadRoom 2161
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1027 1104 1107 1109 1110 1133 1134 1140 1363 1364 1365 2015 2016 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   9
+Name      a double-wide in renovation~
+Type 1
+Industry 0
+Electric 36
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 11 Dandelion Parkway~
+SalePrice 595
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1190
+ADate 1 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 23 6 -3 25 8 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 9
+FirstRoom 14321
+RoadRoom 14278
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   10
+Name      17 Dandelion Parkway~
+Type 1
+Industry 0
+Electric 2022
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 17 Dandelion Parkway~
+SalePrice 565
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1190
+ADate 10 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 23 12 -3 25 14 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 9
+FirstRoom 14327
+RoadRoom 14262
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   10
+Name      `YLaw Offices of Inigo & Wilson`w~
+Type 2
+Industry 12
+Electric 16
+Profit 0
+CreditProfit 2568
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 4 Prospect Street~
+SalePrice 310
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 1687
+MarketDir 0
+Faction 0
+Price  620
+ADate 7 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 32 1 -3 34 3 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 1675
+RoadRoom 2379
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1821 2320 2337 2341 2342 2343 2347 2349 2357 2358 2359 2362 2496 2497 2513 2126 2533 2535 2538 2539 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   11
+Name      `242D`x`243i`x`244o`x`244n`x`245y`x`246s`x`247u`x`247s`x `247L`x`246i`x`245q`x`244u`x`243o`x`242r`x~
+Type 2
+Industry 3
+Electric 6066
+Profit 0
+CreditProfit 56672
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 44 Badwater Quay~
+SalePrice 412
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 1690
+MarketDir 6
+Faction 0
+Price  825
+ADate 10 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 21 41 -3 25 43 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 6
+FirstRoom 16383
+RoadRoom 1689
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1658 1661 1659 1698 1715 1719 1748 1761 1762 1763 1768 1769 1789 1795 2068 2106 2081 2114 2223 2230 2231 2232 2233 2236 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   11
+Name      27 Rose Lane~
+Type 1
+Industry 0
+Electric 22980
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 1
+Renovate 0
+Address 26 Rose Lane~
+SalePrice 605
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1274
+ADate 28 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 23 16 -3 25 18 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 9
+FirstRoom 11607
+RoadRoom 11623
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   12
+Name      62 Ash Street~
+Type 1
+Industry 0
+Electric 2387
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 62 Ash Street~
+SalePrice 1181
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  2488
+ADate 23 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 48 58 -3 53 60 1
+TimeWeather 0 0 70 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 5
+FirstRoom 2089
+RoadRoom 15224
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   12
+Name      `160R`124u`088de `160D`124o`088gg`052's Smoke Shack`w~
+Type 2
+Industry 30
+Electric 36
+Profit 0
+CreditProfit 18000
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 42 Badwater Quay~
+SalePrice 435
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16387
+MarketDir 8
+Faction 0
+Price  870
+ADate 2 2
+Advertisement `237- `160R`124u`088de `160D`124o`088gg`052's Smoke Shop`w
+ 
+`238This run-down concrete construction on Badwater, opposite`w
+`238of the local strip club, is as much a hang-out spot for a`w
+`238few of Haven's less-friendly ilk as it is an actual joint`w
+`238where transactions do take place. The store itself offers`w
+`238only cannabis-related products, but its parking lot is an`w
+`238undeniably dubious spot where hoodied, masked roadmen are`w
+`238likely dealing in more. It comes with a lounge, though it`w
+`238has little more going for it than some tables to sit at.`w
+
+`237As well as a notorious and infamous set of slot machines,`w
+`237and a cigarette machine mostly used by Nymph's visitors.`w
+ 
+`052Shoot inquiries at: 710-7159.`w
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 21 38 -3 25 40 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 6
+FirstRoom 16380
+RoadRoom 16377
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1009 1062 1063 1067 1096 1100 1101 1177 1191 1207 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   13
+Name      `YB`ye`wa`yc`Yh`ys`wi`yd`Ye M`ya`wn`yo`Yr`w~
+Type 1
+Industry 0
+Electric 20127
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 53 Sidney Way~
+SalePrice 1473
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 5
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  3103
+ADate 24 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 48 61 -3 50 63 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 1
+FirstRoom 16815
+RoadRoom 15229
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   13
+Name      `125The Nymph's Rest Gentleman's Club`w~
+Type 2
+Industry 24
+Electric 2573
+Profit 8325
+CreditProfit 38325
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 43 Badwater Quay~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 18153
+MarketDir 0
+Faction 0
+Price  885
+ADate 15 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 15 38 -3 19 40 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 6
+FirstRoom 18112
+RoadRoom 16377
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1209 2075 2076 2077 2078 2083 2084 1654 1794 1061 1160 1159 1161 1578 1579 1621 1622 2004 2018 2021 2069 2130 2131 2262 2322 2323 2324 2325 2326 2327 2329 2330 2331 2332 2333 2221 2328 2344 2345 2346 2348 2334 2335 2339 2338 2351 2617 2615 1705 2271 1660 2423 2007 2001 1004 1423 1056 1421 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   14
+Name      `238The `202S`208t`212r`220i`226p`207T`213e`219a`225s`231e `238Bo`239ut`240iq`241ue`w~
+Type 2
+Industry 3
+Electric 4263
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 20 Devilwood Drive~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 9358
+MarketDir 2
+Faction 0
+Price  550
+ADate 13 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 16 45 -3 18 47 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 2303
+RoadRoom 1200
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1835 1837 1843 1885 1886 1887 1888 1889 1890 1891 1900 1901 1902 1903 1836 1904 1910 1972 2147 2175 2381 2382 2383 2384 2389 2401 2174 2402 2403 2404 2406 2408 2411 2413 2414 2405 1218 1017 1438 1439 1442 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   14
+Name      `021S`027e`033a`039s`045ide Cot`039t`033a`027g`021e`x~
+Type 1
+Industry 0
+Electric 596
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 1
+Renovate 0
+Address 55 Sidney Way~
+SalePrice 881
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1857
+ADate 14 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 51 61 -3 53 63 1
+TimeWeather 0 0 0 0 0
+ShroudShield 122
+Orientation 2
+TypeSpecial 1
+FirstRoom 16834
+RoadRoom 15232
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   15
+Name      Apartment 101~
+Type 1
+Industry 0
+Electric 1354
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 101, Elm Street~
+SalePrice 650
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1370
+ADate 10 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 26 70 0 27 71 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 10
+FirstRoom 16696
+RoadRoom 16695
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   15
+Name      `018S`021id`026es`033ho`039w `018S`021ab`026ba`033ti`039cal `018S`021k`026i`033n `018S`021ty`026li`039ng`w `238+ `190F`193e`249l`243on`237ious `190F`193r`249e`242qu`237encies`w~
+Type 2
+Industry 5
+Electric 4062
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 16 Devilwood Drive~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 10304
+MarketDir 5
+Faction 0
+Price  520
+ADate 10 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 13 45 -3 15 47 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 16090
+RoadRoom 15271
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1129 1135 1142 1154 1156 1171 1175 1180 1181 1182 1187 1188 1190 1194 1195 1233 1234 1236 1238 1256 1258 1260 1261 1270 1272 1284 1309 1320 1353 1354 1355 1404 1432 1434 1475 1476 1495 1543 1553 1567 1594 1618 1424 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   16
+Name      `RThe Succubus Club`w~
+Type 2
+Industry 7
+Electric 4257
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 14 Devilwood Drive~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  595
+ADate 13 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 10 45 -3 12 47 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 16084
+RoadRoom 15274
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1671 1689 1690 1691 1692 1693 1695 1241 1682 1683 1687 1770 1771 1672 1675 1678 1680 1772 1673 1674 1677 1679 1681 1773 1774 1775 1776 1777 1779 1784 1786 1854 2133 2134 2135 1861 1863 1569 1573 2412 1005 1664 2283 2285 2284 1205 1215 1220 1694 1720 1111 1666 1667 1668 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   16
+Name      Home~
+Type 1
+Industry 0
+Electric 876
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 1
+Renovate 0
+Address Apt 102, Elm Street~
+SalePrice 498
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1050
+ADate 14 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 26 67 0 27 68 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 10
+FirstRoom 16693
+RoadRoom 16672
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   17
+Name      `131T`242he `131A`242lley`w~
+Type 2
+Industry 6
+Electric 25272
+Profit 300
+CreditProfit 10500
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 10 Devilwood Drive~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 16075
+MarketDir 3
+Faction 0
+Price  570
+ADate 26 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 7 45 -3 9 47 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 16077
+RoadRoom 15276
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1943 1944 1945 1946 1153 1155 1166 1167 2678 2679 2680 1430 1741 1816 2173 2179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   17
+Name      Apt 103, Elm Street~
+Type 1
+Industry 0
+Electric 5745
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 103, Elm Street~
+SalePrice 567
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1194
+ADate 28 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 28 70 0 29 71 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 10
+FirstRoom 16698
+RoadRoom 16708
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   18
+Name      Apt 104, Elm Street~
+Type 1
+Industry 0
+Electric 18
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 104, Elm Street~
+SalePrice 261
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  550
+ADate 14 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 28 67 0 29 68 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 10
+FirstRoom 2467
+RoadRoom 16670
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   18
+Name      Somewhere Interesting~
+Type 2
+Industry 19
+Electric 3120
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 8 Devilwood Drive~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16069
+MarketDir 1
+Faction 0
+Price  580
+ADate 13 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 4 45 -3 6 47 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 2258
+RoadRoom 15278
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1174 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   19
+Name      `097Home Sweet Home`x~
+Type 1
+Industry 0
+Electric 1354
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 106, Elm Street~
+SalePrice 318
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  670
+ADate 10 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 31 70 0 32 71 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 10
+FirstRoom 16701
+RoadRoom 16711
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   19
+Name      `117Fa`123nt`159asi`195es`194 Ad`193ul`192t B`155oo`156ks `191an`227d A`228rc`229ade`w~
+Type 2
+Industry 24
+Electric 909
+Profit 0
+CreditProfit 12825
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 48 Fleet Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 10372
+MarketDir 9
+Faction 0
+Price  550
+ADate 16 1
+Advertisement `d`117Fa`123nt`159asi`195es`194 Ad`193ul`192t B`155oo`156ks `191an`227d A`228rc`229ade`d has reopened, with a stock of adult magazines and videos, toys, and lingerie. The store gets new shipments regularly, with its last restocking in November 2023.
+ 
+Downstairs, the bookstore boasts an adult arcade, with both video booths and a live peepshow featuring fully nude dancers.
+ 
+OOC: Characters are welcome to take jobs as dancers or sex workers working the arcade area downstairs.`w
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 1 45 -3 3 47 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 2212
+RoadRoom 15288
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1874 1875 1877 1878 1881 1883 1884 1895 1896 1894 1897 1898 1899 1905 1906 1913 1935 1929 1915 1938 1940 1941 1942 1947 1948 1951 1954 1956 1971 1992 1994 1996 2000 2002 2005 2006 2008 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   20
+Name      `rThe Corner Shoppe`x~
+Type 2
+Industry 7
+Electric 72
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 44 Fleet Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 9338
+MarketDir 8
+Faction 0
+Price  532
+ADate 15 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 1 41 -3 3 43 1
+TimeWeather 0 0 0 0 4
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 15386
+RoadRoom 15308
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   20
+Name      Apt 107, Elm Street~
+Type 1
+Industry 0
+Electric 24
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 107, Elm Street~
+SalePrice 515
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1086
+ADate 23 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 31 67 0 32 68 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 10
+FirstRoom 16690
+RoadRoom 16667
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   21
+Name      `124H`160o`009u`160s`124e `052R`124e`160d`x~
+Type 2
+Industry 6
+Electric 38736
+Profit 0
+CreditProfit 750
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 42 Fleet Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 3
+MarketRoom 9352
+MarketDir 0
+Faction 0
+Price  753
+ADate 21 0
+Advertisement `001Recently redecorated, House Red claims to be the finest - or at least, the oldest - wine bar in Haven. From the lovely bottles in the Bodega, the wonderful tea in the book nook or the tasty bites in the dining room, there is something for everyone in this sophisticated,  oversized bar-with-a-view.`x
+
+ 
+[`240Occult Knowledge`x]
+`240There is a VIP Lounge underneath House Red, accessible by nightmare.`x
+ 
+[`240Underworld`x]
+`240Drugs are sold in the basement and said to be produced and spread throughout Haven from a laboratory nearby. With enough money, it is said you can find specialized treatment and medicine here.`x
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 1 38 -3 3 40 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 15381
+RoadRoom 1310
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1114 1145 1149 1169 1303 1306 1307 1310 1311 1317 1318 1360 1367 1368 1370 1371 1372 1373 1374 1375 1377 1378 1379 1400 1403 1405 1406 1407 1408 1409 1410 1411 1427 1429 2045 2046 2047 2048 1196 1893 1823 1839 1085 1084 1086 1115 1092 1093 1127 1428 2270 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   21
+Name      Apt 108, Elm Street~
+Type 1
+Industry 0
+Electric 0
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 108, Elm Street~
+SalePrice 565
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1190
+ADate 8 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 33 70 0 34 71 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 10
+FirstRoom 16686
+RoadRoom 16687
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   22
+Name      Apt 109, Elm Street~
+Type 1
+Industry 0
+Electric 2307
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 109, Elm Street~
+SalePrice 323
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  680
+ADate 9 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 33 67 0 34 68 0
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 10
+FirstRoom 2463
+RoadRoom 16665
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   22
+Name      `159Pi`x`153gm`x`147ent`x`141 a`x`183nd`x `159Pa`x`153pe`x`147r S`x`141tu`x`105dio`x~
+Type 2
+Industry 3
+Electric 32194
+Profit 525
+CreditProfit 3830
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 54 Elm Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16517
+MarketDir 1
+Faction 0
+Price  705
+ADate 27 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 25 50 -3 27 52 3
+TimeWeather 0 0 65 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 16493
+RoadRoom 15258
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1014 1468 1477 1555 1557 1590 1599 1600 1603 1604 1605 1606 1607 1612 1614 1616 1619 1626 1629 1630 1631 1632 1639 1656 1108 1143 1269 1290 1601 1602 1608 1610 1611 1613 1615 1623 1624 1075 2364 2460 2304 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   23
+Name      `DBlack `RR`ros`Re`D Book Store`w~
+Type 2
+Industry 3
+Electric 52269
+Profit 165
+CreditProfit 4561
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 56 Elm Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 16520
+MarketDir 1
+Faction 0
+Price  675
+ADate 22 0
+Advertisement Escape to a world of literature at Black Rose bookstore, your neighbourhood literary Cafe!
+Discover a rich selection of classical, sci-fi, fantasy, and other fiction books, browse our extensive collection of self-help and scholarly publications, or set out on a path of mystory, spirituality and mystique in our occult section.
+Whether you're looking to unwind with a hot cup of Joe, meet in spiritted debates with fellow scholars or just share your favorite stories, our cafe is the perfect place to relax, engage with the written word and take a break from the everyday.
+Don't forget to check out our book club too!
+[Black Rose now has a contact number to call for custom orders, tools, talks and job applications at 7107414.
+Ask for Janette Munro or Magnus Kron.]
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 25 53 -3 27 55 3
+TimeWeather 0 0 77 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 16495
+RoadRoom 15256
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1125 1144 1211 1216 1217 1222 1286 1362 1627 1782 2124 2125 2127 2128 2090 1478 1496 1497 1501 1503 1506 1514 1549 1550 1568 1361 1633 1634 1637 1702 1703 1704 1727 1729 1730 1731 1733 1734 1745 1746 1170 1707 1029 2049 2058 2059 2060 1869 1871 1872 2269 2519 2520 2540 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   23
+Name      Apt 201, Elm Street~
+Type 1
+Industry 0
+Electric 20
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 201, Elm Street~
+SalePrice 796
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1592
+ADate 3 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 26 67 1 29 68 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 11
+FirstRoom 16693
+RoadRoom 16672
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   24
+Name      `RHogar `Wdel`B Mundo`w~
+Type 2
+Industry 3
+Electric 4334
+Profit 0
+CreditProfit 27075
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 62 Elm Street and Warden's Way~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 18142
+MarketDir 1
+Faction 0
+Price  747
+ADate 15 1
+Advertisement Situated at the intersection of Warden and Elm, Hogar Del Mundo is the ideal one-stop shop for all your daily needs.
+Our general store is equipped to the teeth with any essensials from toiletries, to accessories, to electronics and school supplies, sitting beside a souvenir section with trinkets from all around the world.
+Sharing the central courtyard is our sit-in restaurant offering a multi-cultural quizine, each dish lovingly prepared by our expert kitchen staff and served with pride to bring you the very best The world has to offer.
+Whether dining alone, visiting with friends, or swinging by for an evening booz, our English-style pub with its welcoming atmosphere and friendly staff and regular patrons is the perfect place to be. Kick back with a familiar classic, or explore your adventurous side with one of our seasonal or festive cocktails while they last.
+Hogar Del Mundo:
+Where home, is here.
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 25 59 -3 27 61 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 18133
+RoadRoom 1188
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1120 1121 2475 1076 1077 1123 1124 1078 1146 1221 2479 2480 2481 2482 2483 2484 2485 2486 2487 2488 2498 2499 2503 2504 2505 2506 2507 2508 2509 2510 2511 2500 2502 2501 1116 1113 1118 1119 1122 1117 1214 1097 1098 1700 1701 1617 1640 1847 1870 1873 1930 2148 1765 2688 2689 2690 2691 2692 2693 2536 2537 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   24
+Name      myapartment~
+Type 1
+Industry 0
+Electric 36
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 202, Elm Street~
+SalePrice 775
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 2
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1632
+ADate 9 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 26 70 1 29 71 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 11
+FirstRoom 16696
+RoadRoom 16695
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   25
+Name      Apt 203, Elm Street~
+Type 1
+Industry 0
+Electric 24
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 203, Elm Street~
+SalePrice 511
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 5
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1077
+ADate 25 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 31 67 1 34 68 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 11
+FirstRoom 16690
+RoadRoom 16667
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   25
+Name      `245Coll`246at`249er`252a`248l `245Da`246m`248ag`249e`x `179- `178Gu`214n `220a`221n`222d `214P`178aw`179n`x~
+Type 2
+Industry 3
+Electric 36
+Profit 60971
+CreditProfit 884075
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 66 Elm Street~
+SalePrice 310
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16527
+MarketDir 1
+Faction 0
+Price  620
+ADate 1 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 25 62 -3 27 64 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 16503
+RoadRoom 15251
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1879 1880 2463 2468 2472 2489 2490 2491 2492 2512 1278 1280 1281 1445 1454 1460 1459 1461 1462 1463 1465 1481 1591 1592 1598 1638 1645 1716 2146 2145 2150 2149 2151 2182 2211 2303 2225 2340 2336 2350 2354 2355 2356 2360 2361 2365 2368 2199 2369 2391 2407 2417 1185 1186 1595 1596 2576 1431 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   26
+Name      `cPaine Performance Complex`x~
+Type 2
+Industry 27
+Electric 68
+Profit 300
+CreditProfit 637
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 33 Paine Avenue~
+SalePrice 367
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16544
+MarketDir 0
+Faction 0
+Price  735
+ADate 3 2
+Advertisement `w `w
+`w `w
+`w`032Pain`032`031e Pe`031`030rfom`030`029ance`029`028 Com`028`034plex`034`082 and`082`083 Sav`083`084age `084`121Tale`121`122nt S`122`123tudi`123`117os, `117`111owne`111`105d an`105`099d ma`099`098nage`098`097d by`097`096 Vet`096`102ra S`102`108tark!!`108`w
+`w`032Want`032`031 to `031`030stay`030`029 fit`029`028? Yo`028`034u've`034`082 com`082`083e to`083`084 the`084`121 rig`121`122ht p`122`123lace`123`117! Th`117`111ink `111`105you'`105`099ve g`099`098ot w`098`097hat `097`096it t`096`102akes`102`108 to be`108`w
+`w`032Amer`032`031ica'`031`030s ne`030`029xt h`029`028ot m`028`034usic`034`082al t`082`083alen`083`084t? W`084`121e've`121`122 got`122`123 you`123`117 cov`117`111ered`111`105 dro`105`099p on`099`098 by `098`097the `097`096comp`096`102lex `102`108at 33`108`w
+`w`032Pain`032`031e Av`031`030enue`030`029 and`029`028 giv`028`034e -u`034`082s- a`082`083 sho`083`084t at`084`121 rep`121`122rese`122`123ntin`123`117g -y`117`111our-`111`105 tal`105`099ents`099`098, gi`098`097ve -`097`096us- `096`102a sh`102`108ot at`108`w
+`w`032fulf`032`031illi`031`030ng -`030`029your`029`028- fi`028`034tnes`034`082s ne`082`083eds!`083`084 Our`084`121 com`121`122pany`122`123 Pre`123`117side`117`111nt a`111`105nd C`105`099.E.O`099`098. ma`098`097y be`097`096 Flo`096`102rida`102`108 born`108`w
+`w`032but `032`031she'`031`030s le`030`029ft a`029`028ll t`028`034hat `034`082behi`082`083nd t`083`084o br`084`121ing `121`122-you`122`123- th`123`117e sa`117`111tisf`111`105acti`105`099on y`099`098ou d`098`097eser`097`096ve! `096`102Are `102`108you a`108`w
+`w`032Mass`032`031achu`031`030sett`030`029s na`029`028tive`028`034 loo`034`082king`082`083 to `083`084bran`084`121ch o`121`122ut i`122`123n th`123`117e mu`117`111sic `111`105indu`105`099stry`099`098 and`098`097 bec`097`096ome `096`102a na`102`108tion-`108`w
+`w`032wide`032`031 sen`031`030sati`030`029on? `029`028Are `028`034you `034`082tire`082`083d of`083`084 goi`084`121ng t`121`122o gy`122`123ms t`123`117hat `117`111leav`111`105e yo`105`099u fe`099`098elin`098`097g th`097`096e wr`096`102ong `102`108kind of`108`w
+`w`032exha`032`031uste`031`030d, h`030`029avin`029`028g to`028`034 dea`034`082l wi`082`083th t`083`084hose`084`121 lee`121`122ring`122`123 eye`123`117s of`117`111 thi`111`105rsty`105`099 peo`099`098ple?`098`097 Loo`097`096k no`096`102 fur`102`108ther!`108`w
+`w`032Beca`032`031use `031`030here`030`029 at `029`028Pain`028`034e Pe`034`082rfor`082`083manc`083`084e Co`084`121mple`121`122x, w`122`123e'll`123`117 giv`117`111e th`111`105ose `105`099pain`099`098e's `098`097in y`097`096our `096`102ass `102`108a real`108`w
+`w`032unde`032`031rcon`031`030fide`030`029nce `029`028comp`028`034lex,`034`082 and`082`083 you`083`084 wil`084`121l to`121`122o! W`122`123e ca`123`117re a`117`111bout`111`105 our`105`099 cus`099`098tome`098`097rs a`097`096nd V`096`102etra`102`108's even`108`w
+`w`032will`032`031ing `031`030to p`030`029ut h`029`028er r`028`034eput`034`082atio`082`083n on`083`084 the`084`121 lin`121`122e to`122`123 mak`123`117e su`117`111re -`111`105you-`105`099 get`099`098 tha`098`097t qu`097`096alit`096`102y se`102`108rvice!!`108`w
+ 
+`w`032Seek`032`031ing `031`030empl`030`029oyme`029`028nt w`028`034ith `034`082us? `082`083Stop`083`084 on `084`121by a`121`122nd b`122`123ecom`123`117e a `117`111memb`111`105er o`105`099f ou`099`098r gy`098`097m st`097`096aff!`096`102 Or `102`108if you`108`w
+`w`032happ`032`031en t`031`030o be`030`029 the`029`028 dar`028`034ing `034`082type`082`083 and`083`084 wan`084`121t a `121`122job `122`123in t`123`117he s`117`111tudi`111`105o, c`105`099onta`099`098ct V`098`097etra`097`096 at `096`102710-`102`1087169!!`108`w
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 28 62 -3 30 64 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 2
+FirstRoom 16530
+RoadRoom 15241
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1025 1064 1065 1066 1080 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   26
+Name      Apt 204, Elm Street~
+Type 1
+Industry 0
+Electric 20
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 204, Elm Street~
+SalePrice 603
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1206
+ADate 1 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 31 70 1 34 71 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 11
+FirstRoom 16701
+RoadRoom 16711
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   27
+Name      Apt 301, Elm Street~
+Type 1
+Industry 0
+Electric 9612
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 301, Elm Street~
+SalePrice 1087
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  2290
+ADate 23 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 26 67 2 29 71 2
+TimeWeather 0 0 0 0 0
+ShroudShield 19
+Orientation 0
+TypeSpecial 12
+FirstRoom 16693
+RoadRoom 16672
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   27
+Name      `DH`ro`Dwl at the Mo`ro`Dn`w~
+Type 2
+Industry 6
+Electric 36
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 63 Deadwood Street~
+SalePrice 368
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16546
+MarketDir 0
+Faction 0
+Price  736
+ADate 7 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 28 59 -3 30 61 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 1882
+RoadRoom 16553
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1099 1012 1058 1094 1095 1128 1132 1136 1137 1148 1150 1158 1302 1489 1490 1697 1747 1492 1805 1649 1826 2517 1828 2518 2521 2524 1291 1003 1007 1011 1388 1389 1390 1391 1395 1392 1393 1396 1398 1401 1414 1422 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   28
+Name      `CT`Ghe `CR`Getreat`w~
+Type 2
+Industry 29
+Electric 56
+Profit 5478
+CreditProfit 69376
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 62 Deadwood Street~
+SalePrice 512
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 7390
+MarketDir 3
+Faction 0
+Price  1024
+ADate 4 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 32 59 -3 34 61 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 16561
+RoadRoom 16553
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1315 1322 1333 1351 1435 1479 1560 1561 1565 1566 1570 1571 1572 1575 1576 1577 1580 1582 1581 1584 1588 2035 2036 2038 2661 2662 2663 2664 1436 1563 1562 1023 1559 2665 2681 1932 2712 2682 2713 2714 2715 2716 2717 2718 2719 2720 2721 2723 2722 2724 2725 2726 1312 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   28
+Name      Apt 302, Elm Street~
+Type 1
+Industry 0
+Electric 1892
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address Apt 302, Elm Street~
+SalePrice 1014
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  2136
+ADate 25 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 31 67 2 34 71 2
+TimeWeather 0 0 0 0 4
+ShroudShield 0
+Orientation 0
+TypeSpecial 12
+FirstRoom 16690
+RoadRoom 16667
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   29
+Name      `yM`coore `023for `yL`cess `023Pharmacy`x~
+Type 2
+Industry 13
+Electric 24
+Profit 0
+CreditProfit 2025
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 61 Deadwood Street~
+SalePrice 517
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16536
+MarketDir 2
+Faction 0
+Price  1035
+ADate 1 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 28 56 -3 30 58 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 1886
+RoadRoom 1996
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1002 1151 1090 1152 1165 1073 1193 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   29
+Name      39 Willow Close~
+Type 1
+Industry 0
+Electric 5555
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 39 Willow Close~
+SalePrice 213
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 3
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  450
+ADate 21 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 47 34 -3 49 36 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 1
+FirstRoom 2848
+RoadRoom 17663
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   30
+Name      `228Gr`229eat`230 Ne`231ws`231 Co`231mmu`231ni`230ty `229Cen`228ter`w~
+Type 2
+Industry 12
+Electric 32525
+Profit 210000
+CreditProfit 5361
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 60 Deadwood Street~
+SalePrice 302
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16563
+MarketDir 2
+Faction 0
+Price  605
+ADate 28 0
+Advertisement `220The Great News Community Center provide`229s services to the whole community, incl`221uding: 
+ 
+* A small chapel 
+* A soup kitch`221en for the unfortunate 
+* Seminars, grou`222p therapy, and community space 
+* A reli`221gious bookstore 
+* A small television st`221udio for rent by community groups 
+ 
+Peop`222le of all faiths are welcome to get a c`220up of coffee and find a higher purpose. `w
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 32 56 -3 34 58 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 16564
+RoadRoom 1996
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1298 1168 1226 1469 1471 1472 1788 1755 1803 1824 1825 1833 1834 1840 1848 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   30
+Name      35 Willow Close~
+Type 1
+Industry 0
+Electric 0
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 35 Willow Close~
+SalePrice 213
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  450
+ADate 8 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 43 30 -3 45 32 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 1
+FirstRoom 17655
+RoadRoom 17659
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   31
+Name      `WStudio Splendente`x~
+Type 2
+Industry 3
+Electric 36
+Profit 0
+CreditProfit 447675
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 41 Paine Avenue~
+SalePrice 307
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 2168
+MarketDir 2
+Faction 0
+Price  615
+ADate 4 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 36 62 -3 38 64 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 2
+FirstRoom 16603
+RoadRoom 15234
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1655 1688 1812 1814 2096 2098 2103 2108 2085 2219 2226 2080 2110 2229 2235 2409 2410 2418 2586 2623 2626 2627 2628 2629 2630 2632 2633 2648 2686 2687 2728 2729 2730 2740 2741 2097 2742 2743 1130 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   32
+Name      `156`156`155`192`193`194G`231`231`231`231`231`231`194e`193`192`155`156`156n`156`156`155`192`193`194T`231`231`231`231`231`231e`194`193`192`155`156`156k`w~
+Type 2
+Industry 13
+Electric 33300
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 40 Paine Avenue~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 2449
+MarketDir 6
+Faction 0
+Price  570
+ADate 19 0
+Advertisement `156`156`155G`192`193`194`231e`231`231n`231`231`231T`194`193`192`155e`156`156k`w proudly announces its Haven branch! From pharmaceuticals to upcoming various GenTek merchandise, you'll find it all at your local store. Please contact Sr. Geneticist Cailyn Summers if you'd like to schedule any appointment.
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 36 66 -3 38 68 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 16641
+RoadRoom 15234
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1647 1653 1662 1663 1684 1717 1722 1724 1725 1757 1760 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   33
+Name      `065Haven Hardware`w~
+Type 2
+Industry 3
+Electric 60
+Profit 0
+CreditProfit 18750
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 73 Beech Street~
+SalePrice 410
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16645
+MarketDir 7
+Faction 0
+Price  821
+ADate 2 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 36 69 -3 38 71 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 2447
+RoadRoom 15197
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1937 1939 1279 1088 1785 1106 1855 1860 1907 1908 2067 2189 2222 2241 1646 2115 2116 2118 2119 2201 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   34
+Name      `WSTARBUCKS`w Coffee~
+Type 2
+Industry 21
+Electric 48
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 72 Beech Street~
+SalePrice 272
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 2479
+MarketDir 1
+Faction 0
+Price  545
+ADate 1 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 1
+Utilities 0
+Range 40 69 -3 42 71 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 16716
+RoadRoom 15197
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1546 1547 1548 1564 1597 1641 1642 1650 1657 1669 1670 1699 1708 1732 1230 1321 1227 1726 1006 1249 1319 1792 1864 1866 1868 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   35
+Name      `GThe Fragrant Tree`w~
+Type 2
+Industry 3
+Electric 8
+Profit 51075
+CreditProfit 161400
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 63 Beech Street~
+SalePrice 260
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16600
+MarketDir 3
+Faction 0
+Price  520
+ADate 2 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 36 59 -3 38 61 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 16608
+RoadRoom 15187
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 2434 2435 2436 2437 2438 1057 1059 1060 1072 1178 1493 1494 1498 1499 1500 1502 1504 1505 1507 1544 1635 1648 1179 1199 1200 1348 1232 1813 1931 2014 2037 2064 2065 2073 2104 2105 2107 2264 2266 2267 1013 1038 1039 1040 1042 1041 1043 1044 1045 1046 1047 1048 1162 1192 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   36
+Name      `062Starlight Lounge`x~
+Type 2
+Industry 17
+Electric 48240
+Profit 0
+CreditProfit 6000
+LastEncroach 0
+Bankrupt 1
+Renovate 0
+Address 62 Beech Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16799
+MarketDir 0
+Faction 0
+Price  941
+ADate 20 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 40 59 -3 42 61 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 16785
+RoadRoom 15187
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1644 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   37
+Name      `RD`Wa`wv`de`RD`Wa`ws`dh `RC`Wonv`weni`dence`w~
+Type 2
+Industry 22
+Electric 11535
+Profit 2300
+CreditProfit 16698
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 61 Beech Street~
+SalePrice 305
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16610
+MarketDir 1
+Faction 0
+Price  610
+ADate 9 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 36 56 -3 38 58 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 16611
+RoadRoom 1151
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1485 1487 1486 1919 1958 1920 1959 1961 1962 1963 1964 1957 1965 1966 1967 1968 1969 1970 1917 2288 1918 2289 2079 2082 2109 2113 2123 2293 2294 2295 2296 2297 2298 2300 2301 2302 2375 2387 2388 2242 1793 2281 2280 2282 2392 2393 2394 2396 1484 1960 2299 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   38
+Name      `043Petite Cuisine`w~
+Type 2
+Industry 4
+Electric 44
+Profit 9111
+CreditProfit 16012
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 60 Beech Street~
+SalePrice 324
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16803
+MarketDir 1
+Faction 0
+Price  649
+ADate 4 2
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 40 56 -3 42 58 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 16782
+RoadRoom 1151
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 2030 2031 2032 2052 2089 2111 2112 1141 1034 1807 1806 1010 1254 1808 1809 1271 1323 1751 1754 1810 1811 1827 1832 1844 1851 1332 1756 1852 1853 1862 1000 1001 1183 1184 1665 1909 1911 1914 1934 1973 2009 2013 1780 2025 2026 1953 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   39
+Name      `yS`Ya`wv`Wage St`wy`Cl`ce`w~
+Type 2
+Industry 5
+Electric 26442
+Profit 0
+CreditProfit 13867
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 44 Paine Avenue~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 16721
+MarketDir 0
+Faction 0
+Price  610
+ADate 25 0
+Advertisement `d    `w
+`W================================================================================`w
+`W================================================================================`w
+`y  _________                                    _________ __         .__        `w
+`Y /   __________ ___  ______    ____   ____    /   ______/  |_ ___.__|  |   ____`w
+`W \_____  \\__  \\  \/ \__  \  / ___\_/ __ \   \_____  \\   __<   |  |  | _/ __ \`w
+`C /        \/ __ \\   / / __ \/ /_/  \  ___/   /        \|  |  \___  |  |_\  ___/`w
+`c/_______  (____  /\_/ (____  \___  / \___  > /_______  /|__|  / ____|____/\___ |`w
+`Y        \/     \/          \/_____/      \/          \/       \/              \/`w
+`W================================================================================`w
+`W================================================================================`w
+`#cea400 `#d1a600 `#d4a700 `#d7a900 `#daab00 `#ddac00 `#e0ae00 `#e3b000 `#e7b200 `#eab300 `#edb500 `#f0b700 `#f3b800 `#f6ba00 `#f9bc00 `#fcbd00 `#ffbf00 `#ffc106 `#ffc40c `#ffc611 `#ffc817 `#feca1d `#fecd23 `#fecf28 `#fed12e `#fed334 `#fed63a `#fed83f `#feda45 `#fddc4bW`#fddf51e`#fde156l`#fde35cc`#fadf56o`#f7db50m`#f4d64ae`#f0d243 `#edce3dt`#eaca37o`#e7c631 `#e4c12bS`#e1bd25a`#deb91fv`#dbb519a`#d7b112g`#d4ac0ce`#d1a806 `#cea400S`#d1a600t`#d4a700y`#d7a900l`#daab00e`#ddac00!`#e0ae00 `#e3b000 `#e7b200 `#eab300 `#edb500 `#f0b700 `#f3b800 `#f6ba00 `#f9bc00 `#fcbd00 `#ffbf00 `#ffc106 `#ffc40c `#ffc611 `#ffc817 `#feca1d `#fecd23 `#fecf28 `#fed12e `#fed334 `#fed63a `#fed83f `#feda45 `#fddc4b `#fddf51 `#fde156 `#fde35c 
+`#d7a900 `#daab00 `#ddac00 `#e0ae00 `#e3b000 `#e7b200 `#eab300 `#edb500 `#f0b700 `#f3b800 `#f6ba00 `#f9bc00 `#fcbd00 `#ffbf00 `#ffc106 `#ffc40c `#ffc611 `#ffc817 `#feca1d `#fecd23 `#fecf28 `#fed12e `#fed334 `#fed63a `#fed83f `#feda45 `#fddc4b `#fddf51 `#fde156 `#fde35c `#fadf56 `#f7db50 `#f4d64a `#f0d243 `#edce3d `#eaca37 `#e7c631 `#e4c12b `#e1bd25 `#deb91f `#dbb519 `#d7b112 `#d4ac0c `#d1a806 `#cea400 `#d1a600 `#d4a700 `#d7a900 `#daab00 `#ddac00 `#e0ae00 `#e3b000 `#e7b200 `#eab300 `#edb500 `#f0b700 `#f3b800 `#f6ba00 `#f9bc00 `#fcbd00 `#ffbf00 `#ffc106 `#ffc40c `#ffc611 `#ffc817 `#feca1d `#fecd23 `#fecf28 `#fed12e `#fed334 `#fed63a `#fed83f `#feda45 `#fddc4b `#fddf51 `#fde156 `#fde35c `#fadf56 `#f7db50 `#f4d64a 
+`#e0ae00H`#e3b000o`#e7b200m`#eab300e`#edb500 `#f0b700t`#f3b800o`#f6ba00 `#f9bc00g`#fcbd00r`#ffbf00e`#ffc106a`#ffc40ct`#ffc611 `#ffc817s`#feca1de`#fecd23l`#fecf28e`#fed12ec`#fed334t`#fed63ai`#fed83fo`#feda45n`#fddc4bs`#fddf51 `#fde156a`#fde35cn`#fadf56d`#f7db50 `#f4d64ac`#f0d243o`#edce3dm`#eaca37p`#e7c631e`#e4c12bt`#e1bd25i`#deb91ft`#dbb519i`#d7b112v`#d4ac0ce`#d1a806 `#cea400p`#d1a600r`#d4a700i`#d7a900c`#daab00e`#ddac00s`#e0ae00,`#e3b000 `#e7b200w`#eab300e`#edb500 `#f0b700o`#f3b800f`#f6ba00f`#f9bc00e`#fcbd00r`#ffbf00 `#ffc106n`#ffc40co`#ffc611t`#ffc817h`#feca1di`#fecd23n`#fecf28g`#fed12e `#fed334b`#fed63au`#fed83ft`#feda45 `#fddc4bt`#fddf51h`#fde156e`#fde35c `#fadf56b`#f7db50e`#f4d64as`#f0d243t`#edce3d `#eaca37 
+`#eab300 `#edb500 `#f0b700i`#f3b800n`#f6ba00 `#f9bc00o`#fcbd00v`#ffbf00e`#ffc106r`#ffc40ca`#ffc611l`#ffc817l`#feca1d `#fecd23s`#fecf28t`#fed12ey`#fed334l`#fed63ae`#fed83f `#feda45f`#fddc4bo`#fddf51r`#fde156 `#fde35ct`#fadf56h`#f7db50e`#f4d64a `#f0d243d`#edce3di`#eaca37s`#e7c631c`#e4c12be`#e1bd25r`#deb91fn`#dbb519i`#d7b112n`#d4ac0cg`#d1a806 `#cea400c`#d1a600u`#d4a700s`#d7a900t`#daab00o`#ddac00m`#e0ae00e`#e3b000r`#e7b200.`#eab300 `#edb500W`#f0b700i`#f3b800t`#f6ba00h`#f9bc00 `#fcbd00s`#ffbf00t`#ffc106y`#ffc40cl`#ffc611e`#ffc817s`#feca1d `#fecd23r`#fecf28a`#fed12en`#fed334g`#fed63ai`#fed83fn`#feda45g`#fddc4b `#fddf51f`#fde156r`#fde35co`#fadf56m`#f7db50 `#f4d64aF`#f0d243r`#edce3di`#eaca37d`#e7c631a`#e4c12by`#e1bd25 
+`#f3b800 `#f6ba00 `#f9bc00c`#fcbd00a`#ffbf00s`#ffc106u`#ffc40ca`#ffc611l`#ffc817 `#feca1dt`#fecd23o`#fecf28 `#fed12eb`#fed334l`#fed63aa`#fed83fc`#feda45k`#fddc4b-`#fddf51t`#fde156i`#fde35ce`#fadf56 `#f7db50a`#f4d64an`#f0d243d`#edce3d `#eaca37o`#e7c631t`#e4c12bh`#e1bd25e`#deb91fr`#dbb519 `#d7b112p`#d4ac0cr`#d1a806o`#cea400f`#d1a600e`#d4a700s`#d7a900s`#daab00i`#ddac00o`#e0ae00n`#e3b000a`#e7b200l`#eab300 `#edb500n`#f0b700e`#f3b800e`#f6ba00d`#f9bc00s`#fcbd00,`#ffbf00 `#ffc106w`#ffc40ce`#ffc611 `#ffc817c`#feca1da`#fecd23r`#fecf28r`#fed12ey`#fed334 `#fed63at`#fed83fh`#feda45e`#fddc4b `#fddf51r`#fde156i`#fde35cg`#fadf56h`#f7db50t`#f4d64a `#f0d243i`#edce3dt`#eaca37e`#e7c631m`#e4c12b `#e1bd25f`#deb91fo`#dbb519r`#d7b112 
+`#fcbd00 `#ffbf00 `#ffc106t`#ffc40ch`#ffc611e`#ffc817 `#feca1dr`#fecd23i`#fecf28g`#fed12eh`#fed334t`#fed63a `#fed83fo`#feda45c`#fddc4bc`#fddf51a`#fde156s`#fde35ci`#fadf56o`#f7db50n`#f4d64a!`#f0d243 `#edce3dO`#eaca37u`#e7c631r`#e4c12b `#e1bd25c`#deb91fu`#dbb519s`#d7b112t`#d4ac0co`#d1a806m`#cea400e`#d1a600r`#d4a700s`#d7a900 `#daab00c`#ddac00a`#e0ae00n`#e3b000 `#e7b200a`#eab300l`#edb500s`#f0b700o`#f3b800 `#f6ba00r`#f9bc00e`#fcbd00a`#ffbf00p`#ffc106 `#ffc40ct`#ffc611h`#ffc817e`#feca1d `#fecd23b`#fecf28e`#fed12en`#fed334e`#fed63af`#fed83fi`#feda45t`#fddc4b `#fddf51o`#fde156f`#fde35c `#fadf56o`#f7db50u`#f4d64ar`#f0d243 `#edce3di`#eaca37n`#e7c631-`#e4c12bh`#e1bd25o`#deb91fu`#dbb519s`#d7b112e`#d4ac0c `#d1a806 `#cea400 
+`#ffc40c `#ffc611 `#ffc817 `#feca1d `#fecd23 `#fecf28 `#fed12e `#fed334 `#fed63a `#fed83f `#feda45 `#fddc4bt`#fddf51a`#fde156i`#fde35cl`#fadf56o`#f7db50r`#f4d64a `#f0d243f`#edce3do`#eaca37r`#e7c631 `#e4c12bt`#e1bd25h`#deb91fo`#dbb519s`#d7b112e`#d4ac0c `#d1a806w`#cea400h`#d1a600o`#d4a700 `#d7a900p`#daab00r`#ddac00e`#e0ae00f`#e3b000e`#e7b200r`#eab300 `#edb500a`#f0b700 `#f3b800m`#f6ba00o`#f9bc00r`#fcbd00e`#ffbf00 `#ffc106b`#ffc40ce`#ffc611s`#ffc817p`#feca1do`#fecd23k`#fecf28e`#fed12e `#fed334c`#fed63al`#fed83fo`#feda45t`#fddc4bh`#fddf51i`#fde156n`#fde35cg`#fadf56 `#f7db50e`#f4d64ax`#f0d243p`#edce3de`#eaca37r`#e7c631i`#e4c12be`#e1bd25n`#deb91fc`#dbb519e`#d7b112!`#d4ac0c `#d1a806 `#cea400 `#d1a600 `#d4a700 `#d7a900 
+`#feca1d `#fecd23 `#fecf28 `#fed12e `#fed334 `#fed63a `#fed83f `#feda45 `#fddc4b `#fddf51 `#fde156 `#fde35c `#fadf56 `#f7db50 `#f4d64a `#f0d243 `#edce3d `#eaca37 `#e7c631 `#e4c12b `#e1bd25 `#deb91f `#dbb519 `#d7b112 `#d4ac0c `#d1a806 `#cea400 `#d1a600 `#d4a700 `#d7a900 `#daab00F`#ddac00i`#e0ae00n`#e3b000d`#e7b200 `#eab300Y`#edb500o`#f0b700u`#f3b800r`#f6ba00 `#f9bc00N`#fcbd00e`#ffbf00x`#ffc106t`#ffc40c `#ffc611'`#ffc817F`#feca1di`#fecd23t`#fecf28!`#fed12e `#fed334 `#fed63a `#fed83f `#feda45 `#fddc4b `#fddf51 `#fde156 `#fde35c `#fadf56 `#f7db50 `#f4d64a `#f0d243 `#edce3d `#eaca37 `#e7c631 `#e4c12b `#e1bd25 `#deb91f `#dbb519 `#d7b112 `#d4ac0c `#d1a806 `#cea400 `#d1a600 `#d4a700 `#d7a900 `#daab00 `#ddac00 `#e0ae00`q`w
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 40 66 -3 42 68 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 2475
+RoadRoom 15209
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1103 1359 1369 1376 1380 1383 1384 1385 1386 1387 1021 1443 1071 1444 1449 1450 1451 1452 1453 1456 1457 1458 1625 1696 1799 1892 1933 2141 2142 2143 2144 2152 2166 2167 2172 2200 2203 2205 2206 2208 2209 2210 2248 2207 2240 2247 2277 2279 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   40
+Name      `050H`086a`122r`158p`194er's B`194a`158z`122a`086a`050r`x~
+Type 2
+Industry 5
+Electric 26137
+Profit 87825
+CreditProfit 235200
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 45 Paine Avenue~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16792
+MarketDir 2
+Faction 0
+Price  610
+ADate 27 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 40 62 -3 42 64 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 2
+TypeSpecial 2
+FirstRoom 16789
+RoadRoom 15209
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1324 1068 1325 1326 1327 1328 1329 1330 1331 1335 1336 1337 1338 1340 1341 1344 1345 1346 1347 1299 1288 1292 1295 1305 1313 1316 1357 1358 1412 1070 1420 1426 1437 1440 1593 1798 1983 1274 1491 1551 1552 1558 1583 1589 1800 2587 1213 1352 1382 1849 1850 1858 1859 1867 1997 1998 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   41
+Name      `YMa`Gn`gda`bla`B J`Yewelr`By `bDe`gsi`Gg`Yns`w~
+Type 2
+Industry 5
+Electric 19818
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 73 Ash Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 2491
+MarketDir 3
+Faction 0
+Price  615
+ADate 25 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 44 69 -3 46 71 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 16742
+RoadRoom 1174
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1243 1242 1244 1245 1246 1247 1248 1251 1250 1349 1796 1797 1928 1974 1976 1975 1977 1978 1979 1980 1981 1984 1922 1985 1986 1987 1988 1989 1990 1102 1138 1112 1139 1147 1172 1628 2040 2041 2042 2043 1131 2044 2572 2573 2575 2579 2580 1069 1685 1686 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   42
+Name      `DTemple of `rOpen Heart`x~
+Type 2
+Industry 12
+Electric 209
+Profit 0
+CreditProfit 150
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 71 Ash Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16737
+MarketDir 3
+Faction 0
+Price  515
+ADate 15 1
+Advertisement Opened to the public in Fall 2023, the `DTemple of `rOpen Heart`x is said to be a "Drikkist Temple", whatever that might mean.
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 44 66 -3 46 68 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 2493
+RoadRoom 15216
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1764 1783 1790 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   43
+Name      `027H`033o`039o`045k`255, `027L`033i`039n`045e `255& `027S`033i`032n`039k`045e`051r`w~
+Type 2
+Industry 26
+Electric 909
+Profit 0
+CreditProfit 18243
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 67 Ash Street~
+SalePrice 265
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 2499
+MarketDir 3
+Faction 0
+Price  530
+ADate 16 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 1
+Utilities 0
+Range 44 62 -3 46 64 1
+TimeWeather 0 0 0 -20 2
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 16748
+RoadRoom 15220
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1037 1049 1050 1051 1052 1053 1054 1055 1164 1201 1204 1208 1212 1224 1228 1253 1255 1263 1264 1265 1266 1273 1074 1173 1203 1206 1275 1276 1297 1300 1304 1339 1342 1343 1356 1425 1268 1157 2747 2748 2749 2602 2516 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   44
+Name      `#6a141dHa`#642128ven`#5e2f33's`#583d3e Mu`#534b49seu`#534b49m `#583d3eof `#5e2f33Od`#642128dit`#6a141dies`q~
+Type 2
+Industry 26
+Electric 25318
+Profit 0
+CreditProfit 27896
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 63 Ash Street~
+SalePrice 323
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 2509
+MarketDir 3
+Faction 0
+Price  646
+ADate 24 0
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 1
+Utilities 0
+Range 44 59 -3 46 61 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 2505
+RoadRoom 15223
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 2050 2053 2525 2526 2527 2529 2530 2531 2528 2532 2534 2649 2650 2651 2652 2653 2667 2701 2704 2705 2706 2707 2708 2674 2711 2709 2710 2732 2733 2685 1016 1126 1235 1259 1293 1301 1314 1381 1817 1818 1028 1030 1031 1033 1035 1089 1091 1083 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   45
+Name      `#009f1aG`#10a528i`#20ab37o`#30b145v`#40b753a`#50bd62n`#60c370n`#70c97ei`#80cf8d'`#8fd59bs`#9fdba9 `#afe1b7R`#bfe7c6i`#cfedd4s`#dff3e2t`#eff9f1o`#ffffffr`#ffeeeea`#ffddddn`#ffcccct`#ffbbbbe`#ffaaaa `#ff9999e`#ff8888 `#ff7777P`#ff6666i`#ff5555z`#ff4444z`#ff3333e`#ff2222r`#ff1111i`#ff0000a`q`x~
+Type 2
+Industry 4
+Electric 30816
+Profit 0
+CreditProfit 12662
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 61 Ash Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 16764
+MarketDir 9
+Faction 0
+Price  647
+ADate 25 0
+Advertisement `#ff2e2e `#ff1717G`#ff0000i`#e80e02o`#d11d05v`#b92b07a`#a23a09n`#8b480cn`#74570ei`#5d6511'`#467413s`#2e8215 `#179118R`#009f1ai`#17a82fs`#2eb044t`#46b958o`#5dc26dr`#74cb82a`#8bd397n`#a2dcact`#b9e5c1e`#d1eed5 `#e8f6eae`#ffffff `#ffe6e6P`#ffcccci`#ffb3b3z`#ff9999z`#ff8080e`#ff6666r`#ff4d4di`#ff3333a`#ff1a1a:`#ff0000 `#e80e02A`#d11d05 `#b92b07T`#a23a09a`#8b480cs`#74570et`#5d6511e`#467413 `#2e8215o`#179118f`#009f1a `#17a82fI`#2eb044t`#46b958a`#5dc26dl`#74cb82y`#8bd397 `#a2dcaci`#b9e5c1n`#d1eed5 `#e8f6eaE`#ffffffv`#ffe8e8e`#ffd1d1r`#ffb9b9y`#ffa2a2 `#ff8b8bB`#ff7474i`#ff5d5dt`#ff4646e`#ff2e2e!`q`x
+
+`230Get ready for a culinary journey that's amore from the start! We're thrilled to announce the grand re-opening of `#009f1aG`#33b248i`#66c576o`#99d9a3v`#ccecd1a`#ffffffn`#ffbfbfn`#ff8080i`#ff4040'`#ff0000s`x`q`230, a Haven favorite, reinvented. This family-owned Italian restaurant and pizzeria is nestled on quaint Ash Street in the northern sector of town, with delightful views and even better food! we invite you to join us for an unforgettable dining experience where tradition meets innovation.
+
+Why Choose Giovanni's?
+
+     `gArtisanal Pizzas: `230
+          Our wood-fired oven crafts mouthwatering pizzas with a perfect 
+          crust, fresh toppings, and a sprinkle of amore.
+
+     `WHomemade Pasta: `230
+          Dive into a world of flavors with our authentic, handmade pasta 
+          dishes, prepared with love using time-honored family recipes.
+
+     `rFine Italian Wines: `230
+          Explore our carefully curated selection of wines to complement 
+          your meal and elevate your dining experience.
+
+     `WFamily-Friendly Atmosphere:`230
+          At Bella Famiglia, we believe in the power of family. Our warm 
+          and welcoming ambiance is perfect for gatherings, celebrations, 
+          or a cozy dinner with your loved ones.
+
+     `gDolce Delights: `230
+          Indulge your sweet tooth with our delectable desserts, from 
+          tiramisu to cannoli, ensuring a sweet ending to your Italian 
+          feast or a delectable any-time purchase from our bakery.
+
+Join us at Giovanni's, where every dish tells a story, and every bite is a journey to the heart of Italy. We can't wait to share our passion for food and family with you!
+
+`#009f1aB`#24ad3bu`#49ba5bo`#6dc87cn`#92d69d `#b6e4beA`#dbf1dep`#ffffffp`#ffd5d5e`#ffaaaat`#ff8080i`#ff5555t`#ff2b2bo`#ff0000!`x`q
+
+`027#Giovannis #ItalianCuisine #Pizza`x
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 44 56 -3 46 58 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 3
+TypeSpecial 2
+FirstRoom 16758
+RoadRoom 15226
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 2011 2251 1267 1163 1252 2019 2051 2039 2033 2054 2056 2057 2062 2063 2066 2070 2071 2072 2132 2055 1015 2061 2074 2091 1282 2120 2137 2136 2138 1022 1036 2250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   46
+Name      `210`221T`220h`220e `149L`114o`079v`080i`080n`109g `180K`210i`215tch`220en`x~
+Type 2
+Industry 4
+Electric 6132
+Profit 23400
+CreditProfit 48525
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 72 Ash Street~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  1360
+ADate 14 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 1
+Utilities 0
+Range 48 68 -3 54 70 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 6
+FirstRoom 16844
+RoadRoom 1172
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 2426 2428 2429 2431 2433 2432 2642 1441 1455 1482 1488 1620 1219 1718 1721 1749 1750 1752 1753 1759 1766 1767 2493 2557 1865 1876 2558 1936 2559 2562 2563 2581 2582 2583 1758 1802 1815 1819 1882 2202 2584 2585 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   47
+Name      `WO`wld `WW`world `WJ`wewelers~
+Type 2
+Industry 5
+Electric 3483
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 52 Sidney Way~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 16853
+MarketDir 1
+Faction 0
+Price  589
+ADate 13 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 48 65 -3 50 67 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 16852
+RoadRoom 15229
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1018 1231 1240 1283 1706 1709 1710 1711 1712 1713 1714 1735 1738 1739 1740 1742 1778 1829 1830 1831 1838 1841 1842 1857 1921 1949 1952 1950 1982 1991 2086 2087 2088 2092 2093 2094 2095 2243 2244 2245 2246 2275 2276 2278 2447 2449 2228 1087 2395 2448 2451 1845 1846 2214 2476 2477 2478 2514 1294 1480 1609 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   48
+Name      `rT`yh`re `rH`yo`rm`ye`rT`yo`rw`yn `rD`yi`rn`ye`rr`x~
+Type 2
+Industry 4
+Electric 2595
+Profit 651
+CreditProfit 4425
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 54 Sidney Way~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 1
+MarketRoom 16862
+MarketDir 2
+Faction 0
+Price  530
+ADate 8 1
+Advertisement ~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 51 65 -3 53 67 1
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 0
+TypeSpecial 2
+FirstRoom 16864
+RoadRoom 15232
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 1483 1508 1509 1510 1511 1512 1513 1515 1516 1517 1518 1519 1520 1521 1522 1523 1524 1525 1526 1527 1528 1529 1530 1531 1532 1533 1534 1535 1536 1537 1538 1539 1540 1541 1542 2305 2306 2307 2308 2309 2310 2311 2312 2313 2314 2315 2316 2317 2318 2319 2321 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   49
+Name      `#447294T`#4c799bh`#5381a2e`#5b88a9 `#6290b0F`#6a97b7r`#719ebfe`#79a6c6s`#80adcdh`#88b5d4 `#8fbcdbC`#9abfd8a`#a5c2d4t`#b1c5d1c`#bcc8cdh`#c7caca `#d2cdc6C`#ded0c3a`#e9d3bff`#f4d6bce`x`q~
+Type 2
+Industry 21
+Electric 0
+Profit 0
+CreditProfit 0
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 34 Willow Close~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  450
+ADate 25 0
+Advertisement Newly renovated and soon to reopen! `#447294T`#4c799bh`#5381a2e`#5b88a9 `#6290b0F`#6a97b7r`#719ebfe`#79a6c6s`#80adcdh`#88b5d4 `#8fbcdbC`#9abfd8a`#a5c2d4t`#b1c5d1c`#bcc8cdh`#c7caca `#d2cdc6C`#ded0c3a`#e9d3bff`#f4d6bce`q`x, will once more be Haven's seafood oasis by the shore!`x
+
+Nestled against the picturesque beachfront of `022Willow Cove`153, `#447294T`#4c799bh`#5381a2e`#5b88a9 `#6290b0F`#6a97b7r`#719ebfe`#79a6c6s`#80adcdh`#88b5d4 `#8fbcdbC`#9abfd8a`#a5c2d4t`#b1c5d1c`#bcc8cdh`#c7caca `#d2cdc6C`#ded0c3a`#e9d3bff`#f4d6bce`q`x, invites you to celebrate the bounty of the ocean, fresh caught each day in Haven's longstanding tradition and prepared by our talented chefs. Winter, Spring, Summer or Fall, our commitment to serving the freshest seafood in a warm and inviting atmosphere makes us the go-to destination for local seafood enthusiasts and visiting beachgoers alike. `x
+
+`#447294What sets `#447294T`#4c799bh`#5381a2e`#5b88a9 `#6290b0F`#6a97b7r`#719ebfe`#79a6c6s`#80adcdh`#88b5d4 `#8fbcdbC`#9abfd8a`#a5c2d4t`#b1c5d1c`#bcc8cdh`#c7caca `#d2cdc6C`#ded0c3a`#e9d3bff`#f4d6bce`q `#447294apart?`q`x
+
+`224**Breathtaking Views:**`x 
+Indulge in a sensory feast as you dine against the backdrop of the sun setting over the Atlantic Ocean. Our beachfront location offers panoramic views that enhance the dining experience.
+
+`224**Ocean-to-Table Freshness:**`x`q 
+Our seafood is sourced directly from local fishermen, ensuring that every dish is a celebration of the sea's finest offerings. Taste the freshness in every bite!
+
+`224**Casual Elegance:**`x
+Whether you're in beach attire or dressed for a special occasion, Fresh Catch Cafe welcomes you with a casual yet elegant ambiance. Perfect for family gatherings, romantic dinners, or a casual catch-up with friends.
+
+`#447294A`#517ea0t`#5d8bac `#6a97b8T`#76a3c3h`#83b0cfe`#8fbcdb `#97c2dfF`#9fc8e3r`#a7cee7e`#b0d3ecs`#b8d9f0h`#c0dff4 `#c5e1f4C`#cae3f4a`#cfe5f4t`#d4e7f4c`#d9e9f4h`#c0d5e4 `#a7c1d4C`#8eadc4a`#769ab4f`#5d86a4e`#447294,`#517ea0 `#5d8bacw`#6a97b8e`#76a3c3'`#83b0cfr`#8fbcdbe`#97c2df `#9fc8e3m`#a7cee7o`#b0d3ecr`#b8d9f0e`#c0dff4 `#c4e1f4t`#c8e2f4h`#cce4f4a`#d1e6f4n`#d5e7f4 `#d9e9f4a`#bbd1e1 `#9db9cer`#80a2bae`#628aa7s`#447294t`#517ea0a`#5d8bacu`#6a97b8r`#76a3c3a`#83b0cfn`#8fbcdbt`#97c2df `#9fc8e3-`#a7cee7 `#b0d3ecw`#b8d9f0e`#c0dff4'`#c4e1f4r`#c8e2f4e`#cce4f4 `#d1e6f4a`#d5e7f4n`#d9e9f4 `#bbd1e1e`#9db9cex`#80a2bap`#628aa7e`#447294r`#517ea0i`#5d8bace`#6a97b8n`#76a3c3c`#83b0cfe`#8fbcdb.`#97c2df `#9fc8e3C`#a7cee7o`#b0d3ecm`#b8d9f0e`#c0dff4 `#447294s`#517ea0a`#5d8bacv`#6a97b8o`#76a3c3r`#83b0cf `#8fbcdbt`#99c3e0h`#a3cae5e`#acd1ea `#b6d8eff`#c0dff4l`#c4e1f4a`#c8e2f4v`#cce4f4o`#d1e6f4r`#d5e7f4s`#d9e9f4 `#bbd1e1o`#9db9cef`#80a2ba `#628aa7t`#447294h`#517ea0e`#5d8bac `#6a97b8s`#76a3c3e`#83b0cfa`#8fbcdb `#99c3e0i`#a3cae5n`#acd1ea `#b6d8efa`#c0dff4 `#c4e1f4s`#c8e2f4e`#cce4f4t`#d1e6f4t`#d5e7f4i`#d9e9f4n`#c0d5e4g`#a7c1d4 `#8eadc4t`#769ab4h`#5d86a4a`#447294t`#5381a2 `#6290b0c`#719ebfa`#80adcdp`#8fbcdbt`#97c2dfu`#9fc8e3r`#a7cee7e`#b0d3ecs`#b8d9f0 `#c0dff4t`#c5e1f4h`#cae3f4e`#cfe5f4 `#d4e7f4e`#d9e9f4s`#c0d5e4s`#a7c1d4e`#8eadc4n`#769ab4c`#5d86a4e`#447294 `#5381a2o`#6290b0f`#719ebf `#80adcdc`#8fbcdbo`#97c2dfa`#9fc8e3s`#a7cee7t`#b0d3eca`#b8d9f0l`#c0dff4 `#447294l`#5d8baci`#76a3c3v`#8fbcdbi`#9fc8e3n`#b0d3ecg`#c0dff4.`#c8e2f4 `#d1e6f4Y`#d9e9f4o`#a7c1d4u`#769ab4r`#447294 `#5d8bacc`#76a3c3u`#8fbcdbl`#9fc8e3i`#b0d3ecn`#c0dff4a`#c6e2f4r`#cde4f4y`#d3e7f4 `#d9e9f4a`#a7c1d4d`#769ab4v`#447294e`#5d8bacn`#76a3c3t`#8fbcdbu`#9fc8e3r`#b0d3ece`#c0dff4 `#c8e2f4b`#d1e6f4e`#d9e9f4g`#a7c1d4i`#769ab4n`#447294s`#5d8bac `#76a3c3h`#8fbcdbe`#9fc8e3r`#b0d3ece`#c0dff4!`x`q
+
+`#447294F`#457395o`#467496l`#487697l`#497799o`#4a789aw`#4b799b `#4c7a9cu`#4e7c9ds`#4f7d9e `#507e9fo`#517fa1n`#5380a2 `#5482a3s`#5583a4o`#5684a5c`#5785a6i`#5986a7a`#5a87a9l`#5b89aa `#5c8aabm`#5d8bace`#5f8cadd`#608daei`#618fafa`#6290b1 `#6391b2f`#6592b3o`#6693b4r`#6795b5 `#6896b6u`#6997b8p`#6b98b9d`#6c99baa`#6d9bbbt`#6e9cbce`#709dbds`#719ebe `#729fc0o`#73a1c1n`#74a2c2 `#76a3c3e`#77a4c4v`#78a5c5e`#79a7c6n`#7aa8c8t`#7ca9c9s`#7daaca `#7eabcba`#7facccn`#80aecdd`#82afce `#83b0d0p`#84b1d1r`#85b2d2o`#87b4d3m`#88b5d4o`#89b6d5t`#8ab7d6i`#8bb8d8o`#8dbad9n`#8ebbdas`#8fbcdb!
+`#447294I`#477597n`#4a789as`#4d7b9dt`#507e9fa`#5381a2g`#5684a5r`#5987a8a`#5c8aabm`#5f8dae:`#6290b0 `#6593b3@`#6896b6F`#6b98b9r`#6e9bbce`#719ebfs`#74a1c1h`#77a4c4C`#7aa7c7a`#7daacat`#80adcdc`#83b0d0h`#86b3d2C`#89b6d5a`#8cb9d8f`#8fbcdbe
+`#447294F`#477597a`#4a789ac`#4d7b9de`#517ea0b`#5481a3o`#5785a6o`#5a88a9k`#5d8bac:`#608eaf `#6391b2/`#6694b5F`#6a97b8r`#6d9abae`#709dbds`#73a0c0h`#76a3c3C`#79a6c6a`#7caac9t`#7fadccc`#83b0cfh`#86b3d2C`#89b6d5a`#8cb9d8f`#8fbcdbe`x`q.
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 55 30 -3 57 32 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 17859
+RoadRoom 17831
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 2183 2186 2190 2192 2195 2196 1394 1399 1397 1419 1413 1448 2180 2197 2198 2212 2213 2215 2216 2217 2218 2220 2227 2237 2238 2239 2249 2252 2253 2257 2258 2255 2256 2259 2260 2261 2224 2234 2254 2263 2265 2268 2515 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#PROPERTY
+Vnum   50
+Name      `043`#44cbc9S`x`050`#72d1d5i`x`152`#a1d7e2r`x`188`#cfdceee`x`224`#fde2fan`x~
+Type 2
+Industry 7
+Electric 6872
+Profit 12000
+CreditProfit 8625
+LastEncroach 0
+Bankrupt 0
+Renovate 0
+Address 38 Willow Close~
+SalePrice 0
+Blackout 0
+Warded 0
+Decay 0
+Cloaked 0
+Logoffs 0
+MarketRoom 0
+MarketDir 0
+Faction 0
+Price  450
+ADate 8 1
+Advertisement `x
+`#e8f2ad-`#e6f3ae-`#e4f3af-`#e1f4b0-`#dff4b1-`#ddf5b2-`#dbf5b3-`#d9f6b4-`#d6f6b5-`#d4f7b6-`#d2f7b7-`#d0f8b8-`#cef8b9-`#ccf9b9-`#c9f9ba-`#c7fabb-`#c5fabc-`#c3fbbdD`#c1fbbei`#befcbfv`#bcfcc0e`#bafdc1 `#b8fdc2i`#b6fec3n`#b3fec4t`#b1ffc5o`#afffc6 `#acfec7t`#a8fcc8h`#a5fbc9e`#a2faca `#9ff8cbA`#9bf7ccl`#98f5ccl`#95f4cdu`#91f3cer`#8ef1cfe`#8bf0d0 `#87efd1o`#84edd2f`#81ecd3 `#7eead4S`#7ae9d5i`#77e8d6r`#74e6d7e`#70e5d8n`#6de4d9 `#6ae2d9N`#66e1dai`#63dfdbg`#60dedch`#5dddddt`#59dbdec`#56dadfl`#5cd9e0u`#63d8e1b`#69d8e2!`#6fd7e3-`#76d6e4-`#7cd5e5-`#82d5e6-`#89d4e7-`#8fd3e8-`#95d2e9-`#9cd2ea-`#a2d1eb-`#a8d0ed-`#afcfee-`#b5ceef-`#bccef0-`#c2cdf1-`#c8ccf2-`#cfcbf3-`#d5cbf4-`#dbcaf5-`#e2c9f6-`#e8c8f7-`#eec8f8-`#f5c7f9-`#fbc6fa-
+`#eaedb6 `#e9efb3 `#e9f0b0 `#e8f2ad `#e6f3ae `#e4f3af `#e1f4b0 `#dff4b1 `#ddf5b2 `#dbf5b3 `#d9f6b4 `#d6f6b5 `#d4f7b6 `#d2f7b7 `#d0f8b8 `#cef8b9 `#ccf9b9 `#c9f9ba `#c7fabb `#c5fabc `#c3fbbd `#c1fbbe `#befcbf `#bcfcc0 `#bafdc1 `#b8fdc2 `#b6fec3 `#b3fec4 `#b1ffc5 `#afffc6 `#acfec7 `#a8fcc8 `#a5fbc9 `#a2faca `#9ff8cb `#9bf7cc `#98f5cc `#95f4cd `#91f3ce `#8ef1cf `#8bf0d0 `#87efd1 `#84edd2 `#81ecd3 `#7eead4 `#7ae9d5 `#77e8d6 `#74e6d7 `#70e5d8 `#6de4d9 `#6ae2d9 `#66e1da `#63dfdb `#60dedc `#5ddddd `#59dbde `#56dadf `#5cd9e0 `#63d8e1 `#69d8e2 `#6fd7e3 `#76d6e4 `#7cd5e5 `#82d5e6 `#89d4e7 `#8fd3e8 `#95d2e9 `#9cd2ea `#a2d1eb `#a8d0ed `#afcfee `#b5ceef `#bccef0 `#c2cdf1 `#c8ccf2 `#cfcbf3 `#d5cbf4 `#dbcaf5 `#e2c9f6 `#e8c8f7
+`#ece8bfS`#eceabci`#ebebb9r`#eaedb6e`#e9efb3n`#e9f0b0,`#e8f2ad `#e6f3aey`#e4f3afo`#e1f4b0u`#dff4b1r`#ddf5b2 `#dbf5b3p`#d9f6b4r`#d6f6b5e`#d4f7b6m`#d2f7b7i`#d0f8b8e`#cef8b9r`#ccf9b9 `#c9f9bal`#c7fabbu`#c5fabcx`#c3fbbdu`#c1fbber`#befcbfy`#bcfcc0 `#bafdc1n`#b8fdc2i`#b6fec3g`#b3fec4h`#b1ffc5t`#afffc6l`#acfec7i`#a8fcc8f`#a5fbc9e`#a2faca `#9ff8cbd`#9bf7cce`#98f5ccs`#95f4cdt`#91f3cei`#8ef1cfn`#8bf0d0a`#87efd1t`#84edd2i`#81ecd3o`#7eead4n`#7ae9d5,`#77e8d6 `#74e6d7b`#70e5d8e`#6de4d9c`#6ae2d9k`#66e1dao`#63dfdbn`#60dedcs`#5ddddd `#59dbdet`#56dadfo`#5cd9e0 `#63d8e1a`#69d8e2l`#6fd7e3l`#76d6e4 `#7cd5e5t`#82d5e6h`#89d4e7o`#8fd3e8s`#95d2e9e`#9cd2ea `#a2d1ebw`#a8d0edh`#afcfeeo`#b5ceef `#bccef0s`#c2cdf1e`#c8ccf2e`#cfcbf3k`#d5cbf4
+`#efe3c8a`#eee4c5n`#ede6c2 `#ece8bfu`#eceabcn`#ebebb9p`#eaedb6a`#e9efb3r`#e9f0b0a`#e8f2adl`#e6f3ael`#e4f3afe`#e1f4b0l`#dff4b1e`#ddf5b2d`#dbf5b3 `#d9f6b4e`#d6f6b5x`#d4f7b6p`#d2f7b7e`#d0f8b8r`#cef8b9i`#ccf9b9e`#c9f9ban`#c7fabbc`#c5fabce`#c3fbbd `#c1fbbeb`#befcbfy`#bcfcc0 `#bafdc1t`#b8fdc2h`#b6fec3e`#b3fec4 `#b1ffc5b`#afffc6e`#acfec7a`#a8fcc8c`#a5fbc9h`#a2faca.`#9ff8cb `#9bf7ccN`#98f5cce`#95f4cds`#91f3cet`#8ef1cfl`#8bf0d0e`#87efd1d`#84edd2 `#81ecd3i`#7eead4n`#7ae9d5 `#77e8d6a`#74e6d7 `#70e5d8p`#6de4d9i`#6ae2d9c`#66e1dat`#63dfdbu`#60dedcr`#5ddddde`#59dbdes`#56dadfq`#5cd9e0u`#63d8e1e`#69d8e2 `#6fd7e3c`#76d6e4o`#7cd5e5r`#82d5e6n`#89d4e7e`#8fd3e8r`#95d2e9 `#9cd2eao`#a2d1ebf`#a8d0ed `#afcfeet`#b5ceefh`#bccef0e`#c2cdf1
+`#f1ded1b`#f0dfcee`#efe1cba`#efe3c8c`#eee4c5h`#ede6c2,`#ece8bf `#eceabco`#ebebb9u`#eaedb6r`#e9efb3 `#e9f0b0u`#e8f2adp`#e6f3aes`#e4f3afc`#e1f4b0a`#dff4b1l`#ddf5b2e`#dbf5b3 `#d9f6b4v`#d6f6b5e`#d4f7b6n`#d2f7b7u`#d0f8b8e`#cef8b9 `#ccf9b9t`#c9f9baa`#c7fabbp`#c5fabcs`#c3fbbd `#c1fbbei`#befcbfn`#bcfcc0t`#bafdc1o`#b8fdc2 `#b6fec3t`#b3fec4h`#b1ffc5e`#afffc6 `#acfec7h`#a8fcc8e`#a5fbc9a`#a2facar`#9ff8cbt`#9bf7cc `#98f5cco`#95f4cdf`#91f3ce `#8ef1cfn`#8bf0d0o`#87efd1c`#84edd2t`#81ecd3u`#7eead4r`#7ae9d5n`#77e8d6a`#74e6d7l`#70e5d8 `#6de4d9e`#6ae2d9n`#66e1dac`#63dfdbh`#60dedca`#5dddddn`#59dbdet`#56dadfm`#5cd9e0e`#63d8e1n`#69d8e2t`#6fd7e3,`#76d6e4 `#7cd5e5b`#82d5e6l`#89d4e7e`#8fd3e8n`#95d2e9d`#9cd2eai`#a2d1ebn`#a8d0edg`#afcfee
+`#f3d9d9t`#f2dad6h`#f2dcd4e`#f1ded1 `#f0dfcev`#efe1cbi`#efe3c8b`#eee4c5r`#ede6c2a`#ece8bfn`#eceabcc`#ebebb9y`#eaedb6 `#e9efb3o`#e9f0b0f`#e8f2ad `#e6f3aep`#e4f3afa`#e1f4b0r`#dff4b1t`#ddf5b2y`#dbf5b3 `#d9f6b4c`#d6f6b5u`#d4f7b6l`#d2f7b7t`#d0f8b8u`#cef8b9r`#ccf9b9e`#c9f9ba `#c7fabbw`#c5fabci`#c3fbbdt`#c1fbbeh`#befcbf `#bcfcc0t`#bafdc1h`#b8fdc2e`#b6fec3 `#b3fec4s`#b1ffc5e`#afffc6r`#acfec7e`#a8fcc8n`#a5fbc9e`#a2faca `#9ff8cbb`#9bf7cce`#98f5cca`#95f4cdu`#91f3cet`#8ef1cfy`#8bf0d0 `#87efd1o`#84edd2f`#81ecd3 `#7eead4t`#7ae9d5h`#77e8d6e`#74e6d7 `#70e5d8c`#6de4d9o`#6ae2d9a`#66e1das`#63dfdbt`#60dedca`#5dddddl`#59dbde `#56dadfa`#5cd9e0m`#63d8e1b`#69d8e2i`#6fd7e3a`#76d6e4n`#7cd5e5c`#82d5e6e`#89d4e7.`#8fd3e8 `#95d2e9 `#9cd2ea
+`#f5d4e2 `#f4d5df `#f4d7dc `#f3d9d9 `#f2dad6 `#f2dcd4 `#f1ded1 `#f0dfce `#efe1cb `#efe3c8 `#eee4c5 `#ede6c2 `#ece8bf `#eceabc `#ebebb9 `#eaedb6 `#e9efb3 `#e9f0b0 `#e8f2ad `#e6f3ae `#e4f3af `#e1f4b0 `#dff4b1 `#ddf5b2 `#dbf5b3 `#d9f6b4 `#d6f6b5 `#d4f7b6 `#d2f7b7 `#d0f8b8 `#cef8b9 `#ccf9b9 `#c9f9ba `#c7fabb `#c5fabc `#c3fbbd `#c1fbbe `#befcbf `#bcfcc0 `#bafdc1 `#b8fdc2 `#b6fec3 `#b3fec4 `#b1ffc5 `#afffc6 `#acfec7 `#a8fcc8 `#a5fbc9 `#a2faca `#9ff8cb `#9bf7cc `#98f5cc `#95f4cd `#91f3ce `#8ef1cf `#8bf0d0 `#87efd1 `#84edd2 `#81ecd3 `#7eead4 `#7ae9d5 `#77e8d6 `#74e6d7 `#70e5d8 `#6de4d9 `#6ae2d9 `#66e1da `#63dfdb `#60dedc `#5ddddd `#59dbde `#56dadf `#5cd9e0 `#63d8e1 `#69d8e2 `#6fd7e3 `#76d6e4 `#7cd5e5 `#82d5e6 `#89d4e7
+`#f7ceeb-`#f7d0e8-`#f6d2e5-`#f5d4e2-`#f4d5df-`#f4d7dc-`#f3d9d9-`#f2dad6-`#f2dcd4-`#f1ded1-`#f0dfce-`#efe1cb-`#efe3c8-`#eee4c5-`#ede6c2-`#ece8bf-`#eceabc-`#ebebb9-`#eaedb6-`#e9efb3G`#e9f0b0l`#e8f2adi`#e6f3aed`#e4f3afe`#e1f4b0 `#dff4b1o`#ddf5b2n`#dbf5b3t`#d9f6b4o`#d6f6b5 `#d4f7b6o`#d2f7b7u`#d0f8b8r`#cef8b9 `#ccf9b9O`#c9f9bap`#c7fabbe`#c5fabcn`#c3fbbd `#c1fbbeB`#befcbfe`#bcfcc0a`#bafdc1c`#b8fdc2h`#b6fec3 `#b3fec4D`#b1ffc5a`#afffc6n`#acfec7c`#a8fcc8e`#a5fbc9f`#a2facal`#9ff8cbo`#9bf7cco`#98f5ccr`#95f4cd-`#91f3ce-`#8ef1cf-`#8bf0d0-`#87efd1-`#84edd2-`#81ecd3-`#7eead4-`#7ae9d5-`#77e8d6-`#74e6d7-`#70e5d8-`#6de4d9-`#6ae2d9-`#66e1da-`#63dfdb-`#60dedc-`#5ddddd-`#59dbde-`#56dadf-`#5cd9e0-`#63d8e1-`#69d8e2-`#6fd7e3-`#76d6e4
+
+`#fac9f4I`#f9cbf1m`#f8cdeem`#f7ceebe`#f7d0e8r`#f6d2e5s`#f5d4e2e`#f4d5df `#f4d7dcy`#f3d9d9o`#f2dad6u`#f2dcd4r`#f1ded1s`#f0dfcee`#efe1cbl`#efe3c8f`#eee4c5 `#ede6c2i`#ece8bfn`#eceabc `#ebebb9a`#eaedb6 `#e9efb3p`#e9f0b0u`#e8f2adl`#e6f3aes`#e4f3afa`#e1f4b0t`#dff4b1i`#ddf5b2n`#dbf5b3g`#d9f6b4 `#d6f6b5e`#d4f7b6n`#d2f7b7v`#d0f8b8i`#cef8b9r`#ccf9b9o`#c9f9ban`#c7fabbm`#c5fabce`#c3fbbdn`#c1fbbet`#befcbf `#bcfcc0w`#bafdc1h`#b8fdc2e`#b6fec3r`#b3fec4e`#b1ffc5 `#afffc6o`#acfec7n`#a8fcc8l`#a5fbc9y`#a2faca `#9ff8cbt`#9bf7cch`#98f5cce`#95f4cd `#91f3ceb`#8ef1cfe`#8bf0d0s`#87efd1t`#84edd2 `#81ecd3b`#7eead4e`#7ae9d5a`#77e8d6t`#74e6d7s`#70e5d8 `#6de4d9r`#6ae2d9u`#66e1dal`#63dfdbe`#60dedc!`#5ddddd `#59dbdeO`#56dadfu`#5cd9e0r`#63d8e1
+`#f5c7f9d`#fbc6faa`#fac8f7n`#fac9f4c`#f9cbf1e`#f8cdeef`#f7ceebl`#f7d0e8o`#f6d2e5o`#f5d4e2r`#f4d5df `#f4d7dcs`#f3d9d9e`#f2dad6a`#f2dcd4m`#f1ded1l`#f0dfcee`#efe1cbs`#efe3c8s`#eee4c5l`#ede6c2y`#ece8bf `#eceabco`#ebebb9p`#eaedb6e`#e9efb3n`#e9f0b0s`#e8f2ad `#e6f3aeo`#e4f3afn`#e1f4b0t`#dff4b1o`#ddf5b2 `#dbf5b3t`#d9f6b4h`#d6f6b5e`#d4f7b6 `#d2f7b7s`#d0f8b8a`#cef8b9n`#ccf9b9d`#c9f9bay`#c7fabb `#c5fabcb`#c3fbbde`#c1fbbea`#befcbfc`#bcfcc0h`#bafdc1,`#b8fdc2 `#b6fec3p`#b3fec4r`#b1ffc5o`#afffc6v`#acfec7i`#a8fcc8d`#a5fbc9i`#a2facan`#9ff8cbg`#9bf7cc `#98f5cca`#95f4cdn`#91f3ce `#8ef1cfe`#8bf0d0c`#87efd1s`#84edd2t`#81ecd3a`#7eead4t`#7ae9d5i`#77e8d6c`#74e6d7 `#70e5d8d`#6de4d9a`#6ae2d9n`#66e1dac`#63dfdbe`#60dedc `#5ddddd `#59dbde
+`#e2c9f6e`#e8c8f7x`#eec8f8p`#f5c7f9e`#fbc6far`#fac8f7i`#fac9f4e`#f9cbf1n`#f8cdeec`#f7ceebe`#f7d0e8 `#f6d2e5m`#f5d4e2a`#f4d5dft`#f4d7dcc`#f3d9d9h`#f2dad6e`#f2dcd4d`#f1ded1 `#f0dfceo`#efe1cbn`#efe3c8l`#eee4c5y`#ede6c2 `#ece8bfb`#eceabcy`#ebebb9 `#eaedb6t`#e9efb3h`#e9f0b0e`#e8f2ad `#e6f3aee`#e4f3afu`#e1f4b0p`#dff4b1h`#ddf5b2o`#dbf5b3r`#d9f6b4i`#d6f6b5a`#d4f7b6 `#d2f7b7o`#d0f8b8f`#cef8b9 `#ccf9b9t`#c9f9bah`#c7fabbe`#c5fabc `#c3fbbdb`#c1fbbee`#befcbfc`#bcfcc0k`#bafdc1o`#b8fdc2n`#b6fec3i`#b3fec4n`#b1ffc5g`#afffc6 `#acfec7o`#a8fcc8c`#a5fbc9e`#a2facaa`#9ff8cbn`#9bf7cc `#98f5ccw`#95f4cda`#91f3cev`#8ef1cfe`#8bf0d0s`#87efd1.`#84edd2 `#81ecd3 `#7eead4 `#7ae9d5 `#77e8d6 `#74e6d7 `#70e5d8 `#6de4d9 `#6ae2d9 `#66e1da `#63dfdb
+`#cfcbf3 `#d5cbf4 `#dbcaf5 `#e2c9f6 `#e8c8f7 `#eec8f8 `#f5c7f9 `#fbc6fa `#fac8f7 `#fac9f4 `#f9cbf1 `#f8cdee `#f7ceeb `#f7d0e8 `#f6d2e5 `#f5d4e2 `#f4d5df `#f4d7dc `#f3d9d9 `#f2dad6 `#f2dcd4 `#f1ded1 `#f0dfce `#efe1cb `#efe3c8 `#eee4c5 `#ede6c2 `#ece8bf `#eceabc `#ebebb9 `#eaedb6 `#e9efb3 `#e9f0b0 `#e8f2ad `#e6f3ae `#e4f3af `#e1f4b0 `#dff4b1 `#ddf5b2 `#dbf5b3 `#d9f6b4 `#d6f6b5 `#d4f7b6 `#d2f7b7 `#d0f8b8 `#cef8b9 `#ccf9b9 `#c9f9ba `#c7fabb `#c5fabc `#c3fbbd `#c1fbbe `#befcbf `#bcfcc0 `#bafdc1 `#b8fdc2 `#b6fec3 `#b3fec4 `#b1ffc5 `#afffc6 `#acfec7 `#a8fcc8 `#a5fbc9 `#a2faca `#9ff8cb `#9bf7cc `#98f5cc `#95f4cd `#91f3ce `#8ef1cf `#8bf0d0 `#87efd1 `#84edd2 `#81ecd3 `#7eead4 `#7ae9d5 `#77e8d6 `#74e6d7 `#70e5d8 `#6de4d9
+`#bccef0-`#c2cdf1-`#c8ccf2-`#cfcbf3-`#d5cbf4-`#dbcaf5-`#e2c9f6-`#e8c8f7-`#eec8f8-`#f5c7f9-`#fbc6fa-`#fac8f7-`#fac9f4-`#f9cbf1P`#f8cdeer`#f7ceebi`#f7d0e8v`#f6d2e5a`#f5d4e2t`#f4d5dfe`#f4d7dc `#f3d9d9P`#f2dad6a`#f2dcd4r`#f1ded1t`#f0dfcey`#efe1cb `#efe3c8R`#eee4c5o`#ede6c2o`#ece8bfm`#eceabcs`#ebebb9 `#eaedb6`#e9efb3 `#e9f0b0D`#e8f2ado`#e6f3aew`#e4f3afn`#e1f4b0s`#dff4b1t`#ddf5b2a`#dbf5b3i`#d9f6b4r`#d6f6b5s`#d4f7b6 `#d2f7b7E`#d0f8b8x`#cef8b9t`#ccf9b9r`#c9f9baa`#c7fabbv`#c5fabca`#c3fbbdg`#c1fbbea`#befcbfn`#bcfcc0z`#bafdc1a`#b8fdc2-`#b6fec3-`#b3fec4-`#b1ffc5-`#afffc6-`#acfec7-`#a8fcc8-`#a5fbc9-`#a2faca-`#9ff8cb-`#9bf7cc-`#98f5cc-`#95f4cd-`#91f3ce-`#8ef1cf-`#8bf0d0-`#87efd1-`#84edd2-`#81ecd3-`#7eead4-`#7ae9d5-`#77e8d6
+`#a8d0ed `#afcfee `#b5ceef `#bccef0 `#c2cdf1 `#c8ccf2 `#cfcbf3 `#d5cbf4 `#dbcaf5 `#e2c9f6 `#e8c8f7 `#eec8f8 `#f5c7f9 `#fbc6fa `#fac8f7 `#fac9f4 `#f9cbf1 `#f8cdee `#f7ceeb `#f7d0e8 `#f6d2e5 `#f5d4e2 `#f4d5df `#f4d7dc `#f3d9d9 `#f2dad6 `#f2dcd4 `#f1ded1 `#f0dfce `#efe1cb `#efe3c8 `#eee4c5 `#ede6c2 `#ece8bf `#eceabc `#ebebb9 `#eaedb6 `#e9efb3 `#e9f0b0 `#e8f2ad `#e6f3ae `#e4f3af `#e1f4b0 `#dff4b1 `#ddf5b2 `#dbf5b3 `#d9f6b4 `#d6f6b5 `#d4f7b6 `#d2f7b7 `#d0f8b8 `#cef8b9 `#ccf9b9 `#c9f9ba `#c7fabb `#c5fabc `#c3fbbd `#c1fbbe `#befcbf `#bcfcc0 `#bafdc1 `#b8fdc2 `#b6fec3 `#b3fec4 `#b1ffc5 `#afffc6 `#acfec7 `#a8fcc8 `#a5fbc9 `#a2faca `#9ff8cb `#9bf7cc `#98f5cc `#95f4cd `#91f3ce `#8ef1cf `#8bf0d0 `#87efd1 `#84edd2 `#81ecd3
+`#95d2e9D`#9cd2eae`#a2d1ebs`#a8d0edc`#afcfeee`#b5ceefn`#bccef0d`#c2cdf1 `#c8ccf2i`#cfcbf3n`#d5cbf4t`#dbcaf5o`#e2c9f6 `#e8c8f7t`#eec8f8h`#f5c7f9e`#fbc6fa `#fac8f7d`#fac9f4e`#f9cbf1p`#f8cdeet`#f7ceebh`#f7d0e8s`#f6d2e5 `#f5d4e2o`#f4d5dff`#f4d7dc `#f3d9d9e`#f2dad6x`#f2dcd4c`#f1ded1i`#f0dfcet`#efe1cbe`#efe3c8m`#eee4c5e`#ede6c2n`#ece8bft`#eceabc `#ebebb9w`#eaedb6i`#e9efb3t`#e9f0b0h`#e8f2ad `#e6f3aeo`#e4f3afu`#e1f4b0r`#dff4b1 `#ddf5b2p`#dbf5b3r`#d9f6b4i`#d6f6b5v`#d4f7b6a`#d2f7b7t`#d0f8b8e`#cef8b9 `#ccf9b9p`#c9f9baa`#c7fabbr`#c5fabct`#c3fbbdy`#c1fbbe `#befcbfr`#bcfcc0o`#bafdc1o`#b8fdc2m`#b6fec3s`#b3fec4 `#b1ffc5d`#afffc6o`#acfec7w`#a8fcc8n`#a5fbc9s`#a2facat`#9ff8cba`#9bf7cci`#98f5ccr`#95f4cds`#91f3ce,`#8ef1cf `#8bf0d0
+`#82d5e6p`#89d4e7e`#8fd3e8r`#95d2e9f`#9cd2eae`#a2d1ebc`#a8d0edt`#afcfeel`#b5ceefy`#bccef0 `#c2cdf1d`#c8ccf2e`#cfcbf3s`#d5cbf4i`#dbcaf5g`#e2c9f6n`#e8c8f7e`#eec8f8d`#f5c7f9 `#fbc6fat`#fac8f7o`#fac9f4 `#f9cbf1h`#f8cdeeo`#f7ceebs`#f7d0e8t`#f6d2e5 `#f5d4e2i`#f4d5dfn`#f4d7dct`#f3d9d9i`#f2dad6m`#f2dcd4a`#f1ded1t`#f0dfcee`#efe1cb `#efe3c8g`#eee4c5a`#ede6c2t`#ece8bfh`#eceabce`#ebebb9r`#eaedb6i`#e9efb3n`#e9f0b0g`#e8f2ads`#e6f3ae `#e4f3afo`#e1f4b0r`#dff4b1 `#ddf5b2w`#dbf5b3i`#d9f6b4l`#d6f6b5d`#d4f7b6 `#d2f7b7p`#d0f8b8a`#cef8b9r`#ccf9b9t`#c9f9bai`#c7fabbe`#c5fabcs`#c3fbbd.`#c1fbbe `#befcbf `#bcfcc0 `#bafdc1 `#b8fdc2 `#b6fec3 `#b3fec4 `#b1ffc5 `#afffc6 `#acfec7 `#a8fcc8 `#a5fbc9 `#a2faca `#9ff8cb `#9bf7cc `#98f5cc `#95f4cd
+`#6fd7e3 `#76d6e4 `#7cd5e5 `#82d5e6 `#89d4e7 `#8fd3e8 `#95d2e9 `#9cd2ea `#a2d1eb `#a8d0ed `#afcfee `#b5ceef `#bccef0 `#c2cdf1 `#c8ccf2 `#cfcbf3 `#d5cbf4 `#dbcaf5 `#e2c9f6 `#e8c8f7 `#eec8f8 `#f5c7f9 `#fbc6fa `#fac8f7 `#fac9f4 `#f9cbf1 `#f8cdee `#f7ceeb `#f7d0e8 `#f6d2e5 `#f5d4e2 `#f4d5df `#f4d7dc `#f3d9d9 `#f2dad6 `#f2dcd4 `#f1ded1 `#f0dfce `#efe1cb `#efe3c8 `#eee4c5 `#ede6c2 `#ece8bf `#eceabc `#ebebb9 `#eaedb6 `#e9efb3 `#e9f0b0 `#e8f2ad `#e6f3ae `#e4f3af `#e1f4b0 `#dff4b1 `#ddf5b2 `#dbf5b3 `#d9f6b4 `#d6f6b5 `#d4f7b6 `#d2f7b7 `#d0f8b8 `#cef8b9 `#ccf9b9 `#c9f9ba `#c7fabb `#c5fabc `#c3fbbd `#c1fbbe `#befcbf `#bcfcc0 `#bafdc1 `#b8fdc2 `#b6fec3 `#b3fec4 `#b1ffc5 `#afffc6 `#acfec7 `#a8fcc8 `#a5fbc9 `#a2faca `#9ff8cb
+
+`#5cd9e0T`#63d8e1a`#69d8e2k`#6fd7e3e`#76d6e4 `#7cd5e5y`#82d5e6o`#89d4e7u`#8fd3e8r`#95d2e9 `#9cd2ean`#a2d1ebi`#a8d0edg`#afcfeeh`#b5ceeft`#bccef0s`#c2cdf1 `#c8ccf2f`#cfcbf3r`#d5cbf4o`#dbcaf5m`#e2c9f6 `#e8c8f7o`#eec8f8r`#f5c7f9d`#fbc6fai`#fac8f7n`#fac9f4a`#f9cbf1r`#f8cdeey`#f7ceeb `#f7d0e8t`#f6d2e5o`#f5d4e2 `#f4d5dfe`#f4d7dcx`#f3d9d9t`#f2dad6r`#f2dcd4a`#f1ded1o`#f0dfcer`#efe1cbd`#efe3c8i`#eee4c5n`#ede6c2a`#ece8bfr`#eceabcy`#ebebb9 `#eaedb6a`#e9efb3t`#e9f0b0 `#e8f2adS`#e6f3aei`#e4f3afr`#e1f4b0e`#dff4b1n`#ddf5b2,`#dbf5b3 `#d9f6b4w`#d6f6b5h`#d4f7b6e`#d2f7b7r`#d0f8b8e`#cef8b9 `#ccf9b9n`#c9f9bao`#c7fabbc`#c5fabct`#c3fbbdu`#c1fbber`#befcbfn`#bcfcc0a`#bafdc1l`#b8fdc2 `#b6fec3 `#b3fec4 `#b1ffc5 `#afffc6 `#acfec7 `#a8fcc8
+`#5dddddp`#59dbdea`#56dadfr`#5cd9e0a`#63d8e1d`#69d8e2i`#6fd7e3s`#76d6e4e`#7cd5e5 `#82d5e6a`#89d4e7w`#8fd3e8a`#95d2e9i`#9cd2eat`#a2d1ebs`#a8d0ed.`#afcfee `#b5ceefI`#bccef0m`#c2cdf1m`#c8ccf2e`#cfcbf3r`#d5cbf4s`#dbcaf5e`#e2c9f6 `#e8c8f7y`#eec8f8o`#f5c7f9u`#fbc6far`#fac8f7s`#fac9f4e`#f9cbf1l`#f8cdeef`#f7ceeb `#f7d0e8i`#f6d2e5n`#f5d4e2 `#f4d5dft`#f4d7dch`#f3d9d9e`#f2dad6 `#f2dcd4r`#f1ded1h`#f0dfcey`#efe1cbt`#efe3c8h`#eee4c5m`#ede6c2 `#ece8bfo`#eceabcf`#ebebb9 `#eaedb6t`#e9efb3h`#e9f0b0e`#e8f2ad `#e6f3aen`#e4f3afi`#e1f4b0g`#dff4b1h`#ddf5b2t`#dbf5b3 `#d9f6b4a`#d6f6b5n`#d4f7b6d`#d2f7b7 `#d0f8b8l`#cef8b9e`#ccf9b9t`#c9f9ba `#c7fabbu`#c5fabcs`#c3fbbd `#c1fbbe `#befcbf `#bcfcc0 `#bafdc1 `#b8fdc2 `#b6fec3 `#b3fec4 `#b1ffc5
+`#66e1dar`#63dfdbe`#60dedcd`#5ddddde`#59dbdef`#56dadfi`#5cd9e0n`#63d8e1e`#69d8e2 `#6fd7e3y`#76d6e4o`#7cd5e5u`#82d5e6r`#89d4e7 `#8fd3e8n`#95d2e9i`#9cd2eag`#a2d1ebh`#a8d0edt`#afcfeel`#b5ceefi`#bccef0f`#c2cdf1e`#c8ccf2 `#cfcbf3e`#d5cbf4x`#dbcaf5p`#e2c9f6e`#e8c8f7r`#eec8f8i`#f5c7f9e`#fbc6fan`#fac8f7c`#fac9f4e`#f9cbf1.`#f8cdee `#f7ceeb `#f7d0e8 `#f6d2e5 `#f5d4e2 `#f4d5df `#f4d7dc `#f3d9d9 `#f2dad6 `#f2dcd4 `#f1ded1 `#f0dfce `#efe1cb `#efe3c8 `#eee4c5 `#ede6c2 `#ece8bf `#eceabc `#ebebb9 `#eaedb6 `#e9efb3 `#e9f0b0 `#e8f2ad `#e6f3ae `#e4f3af `#e1f4b0 `#dff4b1 `#ddf5b2 `#dbf5b3 `#d9f6b4 `#d6f6b5 `#d4f7b6 `#d2f7b7 `#d0f8b8 `#cef8b9 `#ccf9b9 `#c9f9ba `#c7fabb `#c5fabc `#c3fbbd `#c1fbbe `#befcbf `#bcfcc0 `#bafdc1 `#b8fdc2
+ 
+`#7ae9d5S`#77e8d6i`#74e6d7r`#70e5d8e`#6de4d9n`#6ae2d9 `#66e1da-`#63dfdb `#60dedcw`#5dddddh`#59dbdee`#56dadfr`#5cd9e0e`#63d8e1 `#69d8e2t`#6fd7e3h`#76d6e4e`#7cd5e5 `#82d5e6s`#89d4e7e`#8fd3e8a`#95d2e9 `#9cd2eam`#a2d1ebe`#a8d0ede`#afcfeet`#b5ceefs`#bccef0 `#c2cdf1t`#c8ccf2h`#cfcbf3e`#d5cbf4 `#dbcaf5s`#e2c9f6t`#e8c8f7a`#eec8f8r`#f5c7f9s`#fbc6fa,`#fac8f7 `#fac9f4a`#f9cbf1n`#f8cdeed`#f7ceeb `#f7d0e8t`#f6d2e5h`#f5d4e2e`#f4d5df `#f4d7dcn`#f3d9d9i`#f2dad6g`#f2dcd4h`#f1ded1t`#f0dfces`#efe1cb `#efe3c8a`#eee4c5r`#ede6c2e`#ece8bf `#eceabca`#ebebb9s`#eaedb6 `#e9efb3e`#e9f0b0n`#e8f2add`#e6f3ael`#e4f3afe`#e1f4b0s`#dff4b1s`#ddf5b2 `#dbf5b3a`#d9f6b4s`#d6f6b5 `#d4f7b6t`#d2f7b7h`#d0f8b8e`#cef8b9 `#ccf9b9 `#c9f9ba `#c7fabb `#c5fabc
+`#84edd2o`#81ecd3c`#7eead4e`#7ae9d5a`#77e8d6n`#74e6d7.`#70e5d8 `#6de4d9 `#6ae2d9 `#66e1da `#63dfdb `#60dedc `#5ddddd `#59dbde `#56dadf `#5cd9e0 `#63d8e1 `#69d8e2 `#6fd7e3 `#76d6e4 `#7cd5e5 `#82d5e6 `#89d4e7 `#8fd3e8 `#95d2e9 `#9cd2ea `#a2d1eb `#a8d0ed `#afcfee `#b5ceef `#bccef0 `#c2cdf1 `#c8ccf2 `#cfcbf3 `#d5cbf4 `#dbcaf5 `#e2c9f6 `#e8c8f7 `#eec8f8 `#f5c7f9 `#fbc6fa `#fac8f7 `#fac9f4 `#f9cbf1 `#f8cdee `#f7ceeb `#f7d0e8 `#f6d2e5 `#f5d4e2 `#f4d5df `#f4d7dc `#f3d9d9 `#f2dad6 `#f2dcd4 `#f1ded1 `#f0dfce `#efe1cb `#efe3c8 `#eee4c5 `#ede6c2 `#ece8bf `#eceabc `#ebebb9 `#eaedb6 `#e9efb3 `#e9f0b0 `#e8f2ad `#e6f3ae `#e4f3af `#e1f4b0 `#dff4b1 `#ddf5b2 `#dbf5b3 `#d9f6b4 `#d6f6b5 `#d4f7b6 `#d2f7b7 `#d0f8b8 `#cef8b9 `#ccf9b9`x
+ 
+`146MyHaven Influencers drink for free.*`x
+`D*Max one drink per hour.`x
+~
+PropState 0
+Autoclear 0
+NoChange 0
+Utilities 0
+Range 55 34 -3 57 36 3
+TimeWeather 0 0 0 0 0
+ShroudShield 0
+Orientation 1
+TypeSpecial 2
+FirstRoom 17788
+RoadRoom 17759
+Included 0 0 0 0 0
+Excluded 0 0 0 0 0
+Objects 2287 2290 2291 2363 2366 2367 2370 2371 2373 2374 2376 2377 2378 2379 2380 2386 2397 2398 2399 2400 2415 2416 2419 2420 2421 2425 2443 2444 2445 2446 2450 2452 2453 2454 2455 2430 2439 2456 2457 2458 2459 2441 2440 2442 2471 2473 2494 2495 2272 2273 2274 2292 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Roomlist 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#END

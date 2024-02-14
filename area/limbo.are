@@ -1,0 +1,5973 @@
+#AREADATA
+Name Limbo~
+VNUMs 1 300
+Completed 0
+World 5
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#1
+imaginary friend~
+ouroboros' imaginary friend~
+Ouroboros' imaginary friend
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+
+#2
+pony~
+newbie school shopkeeper~
+Newbie school shopkeeper
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+1
+0 0 stand stand either 0
+~
+0 0 unknown
+
+#3
+no name~
+(no short description)~
+(no long description)
+~
+~
+demon~
+~
+3x0x0x0x
+0x0x0x0x
+1
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+
+#4
+supernatural hunter human~
+supernatural hunter~
+A supernatural hunter
+~
+This person is dressed in a worn dark green trenchcoat, the glint of
+chainmail visible underneath.  Wielding a shortsword they also have a
+crossbow slung accross their back.  
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+60
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 4 10
+D 15 20
+D 26 20
+
+#5
+guard private security officer~
+security officer~
+A private security officer
+~
+A run of the mill private security officer armed with a simple pistol and
+dressed in the uniform of their company.  
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+60
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 2 30
+D 16 15
+D 25 10
+
+#6
+haven deputy police officer cop~
+Haven deputy~
+A Haven deputy
+~
+Dressed in a simple light brown outfit this deputy is one of the few
+humans dedicated to keeping the peace around town and is equipped with a
+simple standard issue sidearm.  
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+60
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 2 30
+D 16 15
+D 25 10
+
+#7
+swat officer cop~
+SWAT Officer~
+A SWAT Officer
+~
+A SWAT officer, clad in a dark blue uniform with tactical gear over the
+top, including a ballistic helmet and vest.  They are carrying a submachine
+gun.  
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+60
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 17 25
+D 25 30
+D 41 50
+
+#8
+member national guard soldier~
+member of the National Guard~
+A member of the National Guard
+~
+A member of the United States national guard, clad in a green uniform
+under black tactical gear and carrying an assault rifle.  
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+60
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 17 25
+D 25 30
+D 41 100
+
+#9
+hunter veteran human~
+hunter veteran~
+A hunter veteran
+~
+This figure moves with prupose, clad in functional medeival style armor
+and carrying a dangerous looking shotgun as well as an arsenel of other
+brutally practical looking weapons.  
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+0
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 10 50
+D 15 30
+D 26 30
+
+#10
+kobold~
+a kobold~
+A two foot tall kobold
+~
+This creature stands at barely two feet tall, with a thin gangly body and
+a largish fox head with pointed ears.  It's covered in dark grey fur and
+it's eyes glint with barely concealed malice.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+8
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 14 5
+D 16 2
+D 28 5
+
+#11
+oversized rat sized rattling~
+an oversized rat~
+An oversized rat
+~
+For the most part this creature looks like a normal rat, however it's
+much larger.  Almost the size of a dog.  About three feet long not counting
+it's tail, it's fur is also completely black and slightly splotchy, it's
+teeth are sharper than that of a normal rat as well and it's eyes glare
+balefully red.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+10
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 18 5
+D 28 7
+
+#12
+golden hound furred~
+a golden hound~
+A golden furred hound
+~
+This beautiful dog looks like a cross between a Labrador and a Greyhound
+except for it's fur which is a glistening, smooth golden color.  Intelligent
+dark eyes roam back and forth as it moves quickly and gracefully across the
+ground.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+16
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 18 17
+D 28 10
+
+#13
+satyr~
+a satyr~
+A satyr
+~
+A slender, furred humanoid, they have curling ram-like horns on their
+head and thick brown fur covering their goat-like legs that extend all the
+way down to their cloven feet.  Carrying a simple wooden bow and quiver as
+well as a heavy hunting knife they're adorned with simple jewelry of natural
+woods and beads.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+14
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 4 30
+D 17 10
+D 28 15
+
+#14
+end tree creature living~
+a tree creature~
+A living tree creature
+~
+This monstrous creature looks almost exactly like a tree, towering
+fifteen feet into the air.  Yet the trunk is split apart to form a pair of
+legs and arms and a pair of glowing green eyes sit high up in the craggy
+wood of what must be its face.
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+7
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 24 30
+D 27 30
+D 28 30
+
+#15
+shadow creature~
+a shadow creature~
+A creature of shadow
+~
+This creature looks like nothing so much as the shadow of a man that's
+somehow lifted off the earth to stand erect.  It flows when it moves instead
+of walking or running, an unnatural chill emanating from it.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+16
+1
+2
+95 0 stand stand none 0
+~
+0 0 unknown
+D 23 50
+D 35 10
+D 49 20
+
+#16
+woman wooden dryad~
+a wooden woman~
+A wooden woman
+~
+This woman seems to be made entirely from finely carved, deeply polished
+wood, with deep forest green hair.  Entirely naked, she'd be beautiful if
+not for the mouth full of gnashing sharp teeth and the feral gleam in her
+glowing green eyes.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+14
+0
+0
+0 0 stand stand female 0
+~
+0 0 unknown
+D 16 10
+D 27 10
+D 37 30
+D 38 15
+
+#17
+scrambling decaying creature~
+a decaying creature~
+A scrambling, decaying creature
+~
+This creature looks almost human, except it's heavily decayed and it's
+limbs are all out of proportion.  It scrambles across the ground on all
+fours, wicked looking talons on the ends of it's fingertips digging into the
+ground as it moves, snarling and drooling.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+14
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 18 25
+D 48 20
+
+#18
+stone golem~
+stone golem~
+A stone golem
+~
+This large creature stands at about seven feet high, although it's
+extremely broad.  Made entirely from gray stone spotted with moss and held
+together with roots and vines it moves with a slow, but inexorable tread.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+8
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 14 20
+D 24 40
+D 27 20
+D 28 20
+
+#19
+frog man~
+a frog man~
+A frog man
+~
+This creature looks vaguely humanoid except for having the head of a toad
+and skin to match.  It moves in an alternative patterns of awkward waddling
+and large leaps and carries a weapon made of twine and bamboo.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+14
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 28 17
+D 45 10
+D 55 20
+
+#20
+stone gargoyle~
+a stone gargoyle~
+A stone gargoyle
+~
+If this creature was to stand up it would likely stand at about eight
+foot tall, but it rarely straightens.  Made entirely from stone and covered
+in patches of moss the monstrous statue has a large, impressive set of stone
+bat-wings which are somehow able propel it through the air at impressive
+speeds to bring the large stone hands closer to its prey.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+18
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 27 20
+D 28 20
+D 45 50
+
+#21
+griffon~
+a griffon~
+A griffon
+~
+With the sleek body of a lion, this creature also has the head, wings and
+talons of an eagle, allowing it to move quickly over either the ground or
+through the air.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+20
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 18 25
+D 28 20
+
+#22
+minotaur~
+a minotaur~
+A minotaur
+~
+Standing at nine feet tall, this heavily muscled masculine humanoid has
+the head of a black bull and is entirely naked.  He wields a large, double
+bladed battle-axe.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+12
+0
+0
+0 0 stand stand male 0
+~
+0 0 unknown
+D 15 35
+D 26 10
+D 46 20
+
+#23
+manticore demon~
+a Manticore~
+A Manticore
+~
+This creature looks mostly like a large lion, albeit one with dark red
+fur.  It's face is slightly different, almost humanoid, with a serpents
+forked tongue.  In place of a normal lion's tail is a large dark red
+scorpion's one, that hovers above the creatures body, ready to strike.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+12
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 18 30
+D 27 5
+D 28 20
+
+#24
+wyvern~
+a wyvern~
+A Wyvern
+~
+This winged reptilian creature is about the size of a large car, it's
+body is covered with hard red scales, a dragon like maw sits at the end of
+it's long serpentine neck, complete with large, wickedly curved fangs.  It
+sits atop four powerful legs complete with black claws, large bat like wings
+extend from it's back and a scorpion's tail extends from the base of it's
+body, poised ready to strike.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+20
+0
+0
+0 0 stand stand female 0
+~
+0 0 unknown
+D 18 80
+D 27 65
+
+#25
+cyclops~
+a cyclops~
+A cyclops
+~
+A ten foot tall, muscled humanoid with only one, central eye.  The
+creature is dressed in primitive furs and jewelry and carries a large club
+made from bone.  What teeth it still has are razor sharp.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+12
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 28 15
+D 42 40
+D 46 15
+
+#26
+snake-haired woman gorgon haired~
+a snake-haired woman~
+A snake-haired woman
+~
+A beautiful woman with curved fangs and reptilian eyes.  Her hair is made
+entirely from writhing black vipers and she's dressed in practical but
+primitive hunting garb.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+12
+0
+0
+0 0 stand stand female 0
+~
+0 0 unknown
+D 13 80
+D 18 10
+D 27 10
+D 28 10
+D 46 10
+
+#27
+snake creature~
+a snake creature~
+A snake creature
+~
+This creature looks mostly like a large snake, its body a foot around at
+it's widest point and covered by dark green scales.  It's fangs are half a
+foot long and wickedly curved, in addition the creature has a pair of arms,
+with sharp black claws it can employ when it rears up.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+12
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 18 30
+D 27 20
+
+#28
+pale warrior~
+pale warrior~
+A pale warrior
+~
+This human looks far too pale and their skin even has a faint bluish
+tint.  They're dressed much like a medieval Viking, including armor and
+weaponry.  Dead eyes stare out of the pale face.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+14
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 3 20
+D 15 30
+D 26 20
+D 48 20
+
+#29
+sand statue~
+a sand statue~
+A sand statue
+~
+This humanoid statue seems to be made entirely from sand made solid.  A
+simple Egyptian style skirt is part of the statue and it holds a large,
+metal spear.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+10
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 28 40
+D 54 40
+
+#30
+red-skinned soldier demon skinned~
+a red-skinned soldier~
+A red-skinned soldier
+~
+A powerfully built humanoid with dark red, almost black skin and small
+horns.  Dressed in something similar to black military fatigues it's right
+arm is entirely missing, replaced instead by some sort of organic gun which
+fires teeth-like bullets.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+14
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 18 20
+D 27 10
+D 28 20
+D 41 75
+
+#31
+red-skinned warrior skinned demon~
+a red-skinned warrior~
+A red-skinned warrior
+~
+A powerfully built humanoid with dark red, almost black skin and small
+horns.  Dressed in something similar to black military fatigue glimpses of
+black insectoid like armor can be seen under its clothes.  It's right arm
+has from the forearm down has been entirely replaced by a jagged black
+organic blade.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+14
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 15 50
+D 27 30
+D 28 20
+
+#32
+black inky pool~
+a black inky pool~
+A black inky pool
+~
+This looks like nothing more than a pond of inky black liquid that slowly
+flows across the ground.  Whenever it approaches something living however
+tentacles of the liquid start to extend and grow out of the pool, questing. 
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+8
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 45 80
+D 48 80
+
+#33
+slender red-skinned skinned humanoid~
+a slender, red-skinned humanoid~
+A slender, red-skinned humanoid
+~
+Standing only five foot tall and slender, this red-skinned humanoid has
+small horns and is dressed in simple military like fatigue.  Its adorned
+with many items of simple but intricate jewelry.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+10
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 6 150
+D 20 20
+D 28 20
+
+#34
+large black hound~
+a large black hound~
+A large black hound
+~
+An oversized black furred hound with vicious fangs and gleaming red eyes.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+16
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 18 50
+D 28 30
+
+#35
+red-skinned winged humanoid demon skinned~
+a red-skinned, winged humanoid~
+A red-skinned, winged humanoid
+~
+A large, humanoid at least ten feet tall.  Its skin is dark red, almost
+black and it has huge curling horns and massive bat-like wings.  Its body is
+covered in shiny black natural armor plates and it wears simple black pants
+and boots.  Sharp black talons tip each of the fingers of its large,
+powerful hands.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+18
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 6 50
+D 27 30
+D 28 30
+D 45 100
+
+#36
+velociraptor dinosaur~
+a velociraptor~
+A velociraptor
+~
+Covered in brownish green scales this two legged lizard like creature
+looks like a smaller T-rex, standing at only about five feet tall.  Its
+mouth is still sizeable however and is lined with razor sharp teeth.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+16
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 18 40
+D 27 15
+D 28 15
+
+#37
+boar-headed headed humanoid~
+a boar-headed humanoid~
+A boar-headed humanoid
+~
+This dark skinned, well muscled humanoid stands at about seven feet in
+height if not more, it's powerful body rises up to a boar's head, with
+wicked looking yellowing tusks and baleful red eyes.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+12
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 28 20
+D 45 30
+
+#38
+oversized spider~
+an oversized spider~
+An oversized spider
+~
+A hairy black spider the size of a large dog, complete with large
+dripping fangs and a full set of eight baleful yellow eyes.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+14
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 18 50
+D 27 20
+D 28 20
+
+#39
+flying saucer~
+a sleek silver flying saucer~
+A sleek silver flying saucer
+~
+This flying saucer is manned by a single little gray man, and is roughly the size of a person. It hovers close to the ground and is equipped with strange weapons.
+~
+faechild~
+~
+1x0x0x0x
+0x0x0x0x
+15
+100
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 13 50
+D 50 30
+
+#40
+oversized white wolf dire~
+an oversized wolf~
+An oversized white wolf
+~
+Standing as tall as a man's shoulder this wolf is giant by normal
+standards and could easily fit a person's head entirely within it's jaws. 
+Covered entirely in thick white fur its predatory yellow eyes gleam with an
+unnatural intelligence.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+16
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 18 75
+D 28 50
+
+#41
+bipedal lizard~
+a bipedal lizard~
+A bipedal lizard
+~
+Brown scales cover this lizard like creature that walks upon two legs,
+it's heavy tail trailing behind it.  In one clawed fist it holds a simple
+curved sword.  Vertically slitted pupils in dark yellow eyes stare from it's
+lizard like head.  It is wearing primitive furs and simple stone jewelry.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+12
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 3 20
+D 15 50
+D 27 40
+D 28 20
+
+#42
+shambling corpse~
+a shambling corpse~
+A shambling corpse
+~
+This slightly decaying corpse seems to be in better condition than it
+should be, the skin is mostly intact and pale.  It moves at slow, limping
+speed when chasing its prey and otherwise stands perfectly still and
+unmoving.  
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+15
+6
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 45 40
+D 48 80
+
+#50
+big demon~
+big demon~
+A big demon
+~
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+40
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 6 5
+D 16 10
+D 28 10
+
+#58
+Descriptions~
+(no short description)~
+(no long description)
+~
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+0
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#60
+sr shopkeeper~
+SR shopkeeper~
+An SR shopkeeper
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+
+#69
+Mist's experimental sexbot~
+Mist's experimental sexbot~
+Mist's experimental sexbot
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#100
+handsoldier man dark sturdy clothes soldier~
+`DHand soldier in dark, study clothes`x~
+A Hand soldier in dark, sturdy clothes
+~
+This man is dressed in dark, sturdy clothes.  Jeans and combat boots with
+a heavy coat that mostly conceals a short black pump action shotgun.  A ring
+on his right hand features a symbol of a fist.  
+~
+soldier~
+~
+1x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand male 0
+~
+0 0 unknown
+D 2 20
+D 17 25
+D 25 30
+
+#101
+handlieutenant black armored soldier modern lieutenant~
+`DHand lieutenant in black modern armor`x~
+A Hand lieutenant in black modern armor
+~
+This figure is dressed in modern black ballistic armor not very well
+covered by bulky street clothes, their face is hidden behind a helmet but a
+heavy combat knife is visible on their thigh, as is a symbol of a fist on
+their shoulder.  
+~
+soldier~
+~
+1x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 17 45
+D 25 30
+D 28 30
+D 41 75
+
+#102
+ordersoldier brown coat soldier~
+`WOrder soldier in a long brown coat`x~
+An Order soldier in a long brown coat
+~
+This figure is dressed in practical street clothes and a heavy long brown
+suede coat which just barely fails to conceal the shiny metal of ringmail on
+their torso and the sword at their hip.  The crossguard of the sword
+features a symbol of a scroll crossed with a sword.  
+~
+civilian~
+~
+1x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 2 20
+D 15 25
+D 26 20
+
+#103
+orderlieutenant well-armored armored sword sawn-off shotgun lieutenant~
+`Warmored Order lieutenant with a sword and sawn-off`x~
+An armored Order lieutenant  with a sword and sawn-off
+~
+This man is dressed entirely in modernized plate mail armor, with a long
+brown coat doing a bad job of attempting to conceal it.  A large broadsword
+is held in one hand while a double barrel sawn off shotgun is in the other. 
+A symbol of a sword crossed with a scroll is emblazoned on his armor.  
+~
+civilian~
+~
+1x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand male 0
+~
+0 0 unknown
+D 15 45
+D 26 50
+D 28 10
+D 41 75
+
+#104
+handbunker bunker~
+`DHand Bunker`x~
+A Hand Bunker
+~
+~
+civilian~
+~
+786433x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 28 50
+D 40 25
+
+#105
+orderbunker bunker~
+`WOrder Bunker`x~
+An Order Bunker
+~
+~
+civilian~
+~
+786433x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 28 50
+D 40 25
+
+#106
+templebunker bunker~
+`gTemple Bunker`x~
+A Temple Bunker
+~
+~
+civilian~
+~
+786433x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 28 50
+D 40 25
+
+#107
+strike force commando~
+strike force commando~
+A strike force commando
+~
+A grizzled soldier in worn and torn urban camouflage under heavy duty
+ballistic armor.  Carrying a combat knife as well as several side arms and a
+powerful assault rifle.  
+~
+normal~
+~
+1x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 2 75
+D 17 45
+D 25 60
+
+#108
+templesoldier woman casual street wear soldier~
+`gTemple soldier in casual street wear`x~
+A Temple soldier in casual street wear
+~
+This woman is dressed in casual but practical street wear, her leather
+jacket just failing to conceal a Glock at her hip and an army knife behind
+her back.  A sun symbol is tattooed on the side of her neck.  
+~
+soldier~
+~
+1x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand female 0
+~
+0 0 unknown
+D 2 20
+D 17 25
+D 25 20
+
+#109
+templelieutenant soldier urban camouflage lieutenant~
+`gTemple lieutenant in urban camouflage`x~
+A Temple lieutenant in urban camouflage
+~
+This soldier is dressed completely in urban camouflage, with a tactical
+vest over the top.  They're carrying a modified M16 and have a large combat
+knife sheathed on their thigh.  The tactical vest's only mark is a white sun
+symbol.  
+~
+soldier~
+~
+1x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 17 45
+D 25 50
+D 28 10
+D 41 75
+
+#110
+tree~
+tree~
+A tree
+~
+~
+soldier~
+~
+262145x0x0x0x
+0x0x0x0x
+100
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 28 120
+
+#111
+rock~
+rock~
+A rock
+~
+~
+soldier~
+~
+262145x0x0x0x
+0x0x0x0x
+100
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 28 200
+
+#112
+brush~
+brush~
+Some Brush
+~
+~
+soldier~
+~
+262147x0x0x0x
+0x0x0x0x
+100
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+D 28 100
+
+#115
+adversary~
+an adversary~
+An adversary
+~
+~
+soldier~
+~
+1x0x0x0x
+0x0x0x0x
+50
+15
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 17 25
+D 25 30
+D 41 20
+
+#116
+representative~
+representative~
+Representative
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+50
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+
+#120
+caltrops~
+a pattern of caltrops~
+A pattern of caltrops
+~
+~
+demon~
+~
+1048577x0x0x0x
+0x0x0x0x
+20
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#121
+landmine~
+a landmine~
+A landmine
+~
+~
+demon~
+~
+1048577x0x0x0x
+0x0x0x0x
+25
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#122
+smoke~
+a cloud of smoke~
+A cloud of smoke
+~
+~
+demon~
+~
+1048577x0x0x0x
+0x0x0x0x
+25
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#123
+teargas~
+a cloud of white gas~
+A cloud of white gas
+~
+~
+demon~
+~
+1048577x0x0x0x
+0x0x0x0x
+25
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#124
+grenade~
+a grenade~
+A grenade
+~
+~
+demon~
+~
+1048577x0x0x0x
+0x0x0x0x
+25
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#125
+quicksand~
+some quicksand~
+Some quicksand
+~
+~
+demon~
+~
+1048577x0x0x0x
+0x0x0x0x
+25
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#126
+thickenedair~
+a distortion in the air~
+A distortion in the air
+~
+~
+demon~
+~
+1048577x0x0x0x
+0x0x0x0x
+25
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#140
+no name~
+(no short description)~
+(no long description)
+~
+~
+soldier~
+~
+1x0x0x0x
+0x0x0x0x
+1
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+
+#141
+no name~
+(no short description)~
+(no long description)
+~
+~
+soldier~
+~
+1x0x0x0x
+0x0x0x0x
+1
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+
+#150
+An undead soldier wearing Templar tactical armor~
+An undead soldier wearing Templar tactical armor~
+An undead soldier wearing Templar tactical armor~
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+200
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 17 50
+D 41 50
+D 48 1
+
+#151
+Its~
+`Da sleek, but grotesque many-legged insectoid`w~
+`Da sleek, but grotesque many-legged insectoid`w~
+`DThe insectoid slithers forth on its many legs, its sleek carapace gleaming with a sickly iridescence that seems to pulsate with an otherworldly glow. Its elongated body writhes and twists, revealing a grotesque array of appendages that writhe and contort like something out of a nightmare. Its eyes, multifaceted and cold, bore into your very soul, filling you with an overwhelming sense of dread and unease. As it skitters ever closer, its clicking mandibles chittering and chattering in a sickening rhythm, causing one to feel a deep revulsion for this abomination that should never have existed in this world.`w
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+180
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 13 30
+D 18 50
+D 46 50
+
+#152
+James~
+`DA slender silhouette in the shape of a man`w~
+`DA slender silhouette in the shape of a man`w~
+`DThis being has no face. This being has no speech. All it is is an encompassing shadow in the shape of a man. It brings with it a heavy `Ccoldness`w `Dand a sense of dread.`w
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+180
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 9 30
+D 18 50
+D 48 60
+
+#153
+Dragon~
+`Da`w `ygo`w`Yld`w`yen`w`r-`w`ysc`w`Yal`w`yed`w `Ddragon with`w `rr`w`Re`w`rd`w `Deyes`w~
+`Da`w `ygo`w`Yld`w`yen`w`r-`w`ysc`w`Yal`w`yed`w `Ddragon with`w `rr`w`Re`w`rd`w `Deyes`w~
+`DA magnificent creature, adorned in glistening scales of molten gold. Its form, towering and formidable, speaks of ancient power and untamed might. Sinuous and serpentine, its body undulates with an otherworldly grace, as if guided by the infernal dance of unseen forces. Eyes ablaze like fiery orbs, a deep crimson hue pierces through the shadows, radiating an ominous gleam that betrays a sinister intelligence. From its sharp, horned crown to the jagged spikes adorning its elongated spine, this dragon exudes an aura of malevolence, a creature both breathtaking and terrifying, a living embodiment of the demonic realms.`w
+~
+demon~
+~
+1x0x0x0x
+0x0x0x0x
+180
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+D 6 30
+D 18 60
+D 28 60
+
+#160
+car~
+A car~
+A car
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#161
+motorcycle~
+A motorcycle~
+A motorcycle
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#162
+horse~
+A horse~
+A horse
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand either 0
+~
+0 0 unknown
+
+#200
+mannequin~
+a mannequin~
+A mannequin
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#201
+mannequin~
+a mannequin~
+A mannequin
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#202
+mannequin~
+a mannequin~
+A mannequin
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#203
+mannequin~
+a mannequin~
+A mannequin
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#204
+mannequin~
+a mannequin~
+A mannequin
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#205
+mannequin~
+a mannequin~
+A mannequin
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#206
+mannequin~
+a mannequin~
+A mannequin
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#207
+mannequin~
+a mannequin~
+A mannequin
+~
+~
+normal~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#208
+unicorn~
+a unicorn~
+A unicorn is creeping about here
+~
+~
+normal~
+~
+1x256x0x0x
+0x0x0x16x
+10
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#0
+
+
+
+#OBJECTS
+#1
+dollar note~
+a dollar note~
+a single green note lies here~
+~
+~
+money 0 A
+-1
+A 0 0 0 0 0
+100 0 1 0 100 0
+#2
+pile money dollars notes green~
+a pile of of %d dollars~
+a pile of green notes lies here~
+unknown~
+~
+money 0 A
+-1
+0 0 0 0 0 0
+100 1 0 0 100 0
+#3
+corpse~
+the corpse of %s~
+the corpse of %s is lying here~
+unknown~
+~
+npc_corpse Y AJ
+-1
+0 0 0 0 0 0
+100 0 100 0 100 0
+#4
+corpse~
+the corpse of %s~
+The corpse of %s~
+unknown~
+~
+npc_corpse 0 AJ
+-1
+0 0 0 0 0 0
+100 0 70 0 100 0
+#5
+handcuffs~
+pair of handcuffs~
+a pair of handcuffs~
+steel~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 1 0 100 0
+#10
+bolt cloth~
+bolt of cloth~
+a bolt of cloth~
+unknown~
+~
+clothing 0 AB
+-1
+0 0 0 0 0 0
+100 0 2 10 100 0
+#11
+lump of metal~
+lump of metal~
+A lump of metal~
+unknown~
+~
+jewelry 0 AB
+-1
+0 0 0 0 0 0
+100 0 3 5 100 0
+#12
+some food~
+food~
+Some food~
+unknown~
+~
+food 0 AJ
+-1
+AC 0 0 0 0 0
+100 0 5 5 100 0
+#13
+drink~
+drink~
+A drink~
+unknown~
+~
+drink 0 AJ
+-1
+5 5 'water' 0 0
+100 0 4 5 100 0
+#14
+thing~
+thing~
+a thing~
+unknown~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 5 5 100 0
+#15
+bag~
+bag~
+A bag~
+unknown~
+~
+container 0 AB
+-1
+300 A 0 100 0
+100 0 10 5 100 0
+#16
+weapon~
+weapon~
+A weapon~
+unknown~
+~
+weapon 0 AJ
+-1
+1 0 0 none 0
+100 0 5 5 100 0
+#17
+gun~
+gun~
+A gun~
+unknown~
+~
+ranged 0 AJ
+-1
+0 0 0 0 0 0
+100 0 10 5 100 0
+#18
+phone~
+phone~
+a phone~
+unknown~
+~
+phone 0 AJ
+-1
+0 0 0 0 0
+100 0 5 1 100 0
+#19
+worn kevlar vest~
+worn kevlar vest~
+a worn kevlar vest~
+armor~
+~
+clothing e AB
+-1
+496 0 -1 0 0 0
+100 4 25 10000 100 0
+#20
+simple oak staff~
+simple oak staff~
+A simple oak staff~
+unknown~
+~
+weapon 0 AJ
+-1
+8 0 0 none 0
+100 0 30 2000 100 0
+#30
+blood bag~
+blood bag~
+a blood bag~
+unknown~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 9 10 100 0
+#31
+crystal bloodcrystal~
+blood crystal~
+a blood crystal~
+unknown~
+~
+bloodcrystal 0 AJ
+-1
+0 0 0 0 0
+100 0 8 100 100 0
+#32
+small crystal~
+small crystal~
+A small crystal~
+unknown~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 1 5 100 0
+#33
+glass small blood~
+small glass of blood~
+a small glass of blood~
+~
+~
+drink C AJ
+-1
+1 1 'water' 0 0
+100 0 5 5000 100 0
+#34
+glass drink~
+glass~
+a glass~
+~
+~
+drink R AJ
+-1
+5 4 'water' 0 0
+100 0 5 0 100 0
+#35
+pile clothes %s~
+pile of %s's clothes~
+A pile of %s's clothes~
+~
+~
+container 0 AJ
+-1
+1000 0 0 1000 0
+100 0 30 0 100 0
+#36
+metal cylinder luminious liquid anima~
+metal cylinder~
+a metal cylinder filled with a faintly luminious liquid~
+~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 5 50 100 0
+#37
+small black radio transmitter~
+small black radio transmitter~
+a small black radio transmitter~
+~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 5 10000 100 0
+#38
+metal cylinder luminious liquid anima~
+metal cylinder~
+A metal cylinder filled with a faintly luminous liquid~
+~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 5 50 100 0
+#40
+car keys set~
+set of car keys~
+a set of car keys~
+~
+~
+key 0 AJ
+-1
+0 0 0 0 0 0
+100 0 5 25 100 0
+#50
+white cotton shorts~
+white cotton shorts~
+a pair of white cotton shorts~
+unknown~
+~
+clothing 0 AB
+-1
+1536 1024 0 0 0 0
+100 1 5 500 100 0
+#51
+faded blue jeans~
+faded blue jeans~
+a pair of faded blue jeans~
+unknown~
+~
+clothing 0 AB
+-1
+11776 1024 0 0 0 0
+100 3 30 2500 100 0
+#52
+white t-shirt shirt~
+white t-shirt~
+a white t-shirt~
+unknown~
+~
+clothing 0 AB
+-1
+33265 0 0 0 0 0
+100 2 10 1500 100 0
+#53
+white socks~
+white socks~
+a pair of white socks~
+unknown~
+~
+clothing 0 AB
+-1
+16384 0 0 0 0 0
+100 1 3 500 100 0
+#54
+white sneakers~
+white sneakers~
+a pair of white sneakers~
+unknown~
+~
+clothing 0 AB
+-1
+16384 0 0 0 0 0
+100 2 30 2500 100 0
+#55
+silver plastic cell phone~
+silver plastic cell phone~
+a silver plastic cell phone~
+`x~
+~
+phone 0 AJ
+-1
+0 0 0 0 0
+100 0 5 10000 100 0
+#56
+white cotton skirt~
+white cotton skirt~
+a white cotton skirt~
+unknown~
+~
+clothing 0 AB
+-1
+3584 512 0 0 0 0
+100 3 10 2500 100 0
+#57
+black high heeled pumps~
+black high-heeled pumps~
+a pair of black high-heeled pumps~
+unknown~
+~
+clothing 0 AB
+-1
+16384 0 3 0 0 0
+100 2 10 4000 100 0
+#58
+red lace thong~
+red lace thong~
+a red lace thong~
+unknown~
+~
+clothing 0 AB
+-1
+1024 0 0 0 0 0
+100 1 5 3000 100 0
+#59
+black leather jacket~
+black leather jacket~
+a black leather jacket~
+unknown~
+~
+clothing 0 AB
+-1
+98801 112 0 0 0 0
+100 5 30 8000 100 0
+#60
+kneelength navy wool coat~
+knee-length, navy wool coat~
+a knee-length, navy wool coat~
+unknown~
+~
+clothing 0 AB
+-1
+99313 112 0 0 0 0
+100 5 30 6000 100 0
+#61
+red baseball cap~
+red baseball cap~
+a red baseball cap~
+unknown~
+~
+clothing 0 AB
+-1
+2 0 0 0 0 0
+100 5 10 2000 100 0
+#62
+olive cargo pants~
+olive-green cargo pants~
+a pair of olive-green cargo pants~
+unknown~
+~
+clothing 0 AB
+-1
+11776 1024 0 0 0 0
+100 3 20 5000 100 0
+#63
+white cotton bra~
+white cotton bra~
+a white cotton bra~
+unknown~
+~
+clothing 0 AB
+-1
+32 0 0 0 0 0
+100 1 7 1500 100 0
+#64
+red lace push-up bra~
+red lace push-up bra~
+a red lace push-up bra~
+unknown~
+~
+clothing 0 AB
+-1
+32 0 31 0 0 0
+100 1 8 3000 100 0
+#65
+blue cotton tank top~
+blue cotton tank top~
+a blue cotton tank top~
+unknown~
+~
+clothing 0 AB
+-1
+480 0 0 0 0 0
+100 3 12 2500 100 0
+#66
+black leather boots~
+black leather boots~
+a pair of black leather boots~
+unknown~
+~
+clothing 0 AB
+-1
+16384 0 1 0 0 0
+100 2 30 6000 100 0
+#67
+small hunting knife~
+small hunting knife~
+a small hunting knife~
+~
+~
+weapon 0 AJ
+-1
+0 0 0 none 0
+100 0 5 3500 100 0
+#68
+small revolver~
+small revolver~
+a small revolver~
+~
+~
+ranged 0 AJ
+-1
+0 0 0 0 0 0
+100 0 10 7500 100 0
+#69
+circular bone charm necklace web dream~
+bone charm~
+a circular bone charm necklace with a web in the center~
+~
+~
+jewelry W AB
+-1
+0 0 0 32 0 0
+100 0 3 10000 100 0
+#70
+bouquet red roses~
+bouquet of red roses~
+bouquet of red roses~
+unknown~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 4 3 100 0
+#71
+duffel bag~
+duffel bag~
+a large, blue duffel bag~
+~
+~
+container 0 AB
+-1
+100 AC 0 50 0
+100 4 100 2995 100 0
+#72
+silver ring~
+silver ring~
+a silver ring~
+~
+~
+jewelry 0 AB
+-1
+0 0 0 131072 0 0
+100 3 5 1200 100 0
+#73
+baby~
+baby~
+a baby~
+~
+~
+baby 0 AJ
+-1
+0 0 0 0 0
+100 0 30 0 100 0
+#74
+small bone compass~
+small bone compass~
+a small bone compass~
+~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 3 12500 100 0
+#75
+white Lazarus electronic collar~
+white collar~
+a white electronic collar~
+~
+~
+jewelry D AB
+-1
+0 0 0 8 0 0
+100 5 10 20000 100 0
+#78
+dvd playback~
+dvd~
+a dvd~
+~
+take hold~
+game 0 0
+-1
+0 0 0 0 0
+100 0 5 500 100 0
+#79
+piece paper~
+piece of paper~
+a piece of paper~
+~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 2 5 100 0
+#80
+magic eight ball~
+magic eight ball~
+a magic eight ball~
+~
+~
+game 0 AJ
+-1
+0 0 0 0 0
+100 0 10 10 100 0
+#81
+dark blue slippers~
+dark blue slippers~
+a pair of dark blue slippers~
+~
+~
+clothing 0 AB
+-1
+16384 0 0 0 0 0
+100 1 2 500 100 0
+#82
+dark blue scrub bottoms~
+dark blue scrub bottoms~
+a pair of dark blue scrub bottoms~
+~
+~
+clothing 0 AB
+-1
+11776 0 0 0 0 0
+100 2 10 1000 100 0
+#83
+dark blue scrubs shirt~
+dark blue scrubs shirt~
+a dark blue scrubs shirt~
+~
+~
+clothing 0 AB
+-1
+98801 0 0 0 0 0
+100 3 10 1000 100 0
+#84
+hospital gown cream~
+hospital gown~
+a cream hospital gown~
+~
+~
+clothing 0 AB
+-1
+1968 896 0 0 0 0
+100 2 50 500 100 0
+#85
+small green potion liquid other fae~
+small green potion~
+a small potion filled with green liquid~
+~
+~
+drink 0 AJ
+-1
+1 1 'water' 0 0
+100 0 1 100 100 0
+#86
+small blue potion liquid godrealm~
+small blue potion~
+a small potion filled with blue liquid~
+~
+~
+drink 0 AJ
+-1
+1 1 'water' 0 0
+100 0 1 100 100 0
+#87
+small red potion hell liquid~
+small red potion~
+a small potion filled with red liquid~
+~
+~
+drink 0 AJ
+-1
+1 1 'water' 0 0
+100 0 1 100 100 0
+#88
+red briefs~
+red briefs~
+a pair of red briefs~
+~
+~
+clothing 0 AB
+-1
+1536 0 0 0 0 0
+100 0 5 499 100 0
+#89
+plain white dress shirt~
+white dress shirt~
+a plain white dress shirt with a spread collar~
+~
+~
+clothing 0 AB
+-1
+98801 16 0 0 0 0
+100 2 10 1999 100 0
+#90
+red silk pussycat bow~
+red pussycat bow~
+a red silk pussycat bow~
+~
+~
+clothing 0 AB
+-1
+8 8 0 0 0 0
+100 3 5 999 100 0
+#91
+blood bag~
+bag of blood~
+A bag of blood~
+~
+held~
+drink 0 AJ
+-1
+10 10 'blood' 0 0
+100 0 10 1000 100 0
+#99
+no name~
+(no short description)~
+(no description)~
+~
+~
+clothing 0 ABJ
+-1
+0 0 0 0 0 0
+100 0 0 0 100 0
+#100
+brass zippo lighter~
+brass Zippo~
+a Zippo lighter in brushed brass~
+~
+~
+lighter 0 AJ
+-1
+0 0 0 0 0 0
+100 0 2 1995 100 0
+#101
+bottle soda~
+bottle of soda~
+a bottle of soda~
+~
+~
+drink 0 AJ
+-1
+1 1 'coke' 0 0
+100 0 5 150 100 0
+#102
+bottle wine~
+bottle of wine~
+a bottle of wine~
+~
+~
+drink 0 AJ
+-1
+8 8 'rose wine' 0 0
+100 0 25 1299 100 0
+#103
+pack cigarettes Morley's~
+(no short description)~
+(no description)~
+~
+~
+drugs 0 AJ
+-1
+0 0 0 0 0
+100 0 5 877 100 0
+#292
+red armband~
+red armband~
+A bright red armband~
+~
+~
+clothing 0 AB
+-1
+32769 0 0 0 0 0
+100 4 5 2000 100 0
+#293
+pink early-response home pregnancy test~
+a pink, home pregnancy test~
+a pink, early-response home pregnancy test~
+~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 3 1099 100 0
+E
++all~
+Pink and white wraps the entire shape of this thin, rectangular box
+labeled as a First Response Early Result Home Pregnancy Test.  "Results as
+early as five days before your missed period!"  A capped plastic stick
+inside gives directions on holding it in the urine stream for five seconds
+with results in two minutes.  A few legal disclaimers on the fallibility of
+the test itself are inconspicuously written in fine print.  
+~
+#294
+box birthcontrol patches~
+box of birthcontrol patches~
+a box of birthcontrol patches~
+~
+~
+none 0 AJ
+-1
+0 AB 0 0 0 0
+100 0 5 6000 100 0
+#295
+syringe birthcontrol injection~
+birthcontrol injection~
+a syringe containing a birthcontrol injection~
+~
+~
+none 0 AJ
+-1
+0 0 A 0 0 0
+100 0 5 4000 100 0
+#296
+circular dispenser birthcontrol pills~
+dispenser of birthcontrol pills~
+a circular dispenser of birthcontrol pills~
+~
+~
+none 0 AJ
+-1
+CDE 0 0 0 0 0
+100 0 5 3000 100 0
+#297
+miniature hat~
+miniature hat~
+A miniature hat~
+~
+~
+trash 0 AJ
+-1
+0 0 0 0 0 0
+100 0 1 0 100 0
+#298
+doll~
+doll~
+A doll~
+~
+~
+container 0 AJ
+-1
+10 E 0 1 0
+100 0 10 0 100 0
+#299
+badge~
+star-shaped badge~
+a star shaped badge of the HSD~
+~
+~
+jewelry W AB
+-1
+0 0 0 0 0 0
+100 0 1 4999 100 0
+E
+all~
+This badge shows the officer's badge number, and displays a stylized
+rendition of Haven's Clocktower.  To the left of the Clocktower reads: `WTo
+Protect`w.  To the right reads: `WAnd Serve`w.  
+~
+#300
+signet ring~
+signet ring~
+A signet ring~
+~
+~
+jewelry 0 AB
+-1
+0 0 0 0 0 0
+100 0 1 0 100 0
+#0
+
+
+
+#ROOMS
+#1
+`DThe void`x~
+~
+0 4194312 23
+G 6 -7 50 0 100
+C -500 -500 -500
+T 3000
+D1
+~
+~
+0 0 4
+0 0 0 4 0 0 0 0 0
+D2
+~
+~
+5 0 164
+0 0 0 4 0 0 0 0 0
+D3
+~
+~
+0 0 10
+0 0 0 4 0 0 0 0 0
+D4
+~
+~
+0 0 1000
+0 0 0 4 0 0 0 0 0
+D5
+~
+~
+0 0 2617
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#2
+`#c99531a`#ce9e42 `#d3a752r`#d7b063o`#dcb973o`#e1c284m`#e5ca89 `#ead28ef`#eeda94u`#f3e299l`#f7ea9el`#f3e299 `#eeda94o`#ead28ef`#e5ca89 `#e1c284c`#dcb973l`#d7b063o`#d3a752c`#ce9e42k`#c99531s`q`w`x`x~
+~
+0 16777740 2
+G 6 -7 200 0 100
+C -10000 -10000 -10000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#3
+Creation~
+~
+0 12 9
+G 1 -1 0 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+0 0 17
+0 0 0 4 0 0 0 0 0
+D5
+~
+~
+0 0 50
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#4
+a corridor~
+~
+0 0 0
+G 0 0 0 0 0
+C -500 -500 -500
+T 3000
+D0
+~
+~
+0 0 5
+0 0 0 4 0 0 0 0 0
+D1
+~
+~
+0 0 7
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 6
+0 0 0 4 0 0 0 0 0
+D3
+~
+~
+0 0 1
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#5
+Testing Pad #5~
+~
+0 51904521 2
+G 1 -2 0 0 0
+C -500 -500 -500
+T 3000
+D2
+~
+~
+0 0 4
+0 0 0 4 0 0 0 0 0
+D4
+~
+~
+0 0 45000
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 133
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#6
+`DA Room Painted in Black`w~
+~
+0 16916480 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 4
+0 0 0 4 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#7
+A Corridor~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 8
+0 0 0 4 0 0 0 0 0
+D2
+~
+~
+0 0 9
+0 0 0 4 0 0 0 0 0
+D3
+~
+~
+0 0 4
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#8
+Disco's Basement~
+~
+0 8 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+0 0 7
+0 0 0 4 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#9
+An Immortal Office~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 7
+0 0 0 4 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#10
+a corridor~
+~
+0 8 0
+G 0 0 0 0 0
+C -500 -500 -500
+T 3000
+D0
+~
+~
+0 0 11
+0 0 0 4 0 0 0 0 0
+D1
+~
+~
+0 0 1
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 12
+0 0 0 4 0 0 0 0 0
+D3
+~
+~
+0 0 13
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 69
+0 0 0 4 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#11
+`Dan old safehouse`x`x~
+~
+0 51388424 2
+G 0 -1 100 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+0 0 10
+0 0 0 4 0 0 0 0 0
+D5
+~
+~
+0 0 100
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y ?~
+S
+#12
+`Dthe Void`x`x~
+~
+0 33554440 2
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 10
+0 0 0 4 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#13
+a corridor~
+~
+0 33554432 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 14
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 10
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 15
+0 0 0 4 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#14
+`DTime-Out`x`x~
+~
+0 50331648 2
+G -2 0 0 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+0 0 13
+0 0 0 5 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#15
+delete~
+~
+0 32 2
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 13
+0 0 0 4 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#16
+delete~
+~
+0 12 10
+G 0 0 200 0 0
+C 0 -2 0
+T 3000
+D0
+~
+~
+0 0 164
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#17
+delete~
+~
+0 32 2
+G 0 0 0 0 0
+C 0 -1 0
+T 3000
+D0
+~
+~
+0 0 3
+0 0 0 4 0 0 0 0 0
+D1
+~
+~
+0 0 114033
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 16
+0 0 0 4 0 0 0 0 0
+D3
+~
+~
+0 0 131621
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 1956
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 18505
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 131677
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 113890
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 131565
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#18
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -499 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#19
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -498 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#20
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -497 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#21
+Bank~
+~
+0 1048620 9
+G 0 0 80 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#22
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -496 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#23
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -495 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#24
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -494 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#25
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -493 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#26
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -492 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#27
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -491 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#28
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -490 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#29
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -489 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#30
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -488 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#31
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -487 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#32
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -486 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#33
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -485 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#34
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -484 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#35
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -483 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#36
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -482 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#37
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -481 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#38
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -480 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#39
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -479 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#40
+`rGenesis Chamber`x~
+~
+0 33554444 0
+G 0 0 50 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y union~
+S
+#41
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -478 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#42
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -477 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#43
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -476 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#44
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -475 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#45
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -474 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#46
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -473 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#47
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -472 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#48
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -471 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#49
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -470 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#50
+Movement and Helpfiles~
+~
+0 1050636 2
+G -3 1 100 50 50
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 51
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#51
+Communication~
+~
+0 2060 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 62
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 50
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#52
+Clothes and Tailoring~
+~
+0 51382284 2
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 53
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 58
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#53
+Societies and Groups~
+~
+0 2060 0
+G 6 -4 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 54
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 52
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#54
+Combat~
+~
+0 2060 0
+G -1 -1 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 61
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 53
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#55
+Roleplaying~
+~
+0 2060 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 56
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 61
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#56
+Concept~
+~
+0 33556492 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+0 0 55
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#57
+Training and Development~
+~
+0 2056 2
+G 0 0 50 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 58
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 59
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#58
+Descriptions~
+~
+0 2048 2
+G 0 0 50 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 52
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 57
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#59
+Concept and Character II~
+~
+0 2048 2
+G 0 0 50 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 57
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 62
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#60
+SR Hangout~
+~
+0 1048588 0
+G 9 14 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#61
+Rules~
+~
+0 2048 2
+G 0 0 50 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 55
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 54
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#62
+Concept and Character I~
+~
+0 2056 2
+G 0 0 50 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 59
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 51
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y creation~
+S
+#63
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -469 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#64
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -468 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#65
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -467 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#66
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -466 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#67
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -465 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#68
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -464 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#69
+The `WAbyss`x~
+~
+0 33555468 2
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D5
+~
+~
+0 0 10
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#70
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -463 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#71
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -462 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#72
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -461 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#73
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -460 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#74
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -459 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#75
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -458 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#76
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -457 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#77
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -456 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#78
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -455 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#79
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -454 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#80
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -453 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#81
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -452 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#82
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -451 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#83
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -450 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#84
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -449 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#85
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -448 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#86
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -447 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#87
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -446 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#88
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -445 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#89
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -444 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#90
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -443 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#91
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -442 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#92
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -441 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#93
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -440 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#94
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -439 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#95
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -438 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#96
+a birthing sac~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#97
+Floating in nothingness~
+~
+0 4 0
+G 0 0 50 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#98
+Your Grave~
+~
+0 2052 2
+G -1 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D1
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D2
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D3
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D4
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D5
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D6
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D7
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D8
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+D9
+~
+~
+0 0 98
+0 0 0 4 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#99
+Prison~
+~
+0 12 0
+G 0 0 100 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#100
+entrance to the grid room defaults~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 101
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 11
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#101
+Sector Park~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 102
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 100
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#102
+Unity Cove~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 103
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 101
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#103
+Sector Water~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 104
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 102
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#104
+Sector Water~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 105
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 103
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#105
+Sector Underwater~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 106
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 104
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#106
+Sector Rocky~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 107
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 105
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#107
+Sector Beach~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 108
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 106
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#108
+Sector Air~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 109
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 107
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#109
+Sector Street~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 110
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 108
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#110
+Sector Tunnels~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 111
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 109
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#111
+Sector Water~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 112
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 110
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#112
+Sector Alley~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 113
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 111
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#113
+Sector Cemetery~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 114
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 112
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#114
+Sector Parking Lot~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 115
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 113
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#115
+Sector Sidewalk~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+0 0 114
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#116
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#117
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#118
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#119
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#120
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#121
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#122
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#123
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#124
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#125
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#126
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#127
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#128
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#129
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#130
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#131
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#132
+delete~
+~
+0 4 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#133
+the faction base prototype nexus~
+~
+0 0 0
+G 0 0 0 0 0
+C -500 -500 -500
+T 3000
+D1
+~
+~
+0 0 134
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 5
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#134
+the entrance to the gardens~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 135
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+1 0 138
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 133
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#135
+a coastal biome~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D1
+~
+~
+0 0 136
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 134
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#136
+a tropical biome~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D1
+~
+~
+0 0 137
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 135
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#137
+the redwood walkways~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D3
+~
+~
+0 0 136
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#138
+a consultation office~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+1 0 139
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 134
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#139
+the training courtyard~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+1 0 138
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 147
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 140
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 146
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 153
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 143
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#140
+the training courtyard~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 139
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 148
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 141
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 145
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 154
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 144
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#141
+a lounge~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+1 0 140
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 142
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#142
+a path leading to the grove~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D1
+~
+~
+1 0 141
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 150
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 133
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#143
+the bottom of a handsome wooden stair~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D4
+~
+~
+0 0 152
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 139
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#144
+a locker room~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+0 0 149
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 140
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#145
+a deployment and ready room~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D1
+~
+~
+0 0 140
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#146
+an open air clinic~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D1
+~
+~
+0 0 139
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#147
+a cosy library alcove~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D3
+~
+~
+0 0 139
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#148
+the staff cots~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D3
+~
+~
+0 0 140
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#149
+the shower room~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 144
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#150
+a picnic area and fire pit~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 142
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+1 0 151
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#151
+a cluttered utility shed~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D3
+~
+~
+1 0 150
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#152
+the top of a handsome wooden stair~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D2
+~
+~
+0 0 157
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 160
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 143
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 153
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#153
+air~
+~
+0 0 18
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 160
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 157
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 154
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 159
+0 0 0 1 0 0 0 0 0
+D5
+~
+~
+0 0 139
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 152
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#154
+air~
+~
+0 0 18
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 153
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 156
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 161
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 158
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 140
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 157
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#155
+a holding cell~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+1 0 156
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#156
+a walkway~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 157
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 155
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 154
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 161
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#157
+a walkway~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 152
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 156
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 153
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 154
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#158
+a spartan operating theater~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D1
+~
+~
+0 0 154
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 161
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#159
+an executive office~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D1
+~
+~
+0 0 153
+0 0 0 1 0 0 0 0 0
+D6
+~
+~
+1 0 160
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#160
+a walkway~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D1
+~
+~
+0 0 152
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 153
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+1 0 159
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#161
+a laboratory~
+~
+0 0 0
+G 0 0 0 0 0
+C 0 0 0
+T 3000
+D0
+~
+~
+0 0 154
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 156
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 158
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#162
+delete~
+~
+0 12 10
+G 0 0 200 0 0
+C 0 -1 0
+T 3000
+D4
+~
+~
+0 0 1956
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#163
+delete~
+~
+0 12 10
+G 0 0 200 0 0
+C 0 -3 0
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#164
+The `DVoid`x~
+~
+0 8 2
+G 0 0 200 0 0
+C -500 -500 -500
+T 3000
+D0
+~
+~
+5 0 1
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 114033
+0 0 0 4 0 0 0 0 0
+D2
+~
+~
+0 0 16
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 131621
+0 0 0 4 0 0 0 0 0
+D7
+~
+~
+0 0 131677
+0 0 0 4 0 0 0 0 0
+D8
+~
+~
+0 0 113890
+0 0 0 4 0 0 0 0 0
+D9
+~
+~
+0 0 131565
+0 0 0 4 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#165
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -437 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#166
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -436 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#167
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -435 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#168
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -434 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#169
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -433 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#170
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -432 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#171
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -431 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#172
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -430 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#173
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -429 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#174
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -428 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#175
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -427 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#176
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -426 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#177
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -425 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#178
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -424 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#179
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -423 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#180
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -422 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#181
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -421 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#182
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -420 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#183
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -419 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#184
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -418 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#185
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -417 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#186
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -416 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#187
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -415 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#188
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -414 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#189
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -413 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#190
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -412 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#191
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -411 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#192
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -410 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#193
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -409 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#194
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -408 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#195
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -407 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#196
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -406 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#197
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -405 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#198
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -404 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#199
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -403 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#200
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -402 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#201
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -401 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#202
+`GT`gh`Ge `GF`go`Dr`ge`Gs`gt`x~
+~
+0 4194308 23
+G 0 0 50 0 0
+C -400 -500 -500
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+D 0 134 1 1
+D 0 138 2 2
+D 0 138 3 1
+D 0 139 0 2
+D 0 140 2 2
+D 0 141 0 2
+D 0 141 3 1
+D 0 142 1 1
+D 0 150 1 1
+D 0 151 3 1
+D 0 155 0 2
+D 0 156 2 2
+D 0 159 6 2
+D 0 160 9 2
+M 0 1 1 1 1
+G 0 11 0
+G 0 10 0
+G 0 70 0
+G 0 68 0
+G 0 67 0
+G 0 66 0
+G 0 65 0
+G 0 64 0
+G 0 63 0
+G 0 62 0
+G 0 61 0
+G 0 60 0
+G 0 59 0
+G 0 58 0
+G 0 57 0
+G 0 56 0
+G 0 55 0
+G 0 54 0
+G 0 53 0
+G 0 52 0
+G 0 51 0
+G 0 50 0
+M 0 208 1 5 1
+M 0 2 1 52 1
+G 0 79 0
+G 0 19 0
+G 0 74 0
+G 0 72 0
+G 0 69 0
+G 0 68 0
+G 0 67 0
+G 0 66 0
+G 0 65 0
+G 0 64 0
+G 0 63 0
+G 0 62 0
+G 0 61 0
+G 0 60 0
+G 0 59 0
+G 0 58 0
+G 0 57 0
+G 0 56 0
+G 0 55 0
+G 0 54 0
+G 0 53 0
+G 0 52 0
+G 0 51 0
+G 0 50 0
+G 0 71 0
+M 0 60 1 60 1
+G 0 19 0
+G 0 71 0
+G 0 63 0
+G 0 67 0
+G 0 68 0
+G 0 72 0
+G 0 80 0
+G 0 78 0
+M 0 69 1 69 1
+S
+
+
+
+#SHOPS
+2 6 21 2 20 31 100 100 0 23 0 0
+60 0 0 0 0 0 100 100 0 23 0 0
+69 12 10 6 21 2 100 100 0 23 0 0
+0
+
+
+
+#$

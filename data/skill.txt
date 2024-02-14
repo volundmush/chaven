@@ -1,0 +1,2533 @@
+#SKILL
+Ref 1
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Forward jab~
+End
+#SKILL
+Ref 2
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Cross jab~
+End
+#SKILL
+Ref 3
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 20 0 0 0 0 0 0 0 0 0 0 0
+Name Backhand~
+End
+#SKILL
+Ref 4
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 28 0 0 0 0 0 0 0 0 0 0 0
+Name Hook Punch~
+End
+#SKILL
+Ref 5
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 38 0 0 0 0 0 0 0 0 0 0 0
+Name Elbow Strike~
+End
+#SKILL
+Ref 6
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+Name Knee Strike~
+End
+
+#SKILL
+Ref 7
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 64 0 0 0 0 0 0 0 0 0 0 0
+Name Neck Chop~
+End
+#SKILL
+Ref 8
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 80 0 0 0 0 0 0 0 0 0 0 0
+Name Uppercut Punch~
+End
+#SKILL
+Ref 9
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 98 0 0 0 0 0 0 0 0 0 0 0
+Name Roundhouse Punch~
+End
+#SKILL
+Ref 10
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 118 0 0 0 0 0 0 0 0 0 0 0
+Name Falling Star Punch~
+End
+#SKILL
+Ref 11
+Races 1 1 1 1
+Classes 2 0 0 0
+Stats 0 0 140 0 0 0 0 0 0 0 0 0 0 0
+Name Rising Uppercut~
+End
+#SKILL
+Ref 12
+Races 1 1 1 1
+Classes 2 0 0 0
+Stats 0 0 164 0 0 0 0 0 0 0 0 0 0 0
+Name Rising Knee~
+End
+
+#SKILL
+Ref 13
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 9 0 0 0 0 0 0 0 0 0 0 0
+Name Front Kick~
+End
+#SKILL
+Ref 14
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 12 0 0 0 0 0 0 0 0 0 0 0
+Name Push Kick~
+End
+#SKILL
+Ref 15
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 17 0 0 0 0 0 0 0 0 0 0 0
+Name Leg Sweep~
+End
+#SKILL
+Ref 16
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 24 0 0 0 0 0 0 0 0 0 0 0
+Name Back Kick~
+End
+#SKILL
+Ref 17
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 33 0 0 0 0 0 0 0 0 0 0 0
+Name Side Kick~
+End
+#SKILL
+Ref 18
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 44 0 0 0 0 0 0 0 0 0 0 0
+Name Axe Kick~
+End
+#SKILL
+Ref 19
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 57 0 0 0 0 0 0 0 0 0 0 0
+Name Drop Kick~
+End
+#SKILL
+Ref 20
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 72 0 0 0 0 0 0 0 0 0 0 0
+Name Turning Kick~
+End
+#SKILL
+Ref 21
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 89 0 0 0 0 0 0 0 0 0 0 0
+Name Crescent Kick~
+End
+#SKILL
+Ref 22
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 108 0 0 0 0 0 0 0 0 0 0 0
+Name Jump Spin Kick~
+End
+#SKILL
+Ref 23
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 129 0 0 0 0 0 0 0 0 0 0 0
+Name Roundhouse Kick~
+End
+#SKILL
+Ref 24
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 152 0 0 0 0 0 0 0 0 0 0 0
+Name Flying Side Kick~
+End
+#SKILL
+Ref 25
+Races 1 1 1 1
+Classes 2 0 0 0
+Stats 0 0 177 0 0 0 0 0 0 0 0 0 0 0
+Name Butterfly Kick~
+End
+#SKILL
+Ref 26
+Races 1 1 1 1
+Classes 2 0 0 0
+Stats 0 0 204 0 0 0 0 0 0 0 0 0 0 0
+Name Flying Axe Kick~
+End
+#SKILL
+Ref 27
+Races 1 1 1 1
+Classes 2 0 0 0
+Stats 0 0 233 0 0 0 0 0 0 0 0 0 0 0
+Name Hurricane Kick~
+End
+
+#SKILL
+Ref 28
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 20 20 40 0 0 0 0 0 0 0 0 0 0 0
+Name Backwards Roll Throw~
+End
+#SKILL
+Ref 29
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 100 20 20 0 0 0 0 0 0 0 0 0 0 0
+Name Power Punch~
+End
+#SKILL
+Ref 30
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 65 20 20 0 0 0 0 0 0 0 0 0 0 0
+Name Power Kick~
+End
+#SKILL
+Ref 31
+Races 1 1 1 1
+Classes 2 0 0 0
+Stats 20 100 20 0 0 0 0 0 0 0 0 0 0 0
+Name Backflip Kick~
+End
+#SKILL
+Ref 32
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Spinning Sweep~
+End
+#SKILL
+Ref 33
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 20 60 20 0 0 0 0 0 0 0 0 0 0 0
+Name Wall Kick~
+End
+#SKILL
+Ref 34
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 60 20 20 0 0 0 0 0 0 0 0 0 0 0
+Name Uppercut Combo~
+End
+#SKILL
+Ref 35
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 20 50 20 0 0 0 0 0 0 0 0 0 0 0
+Name Flying Double Kick~
+End
+#SKILL
+Ref 36
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 20 50 20 0 0 0 0 0 0 0 0 0 0 0
+Name Hurl Combo~
+End
+#SKILL
+Ref 37
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Shoulder Throw~
+End
+#SKILL
+Ref 38
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 20 20 40 0 0 0 0 0 0 0 0 0 0 0
+Name Power Sweep~
+End
+#SKILL
+Ref 39
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Strong Punch~
+End
+#SKILL
+Ref 40
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 30 10 10 0 0 0 0 0 0 0 0 0 0 0
+Name Strong Kick~
+End
+#SKILL
+Ref 41
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 30
+Name Headbutt~
+End
+#SKILL
+Ref 42
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 50 20 20 0 0 0 0 0 0 0 0 0 0 0
+Name Body Slam~
+End
+#SKILL
+Ref 43
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 40 20 20 0 0 0 0 0 0 0 0 0 0 0
+Name Power Shove~
+End
+#SKILL
+Ref 44
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Strong Shove~
+End
+#SKILL
+Ref 45
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 20 40 20 0 0 0 0 0 0 0 0 0 0 0
+Name Leg Scoop~
+End
+
+#SKILL
+Ref 46
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 90 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Head Rip~
+End
+#SKILL
+Ref 47
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 30 30 30 0 0 0 0 0 0 0 0 0 0 0
+Name Environmental Staking~
+End
+#SKILL
+Ref 48
+Races 1 1 1 1
+Classes 2 0 0 0
+Stats 120 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Heart Punch~
+End
+#SKILL
+Ref 49
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 50 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Neck Break~
+End
+#SKILL
+Ref 50
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 30 35 30 0 0 0 0 0 0 0 0 0 0 0
+Name Make Stake~
+End
+#SKILL
+Ref 51
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 40
+Name Deep Breathing~
+End
+#SKILL
+Ref 52
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 35 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Crippling Blow~
+End
+#SKILL
+Ref 53
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Punch~
+End
+#SKILL
+Ref 54
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 75 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Uppercut~
+End
+#SKILL
+Ref 55
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 40 0 0 0 0 0 0 0 0 0 0 0 0
+Name Hurl~
+End
+
+#SKILL
+Ref 56
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Kobo Jutsu~
+End
+#SKILL
+Ref 57
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Muay Thai~
+End
+#SKILL
+Ref 58
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Hua Wen Quan~
+End
+#SKILL
+Ref 59
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Iwama Aikido~
+End
+#SKILL
+Ref 60
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Ryukyu~
+End
+#SKILL
+Ref 61
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Seidokan~
+End
+#SKILL
+Ref 62
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Bounce~
+End
+#SKILL
+Ref 63
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Hua Quan~
+End
+#SKILL
+Ref 64
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Kokikai~
+End
+#SKILL
+Ref 65
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Shotokai Do~
+End
+#SKILL
+Ref 66
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Basic Stance~
+End
+#SKILL
+Ref 67
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Shinei Taido~
+End
+#SKILL
+Ref 68
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Cha Yon Ryu~
+End
+#SKILL
+Ref 69
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Fanzi Quan~
+End
+#SKILL
+Ref 70
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Back Stance~
+End
+#SKILL
+Ref 71
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Name Hong Quan~
+End
+
+#SKILL
+Ref 72
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 20 0 0 0 0 0 0 0 0 0 0 0
+Name Xiangxing Quan~
+End
+#SKILL
+Ref 73
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 23 0 0 0 0 0 0 0 0 0 0 0
+Name Aikikai~
+End
+#SKILL
+Ref 74
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 26 0 0 0 0 0 0 0 0 0 0 0
+Name Defense Stance~
+End
+#SKILL
+Ref 75
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 29 0 0 0 0 0 0 0 0 0 0 0
+Name Yuejia Quan~
+End
+#SKILL
+Ref 76
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 32 0 0 0 0 0 0 0 0 0 0 0
+Name Ueshiba Aiki~
+End
+#SKILL
+Ref 77
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 35 0 0 0 0 0 0 0 0 0 0 0
+Name Mian Quan~
+End
+#SKILL
+Ref 78
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 38 0 0 0 0 0 0 0 0 0 0 0
+Name Shorei Ryu~
+End
+#SKILL
+Ref 79
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 41 0 0 0 0 0 0 0 0 0 0 0
+Name Shin Budo Kai~
+End
+#SKILL
+Ref 80
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 44 0 0 0 0 0 0 0 0 0 0 0
+Name Yoseikan~
+End
+#SKILL
+Ref 81
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 47 0 0 0 0 0 0 0 0 0 0 0
+Name Zui Quan~
+End
+#SKILL
+Ref 82
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+Name Goju Ryu~
+End
+#SKILL
+Ref 83
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 53 0 0 0 0 0 0 0 0 0 0 0
+Name Ki Aiki~
+End
+#SKILL
+Ref 84
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 56 0 0 0 0 0 0 0 0 0 0 0
+Name Tai Chi Quan~
+End
+#SKILL
+Ref 85
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 59 0 0 0 0 0 0 0 0 0 0 0
+Name Draka~
+End
+#SKILL
+Ref 86
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 62 0 0 0 0 0 0 0 0 0 0 0
+Name Shaolin Quan~
+End
+#SKILL
+Ref 87
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 65 0 0 0 0 0 0 0 0 0 0 0
+Name Kempo~
+End
+#SKILL
+Ref 88
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 68 0 0 0 0 0 0 0 0 0 0 0
+Name Boxer Dance~
+End
+#SKILL
+Ref 89
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 71 0 0 0 0 0 0 0 0 0 0 0
+Name Shorinji Kempo~
+End
+#SKILL
+Ref 90
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 74 0 0 0 0 0 0 0 0 0 0 0
+Name Ziran Men~
+End
+#SKILL
+Ref 91
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 77 0 0 0 0 0 0 0 0 0 0 0
+Name He Quan~
+End
+#SKILL
+Ref 92
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 80 0 0 0 0 0 0 0 0 0 0 0
+Name Shoehai Ryu~
+End
+#SKILL
+Ref 93
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 83 0 0 0 0 0 0 0 0 0 0 0
+Name Chang Quan~
+End
+#SKILL
+Ref 94
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 86 0 0 0 0 0 0 0 0 0 0 0
+Name Left Stance~
+End
+#SKILL
+Ref 95
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 89 0 0 0 0 0 0 0 0 0 0 0
+Name Ditang Quan~
+End
+#SKILL
+Ref 96
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 92 0 0 0 0 0 0 0 0 0 0 0
+Name Horse Stance~
+End
+#SKILL
+Ref 97
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 95 0 0 0 0 0 0 0 0 0 0 0
+Name Baji Quan~
+End
+#SKILL
+Ref 98
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 98 0 0 0 0 0 0 0 0 0 0 0
+Name Kyokushin_kal~
+End
+#SKILL
+Ref 99
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 101 0 0 0 0 0 0 0 0 0 0 0
+Name Savate~
+End
+#SKILL
+Ref 100
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 104 0 0 0 0 0 0 0 0 0 0 0
+Name Yongchun Quan~
+End
+#SKILL
+Ref 101
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 107 0 0 0 0 0 0 0 0 0 0 0
+Name Front Stance~
+End
+#SKILL
+Ref 102
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 110 0 0 0 0 0 0 0 0 0 0 0
+Name Nippon Kan~
+End
+#SKILL
+Ref 103
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 113 0 0 0 0 0 0 0 0 0 0 0
+Name Yi Quan~
+End
+#SKILL
+Ref 104
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 116 0 0 0 0 0 0 0 0 0 0 0
+Name Budo Aiki~
+End
+#SKILL
+Ref 105
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 119 0 0 0 0 0 0 0 0 0 0 0
+Name Wado Ryu~
+End
+#SKILL
+Ref 106
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 122 0 0 0 0 0 0 0 0 0 0 0
+Name Liuhe Quan~
+End
+#SKILL
+Ref 107
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 125 0 0 0 0 0 0 0 0 0 0 0
+Name Fuji Ryu~
+End
+#SKILL
+Ref 108
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 128 0 0 0 0 0 0 0 0 0 0 0
+Name Fight Stance~
+End
+#SKILL
+Ref 109
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 131 0 0 0 0 0 0 0 0 0 0 0
+Name Fugakukai~
+End
+#SKILL
+Ref 110
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 134 0 0 0 0 0 0 0 0 0 0 0
+Name Kenyu~
+End
+#SKILL
+Ref 111
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 137 0 0 0 0 0 0 0 0 0 0 0
+Name Cha Quan~
+End
+#SKILL
+Ref 112
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 140 0 0 0 0 0 0 0 0 0 0 0
+Name Right Stance~
+End
+#SKILL
+Ref 113
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 143 0 0 0 0 0 0 0 0 0 0 0
+Name Duan Quan~
+End
+#SKILL
+Ref 114
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 146 0 0 0 0 0 0 0 0 0 0 0
+Name Shuffle~
+End
+#SKILL
+Ref 115
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 149 0 0 0 0 0 0 0 0 0 0 0
+Name Nan Quan~
+End
+#SKILL
+Ref 116
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 152 0 0 0 0 0 0 0 0 0 0 0
+Name Side Stance~
+End
+#SKILL
+Ref 117
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 155 0 0 0 0 0 0 0 0 0 0 0
+Name Bagua Zhang~
+End
+#SKILL
+Ref 118
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 158 0 0 0 0 0 0 0 0 0 0 0
+Name San Shou~
+End
+#SKILL
+Ref 119
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 161 0 0 0 0 0 0 0 0 0 0 0
+Name Switch Stance~
+End
+#SKILL
+Ref 120
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 164 0 0 0 0 0 0 0 0 0 0 0
+Name Shin Shin Toitsu~
+End
+#SKILL
+Ref 121
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 167 0 0 0 0 0 0 0 0 0 0 0
+Name Xingyi Quan~
+End
+#SKILL
+Ref 122
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 170 0 0 0 0 0 0 0 0 0 0 0
+Name Tomiki Aikido~
+End
+#SKILL
+Ref 123
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 173 0 0 0 0 0 0 0 0 0 0 0
+Name Luohan Quan~
+End
+#SKILL
+Ref 124
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 176 0 0 0 0 0 0 0 0 0 0 0
+Name Lanshou Men~
+End
+#SKILL
+Ref 125
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 179 0 0 0 0 0 0 0 0 0 0 0
+Name Jiyushinkai~
+End
+#SKILL
+Ref 126
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 182 0 0 0 0 0 0 0 0 0 0 0
+Name Kosha Ryu~
+End
+#SKILL
+Ref 127
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 185 0 0 0 0 0 0 0 0 0 0 0
+Name Sharin Ryu~
+End
+#SKILL
+Ref 128
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 188 0 0 0 0 0 0 0 0 0 0 0
+Name Tongbei~
+End
+#SKILL
+Ref 129
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 191 0 0 0 0 0 0 0 0 0 0 0
+Name Pigua Quan~
+End
+#SKILL
+Ref 130
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 194 0 0 0 0 0 0 0 0 0 0 0
+Name Yoshinkan~
+End
+#SKILL
+Ref 131
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 197 0 0 0 0 0 0 0 0 0 0 0
+Name Shotokan~
+End
+#SKILL
+Ref 132
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 200 0 0 0 0 0 0 0 0 0 0 0
+Name Chanjia Quan~
+End
+#SKILL
+Ref 133
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 203 0 0 0 0 0 0 0 0 0 0 0
+Name Isshin Ryu~
+End
+#SKILL
+Ref 134
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 206 0 0 0 0 0 0 0 0 0 0 0
+Name Tenshin Shokai Aiki~
+End
+#SKILL
+Ref 135
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 209 0 0 0 0 0 0 0 0 0 0 0
+Name Jujutsu Aiki~
+End
+
+#SKILL
+Ref 136
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 35
+Name Intimidate~
+End
+#SKILL
+Ref 137
+Races 0 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 50
+Name Growl~
+End   
+#SKILL
+Ref 138
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 60 0 20 0 0 0 0 0 0 0 0 0 0 0
+Name Push Fight~
+End   
+#SKILL
+Ref 139
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 20 30 0 0 0 0 0 0 0 0 0 0 0 0
+Name Tackle~
+End   
+#SKILL
+Ref 140
+Races 1 1 1 1
+Classes 2 0 0 0
+Stats 0 80 0 0 0 0 0 0 0 0 0 0 0 0
+Name Flying Tackle~
+End   
+#SKILL
+Ref 141
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+Name Acrobatic Landing~
+End
+#SKILL
+Ref 142
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 60 0 0 0 0 0 0 0 0 0 0 0 0
+Name Back Spring~
+End   
+#SKILL
+Ref 143
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 80 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Wall Run~
+End   
+#SKILL
+Ref 144
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 70 0 0 0 0 0 0 0 0 0 0 0 0
+Name Wall Bounce~
+End      
+
+#SKILL
+Ref 145
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Claws~
+End   
+#SKILL
+Ref 146
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 15 0 0 0 0 0 0
+Name Greater Claws~
+End
+#SKILL
+Ref 147
+Races 0 0 1 0
+Classes 0 0 0 0
+Stats 30 30 0 0 0 0 0 0 0 0 0 0 0 0
+Name Combat Bite~
+End   
+
+#SKILL
+Ref 148
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 0 25 0 0 0 0 0 0
+Name Massive Claws~   
+End   
+#SKILL
+Ref 149
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Wings~   
+End   
+#SKILL
+Ref 150
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 15 0 0 0 0 0 0
+Name Large Wings~   
+End   
+#SKILL
+Ref 152
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 0 25 0 0 0 0 0 0
+Name Indestructible Wings~ 
+End 
+#SKILL
+Ref 153
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Small Fangs~   
+End  
+#SKILL
+Ref 154
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 15 0 0 0 0 0 0
+Name Large Fangs~   
+End 
+#SKILL
+Ref 155
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 0 25 0 0 0 0 0 0
+Name Poisoned Fangs~   
+End 
+#SKILL
+Ref 156
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Small Horns~   
+End 
+#SKILL
+Ref 157
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 15 0 0 0 0 0 0
+Name Large Horns~   
+End 
+#SKILL
+Ref 158
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 0 25 0 0 0 0 0 0
+Name Life Stealing Horns~   
+End 
+#SKILL
+Ref 159
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 0 25 0 0 0 0 0 0
+Name Grand Horns~   
+End 
+#SKILL
+Ref 160
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Tough Skin~   
+End 
+#SKILL
+Ref 161
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 15 0 0 0 0 0 0
+Name Armored Skin~
+End 
+#SKILL
+Ref 162
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 0 25 0 0 0 0 0 0
+Name Rock Skin~
+End 
+#SKILL
+Ref 163
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Tail~   
+End 
+#SKILL
+Ref 164
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 15 0 0 0 0 0 0
+Name Barbed Tail~   
+End 
+#SKILL
+Ref 165
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 0 25 0 0 0 0 0 0
+Name Poisoned Tail~   
+End 
+#SKILL
+Ref 166
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 5 0 0 0 0 0 0
+Name Wall Clinging~   
+End 
+#SKILL
+Ref 167
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 5 0 0 0 0 0 0
+Name Arm Spurs~   
+End 
+#SKILL
+Ref 168
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 20 0 0 0 0 0 0
+Name Bone Spear~   
+End 
+
+#SKILL
+Ref 169
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 10 0 0
+Name Small Clips~
+End   
+#SKILL
+Ref 170
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 30 0 0
+Name Medium Clips~
+End 
+#SKILL
+Ref 171
+Races 1 1 1 1
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 60 0 0
+Name Large Clips~
+End 
+#SKILL
+Ref 172
+Races 1 1 1 1
+Classes 0 0 2 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 100 0 0
+Name Auto Clips~
+End 
+#SKILL
+Ref 173
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 10 0 0
+Name Basic Range~
+End   
+#SKILL
+Ref 174
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 30 0 0
+Name Moderate Range~
+End 
+#SKILL
+Ref 175
+Races 1 1 1 1
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 60 0 0
+Name Advanced Range~
+End 
+#SKILL
+Ref 176
+Races 1 1 1 1
+Classes 0 0 2 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 100 0 0
+Name Expert Range~
+End 
+#SKILL
+Ref 177
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 10 0 0
+Name Small Scopes~
+End   
+#SKILL
+Ref 178
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 30 0 0
+Name Medium Scopes~
+End 
+#SKILL
+Ref 179
+Races 1 1 1 1
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 60 0 0
+Name Large Scopes~
+End 
+#SKILL
+Ref 180
+Races 1 1 1 1
+Classes 0 0 2 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 100 0 0
+Name Auto Adjusting Scope~
+End 
+#SKILL
+Ref 181
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 10 0 0
+Name Basic Sights~
+End   
+#SKILL
+Ref 182
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 30 0 0
+Name Laser Sights~
+End 
+#SKILL
+Ref 183
+Races 1 1 1 1
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 60 0 0
+Name Advanced Sights~
+End 
+#SKILL
+Ref 184
+Races 1 1 1 1
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 100 0 0
+Name UV Sights~
+End 
+#SKILL
+Ref 185
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 10 0 0
+Name Basic Damage~
+End   
+#SKILL
+Ref 186
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 30 0 0
+Name Moderate Damage~
+End 
+#SKILL
+Ref 187
+Races 1 1 1 1
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 60 0 0
+Name Advanced Damage~
+End 
+#SKILL
+Ref 188
+Races 1 1 1 1
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 100 0 0
+Name Expert Damage Enhancement~
+End 
+
+#SKILL
+Ref 189
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 14 15 0 0 0 0 0 0
+Name Engulfing Flame~
+End
+
+#SKILL
+Ref 190
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 10 0 0 0 0 0 0 0 0 0 0
+Name Energy Ball~
+End
+
+#SKILL
+Ref 191
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 10 0 0 0 0 0 0 0 0 0 0
+Name Float Object~
+End
+
+#SKILL
+Ref 192
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 20 0 0 0 0 0 0 0 0 0 0
+Name Firebolt~
+End   
+
+#SKILL
+Ref 193
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 30 0 0 0 0 0 0 0 0 0 0
+Name Lightning~
+End   
+
+#SKILL
+Ref 194
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 40 0 0 0 0 0 0 0 0 0 0
+Name Frost~
+End   
+
+#SKILL
+Ref 195
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 50 0 0 0 0 0 0 0 0 0 0
+Name Fireball~
+End   
+
+#SKILL
+Ref 196
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 60 0 0 0 0 0 0 0 0 0 0
+Name Light Beam~
+End   
+
+#SKILL
+Ref 197
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 25 0 0 0 0 0 0 0 0 0 0
+Name Teleport Switch~
+End   
+
+#SKILL
+Ref 198
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 50 0 0 0 0 0 0 0 0 0 0
+Name Energy Shield~
+End   
+
+#SKILL
+Ref 199
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 38 0 0 0 0 0 0 0 0 0 0
+Name Heal~
+End   
+
+#SKILL
+Ref 200
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 55 0 0 0 0 0 0 0 0 0 0
+Name AntiHeal~
+End   
+
+#SKILL
+Ref 201
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 25 0 0 0 0 0 0 0 0 0 0
+Name Disorient~
+End   
+
+#SKILL
+Ref 202
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 45 0 0 0 0 0 0 0 0 0 0
+Name Blind~
+End   
+
+#SKILL
+Ref 203
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 18 0 0 0 0 0 0 0 0 0 0
+Name Mute~
+End   
+
+#SKILL
+Ref 204
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 75 0 0 0 0 0 0 0 0 0 0
+Name Ignite~
+End   
+
+#SKILL
+Ref 205
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Fire Fist~
+End   
+
+#SKILL
+Ref 206
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 15 0 0 0 0 0 0 0
+Name Fire Ball~
+End   
+
+#SKILL
+Ref 207
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Fire Kick~
+End   
+
+#SKILL
+Ref 208
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Fire Breath~
+End   
+
+#SKILL
+Ref 209
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Cremate~
+End 
+
+#SKILL
+Ref 210
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Fire Whip~
+End 
+
+#SKILL
+Ref 211
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Fire Weapon~
+End    
+
+#SKILL
+Ref 213
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 20 0 0 0 0 0 0 0
+Name Explode~
+End   
+
+#SKILL
+Ref 214
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 25 0 0 0 0 0 0 0
+Name Inferno~
+End   
+
+#SKILL
+Ref 215
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Fire Rain~
+End   
+
+#SKILL
+Ref 216
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Lightning Fist~
+End 
+
+#SKILL
+Ref 217
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 15 0 0 0 0 0 0 0
+Name Lightning Ball~
+End 
+
+#SKILL
+Ref 218
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Lightning Kick~
+End 
+
+#SKILL
+Ref 219
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Lightning Whip~
+End 
+
+#SKILL
+Ref 221
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Lightning Weapon~
+End 
+
+#SKILL
+Ref 222
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 15 0 0 0 0 0 0 0
+Name Lightning Gaze~
+End 
+
+#SKILL
+Ref 223
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Electrocute~
+End 
+
+#SKILL
+Ref 224
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 20 0 0 0 0 0 0 0
+Name Lightning Fury~
+End 
+
+#SKILL
+Ref 225
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Lightning Storm~
+End 
+
+#SKILL
+Ref 227
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Ice Fist~
+End 
+
+#SKILL
+Ref 228
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 15 0 0 0 0 0 0 0
+Name Ice Ball~
+End 
+
+#SKILL
+Ref 229
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Ice Kick~
+End 
+
+#SKILL
+Ref 230
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Ice Breath~
+End 
+
+#SKILL
+Ref 231
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Freeze~
+End 
+
+#SKILL
+Ref 232
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Ice Blade~
+End
+
+#SKILL
+Ref 233
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 15 0 0 0 0 0 0 0
+Name Freezing Gaze~
+End 
+
+#SKILL
+Ref 234
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Hail~
+End 
+
+#SKILL
+Ref 235
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Shard Hail~
+End
+
+#SKILL
+Ref 238
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Shadow Fist~
+End
+
+#SKILL
+Ref 239
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 15 0 0 0 0 0 0 0
+Name Shadow Ball~
+End
+
+#SKILL
+Ref 240
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Shadow Kick~
+End
+
+#SKILL
+Ref 241
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 20 0 0 0 0 0 0 0
+Name Soul Rip~
+End
+
+#SKILL
+Ref 242
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Blade of Darkness~
+End
+
+#SKILL
+Ref 243
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Evil Gaze~
+End
+
+#SKILL
+Ref 244
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Demon Summon~
+End
+
+#SKILL
+Ref 245
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Eclipse~
+End
+
+#SKILL
+Ref 246
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 14 15 0 0 0 0 0 0
+Name Engulfing Lightning~
+End
+
+#SKILL
+Ref 247
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 14 15 0 0 0 0 0 0
+Name Engulfing Ice~
+End
+
+#SKILL
+Ref 248
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 14 15 0 0 0 0 0 0
+Name Engulfing Shadow~
+End
+#SKILL
+Ref 249
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 10 0 0 0 0 0
+Name Xray Vision~  
+End
+#SKILL
+Ref 250
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 30 0 0 0 0 0
+Name Omni Vision~  
+End
+#SKILL
+Ref 251
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 15 0 0 0 0 0
+Name Visions~  
+End
+#SKILL
+Ref 252
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 15 0 0 0 0 0
+Name Teleporting~  
+End
+#SKILL
+Ref 253
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 10 0 0 0 0 0
+Name Teleport Boost One~  
+End
+#SKILL
+Ref 254
+Races 0 1 0 1
+Classes 0 0 0 1
+Stats 0 0 0 0 0 0 0 0 10 0 0 0 0 0
+Name Teleport Boost Two~  
+End
+#SKILL
+Ref 255
+Races 0 1 0 1
+Classes 0 0 0 2
+Stats 0 0 0 0 0 0 0 0 10 0 0 0 0 0
+Name Teleport Boost Three~  
+End
+
+#SKILL
+Ref 256
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 80 0 0 0 0 0 0 0 0 0 0
+Name Rat Transformation~  
+End
+#SKILL
+Ref 257
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 90 0 0 0 0 0 0 0 0 0 0
+Name Raven Transformation~  
+End
+#SKILL
+Ref 258
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 100 0 0 0 0 0 0 0 0 0 0
+Name BloodStone Vengence~  
+End
+
+#SKILL
+Ref 259
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 35 0 0 0 0 0 0 0 0
+Name Telekinetic Throw~  
+End
+#SKILL
+Ref 260
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 30 0 0 0 0 0 0 0 0
+Name Power Jump~  
+End
+#SKILL
+Ref 261
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 40 0 0 0 0 0 0 0 0
+Name Hyper Jump~  
+End
+#SKILL
+Ref 262
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 50 0 0 0 0 0 0 0 0
+Name Telekinetic Hurl~  
+End
+#SKILL
+Ref 263
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 20 0 0 0 0 0 0 0 0
+Name Remote Get~  
+End
+#SKILL
+Ref 264
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 40 0 0 0 0 0 0 0 0
+Name Remote Trip~  
+End
+#SKILL
+Ref 265
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 10 0 0 0 0 0 0 0 0
+Name Mental Punch~  
+End
+#SKILL
+Ref 266
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 25 0 0 0 0 0 0 0 0
+Name Mental Blast~  
+End
+#SKILL
+Ref 267
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 70 0 0 0 0 0 0 0 0
+Name Mental Megablast~  
+End
+#SKILL
+Ref 268
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 60 0 0 0 0 0 0 0 0
+Name Mental Choke~  
+End
+#SKILL
+Ref 269
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 80 0 0 0 0 0 0 0 0
+Name Mental Push~  
+End
+#SKILL
+Ref 270
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+Name Mental Float~  
+End
+#SKILL
+Ref 271
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 90 0 0 0 0 0 0 0 0
+Name Mental Decapitation~  
+End
+#SKILL
+Ref 272
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 10 0
+Name Body Targeting~
+End
+#SKILL
+Ref 273
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 20 0
+Name Leg Targeting~
+End
+#SKILL
+Ref 274
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 30 0
+Name Head Targeting~
+End
+#SKILL
+Ref 275
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 40 0
+Name Arm Targeting~
+End
+#SKILL
+Ref 276
+Races 1 1 1 1  
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 50 0
+Name Heart Targeting~
+End
+#SKILL
+Ref 278
+Races 1 1 1 1  
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 60 0
+Name Eye Targeting~
+End
+#SKILL
+Ref 279
+Races 1 1 1 1  
+Classes 0 0 1 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 45 0
+Name Gun Disarm~
+End
+#SKILL
+Ref 280
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 35 0
+Name Gun Fighting~
+End
+#SKILL
+Ref 281
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 15 0 0
+Name Silencers~
+End
+#SKILL
+Ref 282
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 50 0 0 0 0 0 0 0 0 0 0 0 0
+Name Pin~
+End
+#SKILL
+Ref 283
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 50 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Choke~
+End
+#SKILL
+Ref 284
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 75 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Strong Choke~
+End
+#SKILL
+Ref 285
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 75 0 0 0 0 0 0 0 0
+Name Mental Lift~
+End
+#SKILL
+Ref 286
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 40 0
+Name Hostage~
+End
+#SKILL
+Ref 287
+Races 0 1 0 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 10
+Name Fire Ring~
+End
+#SKILL
+Ref 288
+Races 0 1 0 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 10
+Name Ice Ring~
+End
+#SKILL
+Ref 289
+Races 0 1 0 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 10
+Name Electrical Ring~
+End
+#SKILL
+Ref 290
+Races 0 1 0 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 10
+Name Shadow Ring~
+End
+#SKILL
+Ref 291
+Races 1 1 1 1  
+Classes 0 0 0 0
+Stats 0 0 0 40 0 0 0 0 0 0 0 0 0 0
+Name Contain~
+End
+#SKILL
+Ref 292
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 10 0 0 0
+Name Dark Missile~
+End
+#SKILL
+Ref 293
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 20 0 0 0
+Name Flay~
+End
+#SKILL
+Ref 294
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 30 0 0 0
+Name Rake~
+End
+#SKILL
+Ref 295
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 35 0 0 0
+Name Dark Gaze~
+End
+#SKILL
+Ref 296
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 40 0 0 0
+Name Dark Blast~
+End
+#SKILL
+Ref 297
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 60 0 0 0
+Name Pain~
+End
+#SKILL
+Ref 298
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 65 0 0 0
+Name Disintegrate~
+End
+#SKILL
+Ref 299
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 70 0 0 0
+Name Enhance Self~
+End
+#SKILL
+Ref 300
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 80 0 0 0
+Name Black Lightning~
+End
+#SKILL
+Ref 301
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 85 0 0 0
+Name Seeking Fireball~
+End
+#SKILL
+Ref 302
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 90 0 0 0
+Name Crush~
+End
+#SKILL
+Ref 303
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 100 0 0 0
+Name Drain~
+End
+#SKILL
+Ref 304
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 50 0 0 0
+Name Flight~
+End
+#SKILL
+Ref 305
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 10 0 0 0
+Name Invisibility~
+End
+#SKILL
+Ref 306
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 20 0 0 0
+Name Protect~
+End
+#SKILL
+Ref 307
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 30 0 0 0
+Name Scry~
+End
+#SKILL
+Ref 308
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 40 0 0 0
+Name Enhance other~
+End
+#SKILL
+Ref 309
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 60 0 0 0
+Name Anti Magic Shield~
+End
+#SKILL
+Ref 310
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 70 0 0 0
+Name Holy Shield~
+End
+#SKILL
+Ref 311
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 80 0 0 0
+Name Sun Beam~
+End
+#SKILL
+Ref 312
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 90 0 0 0
+Name Amulet of Protection~
+End
+#SKILL
+Ref 313
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 5 0 0 0 0 0
+Name Enlarge~
+End
+#SKILL
+Ref 313
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 5 0 0 0 0 0
+Name Grow~
+End
+#SKILL
+Ref 314
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 100 0 0 0
+Name Mini Sun Ball~
+End
+#SKILL
+Ref 315
+Races 1 1 1 1 
+Classes 0 0 0 0
+Stats 0 0 0 0 0 55 0 0 0 0 0 0 0 0
+Name Telepathy~
+End
+#SKILL
+Ref 317
+Races 0 0 1 0 
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 0 50
+Name Social Bite~
+End
+#SKILL 
+Ref 318
+Races 0 1 0 1  
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 5 0 0 0 0 0
+Name Demonic outfit change~
+End  
+#SKILL
+Ref 319
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 50 0 0 0 0 0 0 0 0 0 0
+Name Magic outfit change~
+End
+#SKILL
+Ref 320
+Races 1 1 1 1 
+Classes 0 1 0 0
+Stats 0 0 0 25 0 0 0 0 0 0 0 0 0 0
+Name Glamour~
+End
+#SKILL
+Ref 321
+Races 1 1 1 1 
+Classes 0 1 0 0
+Stats 0 0 0 85 0 0 0 0 0 0 0 0 0 0
+Name Cat Transformation~
+End
+#SKILL
+Ref 322
+Races 1 1 1 1 
+Classes 0 1 0 0
+Stats 0 0 0 95 0 0 0 0 0 0 0 0 0 0
+Name Wolf Transformation~
+End
+#SKILL
+Ref 323
+Races 1 1 1 1 
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 0 0 15 0
+Name Firing Modes~
+End
+#SKILL
+Ref 324
+Races 0 1 0 1 
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Spur Firing~
+End
+#SKILL
+Ref 325
+Races 1 1 1 1  
+Classes 1 0 0 0
+Stats 0 0 50 0 0 0 0 0 0 0 0 0 0 0
+Name Kick~
+End
+#SKILL 
+Ref 326
+Races 1 1 1 1  
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 75 0 0 0
+Name Bubble~
+End 
+#SKILL 
+Ref 327
+Races 1 1 1 1  
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 75 0 0 0
+Name Petrify~
+End 
+#SKILL
+Ref 328
+Races 1 1 1 1  
+Classes 1 0 0 0
+Stats 0 75 0 0 0 0 0 0 0 0 0 0 0 0
+Name Throat Stab~
+End
+#SKILL
+Ref 329
+Races 1 1 1 1  
+Classes 1 0 0 0
+Stats 0 100 0 0 0 0 0 0 0 0 0 0 0 0
+Name Disarm~
+End
+#SKILL
+Ref 330
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 65 0 0 0 0 0 0 0 0 0 0 0
+Name Pressure Point~
+End
+#SKILL 
+Ref 331
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 45 0 0 0 0 0 0 0 0 0 0
+Name Zap~ 
+End
+#SKILL
+Ref 332
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Fire Shuriken~
+End
+#SKILL
+Ref 333
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Frost Shuriken~
+End
+#SKILL
+Ref 334
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Electrical Shuriken~
+End
+#SKILL
+Ref 335
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 10 0 0 0 0 0 0 0
+Name Shadow Shuriken~
+End
+#SKILL
+Ref 336
+Races 1 1 1 1
+Classes 1 0 0 0
+Stats 0 85 0 0 0 0 0 0 0 0 0 0 0 0 0
+Name Rooftop running~
+End
+#SKILL
+Ref 337
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 70 0 0 0 0 0 0 0 0 0 0
+Name Summon~
+End
+#SKILL
+Ref 338
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 60 0 0 0 0 0 0 0 0 0 0
+Name Slow~
+End
+#SKILL
+Ref 339
+Races 1 1 1 1
+Classes 0 1 0 0
+Stats 0 0 0 0 0 0 0 0 0 0 60 0 0 0
+Name Earth Elemental~
+End
+#SKILL
+Ref 340
+Races 1 1 1 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 65 0 0 0 0 0 0 0 0
+Name Dream~
+End
+#SKILL
+Ref 341
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist Fire~
+End
+#SKILL
+Ref 342
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist Ice~
+End
+#SKILL
+Ref 343
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist Electricity~
+End
+#SKILL
+Ref 344
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist Shadow~
+End
+#SKILL
+Ref 345
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist Melee~
+End
+#SKILL
+Ref 346
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist Ranged~
+End
+#SKILL
+Ref 347
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist General Magic~
+End
+#SKILL
+Ref 348
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist Mental Magic~
+End
+#SKILL
+Ref 349
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Resist Dark Magic~
+End
+#SKILL
+Ref 350
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Fire Vulnerability~
+End
+#SKILL
+Ref 351
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Ice Vulnerability~
+End
+#SKILL
+Ref 352
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Electrical Vulnerability~
+End
+#SKILL
+Ref 353
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Shadow Vulnerability~
+End
+#SKILL
+Ref 354
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Melee Vulnerability~
+End
+#SKILL
+Ref 355
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Ranged Vulnerability~
+End
+#SKILL
+Ref 356
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name General Magic Vulnerability~
+End
+#SKILL
+Ref 357
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Mental Magic Vulnerability~
+End
+#SKILL
+Ref 358
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Dark Magic Vulnerability~
+End
+#SKILL
+Ref 359
+Races 0 1 0 1
+Classes 0 0 0 0
+Stats 0 0 0 0 0 0 0 10 0 0 0 0 0 0
+Name Sunlight Vulnerability~
+End
+#END
+

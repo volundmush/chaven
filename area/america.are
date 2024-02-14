@@ -1,0 +1,3262 @@
+#AREADATA
+Name United States of America~
+VNUMs 33000 33999
+Completed 0
+World 0
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#33000
+A spacious but noisy loft on Bourbon Street, New Orleans - Louisiana~
+~
+0 12 2
+G 41 15 50 0 35
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#33001
+a warm beach on the Hawaiian coast~
+~
+0 36 26
+G 33 73 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33005
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#33002
+`161S`167t`173a`179n`185d`919i`190n`185g`172 o`166n `160B`166o`172u`r`178b`184o`190n `191S`185t`179r`173e`167e`161t`x~
+~
+0 8740 1
+G 5 47 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33003
+0 0 0 0 0 0 0 0 0
+M -1 H 0
+W (null)~
+Y (null)~
+S
+#33003
+`190I`184n a`178n a`172l`166l`160e`161y`167w`173a`179y j`191u`190s`184t`147 o`172f`166f `160B`166o`172u`r`178b`184o`190n `191S`185t`179r`173e`167e`161t`x~
+~
+0 36 7
+G 5 47 50 50 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33002
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 33004
+0 0 0 0 0 0 0 0 0
+M 1 H 0
+W (null)~
+Y (null)~
+S
+#33004
+`DOn a rooftop overlooking the city`x`x~
+~
+0 516 13
+G 5 47 50 50 50
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 33003
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#33005
+a warm beach on the Hawaiian coast~
+~
+0 548 26
+G 33 73 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33001
+0 0 0 0 0 0 0 0 0
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#33006
+`rA Sensual Club in New Orleans`w~
+~
+0 2572 3
+G 66 16 50 0 35
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33007
+`rA Private Room`w~
+~
+0 2572 14
+G 66 16 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+S
+#33008
+`rA Private Room`w~
+~
+0 2060 14
+G 66 16 50 20 20
+C 1000 1000 1000
+T 3000
+M -1 H 0
+W (null)~
+Y (null)~
+S
+#33009
+`094Bourbon Street`178, `rNew Orleans`178, `gLouisiana`w`x~
+~
+0 548 1
+G 75 35 50 100 0
+C 1000 1000 1000
+T 3000
+M -1 H 0
+W (null)~
+Y (null)~
+S
+#33010
+Boston`x~
+~
+0 36 1
+G 46 78 50 100 0
+C 1000 1000 1000
+T 3000
+M -2 H 0
+W (null)~
+Y (null)~
+S
+#33011
+`Da supernatural little corner in Santa Barbara`x`x~
+~
+0 33563180 2
+G 4 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#33012
+`rLower Bourbon Street in New Orleans, Louisiana`w~
+~
+0 67108900 1
+G 23 29 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33013
+`Da pristine and clean workshop`x~
+~
+0 16777740 15
+G 1 1 50 10 20
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33014
+A family-sized New York apartment~
+~
+0 556 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33015
+~
+~
+0 516 3
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#33016
+Sony PS4 Playstation 4 Pro~
+~
+0 36 18
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33017
+Outside a small motel in rural Nevada~
+~
+0 548 1
+G 72 80 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33018
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33018
+A Horribly Decorated But Clean Motel Room~
+~
+0 8204 2
+G 72 80 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 33039
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 33017
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33019
+a flora-populated campsite~
+~
+0 2084 23
+G 2 0 50 40 40
+C 1000 1000 1000
+T 3000
+M -1 H 0
+W (null)~
+Y (null)~
+S
+#33020
+A Glitzy Hotel in Orlando, Florida~
+~
+0 36 1
+G 82 22 50 100 0
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 33029
+0 0 0 0 0 0 0 0 0
+M -1 H 0
+W (null)~
+Y (null)~
+S
+#33021
+Fresno Yosemite International Airport~
+~
+0 556 9
+G 31 55 50 15 0
+C 1000 1000 1000
+T 3000
+M -5 H 0
+W (null)~
+Y (null)~
+S
+#33022
+San Francisco Bay, Financial District~
+~
+0 44 9
+G 31 55 50 15 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33023
+Haven 19~
+~
+0 36 18
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33024
+Haven 19~
+~
+0 36 18
+G 4 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33025
+Haven 19~
+~
+0 36 18
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33026
+Haven 19~
+~
+0 548 18
+G 1 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33027
+the skeletal remains of a trailer park~
+~
+0 548 10
+G 45 83 50 0 100
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 33028
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33028
+an absolutely mutilated but still usable trailer~
+~
+0 524 2
+G 45 83 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33027
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33029
+`WThe First Floor of a Glitzy Hotel`w~
+~
+0 548 1
+G 82 22 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 33030
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 33020
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33030
+`WA Glitzy Hotel Room`w~
+~
+0 44 2
+G 82 22 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 33029
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33031
+`CD`ci`Ws`Cn`ce`Wy `CW`co`Wr`Cl`cd`w: `CM`ca`Wg`Ci`cc `WK`Ci`cn`Wg`Cd`co`Wm`w~
+~
+0 36 1
+G 70 23 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33032
+`ca Hallway at the `GK`ga'anapali `YB`yeach`Y H`yotel`w~
+~
+0 44 2
+G 27 42 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33033
+`ca Hallway at the `GK`ga'anapali `YB`yeach`Y H`yotel`w~
+~
+0 556 2
+G 27 42 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33034
+`ca Hallway at the `GK`ga'anapali `YB`yeach`Y H`yotel`w~
+~
+0 556 2
+G 27 42 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33035
+`can Ocean View Suite at the `GK`ga'anapali `YB`yeach`Y H`yotel`w~
+~
+0 524 2
+G 27 42 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33036
+a quiet apartment in LA~
+~
+0 556 2
+G 35 50 50 0 35
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33037
+Excelsior Industries Road~
+~
+0 548 1
+G 70 82 50 100 0
+C 1000 1000 1000
+T 3000
+M -5 H 0
+W (null)~
+Y (null)~
+S
+#33038
+a very thick forest near within New York~
+~
+0 4 23
+G 70 82 50 40 40
+C 1000 1000 1000
+T 3000
+M -5 H 0
+W (null)~
+Y (null)~
+S
+#33039
+a Cramped But Clean Motel Bathroom~
+~
+0 16777740 2
+G 72 80 50 0 35
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 33018
+0 0 0 0 0 0 0 0 0
+M -5 H 0
+W (null)~
+Y (null)~
+S
+#33040
+69th between Columbus and Central Park West~
+~
+0 36 1
+G 70 85 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33041
+Sichuanese Cuisine~
+~
+0 44 4
+G 18 74 50 0 40
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#33042
+Gas Works Park~
+~
+0 36 10
+G 18 74 50 0 100
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#33043
+a run down New York City side-street~
+~
+0 516 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+S
+#33044
+Summit Avenue on Capitol Hill~
+~
+0 548 1
+G 18 74 50 100 0
+C 1000 1000 1000
+T 3000
+M -3 H 750
+W (null)~
+Y (null)~
+S
+#33045
+Top Pot Doughnuts~
+~
+0 2097677 12
+G 18 74 50 0 40
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+S
+#33046
+`Da dilapidated pier beside a warehouse`w`x~
+~
+0 524 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33047
+`BDenver, Colorado`w - `W4th Floor Corridor of the Four Seasons Hotel Denver`w~
+~
+0 44 9
+G 21 56 50 15 0
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 33048
+0 0 0 0 0 0 0 0 0
+M 100 H 750
+W (null)~
+Y (null)~
+S
+#33048
+`BDenver, Colorado`w - `W5th Floor Corridor of the Four Seasons Hotel Denver`w~
+~
+0 44 9
+G 21 56 50 15 0
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 33049
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 33047
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33049
+`BDenver, Colorado`w - `W6th Floor Corridor of the Four Seasons Hotel Denver`w~
+~
+0 44 9
+G 21 56 50 15 0
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 33050
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 33048
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33050
+`BDenver, Colorado`w - `W7th Floor Corridor of the Four Seasons Hotel Denver`w~
+~
+0 44 9
+G 21 56 50 15 0
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 33051
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 33049
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33051
+`BDenver, Colorado`w - `W8th Floor Corridor of the Four Seasons Hotel Denver`w~
+~
+0 44 9
+G 21 56 50 15 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33053
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 33050
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+1 0 33052
+0 0 0 0 0 0 0 0 0
+M -2 H 0
+W (null)~
+Y (null)~
+S
+#33052
+`BDenver, Colorado`w - `WRoom 818 of the Four Seasons Hotel Denver`w~
+~
+0 44 2
+G 21 56 50 0 35
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+1 0 33051
+0 0 0 0 0 0 0 0 0
+M -2 H 0
+W (null)~
+Y (null)~
+S
+#33053
+`BDenver, Colorado`w - `WRoom 817 of the Four Seasons Hotel Denver`w~
+~
+0 2097709 2
+G 21 56 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 33051
+0 0 0 0 0 0 0 0 0
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33054
+`DA narrow `yfo`gre`yst `Droad`w~
+~
+0 548 1
+G 81 66 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#33055
+the park street outside of Boston~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33056
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33056
+the park street outside of Boston~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33055
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33057
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33057
+the park street outside of Boston~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33087
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 33056
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33058
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33058
+the park street outside of Boston~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33057
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33068
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33059
+the park street outside of Boston~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33060
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33060
+the park street outside of Boston~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33061
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33059
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33061
+the park street outside of Boston~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33062
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33060
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33062
+the park street outside of Boston~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33063
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33061
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33063
+a parking lot at the park entrance~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33062
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33064
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33064
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33063
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33065
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33065
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33064
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33066
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33066
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 33065
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33067
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33067
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33075
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33066
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 33074
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33068
+a parking lot at the park entrance~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33058
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33069
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33069
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33068
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33070
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33070
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33069
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33071
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33071
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 33072
+0 0 0 4 0 0 0 0 0
+D7
+~
+~
+0 0 33070
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33072
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33072
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33084
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33073
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 33071
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33071
+0 0 0 4 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33073
+peaceful footpath through the park~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33081
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33072
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33074
+peaceful footpath through the park~
+~
+0 36 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33078
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33067
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33075
+lonely path to the lake~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33067
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33076
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33076
+lonely path to the lake~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33077
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 33075
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33077
+lonely path to the lake~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33076
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33078
+the lakeside Cabin~
+~
+0 12 2
+G 74 82 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33080
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+1 0 33079
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 33074
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33079
+dark-lit bedchambers in the cabin`x~
+~
+0 12 2
+G 74 82 50 0 35
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 33078
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33080
+an adequate bathroom~
+~
+0 12 2
+G 74 82 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 33078
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33081
+`Dthe `yD`wog-`yW`walkers `yDen`w`x~
+~
+0 12 2
+G 74 82 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33082
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 33073
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 33083
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33082
+`Da `Wf`woye`Wr`D overlooking the `gpark`w`x~
+~
+0 12 2
+G 74 82 50 0 35
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 33081
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33083
+`Dthe `wlounging area`D inside the `yDen`w`x~
+~
+0 12 2
+G 74 82 50 0 35
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 33081
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33084
+a secluded footpath leading to the observatory~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33072
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33085
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33085
+a secluded footpath leading to the observatory~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 33084
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33086
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33086
+a secluded footpath leading to the observatory~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33098
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33085
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33087
+a somewhat crowded, smokey rock bar~
+~
+0 44 12
+G 74 82 50 0 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 33057
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33088
+entrance to the indoor Shopping Mall~
+~
+0 36 9
+G 74 82 50 15 0
+C 1000 1000 1000
+T 3000
+D0
+~
+sliding-doors of glass~
+1 0 33089
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33089
+the Shopping Mall boulevard~
+~
+0 44 9
+G 74 82 50 15 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33090
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 33095
+0 0 0 0 0 0 0 0 0
+D2
+~
+sliding-doors of glass~
+1 0 33088
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33094
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33090
+the Shopping Mall boulevard~
+~
+0 44 9
+G 74 82 50 15 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33091
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 33096
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33089
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33092
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33091
+the Shopping Mall boulevard~
+~
+0 44 9
+G 74 82 50 15 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33097
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33090
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33093
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33092
+`DP`wapa `DB`wenicio's `WI`Cc`We`w-`WC`Cr`We`Ca`Wm P`Ca`Wr`Cl`Wo`Cr`w~
+~
+0 44 5
+G 74 82 50 20 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33090
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33093
+a `WCh`Bam`Wps `BS`Wport`Bs `westablishment`x~
+~
+0 44 5
+G 74 82 50 20 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33091
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33094
+shop 2~
+~
+0 44 5
+G 74 82 50 20 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33089
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33095
+shop 3~
+~
+0 44 5
+G 74 82 50 20 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33089
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33096
+a `gSta`Wrbu`gcks`W Cafe`x~
+~
+0 44 5
+G 74 82 50 20 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33090
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33097
+`wJ`Wumper `w& `WT`Dhumper `wPet Store`x~
+~
+0 44 5
+G 74 82 50 20 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33091
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33098
+a secluded footpath leading to the observatory~
+~
+0 4 1
+G 74 82 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33086
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33100
+0 0 0 0 0 0 0 0 0
+D3
+~
+doors of glass-inlaid `yoak`w~
+1 0 33099
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33099
+the Boston Park Observatory~
+~
+0 12 9
+G 74 82 50 15 0
+C 1000 1000 1000
+T 3000
+D1
+~
+doors of glass-inlaid `yoak`w~
+1 0 33098
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33100
+`Da `ydirt path `Ddeep in the shady `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 4 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33098
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33101
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y (null)~
+S
+#33101
+`Da `ydirt path `Ddeep in the shady `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 4 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33100
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33109
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33102
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33102
+`Da `ydirt path `Ddeep in the shady `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33105
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33101
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33103
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33103
+`Da `ydirt path `Ddeep in the shady `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33104
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 33102
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33104
+`Dremains of a sh`ya`Dtte`yr`Ded wooden `yh`wom`ye`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33103
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 33108
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33105
+`Da `ydirt path `Ddeep in the shady `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33102
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33107
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33106
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33106
+`Da `ydirt path `Ddeep in the shady `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33105
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33107
+empty forests with peculiar stone monoliths and fetishes~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33105
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33108
+`Da destroyed and defiled `Wbedroom`w`x~
+~
+0 0 13
+G 74 82 50 50 50
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 33104
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33109
+`Da `ydirt path `Ddeep in the shady `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33110
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33111
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 33101
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33110
+bone-littered, dug-in den~
+~
+0 8 24
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33109
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33111
+`Da `ydirt path `Ddeep in the shady `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33109
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33112
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33112
+`Ddeep, deep inside the dark `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33113
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33114
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33115
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33111
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33113
+`Ddeep, deep inside the dark `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33112
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33114
+`Ddeep, deep inside the dark `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33112
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33121
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33115
+`Ddeep, deep inside the dark `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33112
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33116
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33140
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33116
+`Ddeep, deep inside the dark `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33117
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 33115
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33117
+large cave blocked by boulders~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33116
+0 0 0 0 0 0 0 0 0
+D5
+~
+`yboulder`d~
+1 0 33118
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33118
+`Da cave painted with `rsymbols of `Rb`rloo`Rd`w`x~
+~
+0 8 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33119
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33120
+0 0 0 0 0 0 0 0 0
+D4
+~
+`yboulder`d~
+1 0 33117
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33119
+`Da `rprisoner's `Dcamp with cages of `wb`Wo`Dn`we`D and `ywood`w`x~
+~
+0 8 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33118
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33120
+`Da sleeping `yden `Damidst `wb`Won`De`ws`x~
+~
+0 8 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33118
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33121
+`Ddeep, deep inside the dark `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33114
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33122
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33122
+`Ddeep, deep inside the dark `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33121
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33123
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33123
+`Da `Wc`wam`Wps`wit`We`D immersed in the depth of the `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33122
+0 0 0 0 0 0 0 0 0
+D1
+~
+tent-flap of torn strips of cloth~
+1 0 33130
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33124
+0 0 0 0 0 0 0 0 0
+D3
+~
+tent-flap of torn strips of cloth~
+1 0 33129
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33132
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33131
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33124
+`Da `Wc`wam`Wps`wit`We`D immersed in the depth of the `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33123
+0 0 0 0 0 0 0 0 0
+D2
+~
+tent-flap of tattered leather~
+1 0 33125
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33127
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33126
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33125
+`wthe large `Dtent `wlikely of a `Dformer-leader`w`x~
+~
+0 8 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+tent-flap of tattered leather~
+1 0 33124
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33126
+`ya damaged, nondescript hut of clay and wood`w`x~
+~
+0 8 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D5
+~
+`ytra`Dpd`yoor `Dfound under the `yr`Dagged`yy `Df`yur`Ds`w~
+1 0 33128
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33124
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33127
+`ya damaged, nondescript hut of clay and wood`w`x~
+~
+0 8 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 33124
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33128
+`wa time`D-`wdamaged and `Ci`cc`we-`Cc`wold `rt`wo`Drtu`wr`re`D dung`Deon`x~
+~
+0 8 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D4
+~
+`ytra`Dpd`yoor `Dfound under the `yr`Dagged`yy `Df`yur`Ds`w~
+1 0 33126
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33129
+`wan `rab`Dandon`red`D tent `wwith bed-rolls of fur`x~
+~
+0 8 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+tent-flap of torn strips of cloth~
+1 0 33123
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33130
+`wa stocked, `Ww`win`Dd-t`wor`Wn`D tent`w`x~
+~
+0 8 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+tent-flap of torn strips of cloth~
+1 0 33123
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33131
+`Da former `ystockpile`D, now aba`wn`Ddoned`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 33123
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33132
+`Dremnants of a former `rba`Dtt`wlef`Die`rld`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33133
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 33123
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33133
+`Dremnants of a former `rba`Dtt`wlef`Die`rld`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33139
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 33134
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33132
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33134
+`Dremnants of a former `rba`Dtt`wlef`Die`rld`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33135
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33133
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33135
+`Dremnants of a former `rba`Dtt`wlef`Die`rld`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33137
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33134
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 33136
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33136
+`Dremnants of a former `rba`Dtt`wlef`Die`rld`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 33138
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33135
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33137
+`Da gigantic `Yb`Ro`yn`Yf`Ri`yr`Ye `Dsurrounded by `Ws`wt`Won`we`D `wslabs`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33135
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33138
+stone monument at a dead end of forest~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D8
+~
+~
+0 0 33136
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33139
+`Da huge `Wgra`wv`De`wy`Ward`D of fallen combatants`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33133
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33140
+`Ddeep, deep inside the dark `gf`Do`gr`De`gs`Dt`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33141
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33115
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33142
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33141
+a `Ds`wt`Do`wn`De w`we`Dll at a sudden small clearing of land`w`x~
+~
+0 0 23
+G 74 82 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33140
+0 0 0 0 0 0 0 0 0
+D5
+~
+`Dhatch of `wh`Deav`wy `Diron~
+1 0 33143
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33142
+`Da `gh`Dill`g-h`Didden `ynest`D of an unknown `rpr`Ded`rat`Dor`w`x~
+~
+0 8 24
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 33140
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33143
+`wthe `Dslick`w, `Dfoul`w-`Daired `Wp`Dit`w down the `Dwell`w`x~
+~
+0 0 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33144
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33166
+0 0 0 0 0 0 0 0 0
+D4
+~
+`Dhatch of `wh`Deav`wy `Diron~
+1 0 33141
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33167
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33144
+`wthe `Dslick`w, `Dfoul`w-`Daired `Wt`Dunnels`w down the `Dwell`w`x~
+~
+0 0 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33143
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33145
+A Nondescript Town Square In the Pocono Mountains~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33159
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 33155
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33146
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33146
+A Nondescript Town Square In the Pocono Mountains~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33145
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33147
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33147
+A Nondescript Town Square In the Pocono Mountains~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33146
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33156
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33148
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33148
+Outside Ray's Diner~
+~
+0 32 4
+G 77 42 50 0 40
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 33147
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+1 0 33149
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33149
+The Lobby of Ray's Diner~
+~
+0 40 4
+G 77 42 50 0 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33150
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+1 0 33148
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33150
+The Seating Area At Ray's Diner~
+~
+0 40 5
+G 77 42 50 20 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33149
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33151
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33151
+The Back Hallway ofRay's Diner~
+~
+0 40 4
+G 77 42 50 0 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33150
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+1 0 33153
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+1 0 33154
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+1 0 33152
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33152
+The Women's Lavatory In Ray's Diner~
+~
+0 40 4
+G 77 42 50 0 40
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 33151
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33153
+The Men's Lavatory In Ray's Diner~
+~
+0 40 4
+G 77 42 50 0 40
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 33151
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33154
+The Kitchen In Ray's Diner~
+~
+0 40 4
+G 77 42 50 0 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 33151
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33155
+A Nondescript Town Square In the Pocono Mountains~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+0 0 33145
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+1 0 33165
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33158
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33156
+A Nondescript Town Square In the Pocono Mountains~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33147
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33157
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33157
+A Nondescript Town Square In the Pocono Mountains~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 33156
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33158
+A Nondescript Town Square In the Pocono Mountains~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D7
+~
+~
+0 0 33155
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33159
+The Tree-Shrouded Alpine Way~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33145
+0 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 33160
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33160
+The Tree-Shrouded Alpine Way~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33161
+0 0 0 0 0 0 0 0 0
+D8
+~
+~
+0 0 33159
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33161
+The Tree-Shrouded Alpine Way~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33160
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33162
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33162
+The Tree-Shrouded Alpine Way~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33163
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 33161
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33163
+The Tree-Shrouded Alpine Way~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33164
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 33162
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33164
+Before the Alpine Inn~
+~
+0 32 1
+G 77 42 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33163
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33165
+The Town Hall~
+~
+0 40 16
+G 77 42 50 15 15
+C 1000 1000 1000
+T 3000
+D9
+~
+~
+1 0 33155
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#33166
+`wthe `Dslick`w, `Dfoul`w-`Daired `Wt`Dunnels`w down the `Dwell`w`x~
+~
+0 0 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33143
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33167
+`wthe `Dslick`w, `Dfoul`w-`Daired `Wp`Dit`w down the `Dwell`w~
+~
+0 0 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 33168
+0 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 33170
+0 0 0 0 0 0 0 0 0
+D6
+~
+~
+0 0 33143
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33168
+`wthe `Dslick`w, `Dfoul`w-`Daired `Wt`Dunnels`w down the `Dwell`w`x~
+~
+0 0 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 33167
+0 0 0 0 0 0 0 0 0
+D2
+~
+`Ddoorway behind a heap of `rgore`D and `rtrash`w~
+1 0 33169
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33169
+`wa `Ddreadful`w, `Dd`ca`Dmp`w and `Dlurid h`Wi`Ddeaway`w~
+~
+0 0 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D0
+~
+`Ddoorway behind a heap of `rgore`D and `rtrash`w~
+1 0 33168
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33170
+`wthe `Dslick`w, `Dfoul`w-`Daired `Wt`Dunnels`w down the `Dwell`w`x~
+~
+0 0 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+0 0 33167
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 33171
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#33171
+`Dh`rea`Dted, malignan`rt`D l`wa`Dir`w~
+~
+0 0 11
+G 74 82 50 0 30
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 33170
+0 0 0 0 0 0 0 0 0
+M 5 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+D 0 33017 0 1
+D 0 33018 1 1
+D 0 33018 2 1
+D 0 33027 2 2
+D 0 33028 0 2
+D 0 33029 3 1
+D 0 33030 1 1
+D 0 33039 3 1
+D 0 33051 0 1
+D 0 33051 7 1
+D 0 33052 8 1
+D 0 33053 2 1
+D 0 33057 0 1
+D 0 33073 0 1
+D 0 33074 0 1
+D 0 33078 0 1
+D 0 33078 1 1
+D 0 33078 2 1
+D 0 33079 3 1
+D 0 33080 2 1
+D 0 33081 0 1
+D 0 33081 2 1
+D 0 33081 3 1
+D 0 33082 2 1
+D 0 33083 1 1
+D 0 33087 2 1
+D 0 33088 0 1
+D 0 33089 2 1
+D 0 33098 3 1
+D 0 33099 1 1
+D 0 33117 5 1
+D 0 33118 4 1
+D 0 33123 1 1
+D 0 33123 3 1
+D 0 33124 2 1
+D 0 33125 0 1
+D 0 33126 5 1
+D 0 33128 4 1
+D 0 33129 1 1
+D 0 33130 3 1
+D 0 33141 5 1
+D 0 33143 4 1
+D 0 33148 9 1
+D 0 33149 6 1
+D 0 33151 1 1
+D 0 33151 2 1
+D 0 33151 3 1
+D 0 33152 1 1
+D 0 33153 3 1
+D 0 33154 0 1
+D 0 33155 6 1
+D 0 33165 9 1
+D 0 33168 2 1
+D 0 33169 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

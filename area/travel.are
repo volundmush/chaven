@@ -1,0 +1,1136 @@
+#AREADATA
+Name Traveling~
+VNUMs 19000 19099
+Completed 0
+World 0
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#19000
+`rT`Rr`yo`Yl`rl`Ry`w`x~
+~
+0 67108908 17
+G 0 0 80 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19001
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19002
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19003
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19004
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19005
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19006
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19007
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19008
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19009
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19010
+`236a gl`237oss`238y bl`239ack and `052r`088ed `12420`16006 `196Lo`160tus `124El`088is`052e `239con`238ver`237tib`236le`w~
+~
+0 1048588 17
+G -1 2 20 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19011
+a rusted 2005 Ford Focus~
+~
+0 12 23
+G 0 1 20 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19012
+`#432d2fan `#413a3aupsc`#4c0711ale,`#49131b bla`#462025ck a`#413a3and `#432d2fred `#462025Buic`#49131bk Ve`#4c0711rano`q~
+~
+0 12 17
+G 0 0 20 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19013
+`140a Kaw`134asaki`128 Z H2 in pu`129rple `250an`248d ma`245tte si`243lver`x~
+~
+0 4 23
+G 0 0 20 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19014
+a battered Honda civic~
+~
+0 12 23
+G 0 0 20 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19015
+A `dblack`w 1998 `dchevy cavalier`w~
+~
+0 12 17
+G 0 0 20 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19016
+`Wa somewhat dated Ford Taurus Police Interceptor`x~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19017
+Inside a Car~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19018
+`rRed `WFord F-250 `DLariat `WCrew Cab `R4x4`w~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19019
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19020
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19021
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19022
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19023
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19024
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19025
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19026
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19027
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19028
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19029
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19030
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19031
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19032
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19033
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19034
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19035
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19036
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19037
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19038
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19039
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19040
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19041
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19042
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19043
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19044
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19045
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19046
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19047
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19048
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19049
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19050
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19051
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19052
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19053
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19054
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19055
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19056
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19057
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19058
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19059
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19060
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19061
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19062
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19063
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19064
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19065
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19066
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19067
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19068
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19069
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19070
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19071
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19072
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19073
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19074
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19075
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19076
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19077
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19078
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19079
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19080
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19081
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19082
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19083
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19084
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19085
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19086
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19087
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19088
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19089
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19090
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19091
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19092
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19093
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19094
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19095
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19096
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19097
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19098
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#19099
+Taxi~
+~
+0 12 17
+G 0 0 40 0 0
+C 0 0 0
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

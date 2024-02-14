@@ -1,0 +1,237 @@
+#PLAYER
+Name Admin~
+Id   1707313122
+LogO 1707321521
+Vers 7
+Sex  1
+Levl 111
+BalMoney 100000
+BalCredit 1200000
+Money 2500
+LifeForce 10000
+LifeForceCooldown 0
+LFCount 1
+LFTotal 100
+LFMod 0
+LFUsed 0
+LFTaken 0
+LFSUsed 0
+Hom  1
+Plyd 2930
+PlydCopFree 2930
+Account Admin~
+AccountName Admin~
+Email ~
+Jtlag 0
+Race visitor~
+Modifier 0
+RacialPower 0
+Intro A man~
+Place ~
+Aexp 0
+Wexp 0
+Dexp 0
+Oexp 0
+Hexp 0
+Gexp 0
+Facing 3
+Class 0 0 0
+Classpoints 0 0
+ClassOld 0 0
+ClassNeutral 0
+ExtraFocus 0
+BonusOrigin 0
+Rank 0
+PrisonCare 1707369425
+Genes 3 2 ~
+Difficulty 5
+Skin pale skin~
+Hair ~
+Eyes ~
+SecretDays 0
+Atime 1707319025
+Penis 70
+PsychicProof 0
+LPaid 1707313154
+Exp 0
+ExpSpent 0
+RPExp 0
+RPExpSpent 0
+ExpNew 150000
+ExpNewSpent 0
+RPExpNew 150000
+RPExpNewSpent 0
+DeployCore 0
+DeploySect 1
+DeployCult 1
+FactionTrue -1
+Locationx 40
+Locationy 25
+Hfeet 5
+Hinch 7
+Ftim ~
+Floc ~
+Fdcr ~
+Comm 1074421760x2x0x0x
+ShD  Admin~
+LnD  Admin~
+QuitRoom 16068
+OperativeCreationType 0
+OperativeCore ~
+OperativeSect ~
+OperativeCult ~
+ChatroomNew 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DestinyInterestOne 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DestinyInterestTwo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DestinyBlockOne 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DestinyBlockTwo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Monstername 0 ~
+Monstershort 0 ~
+Monsterdesc 0 ~
+Monsterdisciplines 0 0 0 0 0 0 0 0 0 0 0
+Monstername 1 ~
+Monstershort 1 ~
+Monsterdesc 1 ~
+Monsterdisciplines 1 0 0 0 0 0 0 0 0 0 0
+Monstername 2 ~
+Monstershort 2 ~
+Monsterdesc 2 ~
+Monsterdisciplines 2 0 0 0 0 0 0 0 0 0 0
+Monstername 3 ~
+Monstershort 3 ~
+Monsterdesc 3 ~
+Monsterdisciplines 3 0 0 0 0 0 0 0 0 0 0
+Monstername 4 ~
+Monstershort 4 ~
+Monsterdesc 4 ~
+Monsterdisciplines 4 0 0 0 0 0 0 0 0 0 0
+LastPraiseMessage 0 ~
+LastDissMessage 0 ~
+LastPraiseMessage 1 ~
+LastDissMessage 1 ~
+LastPraiseMessage 2 ~
+LastDissMessage 2 ~
+LastRumor ~
+WeekTracker 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+LifeTracker 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Travelto -1
+Travelfrom -1
+Traveltime -1
+Traveltype -1
+CreateDate 1707313154
+Prom [%d%h/`g%H`xDF `c%L`xST `R%l`xWN `B%g`xLG (`W%F`x)] %p`x~
+LastIP ~
+InBase 150
+InBank 1150
+LastPraised 0 ~
+LastPraised 1 ~
+LastPraised 2 ~
+LastDissed 0 ~
+LastDissed 1 ~
+LastDissed 2 ~
+AttractBase 50
+AttractCount 1000
+AttractCFashion 7000
+AttractCPhys 300000
+AttractCSkin 120000
+Photos ~
+KarmaSpent 0
+KarmaPersonal 0
+KarmaPersonalSpent 0
+TimeSinceTrain 40
+ExpCap 1000000
+RPExpCap 1000000
+BloodPotency 0
+Payscale 100
+Bonds 0 ~
+Bonds 1 ~
+Bonds 2 ~
+Bonds 3 ~
+Bonds 4 ~
+Wolfintro An unnaturally large wolf~
+SexPotency 100
+DailyUpkeep 1707321508
+LastNewSexed 0 ~
+LastNewSexed 1 ~
+LastNewSexed 2 ~
+LastSexedID 0 0 0
+CountDreamsex 0
+WithoutSleep 40
+VPlayer 2
+RememberDetail ~
+CDisc 0 ~
+Genesis 1
+DoomCustom ~
+WildLegendary 0
+NextHenchman 1712503025
+NextEnemy 1710775025
+NextMonster 1715613425
+Room 16068
+Tru  111
+AbilityTree 0 0 0 0 0
+Stat 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+WildsStat 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+OtherStat 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GodrealmStat 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HellStat 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FOrders 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+Disc 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Sec  0
+SelfEsteem 0
+NewHabits 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Patrols 0 0 0 0 0 0 0 0 0 0
+Gateways 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HMV  25
+Act 524288x0x0x0x
+Legacy 0x0x0x0x
+Wizn ACER
+Pos  8
+Hom   1
+BDay 1
+BMonth 1
+BYear 1980
+SDay 1
+SMonth 1
+SYear 1
+Aage 0
+Sleeping 0
+CaptiveTimer 0
+LastPublic 16082
+DescLock 0
+Ccolours 0
+Cbandaids 0
+Caura ~
+Cwalk ~
+Crank ~
+Sincooldown 0
+YouBadCounter 0
+Resident 5
+LastHaven 1707321518
+Sins 0 0 0 0 0 0 0
+Dirt 176 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BloodAmount 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Attract 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NoteLast announcements 0
+NoteLast ic 0
+NoteLast ooc 0
+NoteLast roster 0
+NoteLast Immortal 0
+Whot  `x~
+Titl  ~
+Firsts 0 0 0 0 0
+Conditions 0 0 0 0 0 0 0 0 0 0
+Emotes 0 0 0 0 0 0 0 0 0 0
+VictimizeHistory 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NarrativeGive 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NarrativeWant 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Colora     007 013 005 001 013
+Colorb      013 012 002
+Colorc     113 002 002
+Colord     002 006 006
+Colore     011 002 003 001 017
+Colorf     002 007 006
+Colorg       003 003 003
+Colorz       007 002 003
+End
+
+#END

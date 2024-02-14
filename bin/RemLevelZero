@@ -1,0 +1,3 @@
+grep -l "Levl 0" * | xargs rm
+grep -l "NewTurn 1" * | xargs rm
+

@@ -1,0 +1,3271 @@
+#AREADATA
+Name Mists~
+VNUMs 41000 44999
+Completed 0
+World 5
+Range -1 -1 -1 -1
+End
+
+
+
+#MOBILES
+#41010
+a gaunt forest sprite with blue hair~
+a gaunt forest sprite with blue hair~
+`WA gaunt `gf`Go`gre`Gs`gt`W sprite with `cb`Clu`ce h`Cai`cr`W and a disapproving expression`x
+~
+`WTall and gaunt, this sprite has a shock of powder blue hair arranged into
+a high, glossy pompadour.  Dressed in a white silk suit that seems to float
+about his impossibly thin frame, he has a length of measuring tape around
+his neck, and a disapprovingly arrogant expression on his beautiful face.  `x 
+~
+civilian~
+~
+3x0x0x0x
+0x0x0x0x
+-1
+0
+0
+0
+0 0 stand stand none 0
+~
+0 0 unknown
+
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#41000
+A Convenient Meeting Spot~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41001
+`065T`029h`035e `217T`029w`035i`069s`065t`035y `069T`029r`035a`015i`065l`029s `035T`217r`069e`015e`029l`035i`065n`069e`x~
+~
+0 4227108 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41002
+~
+~
+0 8921125 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41003
+A Cozy Painting Studio~
+~
+0 4227116 9
+G 0 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41004
+The Rain-slicked Township of Ashcroft~
+~
+0 10493989 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41005
+Balos Beach~
+~
+0 2105381 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41006
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41007
+A Frozen Tavern in Northgard~
+~
+0 2097197 4
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+1 0 41076
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41008
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41009
+`ra de`Rep,`r lab`Ryri`rnth`Rian`r low`R-li`rght`R tun`rnel`R sys`rtem`R of i`rrid`Resc`rent`R red`rs`w~
+~
+0 35659821 11
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41010
+Club Catacombs~
+~
+0 2105389 3
+G 9 16 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41011
+~
+~
+0 524325 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41012
+A Royal Bedchamber, Bathed in Candlelight`x~
+~
+0 2105869 11
+G -1 1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41013
+~
+~
+0 2097189 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41014
+`DThe Mountainous Landscape of Celestriana`w~
+~
+0 1056804 10
+G 0 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41015
+`060the vice and revelry of `WLa Tasse Cassee`x~
+~
+0 1056812 5
+G 0 0 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41016
+A Windowless, Doorless Chamber`x~
+~
+0 2105357 14
+G 1 -1 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41017
+~
+~
+0 2228263 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41018
+The Quaint Streets of `220Petrota, Greece`x~
+~
+0 2105377 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+F 137581080 0
+L愩楊藉	~
+(null)~
+嚍M業
+D3
+~
+~
+0 0 41074
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41019
+Rue de Belleville~
+~
+0 2097185 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 41026
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41020
+A small desert town with various buildings~
+~
+0 524325 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41021
+The Throne Room of Olympus`x~
+~
+0 69206053 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41022
+`#943C0CA h`#8b4411umb`#824B19le h`#996132ome`#B1774Aste`#d1a66fad n`#F1D69Best`#F1D69Bled`#d1a66f in `#B1774Athe`#996132 Mo`#824B19jave`#8b4411 De`#943C0Csert`q`x~
+~
+0 4194340 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41023
+`rSomewhere Deep in Hell`w`x~
+~
+0 4194308 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41024
+An ethereal mountaintop dotted with hot springs~
+~
+0 1056804 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41025
+A Cozy Painting Studio~
+~
+0 2105389 9
+G 8 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41026
+an Alley along Rue de Belleville~
+~
+0 516 7
+G 0 0 50 50 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 41019
+0 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 41029
+0 0 0 0 0 0 0 0 0
+M -3 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41027
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41028
+~
+~
+0 18882597 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41029
+an Abandoned Well`x~
+~
+0 1049100 24
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 41034
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 41026
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41030
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41031
+~
+~
+0 18874405 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41032
+chunk light tuna~
+~
+0 4194348 12
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41033
+The Underworld~
+~
+0 4194340 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41034
+the Hidden Tunnels Below the Rue de Belleville~
+~
+0 4194824 11
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 41029
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41035
+The Pit~
+~
+0 532525 14
+G 0 0 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41036
+Bestia of Los Angeles~
+~
+0 69206061 4
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41037
+Small apartment~
+~
+0 12582956 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41038
+Sidney Beach~
+~
+0 4194336 26
+G 0 0 50 0 100
+C 54 64 0
+T 3000
+D5
+~
+~
+0 0 2563
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41039
+Bibliotheque of Alexandria~
+~
+0 2097197 9
+G 0 0 50 15 0
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 41043
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41040
+`255The `253Sti`249rli`247ng `243Bri`240dge`x~
+~
+0 4194348 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41041
+`DThe stately mansion of `WPale Acres`w~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41042
+an example plot room~
+~
+0 4194340 1
+G 0 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41043
+On the edge of oblivion~
+~
+0 4194336 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 41039
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41044
+~
+~
+0 2105381 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41045
+Mama's Pancakes Diner~
+~
+0 4194348 12
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41046
+Mama's Pancakes Diner~
+~
+0 36708397 12
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41047
+~
+~
+0 4227108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41048
+A Cozy Painting Studio~
+~
+0 69206061 9
+G 8 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41049
+`214T`220h`226e `227C`228rucible `227C`226l`220u`214b `243in `214Sa`220le`226m`227, `228Massachu`227s`226e`220tt`214s`x~
+~
+0 4194348 3
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41050
+~
+~
+0 4227108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41051
+The mean streets of Boston~
+~
+0 12582948 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41052
+Small apartment~
+~
+0 4227116 2
+G 56 53 50 0 35
+C 1000 1000 1000
+T 3000
+M 7 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41053
+The Alley~
+~
+0 4194852 1
+G 0 1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41054
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M -2 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41055
+A Formless, Star-Speckled Void~
+~
+0 4194340 18
+G 0 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41056
+(`YOOC`w) `yWelcome to The Wasteland`w~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41057
+`WNew Hope Gates `Y(`yWasteland`Y)`w~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41058
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41059
+An Abandoned Theme Park `Y(`yWasteland`Y)`w~
+~
+0 2097189 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41060
+An ancient tomb beneath Alexandria~
+~
+0 4227108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41061
+a secluded cul-de-sac off Dandelion Parkway~
+~
+0 1048580 10
+G 0 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41062
+Boston Athenaeum~
+~
+0 18882605 9
+G 0 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41063
+Railroad Tracks `Y(`yWasteland`Y)`w~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41064
+Wasteland Crossroads `Y(`yWasteland`Y)`w~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41065
+A Desolate Wasteland `Y(`yWasteland`Y)`w~
+~
+0 533029 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41066
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41067
+~
+~
+0 69206053 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41068
+~
+~
+0 35659813 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41069
+a Frozen Forest in the Yukon~
+~
+0 4194340 23
+G 22 66 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41070
+the entrance`x~
+~
+0 34611212 2
+G -2 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41071
+`Da Museum Warehouse in Baghdad`x~
+~
+0 4227112 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 41127
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41072
+A Desolate Wasteland `Y(`yWasteland`Y)`w~
+~
+0 2105381 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41073
+Irradiated Wastes `Y(`yWasteland`Y)`w~
+~
+0 4194852 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M -3 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41074
+Deep in the `220Rhodope Mountains`x Near the Border of `220Bulgaria`x and `220Greece`x~
+~
+0 4194336 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 41094
+0 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 41018
+0 0 0 0 0 0 0 0 0
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41075
+`Dthe `WShimmering `RHeat`Y-`RDream `Dof `WSuburban Domestic `YNevada`x~
+~
+0 33554444 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 41097
+0 0 0 0 0 0 0 0 0
+M -3 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41076
+The Edge of Northgard, Nearing Niflheimr~
+~
+0 12582920 4
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+1 0 41007
+0 0 0 0 0 0 0 0 0
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41077
+~
+~
+0 2097189 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41078
+~
+~
+0 1142947877 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41079
+picnic basket nice wicker~
+~
+0 12582956 15
+G 0 0 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41080
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41081
+~
+~
+0 2105381 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41082
+`cDeep in the Forests of the Godrealm`w~
+~
+0 69206053 23
+G 10 15 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41083
+The Forests of Navorost~
+~
+0 4 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41084
+an `yobstacle course`x in the `dW`ya`gr`dd`ye`gn`x'`ds `yW`go`do`yd`x`x~
+~
+0 70254629 23
+G 6 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41085
+~
+~
+0 67108900 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41086
+nowhere`x~
+~
+0 44 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41087
+`#6a2b03ab`#753308oa`#813c0erd `#8d4413a `#994d18Vic`#a5561dto`#b15f22ri`#bd6827an,`#c9712d b`#d57b32ut`#d57b32 fl`#c9712dou`#bd6827ris`#b15f22hi`#a5561dng`#994d18, b`#8d4413ri`#813c0eg a`#753308t `#6a2b03sea`q~
+~
+0 67108901 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41088
+`022`070G`064u`058a`094t`100a`106v`112i`118t`154a `148N`142a`136t`130i`166o`172n`178a`184l `190R`226e`220s`214e`221r`228v`227e`x~
+~
+0 76021761 23
+G 44 58 50 40 40
+C 1000 1000 1000
+T 3000
+D4
+~
+~
+0 0 41100
+0 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 41102
+0 0 0 4 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41089
+Irradiated Wastes `Y(`yWasteland`Y)`w~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41090
+The Michigan Wastes `Y(`yWasteland`Y)`w~
+~
+0 2097189 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41091
+Radioactive Ruins `Y(`yWasteland`Y)`w~
+~
+0 2097191 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41092
+Near a Shanty Town `Y(`yWasteland`Y)`w~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41093
+old yellowed wooden Ouija board~
+~
+0 1142947885 14
+G 0 0 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 750
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41094
+An Abandoned `255Silver Mine`x in the Mountains of `220Thrace`x~
+~
+0 4194828 24
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+D0
+~
+~
+0 0 41101
+0 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 41074
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41095
+The Mall in Boston - Again~
+~
+0 67117100 12
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 13 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41096
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41097
+Test room~
+~
+0 4227108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 41075
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41098
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41099
+~
+~
+0 4227108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41100
+`022`028t`034h`040e `046L`082o`076s`070t `064J`058u`094n`100g`106l`112e`118s `154o`148f `142C`136o`130l`166o`172m`178b`184i`190a`x~
+~
+0 1048576 23
+G 44 58 50 40 40
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 41088
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41101
+The Lush `006Oracle of Thrace`x, Shrouded In a Ravine in `220Bulgaria`x~
+~
+0 12583436 24
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 41094
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41102
+`059`011C`184i`142u`100d`003a`058d `020d`059e `052B`001o`088g`124o`160t`009a`x`x~
+~
+0 4194340 1
+G 44 58 50 100 0
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 41088
+0 0 0 4 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41103
+`DAn expansive library archive of the`w `CW`w`catchers`w`x~
+~
+0 44 9
+G 67 43 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41104
+`#730000L`#940005a `#b70005Fe`#da0004m`#ff0000me`#ff0000 e`#da0004n`#b70005 R`#940005ou`#730000ge`q bordello in Port-au-Prince~
+~
+0 69214253 3
+G 2 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41105
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41106
+`Dthe Sky above Haven`w, `DMA`x~
+~
+0 36 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41107
+the streets of Idlib~
+~
+0 2105381 1
+G 1 -1 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41108
+Outside a discreet, stone building in Edinburgh, Scotland`x~
+~
+0 4194348 15
+G 2 0 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41109
+`cthe small, charming town of `WCharming`c, `WWest Virginia`x~
+~
+0 71303212 4
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41110
+a Loud, Poorly Lit Strip Club~
+~
+0 4194316 3
+G 9 15 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41111
+alleyway behind the Succubus~
+~
+0 4194340 7
+G 0 0 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41112
+`#2f4680T`#423d98h`#5535b1e`#682dca I`#7c25e3n`#7c25e3s`#682dcati`#5535b1t`#423d98u`#2f4680te`q~
+~
+0 77594637 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41113
+`ythe Desolate Sands of the `YChihuahuan Desert`y in `WNew Mexico`x~
+~
+0 12582948 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41114
+Deep in the ruins of Babylon~
+~
+0 71303212 24
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41115
+Bed, Bath, and Beyond in Canton, Massachusetts~
+~
+0 44 5
+G 0 0 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41116
+`#ad2022`#c22724T`#d82e26h`#e57417e`#e8ad28`#e59b27 `#e08a28B`#dd7a27a`#da6a28`#cf5823s`#c3451fi`#c3451fl`#cf5823i`#da6a28`#dd7a27s`#e08a28k`#e59b27 `#e8ad28`#e57417G`#d82e26a`#c22724t`#ad2022e`q - `rBalor's Gate, Hell`x~
+~
+0 71303204 1
+G 11 16 50 100 0
+C 1000 1000 1000
+T 3000
+M -9 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41117
+Gates of Beggar's End `Y(`yBeggar's End`Y)`w~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41118
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41119
+vegan lemon blueberry scone~
+~
+0 4194348 12
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41120
+~
+~
+0 67633189 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41121
+The Ring of Death `Y(`yBeggar's End`y)`w~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41122
+In a Candlelit Royal Bedchamber~
+~
+0 117441068 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41123
+The Rusty Blade Bar `Y(`yBeggar's End`Y)`w~
+~
+0 67109412 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41124
+~
+~
+0 69206053 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41125
+a tidy little flat in London~
+~
+0 4194348 2
+G 9 14 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41126
+flurry~
+~
+0 2105381 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41127
+`Da Museum Warehouse in Baghdad`x~
+~
+0 4194344 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+D2
+~
+~
+0 0 41071
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41128
+`194Balbunath Temple, Mumbai, India`w~
+~
+0 4194340 1
+G 84 18 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41129
+`238a VIP Smoking Lounge within the Wynn Casino`x~
+~
+0 4194348 4
+G 1 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41130
+`Da Museum Warehouse in Baghdad`x~
+~
+0 4194348 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41131
+`139On the Set of `021R`027ev`033en`039ge`045: B`039est `033Ser`027ved `021Cold!`x~
+~
+0 2097197 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41132
+`da dream-like `WDivine Sanctum`w~
+~
+0 4194348 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41133
+`242an Off-The-Books `230Casino`242 in an `136Abandoned Warehouse`x~
+~
+0 4194312 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+D1
+~
+~
+1 0 41134
+0 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 41135
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41134
+`242a Shady `094Alleyway`242 near the `255Boston Harbor`x~
+~
+0 18882565 7
+G 0 0 50 50 0
+C 1000 1000 1000
+T 3000
+D3
+~
+~
+1 0 41133
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41135
+`242a Swanky `230Office`242 in an `136Abandoned Warehouse`242's Basement`x~
+~
+0 4194348 8
+G 0 0 50 0 50
+C 1000 1000 1000
+T 3000
+D5
+~
+~
+0 0 41133
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41136
+`GIn T`gh`Ge F`go`mr`ge`Gs`gt`x~
+~
+0 36 23
+G 12 16 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41137
+`cthe `WStreet `cOutside a `WGaudy `yOld `WChurch `cin a Little Town in `WSweden`x~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 6 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41138
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41139
+`WThe Old Town of Chania on the Northwestern Coast of Crete`w~
+~
+0 35659813 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41140
+~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41141
+Yirazi Estate~
+~
+0 44 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41142
+~
+~
+0 4227108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41143
+~
+~
+0 4227108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41144
+the Tumulus of Arsinoe`x~
+~
+0 67108908 14
+G 0 0 50 20 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41145
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41146
+A Lavish Home in Larchmont, New York~
+~
+0 4194316 2
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41147
+Outside of a Compound~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41148
+`dthe `WNatural Passages`d beneath `WMount Kore`w~
+~
+0 44 11
+G 9 15 50 0 30
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41149
+`196I`160r`124a`196'`160s `124I`196r`160o`124n`196y`w~
+~
+0 36 1
+G 42 16 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41150
+`214A`220v`226a`227r`228i`214u`220`226s `227A`228s`214c`220e`226n`227t`w~
+~
+0 71303204 1
+G 17 41 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41151
+`196I`160r`124a`196'`160s `124I`196r`160o`124n`196y`w~
+~
+0 201326628 1
+G 58 35 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41152
+`088I`052n`009v`214i`088d`052i`009a`220'`088s`052 I`009n`226t`088e`052r`009n`227a`088l`052s`w~
+~
+0 35659813 1
+G 23 32 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41153
+`255S`254u`253p`252e`251r`252b`253i`254a `255S`254u`253i`252t`251e`255s~
+~
+0 548 1
+G 23 32 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41154
+`197L`161u`199x`163u`199r`161i`163a`197 L`161i`199v`161e`163s`w~
+~
+0 524327 1
+G 66 48 50 100 0
+C 1000 1000 1000
+T 3000
+M -1 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41155
+Puerto Rico Trench ~
+~
+0 4194348 11
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41156
+`229G`198u`229l`198a `229G`198u`229l`198a`229g`w~
+~
+0 4194852 1
+G 34 70 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41157
+`213A`105c`141e`147d`153i`118a `213A`105w`141a`147i`153t`118s`w~
+~
+0 69206565 1
+G 67 83 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41158
+~
+~
+0 69206053 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41159
+`214A`220v`226a`227r`228i`214u`220`226s `227A`228s`214c`220e`226n`227t`w~
+~
+0 4194340 1
+G 34 41 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41160
+`088I`052n`009v`214i`088d`052i`009a`220'`088s`052 I`009n`226t`088e`052r`009n`227a`088l`052s`w~
+~
+0 4194340 1
+G 42 16 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41161
+`255S`254u`253p`252e`251r`252b`253i`254a `255S`254u`253i`252t`251e`255s~
+~
+0 12582948 1
+G 75 34 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41162
+`197L`161u`199x`163u`199r`161i`163a`197 L`161i`199v`161e`163s`w~
+~
+0 4194340 1
+G 67 49 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41163
+`229G`198u`229l`198a `229G`198u`229l`198a`229g`w~
+~
+0 2097189 1
+G 29 67 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41164
+~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41165
+`213A`105c`141e`147d`153i`118a `213A`105w`141a`147i`153t`118s`w~
+~
+0 4194340 1
+G 76 65 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41166
+`235T`236h`236e `237C`238r`196a`238t`237e`236r `235o`196f`235 S`236a`237c`238r`196i`237f`236i`235c`196e`w~
+~
+0 4227108 1
+G 56 45 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41167
+the depths of a forest~
+~
+0 4194340 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41168
+A Large, Well Appointed Bedroom`x~
+~
+0 36708361 2
+G 0 0 50 100 0
+C 47 12 1
+T 3000
+A 0 0 0 0
+D5
+~
+~
+0 0 15177
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41169
+~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41170
+~
+~
+0 2097191 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41171
+Sheriff's Run, Hanging Hill, and Cemetery Lane~
+~
+0 4194304 1
+G 0 0 50 0 30
+C 55 0 0
+T 3000
+D5
+~
+~
+0 0 15177
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41172
+Sidney Beach~
+~
+0 4194336 26
+G 0 0 50 100 0
+C 54 64 0
+T 3000
+D5
+~
+~
+0 0 14837
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41173
+Site of the Second Trial~
+~
+0 0 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D6
+~
+~
+0 0 41174
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41174
+the entrance of a cave on the cliffside~
+~
+0 2097185 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+D9
+~
+~
+0 0 41173
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41175
+Hart Avenue~
+~
+0 0 1
+G 0 0 50 50 0
+C 45 7 0
+T 3000
+D5
+~
+~
+0 0 2623
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41176
+a macabre surgery room~
+~
+0 2105389 15
+G 0 0 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41177
+a long hallway lined with individual holding cells~
+~
+0 44 15
+G 0 0 50 10 20
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41178
+a dockside receiving area~
+~
+0 44 15
+G 0 0 50 10 20
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41179
+`RA luxurious suite, in three rooms`x~
+~
+0 35659789 3
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41180
+~
+~
+0 69206053 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41181
+`RThe b`Bus`Yy, `Rligh`Bt-`Yfill`Bed m`Rain stre`Yet `Rof L`Bas V`Reg`Yas!`w~
+~
+0 2097189 1
+G 4 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41182
+Sony PS4 Playstation 4 Pro~
+~
+0 35659813 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41183
+Sony PS4 Playstation 4 Pro~
+~
+0 36 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41184
+Sony PS4 Playstation 4 Pro~
+~
+0 36 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41185
+Sony PS4 Playstation 4 Pro~
+~
+0 36 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41186
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41187
+`yMt. Damavan, Iran`X~
+~
+0 12 11
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 8 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41188
+~
+~
+0 524325 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41189
+~
+~
+0 532517 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41190
+`gA Trail`w~
+~
+0 1056804 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41191
+`YAn Oasis in the sands of Anupharis`X~
+~
+0 36 26
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M -1 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41192
+~
+~
+0 2097189 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41193
+~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41194
+Psych Ward~
+~
+0 44 15
+G 0 0 50 10 20
+C 1000 1000 1000
+T 3000
+M 5 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41195
+black leather gloves moisture lining~
+~
+0 2105381 10
+G 0 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41196
+~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 100 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41197
+`YA camp in the deserts of Anupharis`X~
+~
+0 2105349 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M -1 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41198
+~
+~
+0 12582948 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41199
+A Boston back alley~
+~
+0 4194340 1
+G 8 4 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41200
+~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y (null)~
+O 嚍M業
+S
+#41201
+A clearing in the forests outside of NYC~
+~
+0 2105381 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M -3 H 0
+W (null)~
+Y ~
+S
+#41202
+black and silver bottle of Bvlgari Black cologne~
+~
+0 532517 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41203
+`Dthe dark forests surrounding Salem`X~
+~
+0 4194340 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41204
+Miami~
+~
+0 18882599 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41205
+An abandoned campsite near an enchanted forest~
+~
+0 35659813 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41206
+`ya cramped shop of esoteric items`w~
+~
+0 40902701 5
+G 0 0 50 20 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41207
+Residential Hall~
+~
+0 4194340 1
+G 1 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41208
+Treatment Center~
+~
+0 4194340 1
+G 3 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41209
+Outside the FBI field office, Boston~
+~
+0 36 1
+G 8 4 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41210
+rocks glass Jameson's whiskey~
+~
+0 4194340 13
+G 0 0 50 50 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41211
+`yA side street in the Bronx`X~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41212
+Austin Prepatory~
+~
+0 4194348 9
+G 0 0 50 15 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41213
+godberry chocolate~
+~
+0 2105391 12
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41214
+A Smoke-Filled Underground Discotheque~
+~
+0 2105357 3
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41215
+`RA circular room, surrounded by balconies and pillars`x~
+~
+0 4227116 3
+G 0 0 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41216
+~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41217
+~
+~
+0 12582948 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41218
+pot broth udon ~
+~
+0 4194348 12
+G 0 0 50 0 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41219
+Yellowstone National Park - Wolf Country~
+~
+0 4194340 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41220
+a Dilapidated, Oddly Designed Warehouse~
+~
+0 4194348 8
+G 1 0 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41221
+a darkened street betwixt abandoned houses~
+~
+0 4227108 7
+G 4 0 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41222
+~
+~
+0 67108900 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41223
+The Jungles of Navvere~
+~
+0 36 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41224
+`DHaven, `ras it once was`x~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41225
+a Parking Lot outside of Brown University~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41226
+the Brown University Center for Animal Resources and Education~
+~
+0 12582956 15
+G 0 0 50 10 20
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41227
+Tyr~
+~
+0 4194340 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41228
+~
+~
+0 4227108 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41229
+A darkened alley amongst abandoned trailers~
+~
+0 524325 7
+G 8 2 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41230
+some tropical woodlands along a riverbed`x~
+~
+0 4194340 23
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41231
+Yellowstone National Park~
+~
+0 4 10
+G 0 0 50 0 100
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41232
+`DMount Ida, Troas`X~
+~
+0 69206061 11
+G 0 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 7 H 0
+W (null)~
+Y ~
+S
+#41233
+`RA fire temple in Rhagost`X~
+~
+0 2105381 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 4 H 0
+W (null)~
+Y ~
+S
+#41234
+A manor on a quiet British countryside~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41235
+`DWelcome To Hell!`w~
+~
+0 12583428 7
+G 0 0 50 50 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41236
+Administrator Office~
+~
+0 4194340 1
+G 5 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41237
+~
+~
+0 36 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41238
+`WA Countryside Villa in Anupharis`X~
+~
+0 12 1
+G 0 0 50 100 0
+C 1000 1000 1000
+T 3000
+M -5 H 0
+W (null)~
+Y ~
+S
+#41239
+`dThe Portalstone`w~
+~
+0 524333 24
+G 2 0 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41240
+`GA Riverbank`w~
+~
+0 2097191 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41241
+`yA Camp`w~
+~
+0 69206061 8
+G 0 1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41242
+`dA Battered Parking Garage`w~
+~
+0 2105389 8
+G 0 1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41243
+`yA Workshop Area`w~
+~
+0 44 8
+G 0 1 50 0 50
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41244
+`yA Private Sleeping Room`w~
+~
+0 44 2
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41245
+`bA Sleeping Tent`w~
+~
+0 44 2
+G 0 1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41246
+`dBlighted Woods`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41247
+silver flip motorola phone friendphone~
+~
+0 36 18
+G 0 0 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41248
+`dA Cave Nest`w~
+~
+0 44 24
+G 1 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41249
+`dThe Caverns`w~
+~
+0 44 24
+G 1 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41250
+`mThe Depths`w~
+~
+0 44 24
+G 1 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41251
+`gA Hidden Grove`w~
+~
+0 44 24
+G 1 -1 50 0 30
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41252
+`GIn The Canopy`w~
+~
+0 36 23
+G 1 -1 50 40 40
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41253
+`yA Hollowed Knothole`w~
+~
+0 44 2
+G 1 -1 50 0 35
+C 1000 1000 1000
+T 3000
+M 0 H 0
+W (null)~
+Y ~
+S
+#41254
+`Dthe barista counter of Deja Brew`w`x~
+~
+0 69206057 9
+G 0 0 50 100 0
+C 50 20 0
+T 3000
+A 0 0 0 0
+D5
+~
+~
+0 0 15117
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#41255
+`ma messy bedroom and work area`w`x~
+~
+0 2105353 2
+G 0 0 50 0 0
+C 71 -43 0
+T 3000
+D5
+~
+~
+0 0 5854
+0 0 0 0 0 0 0 0 0
+M 0 H 0
+W (null)~
+Y ~
+S
+#0
+
+
+
+#RESETS
+D 0 41007 0 2
+D 0 41076 2 1
+D 0 41133 1 1
+D 0 41134 3 2
+S
+
+
+
+#SHOPS
+41010 0 0 0 0 0 100 100 0 23 0 0
+0
+
+
+
+#$
